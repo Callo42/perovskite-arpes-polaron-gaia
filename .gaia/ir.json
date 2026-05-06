@@ -1,0 +1,1595 @@
+{
+  "ir_hash": "sha256:c31a37793a2765d28b59471b960526ec3d7a06e00735a146f577577a9193cc57",
+  "knowledges": [
+    {
+      "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e. [@Puppin2020]",
+      "content_hash": "ff360ad500fb533e76eb1732e6fd14fcd84a84241d3cdb050db8ed3b11aa70cc",
+      "declaration_index": 0,
+      "exported": true,
+      "id": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+      "label": "gcn_1544d55444d743c8",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_1544d55444d743c8",
+        "lkm_original": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "ARPES mass 0.26 in CsPbBr3",
+      "type": "claim"
+    },
+    {
+      "content": "In an ARPES measurement of a crystalline semiconductor, let E(k) denote the measured quasiparticle energy as a function of the in-plane crystal momentum k (the magnitude of a two-dimensional wave vector measured in reciprocal angstroms, Å^{-1}), and let E_{\\\\mathrm{VBM}} denote the valence-band-maximum (VBM) energy defined as the highest occupied quasiparticle energy; within the momentum window used for fitting the upper valence band, taken here to be the region |k-k_{\\\\mathrm{VBM}}|\\\\lesssim0.1\\\\ \\\\text{\\\\AA}^{-1} around the momentum of the VBM, the quasiparticle dispersion is assumed to be well described by the isotropic in-plane parabolic form\n      E(k)=E_{\\\\mathrm{VBM}}+\\\\frac{\\\\hbar^{2}k^{2}}{2m_{\\\\mathrm{exp}}},\n      where \\\\hbar is the reduced Planck constant and m_{\\\\mathrm{exp}} is the fitted experimental hole effective mass; under this parabolic-band approximation, least-squares fitting of the experimentally extracted band maxima to this functional form returns m_{\\\\mathrm{exp}} and the systematic error in m_{\\\\mathrm{exp}} arising from neglected higher-order (nonparabolic) terms is smaller than the quoted experimental uncertainty of \\\\pm0.02\\\\,m_e, with m_e the free electron mass. [@Puppin2020]",
+      "content_hash": "dc399aa758f7799b9ab1ef123bf150fbb7aaad3b55d164f3c84629af0a797791",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
+      "label": "gcn_2e9e6e30a5d7431c",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_2e9e6e30a5d7431c",
+        "lkm_original": "In an ARPES measurement of a crystalline semiconductor, let E(k) denote the measured quasiparticle energy as a function of the in-plane crystal momentum k (the magnitude of a two-dimensional wave vector measured in reciprocal angstroms, Å^{-1}), and let E_{\\\\mathrm{VBM}} denote the valence-band-maximum (VBM) energy defined as the highest occupied quasiparticle energy; within the momentum window used for fitting the upper valence band, taken here to be the region |k-k_{\\\\mathrm{VBM}}|\\\\lesssim0.1\\\\ \\\\text{\\\\AA}^{-1} around the momentum of the VBM, the quasiparticle dispersion is assumed to be well described by the isotropic in-plane parabolic form\n      E(k)=E_{\\\\mathrm{VBM}}+\\\\frac{\\\\hbar^{2}k^{2}}{2m_{\\\\mathrm{exp}}},\n      where \\\\hbar is the reduced Planck constant and m_{\\\\mathrm{exp}} is the fitted experimental hole effective mass; under this parabolic-band approximation, least-squares fitting of the experimentally extracted band maxima to this functional form returns m_{\\\\mathrm{exp}} and the systematic error in m_{\\\\mathrm{exp}} arising from neglected higher-order (nonparabolic) terms is smaller than the quoted experimental uncertainty of \\\\pm0.02\\\\,m_e, with m_e the free electron mass.",
+        "prior": 0.82,
+        "prior_justification": "ARPES parabolic-fit assumption from LKM evidence chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "Parabolic ARPES mass fit assumption",
+      "type": "claim"
+    },
+    {
+      "content": "Let an energy-distribution curve (EDC) be the ARPES-measured photoemission intensity as a function of binding energy E at fixed parallel momentum k; the energy position of the maximum of the measured EDC at the band top is used to define the valence-band-maximum energy E_{\\\\mathrm{VBM}} for the purposes of setting the energy zero and extracting an effective mass, and any systematic shift of the EDC peak maximum from the true quasiparticle band-edge caused by many-body interactions, inelastic background, or the instrumental lineshape is assumed to be smaller than the quoted energy/mass uncertainty so that using the EDC peak maximum to set E=0 does not induce a systematic error larger than \\\\pm0.02\\\\,m_e in the fitted hole effective mass. [@Puppin2020]",
+      "content_hash": "e9bf7066b7e26bd7df1b259aa62cadf9f56f44a447481376fc2756fbdfbfb153",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
+      "label": "gcn_0a71cf6357114b76",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_0a71cf6357114b76",
+        "lkm_original": "Let an energy-distribution curve (EDC) be the ARPES-measured photoemission intensity as a function of binding energy E at fixed parallel momentum k; the energy position of the maximum of the measured EDC at the band top is used to define the valence-band-maximum energy E_{\\\\mathrm{VBM}} for the purposes of setting the energy zero and extracting an effective mass, and any systematic shift of the EDC peak maximum from the true quasiparticle band-edge caused by many-body interactions, inelastic background, or the instrumental lineshape is assumed to be smaller than the quoted energy/mass uncertainty so that using the EDC peak maximum to set E=0 does not induce a systematic error larger than \\\\pm0.02\\\\,m_e in the fitted hole effective mass.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "EDC peak defines VBM energy",
+      "type": "claim"
+    },
+    {
+      "content": "ARPES intensity maps measured over in-plane momentum (k_x,k_y) and as a function of photon energy (which probes different values of the momentum component perpendicular to the surface, k_{\\\\perp}) together with band-unfolding calculations show that the observed periodicity of four valence-band maxima at the surface Brillouin-zone corners and the absence of an additional valence-band maximum at the surface \\\\bar{\\\\Gamma} point are not caused by surface reconstruction, k_{\\\\perp} dispersion, or matrix-element effects; specifically, energy- and polarization-dependent ARPES measurements reveal no signature of an additional VBM at \\\\bar{\\\\Gamma}, and unfolding of orthorhombic bands onto the cubic cell shows negligible spectral weight transfer to backfolded bands, so that the measured dispersion used to obtain m_{\\\\mathrm{exp}} represents bulk-like valence-band behavior relevant to the orthorhombic structure. [@Puppin2020]",
+      "content_hash": "c56d81e4b96d82314536915fa11d718a76b89623e8f4fb4f7d39f64ac34940d1",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555",
+      "label": "gcn_e24a3d64aa604555",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_e24a3d64aa604555",
+        "lkm_original": "ARPES intensity maps measured over in-plane momentum (k_x,k_y) and as a function of photon energy (which probes different values of the momentum component perpendicular to the surface, k_{\\\\perp}) together with band-unfolding calculations show that the observed periodicity of four valence-band maxima at the surface Brillouin-zone corners and the absence of an additional valence-band maximum at the surface \\\\bar{\\\\Gamma} point are not caused by surface reconstruction, k_{\\\\perp} dispersion, or matrix-element effects; specifically, energy- and polarization-dependent ARPES measurements reveal no signature of an additional VBM at \\\\bar{\\\\Gamma}, and unfolding of orthorhombic bands onto the cubic cell shows negligible spectral weight transfer to backfolded bands, so that the measured dispersion used to obtain m_{\\\\mathrm{exp}} represents bulk-like valence-band behavior relevant to the orthorhombic structure.",
+        "prior": 0.84,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "ARPES dispersion is bulk-like",
+      "type": "claim"
+    },
+    {
+      "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing. [@Puppin2020]",
+      "content_hash": "3413043507b7c0523ae8190a6c6ef3501ed7aa2cc271d1fa6faa4839c50be550",
+      "declaration_index": 4,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_5e907da32c114d34",
+      "label": "gcn_5e907da32c114d34",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_5e907da32c114d34",
+        "lkm_original": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "Feynman polaron reproduces ARPES mass",
+      "type": "claim"
+    },
+    {
+      "content": "Define the computational workflow as the sequence: (A) compute ab initio phonons, Born effective charges, and dielectric response by density-functional perturbation theory (DFPT); (B) compute the ab initio long-wavelength Fröhlich electron–phonon vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega; (C) reduce the multi-mode result to a single effective LO-like mode characterized by parameters (\\\\tilde{g}_{\\\\mathrm{LO}}^{2},\\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}) and compute the Fröhlich coupling parameter \\\\alpha from these inputs and the bare mass m_0; and (D) use a Feynman-polaron calculation with the ab initio bare mass m_0 and the computed \\\\alpha to predict the polaron-renormalized mass m_{\\\\mathrm{pol}}; the proposition is that this same sequence of calculations and approximations will produce quantitatively accurate predictions of carrier effective masses across the broader family of inorganic and hybrid lead-halide perovskites (LHPs) when the Fröhlich mechanism dominates carrier dressing, i.e., the method is generally predictive for LHPs beyond the tested case of orthorhombic CsPbBr$_3$. [@Puppin2020]",
+      "content_hash": "d292e447dabb6c4954b88d59ceb9cbca1da4a91fb96d2f627ed629972a472fa2",
+      "declaration_index": 5,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_943f1f964b7a4374",
+      "label": "gcn_943f1f964b7a4374",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_943f1f964b7a4374",
+        "lkm_original": "Define the computational workflow as the sequence: (A) compute ab initio phonons, Born effective charges, and dielectric response by density-functional perturbation theory (DFPT); (B) compute the ab initio long-wavelength Fröhlich electron–phonon vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega; (C) reduce the multi-mode result to a single effective LO-like mode characterized by parameters (\\\\tilde{g}_{\\\\mathrm{LO}}^{2},\\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}) and compute the Fröhlich coupling parameter \\\\alpha from these inputs and the bare mass m_0; and (D) use a Feynman-polaron calculation with the ab initio bare mass m_0 and the computed \\\\alpha to predict the polaron-renormalized mass m_{\\\\mathrm{pol}}; the proposition is that this same sequence of calculations and approximations will produce quantitatively accurate predictions of carrier effective masses across the broader family of inorganic and hybrid lead-halide perovskites (LHPs) when the Fröhlich mechanism dominates carrier dressing, i.e., the method is generally predictive for LHPs beyond the tested case of orthorhombic CsPbBr$_3$.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "Ab initio Fröhlich workflow assumption",
+      "type": "claim"
+    },
+    {
+      "content": "Applying the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_{0}\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right),\n      with the inputs m_{0}=0.17\\\\,m_e and \\\\alpha=1.81 produces a polaron-renormalized hole mass m_{\\\\mathrm{pol}}=0.24\\\\,m_e; this theoretical mass renormalization reduces the discrepancy between the computed bare mass and the ARPES-derived mass to within the experimental uncertainty of \\\\pm0.02\\\\,m_e. [@Puppin2020]",
+      "content_hash": "992e30ab91d26149780a2533d4eb47c8220239684382b095e0f50039f47dcc7f",
+      "declaration_index": 6,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed",
+      "label": "gcn_ffcf3464e99c47ed",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_ffcf3464e99c47ed",
+        "lkm_original": "Applying the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_{0}\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right),\n      with the inputs m_{0}=0.17\\\\,m_e and \\\\alpha=1.81 produces a polaron-renormalized hole mass m_{\\\\mathrm{pol}}=0.24\\\\,m_e; this theoretical mass renormalization reduces the discrepancy between the computed bare mass and the ARPES-derived mass to within the experimental uncertainty of \\\\pm0.02\\\\,m_e.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "Polaron mass calculation gives 0.24",
+      "type": "claim"
+    },
+    {
+      "content": "For a Fröhlich polaron characterized by coupling strength \\\\alpha and bare electronic mass m_0, the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_0\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right)\n      truncated at the displayed second-order term provides a numerical estimate of the polaron-renormalized effective mass m_{\\\\mathrm{pol}} that is accurate for \\\\alpha\\\\approx1.81 within truncation and variational errors small compared to the experimental uncertainty of \\\\pm0.02\\\\,m_e used in the ARPES-derived mass comparison. [@Puppin2020]",
+      "content_hash": "c4c9e78f6bbc985d83d5feb957a092056fad1b50493dfb9579ff17c88762301e",
+      "declaration_index": 7,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_2b322b6a88d742ba",
+      "label": "gcn_2b322b6a88d742ba",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_2b322b6a88d742ba",
+        "lkm_original": "For a Fröhlich polaron characterized by coupling strength \\\\alpha and bare electronic mass m_0, the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_0\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right)\n      truncated at the displayed second-order term provides a numerical estimate of the polaron-renormalized effective mass m_{\\\\mathrm{pol}} that is accurate for \\\\alpha\\\\approx1.81 within truncation and variational errors small compared to the experimental uncertainty of \\\\pm0.02\\\\,m_e used in the ARPES-derived mass comparison.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "Feynman mass formula is valid here",
+      "type": "claim"
+    },
+    {
+      "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\leq25\\ \\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks. [@Puppin2020]",
+      "content_hash": "ebf9dffd32e3d78203d4b50eaace860c787e6c4e541f9af3d15e5727f0ef3684",
+      "declaration_index": 8,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_4ad259a13be9454a",
+      "label": "gcn_4ad259a13be9454a",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Puppin2020"
+            ]
+          }
+        },
+        "lkm_id": "gcn_4ad259a13be9454a",
+        "lkm_original": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\leq25\\ \\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "prior": 0.68,
+        "prior_justification": "no-chain LKM source claim from Puppin2020 match provenance; TODO:review",
+        "provenance_source": "lkm_no_chain",
+        "source_paper": "paper:812638467241541632"
+      },
+      "module": "paper_puppin2020",
+      "parameters": [],
+      "title": "ARPES mass as polaron signature",
+      "type": "claim"
+    },
+    {
+      "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions. [@Zhao2025]",
+      "content_hash": "2871c8b19227b0f76a699b6763e2febd113b05a5418c2f6609f6135e2e12a7bf",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c",
+      "label": "gcn_e4a5cac31481497c",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_e4a5cac31481497c",
+        "lkm_original": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "Finite-T AIMD matches ARPES mass",
+      "type": "claim"
+    },
+    {
+      "content": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure. [@Zhao2025]",
+      "content_hash": "231a58c37ad04f86a4e11682c03be8a2b90ecbd74d16eecc07120f232373b09a",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c",
+      "label": "gcn_c24c81b8a5fe413c",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_c24c81b8a5fe413c",
+        "lkm_original": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "Single AIMD snapshot represents ARPES average",
+      "type": "claim"
+    },
+    {
+      "content": "Let Brillouin-zone unfolding denote the procedure that maps supercell eigenvalues and computed spectral weights onto the primitive-cell Brillouin zone to produce an energy–momentum colormap for extracting band dispersions and effective masses. The proposition is: the unfolded bulk spectral intensity and dispersion obtained from a 3×3×3 supercell HSE–SOC(α = 0.54) calculation can be directly compared to ARPES measurements of the valence-band dispersion of CsPbBr₃ without applying explicit corrections for photoemission matrix-element effects, surface electronic-structure differences, extrinsic surface disorder, or ARPES finite probing-depth effects; therefore, agreement between an unfolded bulk effective mass and an ARPES effective mass is taken as evidence that the bulk thermal-structure model captures the experimentally observed dispersion. [@Zhao2025]",
+      "content_hash": "882e184e532195a7c8cb3eb588e3d67b83a43f56ad90d95dbbb4b74711586fba",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_43c66f240368417e",
+      "label": "gcn_43c66f240368417e",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_43c66f240368417e",
+        "lkm_original": "Let Brillouin-zone unfolding denote the procedure that maps supercell eigenvalues and computed spectral weights onto the primitive-cell Brillouin zone to produce an energy–momentum colormap for extracting band dispersions and effective masses. The proposition is: the unfolded bulk spectral intensity and dispersion obtained from a 3×3×3 supercell HSE–SOC(α = 0.54) calculation can be directly compared to ARPES measurements of the valence-band dispersion of CsPbBr₃ without applying explicit corrections for photoemission matrix-element effects, surface electronic-structure differences, extrinsic surface disorder, or ARPES finite probing-depth effects; therefore, agreement between an unfolded bulk effective mass and an ARPES effective mass is taken as evidence that the bulk thermal-structure model captures the experimentally observed dispersion.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "Bulk unfolding comparable to ARPES",
+      "type": "claim"
+    },
+    {
+      "content": "Consider AIMD trajectories used to sample finite-temperature atomic configurations for a material with a soft anharmonic lattice. The proposition is: performing AIMD structural sampling with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange-correlation functional using a 3×3×3 supercell, a Nosé–Hoover thermostat sampling the canonical ensemble, and a 1 fs timestep yields a structural ensemble whose statistical distribution of atomic positions is sufficiently accurate for subsequent single-point HSE–SOC (with tuned α) electronic-structure calculations to produce reliable thermally renormalized unfolded band dispersions and effective masses; in particular, any systematic biases in equilibrium lattice parameters or force constants introduced by PBE do not materially change the unfolded band curvatures obtained from representative AIMD snapshots evaluated with HSE–SOC. [@Zhao2025]",
+      "content_hash": "b585b376942061a7501421c966d7c2742405aa144cb3e99817bdf778e30c67f6",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9",
+      "label": "gcn_1c2bf8f398f243f9",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_1c2bf8f398f243f9",
+        "lkm_original": "Consider AIMD trajectories used to sample finite-temperature atomic configurations for a material with a soft anharmonic lattice. The proposition is: performing AIMD structural sampling with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange-correlation functional using a 3×3×3 supercell, a Nosé–Hoover thermostat sampling the canonical ensemble, and a 1 fs timestep yields a structural ensemble whose statistical distribution of atomic positions is sufficiently accurate for subsequent single-point HSE–SOC (with tuned α) electronic-structure calculations to produce reliable thermally renormalized unfolded band dispersions and effective masses; in particular, any systematic biases in equilibrium lattice parameters or force constants introduced by PBE do not materially change the unfolded band curvatures obtained from representative AIMD snapshots evaluated with HSE–SOC.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "PBE AIMD sampling is adequate",
+      "type": "claim"
+    },
+    {
+      "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions. [@Zhao2025]",
+      "content_hash": "d1207aa1d41fa54fc11dbec8a62bc82bdcf538dfd72713485420154475f1f40b",
+      "declaration_index": 4,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289",
+      "label": "gcn_78dd3a5f6fb84289",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_78dd3a5f6fb84289",
+        "lkm_original": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "No small-hole polaron in 300 K AIMD",
+      "type": "claim"
+    },
+    {
+      "content": "Define a polaron as a charge carrier (here a hole) that self-localizes through a local lattice distortion, producing a localized in-gap electronic state or a strongly localized perturbation of the valence-band dispersion. Consider the following explicit first-principles simulation protocol: start from a 3×3×3 pseudocubic AIMD supercell (135 atoms) equilibrated at T = 300 K, remove one electron to introduce a single extra hole while applying any standard neutralizing background required for charged-supercell calculations, and compute the electronic structure of the charged supercell with HSE–SOC using α = 0.54. The proposition is: if a thermodynamically stable small hole polaron exists under bulk-like conditions at T = 300 K, then the stated simulation procedure (finite supercell of this size, the HSE–SOC electronic-structure method with the indicated α, and an AIMD-sampled atomic configuration) is sufficient to produce a detectable localized in-gap state or a stabilized localized lattice distortion; conversely, absence of such signatures in the described simulation implies that small polarons are not stabilized under the simulated conditions. [@Zhao2025]",
+      "content_hash": "faf6dfa6cbfaa32c76dbd4d094caa1b1ba20855e6f2db3a6ba850a447a71be9f",
+      "declaration_index": 5,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_82d0efc0c1024ec8",
+      "label": "gcn_82d0efc0c1024ec8",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_82d0efc0c1024ec8",
+        "lkm_original": "Define a polaron as a charge carrier (here a hole) that self-localizes through a local lattice distortion, producing a localized in-gap electronic state or a strongly localized perturbation of the valence-band dispersion. Consider the following explicit first-principles simulation protocol: start from a 3×3×3 pseudocubic AIMD supercell (135 atoms) equilibrated at T = 300 K, remove one electron to introduce a single extra hole while applying any standard neutralizing background required for charged-supercell calculations, and compute the electronic structure of the charged supercell with HSE–SOC using α = 0.54. The proposition is: if a thermodynamically stable small hole polaron exists under bulk-like conditions at T = 300 K, then the stated simulation procedure (finite supercell of this size, the HSE–SOC electronic-structure method with the indicated α, and an AIMD-sampled atomic configuration) is sufficient to produce a detectable localized in-gap state or a stabilized localized lattice distortion; conversely, absence of such signatures in the described simulation implies that small polarons are not stabilized under the simulated conditions.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "Small-polaron simulation criterion",
+      "type": "claim"
+    },
+    {
+      "content": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54. [@Zhao2025]",
+      "content_hash": "107c9094ca7b87c3ffcd84df3e66b20e36198769ba23e9f5a114f1883909917b",
+      "declaration_index": 6,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48",
+      "label": "gcn_3f848904ab0d4b48",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_3f848904ab0d4b48",
+        "lkm_original": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "Thermal disorder renormalizes masses",
+      "type": "claim"
+    },
+    {
+      "content": "Define an equilibrated atomic configuration as a single instantaneous atomic-coordinate snapshot selected from an AIMD trajectory sampled at T = 300 K in the canonical ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms). Let HSE–SOC(α) denote electronic-structure calculations using the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling with hybrid mixing parameter α (fraction of nonlocal Fock exchange). The proposition is: computing the unfolded electronic band structure and extracting direction-averaged effective masses from one representative equilibrated AIMD configuration using HSE–SOC(α = 0.54), where α = 0.54 is chosen so that the calculated band gap for that configuration equals the experimental room-temperature band gap E_g = 2.37 eV, yields band dispersions and direction-averaged effective masses that accurately represent the thermally averaged electronic band structure of bulk CsPbBr₃ at T = 300 K within uncertainties comparable to typical experimental error bars; thus a single snapshot plus a tuned-α HSE–SOC calculation is treated as a surrogate for ensemble averaging over thermally fluctuating structures. [@Zhao2025]",
+      "content_hash": "8ee582f2ef3788a4f3af54c870b2918457cd46cb491ebae38892441ca6dd617e",
+      "declaration_index": 7,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_00749f497c204b4c",
+      "label": "gcn_00749f497c204b4c",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_00749f497c204b4c",
+        "lkm_original": "Define an equilibrated atomic configuration as a single instantaneous atomic-coordinate snapshot selected from an AIMD trajectory sampled at T = 300 K in the canonical ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms). Let HSE–SOC(α) denote electronic-structure calculations using the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling with hybrid mixing parameter α (fraction of nonlocal Fock exchange). The proposition is: computing the unfolded electronic band structure and extracting direction-averaged effective masses from one representative equilibrated AIMD configuration using HSE–SOC(α = 0.54), where α = 0.54 is chosen so that the calculated band gap for that configuration equals the experimental room-temperature band gap E_g = 2.37 eV, yields band dispersions and direction-averaged effective masses that accurately represent the thermally averaged electronic band structure of bulk CsPbBr₃ at T = 300 K within uncertainties comparable to typical experimental error bars; thus a single snapshot plus a tuned-α HSE–SOC calculation is treated as a surrogate for ensemble averaging over thermally fluctuating structures.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "Representative snapshot mass assumption",
+      "type": "claim"
+    },
+    {
+      "content": "Let HSE–SOC(α) denote HSE calculations including SOC with fraction α of nonlocal Fock exchange. Consider two unfolded band structures: one computed on an AIMD (T = 300 K) configuration with α = 0.54 and another computed on the ideal cubic (T = 0 K) lattice with α = 0.74, where both α values were chosen so that each calculation reproduces the same experimental band gap E_g = 2.37 eV on its respective structure. The proposition is: the differences in band dispersions and effective masses between these two HSE–SOC(α) calculations can be attributed primarily to the presence or absence of thermal-lattice disorder (the atomic structural differences between the AIMD and ideal lattices) rather than to the different numerical choice of α itself or to compensating errors introduced by tuning α; in other words, tuning α to match the gap does not produce artificial changes in band curvature that would be mistaken for thermal effects in this comparison. [@Zhao2025]",
+      "content_hash": "81a8a7b872df786e83e8e6d74294fd86ca0dbbe7e15590010d3988a75f8c69ae",
+      "declaration_index": 8,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_869be47d79c54464",
+      "label": "gcn_869be47d79c54464",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Zhao2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_869be47d79c54464",
+        "lkm_original": "Let HSE–SOC(α) denote HSE calculations including SOC with fraction α of nonlocal Fock exchange. Consider two unfolded band structures: one computed on an AIMD (T = 300 K) configuration with α = 0.54 and another computed on the ideal cubic (T = 0 K) lattice with α = 0.74, where both α values were chosen so that each calculation reproduces the same experimental band gap E_g = 2.37 eV on its respective structure. The proposition is: the differences in band dispersions and effective masses between these two HSE–SOC(α) calculations can be attributed primarily to the presence or absence of thermal-lattice disorder (the atomic structural differences between the AIMD and ideal lattices) rather than to the different numerical choice of α itself or to compensating errors introduced by tuning α; in other words, tuning α to match the gap does not produce artificial changes in band curvature that would be mistaken for thermal effects in this comparison.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:1096665743648358400"
+      },
+      "module": "paper_zhao2025",
+      "parameters": [],
+      "title": "Mass change attributed to disorder",
+      "type": "claim"
+    },
+    {
+      "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}. [@Sajedi2022]",
+      "content_hash": "0147115bca344e07aa7c5acd520ec148038f682fbc2d1bf581e7d6c465ca4932",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc",
+      "label": "gcn_4d0e277c6d2c4cdc",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_4d0e277c6d2c4cdc",
+        "lkm_original": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "Sajedi ARPES mass 0.203",
+      "type": "claim"
+    },
+    {
+      "content": "In angle-resolved photoemission spectroscopy (ARPES) of a crystalline solid, the component of the electron crystal momentum perpendicular to the sample surface, k_{\\perp}, is commonly estimated from the incident photon energy h\\nu by the free-electron final-state approximation k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)}, where m_{0} is the free-electron mass, \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} is the photoelectron kinetic energy measured with respect to the vacuum level (E_{\\mathrm{kin}}=h\\nu-\\phi-E_{B}, with \\phi the sample work function and E_{B} the electron binding energy), \\theta is the electron emission polar angle, and V_{0} is an inner-potential model parameter; applying this mapping with the model parameter V_{0}=5.3\\ \\mathrm{eV} assigns the photon energy h\\nu=29\\ \\mathrm{eV} to the first bulk R point in the perpendicular momentum coordinate for CsPbBr_{3} in the measurements reported here. [@Sajedi2022]",
+      "content_hash": "eb23a185c88564937ef77c68fa661848428443b707e0180c96b1cebe438b52d9",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_e17b013445234bfa",
+      "label": "gcn_e17b013445234bfa",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_e17b013445234bfa",
+        "lkm_original": "In angle-resolved photoemission spectroscopy (ARPES) of a crystalline solid, the component of the electron crystal momentum perpendicular to the sample surface, k_{\\perp}, is commonly estimated from the incident photon energy h\\nu by the free-electron final-state approximation k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)}, where m_{0} is the free-electron mass, \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} is the photoelectron kinetic energy measured with respect to the vacuum level (E_{\\mathrm{kin}}=h\\nu-\\phi-E_{B}, with \\phi the sample work function and E_{B} the electron binding energy), \\theta is the electron emission polar angle, and V_{0} is an inner-potential model parameter; applying this mapping with the model parameter V_{0}=5.3\\ \\mathrm{eV} assigns the photon energy h\\nu=29\\ \\mathrm{eV} to the first bulk R point in the perpendicular momentum coordinate for CsPbBr_{3} in the measurements reported here.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "Photon energy maps to R point",
+      "type": "claim"
+    },
+    {
+      "content": "For a valence band with energy dispersion E(k) as a function of crystal momentum k along a measured one-dimensional cut, the hole effective mass m_{h}^{*} at a local band maximum at k=k_{0} is obtained by fitting the local dispersion to a quadratic form E(k)\\approx E(k_{0})+\\tfrac{\\hbar^{2}}{2m_{h}^{*}}(k-k_{0})^{2} in a neighborhood of k_{0}; in this expression \\hbar denotes the reduced Planck constant, E(k_{0}) the band energy at the extremum, and k the momentum coordinate along the measured direction, and the extracted parameter m_{h}^{*} is the curvature-derived hole effective mass under the assumption that the actual band dispersion within the sampled momentum window is well approximated by a parabola. [@Sajedi2022]",
+      "content_hash": "eb8866157ecd596c93b477de78ad64c1545f14b8b5c071fa3a8ddfd8ae877146",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7",
+      "label": "gcn_ccc6a5bf10864de7",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_ccc6a5bf10864de7",
+        "lkm_original": "For a valence band with energy dispersion E(k) as a function of crystal momentum k along a measured one-dimensional cut, the hole effective mass m_{h}^{*} at a local band maximum at k=k_{0} is obtained by fitting the local dispersion to a quadratic form E(k)\\approx E(k_{0})+\\tfrac{\\hbar^{2}}{2m_{h}^{*}}(k-k_{0})^{2} in a neighborhood of k_{0}; in this expression \\hbar denotes the reduced Planck constant, E(k_{0}) the band energy at the extremum, and k the momentum coordinate along the measured direction, and the extracted parameter m_{h}^{*} is the curvature-derived hole effective mass under the assumption that the actual band dispersion within the sampled momentum window is well approximated by a parabola.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "Quadratic fit extracts hole mass",
+      "type": "claim"
+    },
+    {
+      "content": "The experimental uncertainty reported for the ARPES-determined hole effective mass, \\pm 0.016\\,m_{0}, is the sample-to-sample standard deviation of four independent fitted effective-mass values obtained from four different freshly cleaved single-crystal samples (individual fitted values 0.19, 0.23, 0.20, and 0.19\\,m_{0}); this uncertainty is taken to represent the combined random and systematic uncertainty affecting the ARPES determination, where the principal systematic-error sources considered include photon-energy calibration, inner-potential selection, surface-condition variability after cleavage, analyzer angular calibration, and choice of fitting model, and the proposition is that these systematic contributions are either small compared to the observed sample-to-sample scatter or are effectively captured by the quoted standard deviation. [@Sajedi2022]",
+      "content_hash": "b86adaed0ece96226b9446e6187662a85629ad2a6b19d2e1149bee139b47489f",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767",
+      "label": "gcn_3e860bd7f76e4767",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_3e860bd7f76e4767",
+        "lkm_original": "The experimental uncertainty reported for the ARPES-determined hole effective mass, \\pm 0.016\\,m_{0}, is the sample-to-sample standard deviation of four independent fitted effective-mass values obtained from four different freshly cleaved single-crystal samples (individual fitted values 0.19, 0.23, 0.20, and 0.19\\,m_{0}); this uncertainty is taken to represent the combined random and systematic uncertainty affecting the ARPES determination, where the principal systematic-error sources considered include photon-energy calibration, inner-potential selection, surface-condition variability after cleavage, analyzer angular calibration, and choice of fitting model, and the proposition is that these systematic contributions are either small compared to the observed sample-to-sample scatter or are effectively captured by the quoted standard deviation.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "ARPES mass uncertainty estimate",
+      "type": "claim"
+    },
+    {
+      "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons). [@Sajedi2022]",
+      "content_hash": "1d8f124c5a66827cf705f153df1e46cebea6f45d93cbbbf43c942621e3c1041e",
+      "declaration_index": 4,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c",
+      "label": "gcn_8c3c520295d7488c",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_8c3c520295d7488c",
+        "lkm_original": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "G0W0 bare masses for CsPbBr3",
+      "type": "claim"
+    },
+    {
+      "content": "In the orthorhombic-structure G_{0}W_{0} quasiparticle calculation that produced the averaged hole effective mass m_{h}^{*}=0.226\\,m_{0}, the construction of maximally-localized Wannier functions (Wannierization) was applied only to the valence-band manifold for the purpose of interpolating and averaging band curvatures whereas the conduction-band manifold was not Wannierized; this partial (valence-only) Wannier interpolation procedure can introduce a systematic bias in the interpolation of quasiparticle band curvatures and may lead to a modest overestimation of the reported averaged hole effective mass relative to a calculation in which both valence and conduction bands are treated consistently in the Wannier interpolation or in which no post-processing interpolation is used. [@Sajedi2022]",
+      "content_hash": "3c7956dbd8f321243c82e736369bbd864b17cbb6c981f98e3a7107db2d359b1b",
+      "declaration_index": 5,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_ec768b9675814820",
+      "label": "gcn_ec768b9675814820",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_ec768b9675814820",
+        "lkm_original": "In the orthorhombic-structure G_{0}W_{0} quasiparticle calculation that produced the averaged hole effective mass m_{h}^{*}=0.226\\,m_{0}, the construction of maximally-localized Wannier functions (Wannierization) was applied only to the valence-band manifold for the purpose of interpolating and averaging band curvatures whereas the conduction-band manifold was not Wannierized; this partial (valence-only) Wannier interpolation procedure can introduce a systematic bias in the interpolation of quasiparticle band curvatures and may lead to a modest overestimation of the reported averaged hole effective mass relative to a calculation in which both valence and conduction bands are treated consistently in the Wannier interpolation or in which no post-processing interpolation is used.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "Valence-only Wannier caveat",
+      "type": "claim"
+    },
+    {
+      "content": "Numerical quasiparticle properties computed within the one-shot G_{0}W_{0} approximation, including the valence-band effective mass m_{h}^{*} and the quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}, are sensitive to specific computational choices and convergence parameters such as basis-set completeness, density and sampling of k points in the Brillouin zone, the frequency-integration scheme or plasmon-pole model used for the screened Coulomb interaction, the numerical treatment of spin–orbit coupling, details of pseudopotential versus all-electron implementations, and whether the GW calculation is performed as a single-shot (G_{0}W_{0}) or with partial self-consistency; consequently, different reasonable implementations or convergence thresholds of the G_{0}W_{0} method can produce quantitatively different values of m_{h}^{*} comparable to the differences observed between the cubic and orthorhombic calculations reported here. [@Sajedi2022]",
+      "content_hash": "8963913f86e73674ef65ab520b6b1817e736e7124f9fe9a3c93b39985a9e3a4c",
+      "declaration_index": 6,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_5868b15c687043a9",
+      "label": "gcn_5868b15c687043a9",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_5868b15c687043a9",
+        "lkm_original": "Numerical quasiparticle properties computed within the one-shot G_{0}W_{0} approximation, including the valence-band effective mass m_{h}^{*} and the quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}, are sensitive to specific computational choices and convergence parameters such as basis-set completeness, density and sampling of k points in the Brillouin zone, the frequency-integration scheme or plasmon-pole model used for the screened Coulomb interaction, the numerical treatment of spin–orbit coupling, details of pseudopotential versus all-electron implementations, and whether the GW calculation is performed as a single-shot (G_{0}W_{0}) or with partial self-consistency; consequently, different reasonable implementations or convergence thresholds of the G_{0}W_{0} method can produce quantitatively different values of m_{h}^{*} comparable to the differences observed between the cubic and orthorhombic calculations reported here.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "G0W0 method sensitivity caveat",
+      "type": "claim"
+    },
+    {
+      "content": "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value. [@Sajedi2022]",
+      "content_hash": "d549c2a31ee1ee328424a8144f54a06dd191c0c5930676fff481a5c8dd46e801",
+      "declaration_index": 7,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_762777de8c644c17",
+      "label": "gcn_762777de8c644c17",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_762777de8c644c17",
+        "lkm_original": "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value.",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "G0W0 explains ARPES without polaron",
+      "type": "claim"
+    },
+    {
+      "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated. [@Sajedi2022]",
+      "content_hash": "3a57a09194ff893bda8d94501538c2e47ab598aff2afa957f4a288a8e4fb7873",
+      "declaration_index": 8,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b",
+      "label": "gcn_1fc9a84fbc6e4a1b",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_1fc9a84fbc6e4a1b",
+        "lkm_original": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "prior": 0.72,
+        "prior_justification": "methodological assumption or model-comparison premise from LKM chain; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "Orthorhombic model comparison assumption",
+      "type": "claim"
+    },
+    {
+      "content": "A Fröhlich-type large-polaron mass renormalization of approximately 50% applied to the orthorhombic one-shot G_{0}W_{0} bare-band hole mass m_{h}^{*}=0.226\\,m_{0} would increase the mass to about 0.339\\,m_{0}; given the experimentally measured hole mass 0.203\\pm0.016\\,m_{0} reported here, such a 50% enhancement would exceed the experimental value by roughly 0.136\\,m_{0}, which corresponds to more than eight times the quoted experimental standard deviation, and therefore a 50% polaronic renormalization of that magnitude would be readily detectable as a statistically significant discrepancy between the ARPES measurement and the orthorhombic G_{0}W_{0} bare-band reference under the present uncertainty assumptions. [@Sajedi2022]",
+      "content_hash": "f829e0ee8fbf7fededd820696385bbbb939e30b9b33ed0ca03698c858aa9881a",
+      "declaration_index": 9,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207",
+      "label": "gcn_e808f6450bfc4207",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Sajedi2022"
+            ]
+          }
+        },
+        "lkm_id": "gcn_e808f6450bfc4207",
+        "lkm_original": "A Fröhlich-type large-polaron mass renormalization of approximately 50% applied to the orthorhombic one-shot G_{0}W_{0} bare-band hole mass m_{h}^{*}=0.226\\,m_{0} would increase the mass to about 0.339\\,m_{0}; given the experimentally measured hole mass 0.203\\pm0.016\\,m_{0} reported here, such a 50% enhancement would exceed the experimental value by roughly 0.136\\,m_{0}, which corresponds to more than eight times the quoted experimental standard deviation, and therefore a 50% polaronic renormalization of that magnitude would be readily detectable as a statistically significant discrepancy between the ARPES measurement and the orthorhombic G_{0}W_{0} bare-band reference under the present uncertainty assumptions.",
+        "prior": 0.8,
+        "prior_justification": "LKM chain premise or source claim with clear provenance; TODO:review",
+        "provenance_source": "lkm",
+        "source_paper": "paper:867765810263752934"
+      },
+      "module": "paper_sajedi2022",
+      "parameters": [],
+      "title": "50 percent polaron mass would overshoot",
+      "type": "claim"
+    },
+    {
+      "content": "not_both_true(A, B)",
+      "content_hash": "468923920550aff97ac2349f7d0a5b32e6560066b45861bf367db7f40e8649a7",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::arpes_polaron_signature_vs_gw_no_polaron",
+      "label": "arpes_polaron_signature_vs_gw_no_polaron",
+      "metadata": {
+        "helper_kind": "contradiction_result",
+        "prior": 0.9
+      },
+      "module": "cross_paper",
+      "parameters": [],
+      "title": "ARPES polaron signature vs G0W0 baseline",
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c,github:perovskite_arpes_polaron::gcn_0a71cf6357114b76,github:perovskite_arpes_polaron::gcn_e24a3d64aa604555)",
+      "content_hash": "2addabd4508add412de3e684c86f5bda2bef796660432caa5b9b890271d16796",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__conjunction_result_d63e67ba",
+      "label": "__conjunction_result_d63e67ba",
+      "metadata": {
+        "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c,github:perovskite_arpes_polaron::gcn_0a71cf6357114b76,github:perovskite_arpes_polaron::gcn_e24a3d64aa604555)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_455e7937f3ffc02d",
+        "owning_strategy_type": "deduction",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_d63e67ba,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+      "content_hash": "bcf81660fa0de36aa41270423cc825e3e57f2fd7442e474ca4684076ff3fc278",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_c7228dab",
+      "label": "__implication_result_c7228dab",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_d63e67ba,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_455e7937f3ffc02d",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::gcn_943f1f964b7a4374,github:perovskite_arpes_polaron::gcn_5e907da32c114d34)",
+      "content_hash": "26f3df36c37c03fca8e2cdd887238b4a5050a3ed76b8fe09a819cbe221aef7de",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_7787a76b",
+      "label": "__implication_result_7787a76b",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_943f1f964b7a4374,github:perovskite_arpes_polaron::gcn_5e907da32c114d34)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_061fd1bcea7469ef",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::gcn_2b322b6a88d742ba,github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed)",
+      "content_hash": "35087c7220c3474f6f16846e83019269f0ed49cb9c2ced4bc08ff284595f2d65",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_549707e5",
+      "label": "__implication_result_549707e5",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_2b322b6a88d742ba,github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_eb18213b4ff5f093",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c,github:perovskite_arpes_polaron::gcn_43c66f240368417e,github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9)",
+      "content_hash": "fcdc35c8410631deb9b721072524053625f9b658d43615f15f01e6ebf93530e9",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__conjunction_result_7c72f072",
+      "label": "__conjunction_result_7c72f072",
+      "metadata": {
+        "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c,github:perovskite_arpes_polaron::gcn_43c66f240368417e,github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_e45f4160bcedadda",
+        "owning_strategy_type": "deduction",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_7c72f072,github:perovskite_arpes_polaron::gcn_e4a5cac31481497c)",
+      "content_hash": "e84fd421ba8b3ca9127354bc8ebda73e1c08050a090cd3404ef677a92a792f1c",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_1979a286",
+      "label": "__implication_result_1979a286",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_7c72f072,github:perovskite_arpes_polaron::gcn_e4a5cac31481497c)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_e45f4160bcedadda",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::gcn_82d0efc0c1024ec8,github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289)",
+      "content_hash": "ebcaf4178ac4da3ddd344246f9d77d960c442a4da20dcb5e5ec351790065cc10",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_dd6a3f2c",
+      "label": "__implication_result_dd6a3f2c",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_82d0efc0c1024ec8,github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_7c37dbda8093be7c",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:perovskite_arpes_polaron::gcn_00749f497c204b4c,github:perovskite_arpes_polaron::gcn_869be47d79c54464)",
+      "content_hash": "7f82bf0c6086a5f7e23a4784fc6ac9bf4039a9411ea55c8492e81a45f944888c",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__conjunction_result_7eb49878",
+      "label": "__conjunction_result_7eb49878",
+      "metadata": {
+        "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_00749f497c204b4c,github:perovskite_arpes_polaron::gcn_869be47d79c54464)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_768d531806486a65",
+        "owning_strategy_type": "deduction",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_7eb49878,github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48)",
+      "content_hash": "02c92f2c419006498ffa0d255165ce86df7e85e7192c8336a38607c9b6d82740",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_6beb903d",
+      "label": "__implication_result_6beb903d",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_7eb49878,github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_768d531806486a65",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:perovskite_arpes_polaron::gcn_e17b013445234bfa,github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7,github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767)",
+      "content_hash": "a736d1366d7eb326c409d2ac9023169cb34b0d26879717a60a54e15c704bad00",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__conjunction_result_58736bbd",
+      "label": "__conjunction_result_58736bbd",
+      "metadata": {
+        "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_e17b013445234bfa,github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7,github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_3578210eb09e1411",
+        "owning_strategy_type": "deduction",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_58736bbd,github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc)",
+      "content_hash": "22abd9581150b34a71aa5b28784ce6ea0801a1f69f75999b354397905210226d",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_a0fa00db",
+      "label": "__implication_result_a0fa00db",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_58736bbd,github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_3578210eb09e1411",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:perovskite_arpes_polaron::gcn_ec768b9675814820,github:perovskite_arpes_polaron::gcn_5868b15c687043a9)",
+      "content_hash": "b6a23bd4dbcc1cc4d9f5e8ce92c96f608cd4e15e34c6ff59b436234f4eb1dd71",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__conjunction_result_7f335404",
+      "label": "__conjunction_result_7f335404",
+      "metadata": {
+        "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_ec768b9675814820,github:perovskite_arpes_polaron::gcn_5868b15c687043a9)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_5ffe8f4121feb1ef",
+        "owning_strategy_type": "deduction",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_7f335404,github:perovskite_arpes_polaron::gcn_8c3c520295d7488c)",
+      "content_hash": "75c0c78594335c498f1b6e64dcc1af1b50614233f4add0eaa3326547694cca50",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_7c3ce8b1",
+      "label": "__implication_result_7c3ce8b1",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_7f335404,github:perovskite_arpes_polaron::gcn_8c3c520295d7488c)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_5ffe8f4121feb1ef",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "all_true(github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b,github:perovskite_arpes_polaron::gcn_e808f6450bfc4207)",
+      "content_hash": "75e3878bc038e93cacc245c442d358ab04f653da41dcb1cd89af8a2b58991e27",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__conjunction_result_48b07476",
+      "label": "__conjunction_result_48b07476",
+      "metadata": {
+        "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b,github:perovskite_arpes_polaron::gcn_e808f6450bfc4207)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_e721feb37399e0b7",
+        "owning_strategy_type": "deduction",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_48b07476,github:perovskite_arpes_polaron::gcn_762777de8c644c17)",
+      "content_hash": "dd94b21c9b62d2feb1b8932c382e33ca1de746ee139500ac24bf1e448ddf7020",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_e5897b5f",
+      "label": "__implication_result_e5897b5f",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_48b07476,github:perovskite_arpes_polaron::gcn_762777de8c644c17)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_e721feb37399e0b7",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::gcn_e4a5cac31481497c,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+      "content_hash": "e615573cfa77ae31125924ba38b76d8359fe7272d30ebb9043799f24cdfc9c14",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_1a573fdc",
+      "label": "__implication_result_1a573fdc",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_e4a5cac31481497c,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_d6243c740f80bee2",
+        "owning_strategy_type": "support",
+        "prior": 0.78,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::gcn_8c3c520295d7488c,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+      "content_hash": "f7f9e4c1cae1fda960386d0e96d2cf3c59a6ca760d102a32402aa7af69294c97",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_3d477b43",
+      "label": "__implication_result_3d477b43",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_8c3c520295d7488c,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_942f16c9d452209a",
+        "owning_strategy_type": "support",
+        "prior": 0.58,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed,github:perovskite_arpes_polaron::gcn_5e907da32c114d34)",
+      "content_hash": "5090e6c96f4c73860a9dd2a51a65a484fd09a311bf21bff3ce49e1fce4e5b298",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_2b678218",
+      "label": "__implication_result_2b678218",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed,github:perovskite_arpes_polaron::gcn_5e907da32c114d34)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_e500aa85c8a4f6f2",
+        "owning_strategy_type": "support",
+        "prior": 0.9,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48,github:perovskite_arpes_polaron::gcn_e4a5cac31481497c)",
+      "content_hash": "eb2f5e524277014d5002eb9e906f300e2548b4a39b4d8a5029a1be1d6f0d36dc",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_b56a7935",
+      "label": "__implication_result_b56a7935",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48,github:perovskite_arpes_polaron::gcn_e4a5cac31481497c)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_a840728d6bf7f6a8",
+        "owning_strategy_type": "support",
+        "prior": 0.88,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    }
+  ],
+  "module_order": [
+    "paper_puppin2020",
+    "paper_zhao2025",
+    "paper_sajedi2022",
+    "cross_paper"
+  ],
+  "module_titles": {
+    "cross_paper": "cross_paper -- cross-paper operators for the package.",
+    "paper_puppin2020": "paper_puppin2020 -- claims and deductions from Puppin et al. 2020.",
+    "paper_sajedi2022": "paper_sajedi2022 -- claims and deductions from Sajedi et al. 2022.",
+    "paper_zhao2025": "paper_zhao2025 -- claims and deductions from Zhao et al. 2025."
+  },
+  "namespace": "github",
+  "operators": [
+    {
+      "conclusion": "github:perovskite_arpes_polaron::arpes_polaron_signature_vs_gw_no_polaron",
+      "metadata": {
+        "reason": "The Puppin-side claim treats the ARPES effective-mass enhancement as a valid signature of polaronic mass dressing even without resolved phonon replicas, whereas the Sajedi-side claim says the ARPES-observed effective mass can be accounted for by a G0W0 quasiparticle baseline and does not require additional Fröhlich-polaron mass renormalization. open_problem: which ARPES-observable or matched theory baseline can distinguish genuine electron-phonon polaron mass dressing from quasiparticle/structural baseline effects in CsPbBr3?"
+      },
+      "operator": "contradiction",
+      "operator_id": "lco_4393e29515c976e1",
+      "scope": "local",
+      "variables": [
+        "github:perovskite_arpes_polaron::gcn_4ad259a13be9454a",
+        "github:perovskite_arpes_polaron::gcn_762777de8c644c17"
+      ]
+    }
+  ],
+  "package_name": "perovskite_arpes_polaron",
+  "scope": "local",
+  "strategies": [
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__conjunction_result_d63e67ba",
+            "operator": "conjunction",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
+              "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
+              "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555"
+            ]
+          },
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_c7228dab",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::__conjunction_result_d63e67ba",
+              "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. Define ARPES as angle-resolved photoelectron spectroscopy, and define $m_e$ as the free electron mass; state that the experiment measured the momentum-resolved valence-band dispersion of single-crystalline orthorhombic $CsPbBr_3$ at room temperature using ARPES with extreme-ultraviolet photons in the 20–40 eV range; note that samples were cleaved in situ under ultrahigh vacuum and measurements were performed at room temperature in the orthorhombic phase as confirmed by x-ray diffraction.\n[28,29]\n\n2. State that the valence-band photoemission intensity distribution was recorded as a function of energy $E$ and in-plane momentum wave vectors $k_x$ and $k_y$, and that the authors plotted cuts of this three-dimensional ARPES intensity to inspect the upper valence band dispersion along high-symmetry directions of the surface Brillouin zone.\nFig. 1(d)\n\n3. Define \"valence-band maximum\" (VBM) as the highest-energy point of the valence band and state that the authors set the energy zero at the VBM; specify that the VBM energy was determined from the energy of the photoemission peak maximum in energy distribution curves (EDCs).\nFig. 1(e)\n\n4. State that ARPES data along the surface-path $\\bar{\\Gamma}-\\bar{M}-\\bar{\\Gamma}$ were acquired and that the upper valence band dispersion in this direction was extracted by fitting the valence-band energy distribution curves with a Gaussian line shape to determine the band maxima as a function of parallel momentum; define the symbol $m_{\\mathrm{exp}}$ to denote the experimentally determined hole effective mass.\nFig. 3\n\n5. State that the authors fitted the experimentally extracted band maxima of the upper valence band with a parabolic dispersion around the band maximum (i.e., they assumed $E(k)=E_{\\mathrm{VBM}}+\\frac{\\hbar^{2}k^{2}}{2m_{\\mathrm{exp}}}$ in the vicinity of the VBM, where $k$ is the in-plane wave vector measured from the VBM and $\\hbar$ is the reduced Planck constant) and that the fit was performed on the upper valence band along the $\\bar{\\Gamma}-\\bar{M}$ direction.\nFig. 3\n\n6. Report the fitted numerical result: the parabolic fit around the valence-band maximum yields an experimental hole effective mass $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$, where the stated uncertainty $\\pm0.02\\,m_e$ reflects the fitting and experimental uncertainties described in the methods and Supplemental Material.\nFig. 3\n[30]"
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
+        "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
+        "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_455e7937f3ffc02d",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_5e907da32c114d34",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_7787a76b",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_943f1f964b7a4374",
+              "github:perovskite_arpes_polaron::gcn_5e907da32c114d34"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. Treat Conclusions 6 and 1 as established starting points: the Feynman-polaron calculation (Conclusion 6) predicts a polaron-renormalized hole mass $m_{\\mathrm{pol}}=0.24\\,m_e$, and the ARPES experiment (Conclusion 1) measured $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$.\n\n2. Compare the two values and state that $m_{\\mathrm{pol}}=0.24\\,m_e$ falls within the experimental uncertainty range of $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$ (specifically, the lower bound of the experimental interval is $0.24\\,m_e$), indicating quantitative agreement between the ab initio electron–phonon plus Feynman-polaron prediction and the ARPES measurement.\nFig. 4(a)\n\n3. Formulate the validation claim made by the authors: the combination of (i) ab initio evaluation of the Fröhlich vertex and dielectric response, yielding $\\tilde{g}_{\\mathrm{LO}}^{2}$ and $\\hbar\\tilde{\\omega}_{\\mathrm{LO}}$, and (ii) a Feynman polaron calculation using the ab initio bare mass $m_{0}$ and the computed $\\alpha$, reproduces the experimentally measured hole effective mass in orthorhombic $CsPbBr_3$ within experimental uncertainty; therefore, the presented first-principles electron–phonon calculation plus Feynman-polaron treatment constitutes a viable predictive method to compute carrier effective masses in lead-halide perovskites, as the authors assert.\n[45]"
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_943f1f964b7a4374"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_061fd1bcea7469ef",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_549707e5",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_2b322b6a88d742ba",
+              "github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. Treat Conclusions 5 and 2 as established starting points: the Fröhlich coupling parameter is $\\alpha=1.81$ and the bare mass is $m_{0}=0.17\\,m_e$; define $m_{\\mathrm{pol}}$ as the polaron-renormalized effective mass.\n\n2. Present the Feynman variational polaron-model weak-to-intermediate coupling expansion quoted by the authors:\n$$\nm_{\\mathrm{pol}}=m_{0}\\left(1+\\frac{\\alpha}{6}+0.025\\alpha^{2}+\\cdots\\right),\n$$\nand define each symbol: $m_{\\mathrm{pol}}$ is the polaron mass, $m_{0}$ is the bare mass, and $\\alpha$ is the Fröhlich coupling parameter.\n[75,76]\n\n3. Evaluate the series to second order using the provided numerical inputs: compute $\\frac{\\alpha}{6}=\\frac{1.81}{6}\\approx 0.3017$ and compute $0.025\\alpha^{2}=0.025\\times(1.81)^{2}\\approx 0.0819$; sum $1+0.3017+0.0819\\approx 1.3836$; multiply by $m_{0}=0.17\\,m_e$ to obtain $m_{\\mathrm{pol}}\\approx 0.17\\times 1.3836\\ m_e\\approx 0.235\\ m_e$, which the authors report as $m_{\\mathrm{pol}}=0.24\\,m_e$ after rounding.\n\n4. Compare the Feynman-model result to experiment: state that the computed polaron-renormalized mass $m_{\\mathrm{pol}}=0.24\\,m_e$ brings the theoretical quasiparticle mass into quantitative agreement with the ARPES-derived value $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$, i.e., the theoretical value lies within the experimental uncertainty interval, and conclude that the Feynman-polaron prediction accounts for the observed mass renormalization.\nFig. 4(a)"
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_2b322b6a88d742ba"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_eb18213b4ff5f093",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__conjunction_result_7c72f072",
+            "operator": "conjunction",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c",
+              "github:perovskite_arpes_polaron::gcn_43c66f240368417e",
+              "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9"
+            ]
+          },
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_1979a286",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::__conjunction_result_7c72f072",
+              "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. State the upstream results to be used as known starting points: (i) conclusion 2 — thermal lattice fluctuations at $T=300\\\\,$K substantially enhance carrier effective masses in $CsPbBr_{3}$, and (ii) conclusion 6 — $CsPbBr_{3}$ exhibits strong lattice anharmonicity and large low-frequency vibrational modes that produce the thermal fluctuations; treat these as established for the following comparison with experiment.\n\n2. Describe the finite-temperature computational protocol used to obtain the room-temperature band structure and effective mass: perform ab initio molecular dynamics (AIMD) at $T=300\\\\,$K in the canonical ensemble (NVT) with the Nosé–Hoover thermostat to sample finite-temperature atomic configurations for a 3×3×3 pseudocubic supercell containing 135 atoms, using the Perdew–Burke–Ernzerhof (PBE) exchange-correlation functional to generate structural trajectories with a time step of 1 fs; select a representative equilibrated pseudocubic AIMD configuration and compute the electronic structure for that configuration using the HSE hybrid functional including spin–orbit coupling (HSE–SOC) with the hybrid mixing parameter $\\\\alpha=0.54$ chosen to reproduce the experimental room-temperature band gap $E_{\\\\text{g}}=2.37\\\\,$eV.\n[21]\nFig. 1\n\n3. Define the computed observable: the direction-averaged hole effective mass $m_{h}$ is extracted from the unfolded HSE–SOC band structure of the representative $T=300\\\\,$K AIMD configuration (define \"unfolded\" as the Brillouin-zone unfolding procedure used to map the supercell band structure onto the primitive-cell Brillouin zone).\n[27]\n\n4. Report the computed numerical result from the AIMD $T=300\\\\,$K HSE–SOC calculation with $\\\\alpha=0.54$: the direction-averaged hole effective mass is $m_{h}=0.265\\\\,m_{0}$, where $m_{0}$ denotes the electron rest mass; emphasize that this calculation was performed in the absence of any injected carrier (i.e., no extra hole was introduced).\nTable I\n\n5. Compare the computed $m_{h}=0.265\\\\,m_{0}$ to the ARPES experimental measurement reported by Puppin et al., which is $0.26 \\\\pm 0.02\\\\,m_{0}$; state that the computed value agrees with the experimental ARPES value within the experimental uncertainty.\n[14]\n\n6. Note the additional computational observation (from the authors' explicit hole-injection tests and conclusion 4) that introducing an extra hole into the AIMD supercell at $T=300\\\\,$K does not produce localized in-gap states nor materially change the valence-band dispersion; therefore the agreement between computed and measured hole masses is achieved in the absence of any polaron-induced mass enhancement.\nFig. 3\n\n7. Conclude that the experimentally observed hole effective mass can be explained by thermal-lattice fluctuations alone as captured by the finite-temperature HSE–SOC calculation (AIMD $T=300\\\\,$K, $\\\\alpha=0.54$), and therefore there is no ARPES-based evidence from this comparison for a significant polaron-induced enhancement of the hole effective mass in $CsPbBr_{3}$ under the studied conditions."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c",
+        "github:perovskite_arpes_polaron::gcn_43c66f240368417e",
+        "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_e45f4160bcedadda",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_dd6a3f2c",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_82d0efc0c1024ec8",
+              "github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. Treat as known (from conclusion 6) that $CsPbBr_{3}$ at room temperature exhibits strong lattice anharmonicity and large thermal lattice fluctuations; use this as the structural context for hole-injection simulations.\n\n2. Describe the computational procedure used to test the effect of an injected hole: start from an equilibrated AIMD supercell representing a room-temperature configuration (define \"AIMD supercell\" as the 3×3×3 pseudocubic supercell with 135 atoms sampled from the $T=300\\\\,$K AIMD run), explicitly remove one electron (introduce a single extra hole) into that supercell, and recompute the electronic band structure using the HSE hybrid functional with spin-orbit coupling (HSE–SOC) and with the hybrid mixing parameter $\\\\alpha=0.54$ (the value determined to reproduce the experimental $E_{\\\\text{g}}=2.37\\\\,$eV at finite temperature).\nFig. 3\n[20]\n\n3. State the direct computational observation: the unfolded band structure computed for the equilibrated $T=300\\\\,$K supercell with an extra hole shows no formation of localized in-gap states (define \"localized in-gap states\" as electronic states whose energy lies within the band gap and whose wavefunctions are spatially localized around specific lattice distortions), and the unfolded valence-band dispersions remain essentially unchanged relative to the polaron-free AIMD configuration (i.e., negligible change in valence-band curvature and dispersion).\nFig. 3\n\n4. Report that the authors explicitly checked for hole localization (define \"hole localization\" as a self-trapped hole leading to a local lattice distortion that stabilizes a bound electronic state) and found no evidence for a stabilized localized hole or small-polaron formation in the simulated room-temperature conditions; therefore the addition of an extra hole produces negligible additional renormalization of the band structure beyond the thermally induced effects already present in the polaron-free AIMD configuration.\n[29]\n\n5. Conclude that explicit simulation of a single injected hole at $T=300\\\\,$K does not produce localized gap states and does not stabilize small polarons in $CsPbBr_{3}$ under the simulated conditions, and therefore small-polaron formation is not observed in these finite-temperature, HSE–SOC calculations."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_82d0efc0c1024ec8"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_7c37dbda8093be7c",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__conjunction_result_7eb49878",
+            "operator": "conjunction",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_00749f497c204b4c",
+              "github:perovskite_arpes_polaron::gcn_869be47d79c54464"
+            ]
+          },
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_6beb903d",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::__conjunction_result_7eb49878",
+              "github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. State the upstream results to be used as known starting points: (i) conclusion 6 — $CsPbBr_{3}$ has strong lattice anharmonicity and low-frequency vibrational modes that enable large thermal lattice fluctuations at room temperature; (ii) conclusion 5 — in contrast, Si and GaAs show only minor thermal renormalization, establishing that the large thermal effects in $CsPbBr_{3}$ are exceptional.\n\n2. Define the relevant electronic effective masses: let $m_e$ denote the electron effective mass and $m_h$ denote the hole effective mass; define \"direction-averaged\" effective mass as the average of effective masses computed along the high-symmetry directions used by the authors (specifically the R–M and R–$\\\\Gamma$ directions reported in the paper), and denote the free-electron mass as $m_{0}$.\n\n3. Describe the computational comparison that yields the mass renormalization numbers: compute unfolded HSE–SOC band structures and extract direction-averaged effective masses for two cases — (A) an equilibrated AIMD configuration at $T=300\\\\,$K using $\\\\alpha=0.54$ chosen to reproduce the experimental room-temperature band gap $E_{\\\\text{g}}=2.37\\\\,$eV, and (B) the ideal cubic ($T=0\\\\,$K) lattice using $\\\\alpha=0.74$ (the value required on the ideal lattice to reproduce the same $E_{\\\\text{g}}$). The comparison isolates the effect of thermal-lattice fluctuations while keeping the band-gap benchmark fixed.\nFig. 2\n[20]\n\n4. Extract numerical values from the computed results: for the ideal cubic ($T=0\\\\,$K) case with $\\\\alpha=0.74$, the direction-averaged hole mass is $m_h \\\\approx 0.149\\\\,m_{0}$ (define $m_{0}$ as the electron rest mass), whereas for the AIMD $T=300\\\\,$K case with $\\\\alpha=0.54$, the direction-averaged hole mass is $m_h = 0.265\\\\,m_{0}$; similarly, the direction-averaged electron mass increases from $\\\\approx 0.172\\\\,m_{0}$ (ideal cubic, $\\\\alpha=0.74$) to $\\\\approx 0.263\\\\,m_{0}$ (AIMD, $\\\\alpha=0.54$), as reported in the tabulated results.\nTable I\n\n5. Compute the relative increases (define \"relative increase\" as $100\\\\times (m_{\\\\text{finite T}}-m_{0\\\\,\\\\text{ideal}})/m_{0\\\\,\\\\text{ideal}}\\\\%$): for electrons, the direction-averaged mass increases from $0.172\\\\,m_{0}$ to $0.263\\\\,m_{0}$, which corresponds to an increase of approximately $57\\\\%$; for holes, the direction-averaged mass increases from $0.149\\\\,m_{0}$ to $0.265\\\\,m_{0}$, corresponding to an increase of approximately $79\\\\%$.\nTable I\n\n6. State the authors' interpretation: because the computed mass renormalizations are obtained by comparing band structures that (i) reproduce the same experimental band gap on the two structures by suitable choice of $\\\\alpha$ and (ii) differ only by the inclusion of finite-temperature atomic disorder (AIMD configuration vs ideal cubic lattice), the mass increases are attributed to thermal-lattice fluctuations rather than to the choice of $\\\\alpha$ or to polaron formation; this interpretation is supported by additional calculations in which applying $\\\\alpha=0.54$ to the ideal cubic lattice yields an underestimated gap and different masses, demonstrating that correct atomic structure (finite-temperature disorder) is the primary cause of the observed mass enhancement.\nFig. 2\n\n7. Conclude that thermal lattice fluctuations in $CsPbBr_{3}$ at $T=300\\\\,$K lead to large renormalizations of band-edge curvatures, specifically increasing the electron effective mass by approximately $57\\\\%$ and the hole effective mass by approximately $79\\\\%$, e.g., changing the direction-averaged hole mass from $m_h\\\\approx0.149\\\\,m_{0}$ (ideal cubic, $0\\\\,$K, $\\\\alpha=0.74$) to $m_h=0.265\\\\,m_{0}$ (AIMD, $300\\\\,$K, $\\\\alpha=0.54$)."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_00749f497c204b4c",
+        "github:perovskite_arpes_polaron::gcn_869be47d79c54464"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_768d531806486a65",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__conjunction_result_58736bbd",
+            "operator": "conjunction",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_e17b013445234bfa",
+              "github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7",
+              "github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767"
+            ]
+          },
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_a0fa00db",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::__conjunction_result_58736bbd",
+              "github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. State the experimental technique and sample conditions used to determine the valence-band maximum (VBM) and the hole effective mass: angle-resolved photoemission spectroscopy (ARPES) measurements were performed on freshly cleaved single crystals of CsPbBr$_{3}$ at room temperature with photon energies varied between $h\\nu=21\\,$eV and $h\\nu=83\\,$eV in 2 eV steps to map the electronic states as a function of the electron wave vector perpendicular to the surface $k_{\\perp}$, with spatial resolution $\\sim 100\\ \\mu$m and base pressure better than $2\\times10^{-10}$ mbar. \nFig. 2\n\n2. Define notation used for the measured quantity: denote the hole effective mass at the valence-band maximum by $m_{h}^{*}$ and the free-electron mass by $m_{0}$; the photon energy is $h\\nu$ and the perpendicular momentum is $k_{\\perp}$.\n\n3. Explain how the VBM (the R point) was identified from the photon-energy-dependent ARPES data: normal-emission (i.e., $\\overline{\\Gamma}$) photon-energy-dependent scans show symmetry about $k_{\\perp}=3.66\\ \\text{\\AA}^{-1}$ and the contours of constant binding energy near the VBM close at photon energies of $h\\nu=29\\,$eV and $h\\nu=54\\,$eV, which the authors therefore assign as the first and second R points; this assignment was corroborated by $k_{\\parallel}$-dependent contour plots near 1.5 eV binding energy (near the VBM) and by the observation of closing contours at the specified photon energies. The assignment corresponds to an inner potential $V_{0}=5.3\\,$eV for the R-point mapping (a different inner potential $V_{0}=9.6\\,$eV was used for an X/$\\Gamma$ assignment at normal emission). \nFig. 2\n\n4. State how the VBM photon energy was confirmed from the dispersion along the surface high-symmetry direction: band-dispersion cuts along $\\overline{\\Gamma}-\\overline{M}$ were taken at multiple photon energies and the binding-energy of the local maximum (related to the VBM) was evaluated as a function of photon energy; these data confirm $h\\nu=29\\,$eV as the photon energy at which the measured band reaches the VBM (R point) and show that the dispersion at $29\\,$eV appears narrower than at other photon energies. \nFig. 3\n\n5. Describe the procedure used to extract effective masses from the ARPES dispersions: for the band dispersion measured along $\\overline{\\Gamma}-\\overline{M}$ at the photon energy assigned to the VBM ($h\\nu=29\\,$eV), the authors fit the measured dispersion of the topmost valence band near its maximum to obtain a hole effective mass $m_{h}^{*}$ (the fitting procedure and fit of the dispersion are those used to produce the plotted effective masses versus photon energy). \nFig. 3\n\n6. Report the repeat measurements and fitted individual effective-mass values: the measurement at $h\\nu=29\\,$eV was repeated on four different cleaved single-crystal samples, yielding individual fitted hole effective masses of $0.19\\ m_{0}$, $0.23\\ m_{0}$, $0.20\\ m_{0}$, and $0.19\\ m_{0}$; these four values are those obtained from the dispersion fits for the topmost valence band at the assigned R point. \nFig. 3\n\n7. Compute and report the average and uncertainty: the average of the four repeated fitted values $0.19\\ m_{0}$, $0.23\\ m_{0}$, $0.20\\ m_{0}$, and $0.19\\ m_{0}$ is $0.203\\ m_{0}$ and the standard deviation is $\\pm 0.016\\ m_{0}$; therefore the experimentally determined hole effective mass at the VBM (R point) from ARPES is $m_{h}^{*}=0.203\\pm0.016\\ m_{0}$. \nFig. 3"
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_e17b013445234bfa",
+        "github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7",
+        "github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_3578210eb09e1411",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__conjunction_result_7f335404",
+            "operator": "conjunction",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_ec768b9675814820",
+              "github:perovskite_arpes_polaron::gcn_5868b15c687043a9"
+            ]
+          },
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_7c3ce8b1",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::__conjunction_result_7f335404",
+              "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. State the computational approach used and define notation: the one-shot GW quasiparticle method is denoted $G_{0}W_{0}$ (an instance of many-body perturbation theory in the GW approximation) and spin–orbit coupling is explicitly included; calculations were performed with the all-electron FLEUR and SPEX codes, which implement the $G_{0}W_{0}$ method and include spin–orbit coupling. \n[36],[37],[38]\n\n2. Explain the purpose of using $G_{0}W_{0}$ for comparison with ARPES: $G_{0}W_{0}$ yields quasiparticle self-energy corrections to electronic states and therefore produces quasiparticle band structures and band gaps that are directly comparable to ARPES spectra; these $G_{0}W_{0}$ calculations include electron–electron correlation but do not include electron–phonon (polaronic) self-energy contributions, so they provide a \"bare-band\" reference in searches for polaronic mass enhancement.\n\n3. Report the $G_{0}W_{0}$ result for the cubic crystal structure and define symbols: for the cubic structural model (with lattice parameter 6.017 Å taken from the cited structural data), the $G_{0}W_{0}$ calculation evaluated the valence-band maximum (VBM) at the R point and, along the X–R direction, yields a valence-band hole effective mass $m_{h}^{*}=0.15\\ m_{0}$ and a quasiparticle band gap of $1.74\\,$eV. The labels $m_{h}^{*}$ and $m_{0}$ are as defined above and the band gap is the energy difference between valence-band maximum and conduction-band minimum in the $G_{0}W_{0}$ quasiparticle spectrum. \nFig. 1\n\n4. Report the $G_{0}W_{0}$ result for the orthorhombic structural unit cell and note methodological details and caveats: a $G_{0}W_{0}$ calculation performed for an orthorhombic unit cell, with a Wannierization procedure applied for the valence band only (i.e., maximally-localized Wannier functions used for the valence manifold), yields an averaged hole effective mass over crystallographic directions of $m_{h}^{*}=0.226\\ m_{0}$ and a quasiparticle band gap of $2.09\\,$eV; the authors note that because Wannierization was only performed for the valence band there is a possibility that the effective mass is slightly overestimated in the orthorhombic calculation, but they believe such overestimation is limited. \nFig. S4\n\n5. Summarize the relationship of these calculations to electron-phonon coupling: explicitly state that the reported $G_{0}W_{0}$ quasiparticle band gaps and effective masses include electron–electron correlation effects but omit electron–phonon (polaronic) self-energy contributions, so any discrepancy between $G_{0}W_{0}$ masses and experiment could be indicative of additional electron–phonon renormalization but the $G_{0}W_{0}$ numbers themselves do not contain such polaronic mass enhancement."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_ec768b9675814820",
+        "github:perovskite_arpes_polaron::gcn_5868b15c687043a9"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_5ffe8f4121feb1ef",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_762777de8c644c17",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__conjunction_result_48b07476",
+            "operator": "conjunction",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b",
+              "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207"
+            ]
+          },
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_e5897b5f",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::__conjunction_result_48b07476",
+              "github:perovskite_arpes_polaron::gcn_762777de8c644c17"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "prior": 0.95,
+        "reason": "1. Take as known the experimentally determined hole effective mass at the VBM: $m_{h}^{*}=0.203\\pm0.016\\ m_{0}$ as established from photon-energy-dependent ARPES at the R point ($h\\nu=29\\,$eV) (this is the result established earlier and treated here as an input).\n\n2. Take as known the orthorhombic $G_{0}W_{0}$ quasiparticle hole effective mass: $m_{h}^{*}=0.226\\ m_{0}$ with quasiparticle band gap $2.09\\,$eV as obtained from the orthorhombic $G_{0}W_{0}$ calculation (this is the theoretical result established earlier and treated here as an input).\n\n3. Compare the experimental and orthorhombic-theory masses numerically and state the authors' characterization of the agreement: the experimental mass $0.203\\pm0.016\\ m_{0}$ and the orthorhombic $G_{0}W_{0}$ mass $0.226\\ m_{0}$ differ by $0.023\\ m_{0}$ (about an $11\\%$ relative difference), and the authors describe these values as \"almost identical\" or \"in close agreement within uncertainties and computational caveats\" (the authors explicitly state the near equality of the experimental and orthorhombic-theory effective masses in the manuscript abstract and conclusions). \n[39]\n\n4. Invoke the methodological fact that $G_{0}W_{0}$ calculations include electron–electron correlation but explicitly do not include electron–phonon (polaronic) self-energy contributions, and explain the logical implication: because the orthorhombic $G_{0}W_{0}$ mass $0.226\\ m_{0}$ (which excludes polaronic mass renormalization by construction) already closely matches the experimentally observed mass $0.203\\pm0.016\\ m_{0}$, there is no remaining unexplained mass enhancement in the ARPES data that must be attributed to large-polaron formation (i.e., an additional Fröhlich polaronic mass renormalization is not required to reconcile theory and experiment).\n\n5. State the authors' conclusion about the physical origin of the observed effective mass: the effective mass observed in ARPES can be accounted for by electron–electron correlation effects already included in the $G_{0}W_{0}$ quasiparticle description, and therefore the ARPES-observed effective mass does not provide evidence of a residual mass enhancement that must be attributed to large-polaron formation. The authors explicitly conclude that large-polaron formation cannot be concluded from the photoemission data because the $G_{0}W_{0}$ \"bare-band\" theory already explains the measured mass. \nFig. 3\n\n6. Record the authors' stated caveats and limitations relevant to this inference: the orthorhombic calculation used Wannierization for the valence band only, which could slightly overestimate the effective mass, and there exist computational variations in $G_{0}W_{0}$ implementations and convergence (the authors benchmark and discuss differences with prior GW results in their Supplemental Material); these computational caveats are acknowledged by the authors but judged insufficient to alter the primary conclusion that no additional polaronic mass enhancement is required to explain the ARPES effective mass. \nFig. S4"
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b",
+        "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_e721feb37399e0b7",
+      "type": "deduction"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_1a573fdc",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c",
+              "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.78,
+        "reason": "The Zhao et al. finite-temperature HSE-SOC/AIMD claim computes a 300 K CsPbBr3 hole mass of 0.265 m0 and explicitly states agreement with the ARPES measurement used as the package root; this supports the root measurement as a reproducible finite-temperature benchmark, while also motivating the thermal-disorder interpretation branch."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_d6243c740f80bee2",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_3d477b43",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c",
+              "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.58,
+        "reason": "The Sajedi et al. G0W0 claim gives an orthorhombic CsPbBr3 hole mass near the ARPES-scale value. Because it is a theory baseline with different extraction assumptions, this is weak contextual support rather than a direct replication of the root measurement."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_942f16c9d452209a",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_5e907da32c114d34",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_2b678218",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed",
+              "github:perovskite_arpes_polaron::gcn_5e907da32c114d34"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.9,
+        "reason": "The more atomic Feynman-polaron mass calculation gives m_pol = 0.24 m_e from m0 = 0.17 m_e and alpha = 1.81, which is the numerical core of the broader claim that the polaron model reproduces the ARPES mass."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_e500aa85c8a4f6f2",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_b56a7935",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48",
+              "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.88,
+        "reason": "The thermal-fluctuation mass-renormalization claim quantifies the change from an ideal 0 K hole mass near 0.149 m0 to a 300 K AIMD value of 0.265 m0, directly supporting the finite-temperature explanation of the ARPES-scale mass."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_a840728d6bf7f6a8",
+      "type": "support"
+    }
+  ]
+}

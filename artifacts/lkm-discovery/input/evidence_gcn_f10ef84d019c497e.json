@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Comparing three computational scenarios evaluated at $T=300\\,$K on supercells of size $8\\times 8\\times 2$ unit cells — (A) an ideal tetragonal static Hamiltonian with no thermal fluctuations, (B) spatially uniform fluctuations constructed by averaging $300\\,$K thermally disordered Hamiltonian matrix elements across unit cells (so every unit cell shares the same averaged matrix elements), and (C) full $300\\,$K spatially disordered Hamiltonians where each unit cell retains its local instantaneous matrix elements — shows that (B) increases both electron and hole effective masses by $\\sim$21% relative to (A) (attributable to average bond-length and octahedral-rotation effects), while (C) increases hole masses by $\\sim$66% and electron masses by $\\sim$71% relative to (A); hence, local spatial disorder (unit-cell-to-unit-cell fluctuations) is the dominant contributor to the large finite-temperature effective mass enhancement observed in methylammonium lead iodide (MAPbI$_{3}$) at these simulation sizes.",
+      "content_hash": "922a070fad3cd3c9d47220a780d73526ce6022dad3b961156d8cb17467f41490",
+      "id": "gcn_f10ef84d019c497e",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Comparing three computational scenarios evaluated at $T=300\\,$K on supercells of size $8\\times 8\\times 2$ unit cells — (A) an ideal tetragonal static Hamiltonian with no thermal fluctuations, (B) spatially uniform fluctuations constructed by averaging $300\\,$K thermally disordered Hamiltonian matrix elements across unit cells (so every unit cell shares the same averaged matrix elements), and (C) full $300\\,$K spatially disordered Hamiltonians where each unit cell retains its local instantaneous matrix elements — shows that (B) increases both electron and hole effective masses by $\\sim$21% relative to (A) (attributable to average bond-length and octahedral-rotation effects), while (C) increases hole masses by $\\sim$66% and electron masses by $\\sim$71% relative to (A); hence, local spatial disorder (unit-cell-to-unit-cell fluctuations) is the dominant contributor to the large finite-temperature effective mass enhancement observed in methylammonium lead iodide (MAPbI$_{3}$) at these simulation sizes.",
+              "id": "gcn_f10ef84d019c497e"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_38bcff0c0de54182",
+            "premises": [
+              {
+                "content": "To separate contributions to effective mass renormalization from average bond-length/octrahedral-rotation effects versus spatial disorder, three computational scenarios are compared on the same set of thermally disordered structures: (A) an ideal tetragonal static Hamiltonian with no fluctuations, (B) spatially uniform fluctuations obtained by averaging $300\\,$K thermally disordered Hamiltonian matrix elements over all unit cells so that every unit cell has identical averaged matrix elements, and (C) full $300\\,$K spatially disordered Hamiltonians preserving local unit-cell-to-unit-cell variations; the proposition is that this decomposition cleanly separates the two contributions and that the observed relative mass changes (A→B $\\sim$21% vs A→C $\\sim$66%–71%) genuinely quantify the distinct roles of average structural shifts and local spatial disorder without significant cross-contamination from finite-size, sampling, or nonlinearity in the Hamiltonian-to-mass mapping.",
+                "id": "gcn_af2df78ff7fa4847"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Use the tight-binding model parameterized from DFT and MD (conclusion 1) to compute carrier masses under three controlled scenarios as described by the authors: (A) \"No fluctuations\" — Hamiltonian calculated from the ideal symmetric tetragonal structure at 300 K with averaged onsite and SOC values; (B) \"Spatially uniform fluctuations\" — Hamiltonian matrix elements averaged across unit cells of thermally disordered 300 K structures so that only spatially uniform fluctuations enter; (C) \"Full 300 K thermal disorder\" — Hamiltonians from fully thermally disordered 300 K structures retaining spatial inhomogeneity.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Specify computational details and sampling used to obtain mass statistics: calculations use 100 structures taken from 300 K trajectories at a simulation size of $8\\times 8\\times 2$ unit cells; the $8\\times 8\\times 2$ size is chosen as a scale before significant localization occurs (as reported later in localization analysis).",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Report the numerical mass values for the three scenarios as given in the authors' table: for holes, the masses (in units of electron mass $m_{e}$) are (A) $(0.069,0.074,0.069)$, (B) $(0.084,0.090,0.084)$, and (C) $(0.114,0.126,0.115)$; for electrons, the masses are (A) $(0.072,0.074,0.072)$, (B) $(0.088,0.089,0.087)$, and (C) $(0.122,0.128,0.123)$. These numbers are taken directly from the authors' reported Table II.\nTable II",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Compute and state the relative increases attributed to average bond-length changes versus spatial disorder using the reported masses: comparing (A) to (B) shows an approximate $ \\sim 21\\% $ increase in both electron and hole masses attributable to average bond-length changes and octahedral rotations captured by the spatially uniform fluctuations; comparing (A) to (C) shows approximate increases of $ \\sim 66\\% $ for holes and $ \\sim 71\\% $ for electrons, indicating that spatial disorder (local, unit-cell-to-unit-cell fluctuations retained in case C but not in B) produces a much larger mass enhancement than the uniform-average effect alone.",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "State the authors' conclusion: since the mass increase due to full spatial disorder (case C) is substantially larger than that due to spatially uniform average changes (case B), spatial disorder is identified as the dominant contributor to the large finite-temperature effective mass enhancement in MAPbI$_{3}$ at 300 K in these simulations.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Charge-carrier effective masses at finite temperature can be increased by (i) a uniform renormalization of average hopping amplitudes (e.g., from thermal expansion) and (ii) additional scattering/localization effects arising from spatially varying bond geometries and potentials. Disentangling these two contributions requires computing masses for (i) the ideal crystal, (ii) the crystal with only spatially uniform thermal renormalization, and (iii) the fully disordered crystal. Prior work has emphasized polaronic and electron–phonon contributions, but the relative quantitative importance of spatial disorder versus uniform bond-length changes for mass renormalization was unclear. The comparison above demonstrates that spatial disorder is the larger effect for mass enhancement at room temperature in MAPbI$_{3}$.",
+            "id": "paper:867745366357836180::conclusion_6_subproblem",
+            "source_package": "paper:867745366357836180"
+          }
+        ],
+        "source_package": "paper:867745366357836180"
+      }
+    ],
+    "papers": {
+      "paper:867745366357836180": {
+        "area": "arXiv-Physics",
+        "authors": "David J. Abramovitch | Wissam A. Saidi | Liang Z. Tan",
+        "available_online": "",
+        "cover_date_start": "2021-05-13",
+        "created_at": "2023-05-23T04:30:17+08:00",
+        "doi": "10.48550/arXiv.2105.06525",
+        "en_title": "Thermal fluctuations and carrier localization induced by dynamic disorder in MAPbI3 described by a first-principles based tight-binding model",
+        "id": "867745366357836180",
+        "keywords": "",
+        "publication_date": "2021-05-13",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "基于第一性原理的紧束缚模型描述的MAPbI₃中由动态无序引起的热涨落和载流子局域化"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "986912ed8d1d98dfe7f43dadbf4ffd4e"
+}

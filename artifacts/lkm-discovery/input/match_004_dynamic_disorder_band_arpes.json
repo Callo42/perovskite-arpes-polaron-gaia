@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1035862525075259422": {
+        "area": "Chemistry",
+        "authors": "Tahira Khan | Sviatoslav Baranets | Manas R. Gartia | Jianwei Wang | Jyotsna Sharma",
+        "available_online": "",
+        "cover_date_start": "2024-08-27",
+        "created_at": "2024-08-29T02:27:51+08:00",
+        "doi": "10.1021/acsomega.4c04354",
+        "en_title": "Mapping and Characterization of Local Structures of CsPbBr 3",
+        "id": "1035862525075259422",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3485",
+        "publication_name": "ACS Omega _ ",
+        "research_categories": "",
+        "zh_title": "CsPbBr₃ 局部结构的映射与表征"
+      },
+      "paper:811148079376891904": {
+        "area": "Physics and Astrophysics",
+        "authors": "Daniel Niesner | Max Wilhelm | Ievgen Levchuk | Andres Osvet | Shreetu Shrestha | Miroslaw Batentschuk | Christoph Brabec | Thomas Fauster",
+        "available_online": "2016-9-13",
+        "cover_date_start": "2016-09-13",
+        "created_at": "2022-12-18T00:12:54+08:00",
+        "doi": "10.1103/physrevlett.117.126401",
+        "en_title": "Giant Rashba Splitting in CH 3 NH 3 PbBr 3 Organic-Inorganic Perovskite",
+        "id": "811148079376891904",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "CH₃NH₃PbBr₃有机-无机钙钛矿中的巨Rashba分裂"
+      },
+      "paper:812038717261742080": {
+        "area": "Material science",
+        "authors": "N. Tobita | K. Emi | N. Nakajima | H. Maruyama | Y. Miura | M. Higashiguchi | K. Shimada | H. Namatame | M. Taniguchi",
+        "available_online": "",
+        "cover_date_start": "2007-03-01",
+        "created_at": "2022-12-20T11:11:57+08:00",
+        "doi": "10.1016/j.jmmm.2006.10.492",
+        "en_title": "Valence-band photoemission spectroscopy of a single-crystal FePt3",
+        "id": "812038717261742080",
+        "keywords": "[{\"en_name\": \"Angle-resolved photoemission spectroscopy\", \"ch_name\": \"\"}, {\"en_name\": \"Electronic band structure\", \"ch_name\": \"\"}, {\"en_name\": \"FePt<sub>3</sub>\", \"ch_name\": \"\"}]",
+        "publication_date": "2007-3",
+        "publication_id": "2151",
+        "publication_name": "Journal of Magnetism and Magnetic Materials _ Journal of Magnetism and Magnetic Materials",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "单晶FePt₃的价带光电子能谱"
+      },
+      "paper:812592595619282945": {
+        "area": "Material science",
+        "authors": "Munisa Nurmamat | Kazuaki Okamoto | Siyuan Zhu | Tatiana V. Menshchikova | Igor P. Rusinov | Vladislav O. Korostelev | Koji Miyamoto | Taichi Okuda | Takeo Miyashita | Xiaoxiao Wang | Yukiaki Ishida | Kazuki Sumida | Eike F. Schwier | Mao Ye | Ziya S. Aliev | Mahammad B. Babanly | Imamaddin R. Amiraslanov | Evgueni V. Chulkov | Konstantin A. Kokh | Oleg E. Tereshchenko | Kenya Shimada | Shik Shin | Akio Kimura",
+        "available_online": "2020-7-6",
+        "cover_date_start": "2020-07-06",
+        "created_at": "2022-12-21T23:52:53+08:00",
+        "doi": "10.1021/acsnano.0c04145",
+        "en_title": "Topologically Nontrivial Phase-Change Compound GeSb2Te4",
+        "id": "812592595619282945",
+        "keywords": "",
+        "publication_date": "2020-7-28",
+        "publication_id": "2020",
+        "publication_name": "ACS Nano _ ACS Nano",
+        "research_categories": "",
+        "zh_title": "拓扑非平凡相变化合物GeSb₂Te₄"
+      },
+      "paper:813070127728689152": {
+        "area": "Chemistry",
+        "authors": "I Vobornik | C Quitmann | M Zacchigna | F Zwick | M Grioni | A Karkin | R.J Kelley | M Onellion | G Margaritondo",
+        "available_online": "",
+        "cover_date_start": "1998-05-01",
+        "created_at": "2022-12-23T07:30:25+08:00",
+        "doi": "10.1016/s0039-6028(97)01022-4",
+        "en_title": "Irradiation-induced disorder in high-Tc cuprates: electronic band structure study",
+        "id": "813070127728689152",
+        "keywords": "",
+        "publication_date": "1998-5",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "高温铜酸盐中辐照诱导的无序：电子能带结构研究"
+      },
+      "paper:814574837006598144": {
+        "area": "Material science",
+        "authors": "Serhii Polishchuk | Michele Puppin | Alberto Crepaldi | Gianmarco Gatti | Dmitry N. Dirin | Olga Nazarenko | Nicola Colonna | Nicola Marzari | Maksym V. Kovalenko | Marco Grioni | Majed Chergui",
+        "available_online": "2022-1-19",
+        "cover_date_start": "2022-01-19",
+        "created_at": "2022-12-27T11:09:36+08:00",
+        "doi": "10.1021/acs.nanolett.1c03941",
+        "en_title": "Nanoscale-Resolved Surface-to-Bulk Electron Transport in CsPbBr3 Perovskite",
+        "id": "814574837006598144",
+        "keywords": "",
+        "publication_date": "2022-2-9",
+        "publication_id": "2026",
+        "publication_name": "Nano Letters _ Nano Lett.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "CsPbBr₃钙钛矿中纳米级分辨的表面到体相的电子传输"
+      },
+      "paper:867762372951933877": {
+        "area": "arXiv-Physics",
+        "authors": "Xinxin Li | Wanyi Nie | Xuedan Ma",
+        "available_online": "",
+        "cover_date_start": "2023-02-15",
+        "created_at": "2023-05-23T05:37:52+08:00",
+        "doi": "10.48550/arXiv.2302.07703",
+        "en_title": "Intersubband Transitions in Lead Halide Perovskite-Based Quantum Wells for Mid-Infrared Detectors",
+        "id": "867762372951933877",
+        "keywords": "",
+        "publication_date": "2023-02-15",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "用于中红外探测器的卤化铅钙钛矿基量子阱中的子带间跃迁"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      },
+      "paper:867773958810763580": {
+        "area": "arXiv-Physics",
+        "authors": "Christian Gehrmann | Sebastián Caicedo-Dávila | Xiangzhou Zhu | David A. Egger",
+        "available_online": "",
+        "cover_date_start": "2021-11-01",
+        "created_at": "2023-05-23T06:23:54+08:00",
+        "doi": "10.48550/arXiv.2111.00729",
+        "en_title": "Transversal Halide Motion Intensifies Band-To-Band Transitions in Halide Perovskites",
+        "id": "867773958810763580",
+        "keywords": "",
+        "publication_date": "2021-11-01",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "横向卤化物运动增强卤化物钙钛矿中的带间跃迁"
+      }
+    },
+    "variables": [
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed mapping that CsPbBr3/CsPbCl3 single quantum wells with fixed CsPbCl3 barrier thickness of 10 nm and CsPbBr3 well thicknesses constrained below an estimated critical thickness of ≈9 nm produce valence‑band intersubband spacings spanning ≈235 meV down to ≈66 meV and a continuous thickness dependence was obtained under modeling assumptions that include fixed conduction/valence band offsets of about 0.34 eV between CsPbBr3 and CsPbCl3, ideal abrupt interfaces, an assumed cubic crystal structure for CsPbBr3, isotropic effective masses, and no interface disorder or mixed crystal phases in the simulated heterostructures.\n      Fig. 4(c)",
+        "content_hash": "bee3dbfd7ac68f77676693452b3c6850752e9c7f2759aaa69fa1ca40ec722555",
+        "id": "gcn_5eb94f5c32b642b3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867762372951933877::P2",
+            "package_id": "paper:867762372951933877",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867762372951933877"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extreme-ultraviolet (EUV) time- and angle-resolved photoelectron spectroscopy (TR-ARPES, where TR-ARPES denotes time- and angle-resolved photoelectron spectroscopy) using an ultraviolet (UV) pump pulse and a tunable extreme-ultraviolet probe pulse provides experimental sensitivity normal to the sample surface on the order of sub-nanometer depth because the photoelectron inelastic mean free path (IMFP) in CsPbBr3 at probe photon energies of approximately $20$–$30\\ \\text{eV}$ is about $5\\ \\text{\\AA}$, it provides femtosecond temporal resolution set by a pump–probe cross-correlation of about $70\\ \\text{fs}$, and it preserves in-plane momentum resolution; together these measurement characteristics allow direct, time-resolved monitoring of the conduction-band (CB) electron population confined to the near-surface probed volume and therefore enable observation of surface-to-bulk carrier migration on femtosecond–picosecond time scales in CsPbBr3 single crystals.",
+        "content_hash": "68d948824f770c06d899bdeb36258d98782aa7243a9a47585e5d6a6e70f5e22d",
+        "id": "gcn_c35a6e3ee8df481c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814574837006598144::conclusion_1",
+            "package_id": "paper:814574837006598144",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814574837006598144"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For bulk cesium lead tribromide (CsPbBr₃), a Kohn–Sham density-functional theory (DFT) calculation using the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange–correlation functional on an energy-minimized structure that was relaxed from a tetragonal starting configuration yields a total electronic single-particle density of states (DOS) with a computed band-gap energy of 1.93 eV; in these DFT-PBE DOS results the spectral feature at approximately −7.5 eV is assigned to orbital overlap between cesium 5p and lead 6s states, the valence-band maximum arises from overlapping lead 6s with bromine 4p and lead 6p with bromine 4p contributions, and the conduction-band minimum (located roughly +2 to +6 eV above the calculated Fermi level) is composed predominantly of overlapping lead 6p and bromine 4p orbitals.",
+        "content_hash": "ade471f380c4d7535fbc4ac39bc55cfb67a2cebb92f001f2eea7b3ae89bd6753",
+        "id": "gcn_4b5924ffb068455e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1035862525075259422::conclusion_1",
+            "package_id": "paper:1035862525075259422",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1035862525075259422"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-space splitting (ring-shaped maxima at $|k_{\\parallel}|=k_0$ and central minimum depth $E_c$) observed by ARPES at room temperature on CH3NH3PbBr3 reflects a physically meaningful, time- and spatially-averaged band-structure characteristic of the material's cubic-phase electronic states, even though the underlying lattice and organic-cation orientations are dynamically disordered on picosecond time scales; this asserts that the measured splitting is not solely an artefact of transient local distortions, short-lived domains, or measurement of rare nonrepresentative local configurations within the probed spot and timescale.",
+        "content_hash": "726a36543fbdb7443446abf982a5897aec4f8226828564916772831da69e77f3",
+        "id": "gcn_0c28e58449c2454d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811148079376891904::P6",
+            "package_id": "paper:811148079376891904",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811148079376891904"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $k_{F}^{\\mathrm{ARPES}}$ denote the Fermi wavevector measured by bulk-sensitive laser ARPES for a band crossing at the Fermi level $E_{F}$ (here $k_{F}^{\\mathrm{ARPES}}\\approx 0.11\\ \\text{\\AA}^{-1}$ as obtained from $h\\nu=6.3\\ \\mathrm{eV}$ laser-ARPES). Let $k_{F}^{\\mathrm{transport}}$ denote the Fermi wavevector inferred from prior electronic-transport measurements on crystalline GeSb$_{2}$Te$_{4}$ annealed at $275\\ ^\\circ\\mathrm{C}$ (where carrier densities were converted to a characteristic $k_{F}$ under a simple Fermi-surface model). The proposition is: \"If $k_{F}^{\\mathrm{ARPES}}$ agrees with $k_{F}^{\\mathrm{transport}}$ within experimental uncertainty, then the ARPES-measured bulk band is the same electronic structure responsible for the transport carriers measured previously.\" This inference assumes (i) an isotropic or otherwise simple Fermi-surface interpretation of the transport-derived carrier density, (ii) identical sample stoichiometry, annealing, and disorder conditions between the ARPES and transport samples, and (iii) negligible contributions to transport from multiple bands, inhomogeneous sample regions, or localized carriers that would invalidate a one-to-one mapping between a single ARPES band and the transport carrier population.",
+        "content_hash": "51776dca796e3eab6d16a29dc7ff3c671b8f4acc69d3f689b2c797d1c32e2cc5",
+        "id": "gcn_ba35b6e1cb204673",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812592595619282945::P4",
+            "package_id": "paper:812592595619282945",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812592595619282945"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The joint density of states (JDOS) $j(E)$ for CsPbBr$_3$, computed from instantaneous density-functional-theory (DFT) electronic structures sampled from an MD trajectory at $T=425\\,$K (an ensemble of instantaneous ionic configurations), differs from the JDOS computed for a single static cubic structure in two ways: (i) the onset of $j(E)$ shifts by approximately $0.5\\,$eV in energy, and (ii) the MD-derived $j(E)$ rises much more rapidly at the absorption edge than the static result. Consistently, the time-averaged MD band-gap energy (computed as a time average of instantaneous Kohn–Sham conduction-minus-valence eigenvalue differences) differs from the static cubic DFT band-gap energy by approximately $0.7\\,$eV.",
+        "content_hash": "969310964ad3d7982eec9b715d57e17a7031cdec18a5dd73761e1c5c47c2e165",
+        "id": "gcn_f99c6f50add54b22",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867773958810763580::conclusion_2",
+            "package_id": "paper:867773958810763580",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867773958810763580"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The set of ARPES and transport observations on Bi$_2$Sr$_2$CaCu$_2$O$_{8+\\delta}$—namely, (i) suppression of coherent quasiparticle photoemission intensity near the chemical potential with increasing irradiation-induced lattice disorder, (ii) the transition to an insulating electronic state exhibiting dispersion features characteristic of antiferromagnetic-zone folding, and (iii) the failure to recover optimally doped band-structure signatures such as the extended van Hove singularity unless disorder is sufficiently reduced by annealing—demonstrates that disorder-related effects at fixed nominal stoichiometry can substantially modify ARPES spectra and therefore cannot be neglected in interpreting ARPES results and pseudogap phenomenology in underdoped Bi-2212.",
+        "content_hash": "0cc690c8ad6f2eeddac0dc6d3875390d4e764d35bc43437f4ef69b0bbf12c859",
+        "id": "gcn_d36510086ac143c3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813070127728689152::conclusion_5",
+            "package_id": "paper:813070127728689152",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813070127728689152"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For bulk cesium lead tribromide (CsPbBr₃), a Kohn–Sham density-functional calculation performed with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange–correlation functional on the relaxed tetragonal structural geometry, without explicit inclusion of spin–orbit coupling (SOC) and without many-body quasiparticle corrections such as the GW approximation, yields a plotted single-particle density of states (DOS) from which a band-gap value of 1.93 eV is obtained; the substantive proposition under consideration is that this specific computational setup (DFT-PBE, no SOC, no GW) produces a quantitatively accurate estimate of the true single-particle band gap of bulk CsPbBr₃ and that the computed DOS near the band edges is sufficiently accurate for direct comparison with experiment in the absence of additional SOC or GW corrections.",
+        "content_hash": "082fb30f73addd036ac92186eb9c715c14a0e59b08343d703ca7b231e82f2fe4",
+        "id": "gcn_547ddaa2caed44d5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1035862525075259422::P1",
+            "package_id": "paper:1035862525075259422",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1035862525075259422"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The identification of specific ARPES spectral features with the tails or minima of particular calculated bands is based on a self-consistent band-structure calculation provided by external collaborators as a private communication; this premise asserts that the unpublished calculation's computational choices (electronic exchange-correlation functional, treatment of magnetism, k-point sampling, treatment of chemical ordering and disorder, inclusion of spin-orbit coupling, and other calculation parameters) are appropriate for FePt$_3$ and that the unpublished results reliably predict the energy positions and dispersion of Fe 3d minority and Pt 5d bands used to match the ARPES observations.\n      Y. Sawada, T. Shishido, T. Oguchi, private communication (band-structure results).",
+        "content_hash": "6fc2df88a76c344024b3382e969ff7fd0c6ee25f1ab52fc45f03452978fe2b83",
+        "id": "gcn_aa77dbad0502414a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812038717261742080::P9",
+            "package_id": "paper:812038717261742080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812038717261742080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "9c0b46d96eb776a1b8c72eef23b7fa4c"
+}

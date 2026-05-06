@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1051382135996284929": {
+        "area": "arXiv-Physics",
+        "authors": "Li Zhou | Yiduo Wang | Jianlong Kang | Xin Li | Quan Long | Xianming Zhong | Zhihui Chen | Chuanjia Tong | Keqiang Chen | Zi-Lan Deng | Zhengwei Zhang | Chuan-Cun Shu | Yongbo Yuan | Xiang Ni | Si Xiao | Xiangping Li | Yingwei Wang | Jun He",
+        "available_online": "",
+        "cover_date_start": "2024-10-08",
+        "created_at": "2024-10-10T22:17:15+08:00",
+        "doi": "10.48550/arxiv.2410.06198",
+        "en_title": "Observation of polaronic state assisted sub-bandgap saturable absorption",
+        "id": "1051382135996284929",
+        "keywords": "",
+        "publication_date": "2024-10-08",
+        "publication_id": "108520",
+        "publication_name": "Optics _ Physics.physics.optics",
+        "research_categories": "",
+        "zh_title": "极化子态辅助的亚带隙饱和吸收观测"
+      },
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:1194616889481887746": {
+        "area": "arXiv-Physics",
+        "authors": "I.O. Simonenko | R.G. Nazmitdinov | T.N. Vershinina",
+        "available_online": "",
+        "cover_date_start": "2025-11-07",
+        "created_at": "2025-11-10T04:21:01+08:00",
+        "doi": "10.48550/arXiv.2511.05354",
+        "en_title": "Antisolvent-Assisted Growth of Centimeter-Scale CsPbBr_3 Perovskite Single Crystals: A Theory-Guided Approach",
+        "id": "1194616889481887746",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "厘米级CsPbBr₃钙钛矿单晶的反溶剂辅助生长：一种理论指导方法"
+      },
+      "paper:811110300802613250": {
+        "area": "Material science",
+        "authors": "Stephanie ten Brinck | Ivan Infante",
+        "available_online": "2016-11-22",
+        "cover_date_start": "2016-11-22",
+        "created_at": "2022-12-17T21:42:47+08:00",
+        "doi": "10.1021/acsenergylett.6b00595",
+        "en_title": "Surface Termination, Morphology, and Bright Photoluminescence of Cesium Lead Halide Perovskite Nanocrystals",
+        "id": "811110300802613250",
+        "keywords": "",
+        "publication_date": "2016-12-9",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "铯铅卤化物钙钛矿纳米晶体的表面终止、形貌及明亮光致发光"
+      },
+      "paper:811117679736782849": {
+        "area": "Material science",
+        "authors": "Yi Yu | Dandan Zhang | Christian Kisielowski | Letian Dou | Nikolay Kornienko | Yehonadav Bekenstein | Andrew B. Wong | A. Paul Alivisatos | Peidong Yang",
+        "available_online": "2016-11-7",
+        "cover_date_start": "2016-11-07",
+        "created_at": "2022-12-17T22:12:06+08:00",
+        "doi": "10.1021/acs.nanolett.6b03331",
+        "en_title": "Atomic Resolution Imaging of Halide Perovskites",
+        "id": "811117679736782849",
+        "keywords": "",
+        "publication_date": "2016-12-14",
+        "publication_id": "2026",
+        "publication_name": "Nano Letters _ Nano Lett.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "卤化物钙钛矿的原子分辨率成像"
+      },
+      "paper:811773594894860288": {
+        "area": "Physics and Astrophysics",
+        "authors": "Michel Bockstedte | Andrea Marini | Oleg Pankratov | Angel Rubio",
+        "available_online": "2010-7-6",
+        "cover_date_start": "2010-07-06",
+        "created_at": "2022-12-19T17:38:27+08:00",
+        "doi": "10.1103/physrevlett.105.026401",
+        "en_title": "Many-Body Effects in the Excitation Spectrum of a Defect in SiC",
+        "id": "811773594894860288",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "碳化硅中缺陷激发光谱的多体效应"
+      },
+      "paper:812435951493054467": {
+        "area": "Physics and Astrophysics",
+        "authors": "Manjari Jain | Deepika Gill | Preeti Bhumla | Pooja Basera | Saswata Bhattacharya",
+        "available_online": "",
+        "cover_date_start": "2021-05-10",
+        "created_at": "2022-12-21T13:30:26+08:00",
+        "doi": "10.1063/5.0044146",
+        "en_title": "Theoretical insights to excitonic effect in lead bromide perovskites",
+        "id": "812435951493054467",
+        "keywords": "",
+        "publication_date": "2021-5-10",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\"]",
+        "zh_title": "溴化铅钙钛矿中激子效应的理论见解"
+      },
+      "paper:867745792276824182": {
+        "area": "arXiv-Physics",
+        "authors": "Salvador Rodriguez-Gomez Balestra | Jose Manuel Vicent-Luna | Sofia Calero | Shuxia Tao | Juan A. Anta",
+        "available_online": "",
+        "cover_date_start": "2020-03-20",
+        "created_at": "2023-05-23T04:31:59+08:00",
+        "doi": "10.48550/arXiv.2003.09360",
+        "en_title": "Efficient Modelling of Ion Structure and Dynamics in Inorganic Metal Halide Perovskites",
+        "id": "867745792276824182",
+        "keywords": "",
+        "publication_date": "2020-03-20",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "无机金属卤化物钙钛矿中离子结构与动力学的高效建模"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+        "content_hash": "1c1b6b5a8e6abb85588c0b44f4ec5a15eb68b5a2357271084c9c407a682619a5",
+        "id": "gcn_8c3c520295d7488c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_2",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0264808362369338,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Single-crystal X-ray diffraction measured using Mo Kα radiation (wavelength λ = 0.7093 Å) with an exposure of 20 s per frame produced 126 collected reflections of which 97 were integrated, and refinement of these integrated reflections for the optimized CsPbBr3 single crystal gives low-temperature orthorhombic unit-cell parameters a = 8.241(5) Å, b = 8.226(16) Å, c = 11.79(3) Å and unit-cell volume V = 799(3) Å^{3}, consistent with the orthorhombic space group Pbnm.",
+        "content_hash": "a7bcc86708ce0b1cb1a2e0c746c6d552896b25fc5c702e33e7c71984382aa0d7",
+        "id": "gcn_1bffc8c20deb4ba2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1194616889481887746::conclusion_8",
+            "package_id": "paper:1194616889481887746",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1194616889481887746"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider an ab initio molecular dynamics (AIMD) simulation in which interatomic forces are evaluated on-the-fly with DFT/PBE for a finite 2.4 nm orthorhombic CsPbBr3 nanocrystal model in the canonical NVT ensemble at temperature T = 298 K, using an integration timestep Δt = 1 fs and a total simulation length of 7 ps with the first 2 ps discarded for equilibration and the subsequent 5 ps used as production; analysis of structural metrics such as pair distribution functions, octahedral-tilt motifs, and time series of the instantaneous HOMO–LUMO gap over that 5 ps production interval provides sufficient evidence within this computational description to conclude that the orthorhombic structural motif is dynamically retained at room temperature on the simulation timescale and that the nanocrystal remains in the orthorhombic phase under ambient simulated conditions.",
+        "content_hash": "595cf66aa95067a603fb58b894e90ceb4968fb73552bc922f9454126375e0bbc",
+        "id": "gcn_3e72272ee23649bf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811110300802613250::P8",
+            "package_id": "paper:811110300802613250",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811110300802613250"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Ground‑state density functional theory (DFT) based ab initio molecular dynamics (AIMD) simulations performed on finite supercells of orthorhombic CsPbBr₃ and zero‑dimensional Cs₄PbBr₆ over trajectories of order $6\\ \\mathrm{ps}$ yield time series of the conduction band minimum energy $E_{\\mathrm{CBM}}(t)$ and valence band maximum energy $E_{\\mathrm{VBM}}(t)$ whose instantaneous difference defines an instantaneous bandgap; the standard deviation of this instantaneous bandgap (temporal bandgap fluctuation amplitude) increases with temperature from $\\sim22\\ \\mathrm{meV}$ at $100\\ \\mathrm{K}$ to $\\sim49\\ \\mathrm{meV}$ at $300\\ \\mathrm{K}$ for CsPbBr₃ and from $\\sim57\\ \\mathrm{meV}$ at $100\\ \\mathrm{K}$ to $\\sim125\\ \\mathrm{meV}$ at $300\\ \\mathrm{K}$ for Cs₄PbBr₆; separate DFT calculations of elastic properties give Young's moduli $Y\\approx 17.98\\ \\mathrm{GPa}$ for orthorhombic CsPbBr₃ and $Y\\approx 16.52\\ \\mathrm{GPa}$ for Cs₄PbBr₆, indicating that the softer Cs₄PbBr₆ lattice in these calculations correlates with larger simulated band‑edge energy fluctuations.",
+        "content_hash": "d3916ee7c827fad5b2911423eca675e44daa985321ba2a29ed72788ae05bc146",
+        "id": "gcn_f6880901c99145af",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1051382135996284929::conclusion_4",
+            "package_id": "paper:1051382135996284929",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1051382135996284929"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The classical molecular dynamics model with the fitted potential reproduces the temperature dependence of the cubic lattice parameter up to 400 K and yields linear thermal expansion coefficients (volume slope converted to linear coefficient) of $1.26\\times10^{-4}\\,\\mathrm{K}^{-1}$ for CsPbBr$_3$ and $1.27\\times10^{-4}\\,\\mathrm{K}^{-1}$ for CsPbI$_3$, values that are in close numerical agreement with reported experimental values of $1.21\\times10^{-4}\\,\\mathrm{K}^{-1}$ and $1.18\\times10^{-4}\\,\\mathrm{K}^{-1}$, respectively.",
+        "content_hash": "361b42a6cb7bda26b0dfa80a1bc7768e8c06b90f03a9999169e8c7ce8b630b9b",
+        "id": "gcn_23b6e05e9f1845c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867745792276824182::conclusion_5",
+            "package_id": "paper:867745792276824182",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867745792276824182"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Atomic-resolution images acquired under controlled dose-rate conditions show that single CsPbBr3 nanosheets can contain coexisting crystallographic domains in the same particle: some localized regions exhibit the high-temperature cubic structure in [001] projection while adjacent localized regions exhibit the room-temperature orthorhombic structure; the orthorhombic domains display directly observable tilting of Pb–Br6 octahedra in the [001] projected images, and the identification of cubic versus orthorhombic domains is supported by differences between the experimental spatial Fourier transforms of the corresponding image subregions and simulated electron-diffraction patterns computed for cubic and orthorhombic CsPbBr3 in the [001] orientation.",
+        "content_hash": "096df7a9433f44879fdb026bfa2cc3cf88d4f67d7bbc98f6c6be641df795d415",
+        "id": "gcn_c9599e40e58f4f46",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811117679736782849::conclusion_5",
+            "package_id": "paper:811117679736782849",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811117679736782849"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Single-shot $G_{0}W_{0}$ quasiparticle calculations performed on top of Kohn–Sham orbitals obtained from the HSE06 hybrid density functional including spin–orbit coupling (SOC) and with a tuned fraction $\\alpha$ of exact Hartree–Fock exchange produce direct bandgaps (conduction-band minimum and valence-band maximum located at the $R$-point of the cubic Brillouin zone, $R=(0.5,0.5,0.5)$) of $E_{g}=2.37\\ \\mathrm{eV}$ for MAPbBr$_{3}$ with $\\alpha=50\\%$, $E_{g}=2.27\\ \\mathrm{eV}$ for FAPbBr$_{3}$ with $\\alpha=40\\%$, and $E_{g}=2.30\\ \\mathrm{eV}$ for CsPbBr$_{3}$ with $\\alpha=55\\%$; parabolic fits to the $G_{0}W_{0}$ quasiparticle band dispersions including SOC in small $k$-space regions around the band extrema yield electron and hole effective masses whose harmonic combination $\\mu^{-1}=m_{e}^{*-1}+m_{h}^{*-1}$ gives reduced masses $\\mu$ (in units of the free-electron mass $m_{0}$) of $\\mu=0.113$ for MAPbBr$_{3}$, $\\mu=0.115$ for FAPbBr$_{3}$, and $\\mu=0.080$ for CsPbBr$_{3}$.",
+        "content_hash": "5bbbba19545a49634e72117fe2144f489d15765e19016a3dd56408e25f26a7d0",
+        "id": "gcn_0ce7597200b44e0c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812435951493054467::conclusion_2",
+            "package_id": "paper:812435951493054467",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812435951493054467"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The single-shot G0W0 quasiparticle correction to the DFT-LSDA fundamental band gap of bulk 4H-SiC (computed at the DFT lattice constant) increases the DFT-LSDA gap by $0.93\\ \\mathrm{eV}$, producing a G0W0 band gap of $3.11\\ \\mathrm{eV}$ (to be compared with the reported experimental gap of $3.265\\ \\mathrm{eV}$).",
+        "content_hash": "86ac4c4ce602ce0bcdc41b4df271e320967b5352dd5630b06abc134defc9c761",
+        "id": "gcn_a2a3c9eb553f4e2b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811773594894860288::conclusion_6",
+            "package_id": "paper:811773594894860288",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811773594894860288"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "58a5f00ee6905330f4ab0a2e55b9b7f2"
+}

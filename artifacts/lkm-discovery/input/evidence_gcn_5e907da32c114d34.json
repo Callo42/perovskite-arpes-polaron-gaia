@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+      "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+      "id": "gcn_5e907da32c114d34",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+              "id": "gcn_5e907da32c114d34"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_9f427fc1c9c64387",
+            "premises": [
+              {
+                "content": "Define the computational workflow as the sequence: (A) compute ab initio phonons, Born effective charges, and dielectric response by density-functional perturbation theory (DFPT); (B) compute the ab initio long-wavelength Fröhlich electron–phonon vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega; (C) reduce the multi-mode result to a single effective LO-like mode characterized by parameters (\\\\tilde{g}_{\\\\mathrm{LO}}^{2},\\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}) and compute the Fröhlich coupling parameter \\\\alpha from these inputs and the bare mass m_0; and (D) use a Feynman-polaron calculation with the ab initio bare mass m_0 and the computed \\\\alpha to predict the polaron-renormalized mass m_{\\\\mathrm{pol}}; the proposition is that this same sequence of calculations and approximations will produce quantitatively accurate predictions of carrier effective masses across the broader family of inorganic and hybrid lead-halide perovskites (LHPs) when the Fröhlich mechanism dominates carrier dressing, i.e., the method is generally predictive for LHPs beyond the tested case of orthorhombic CsPbBr$_3$.",
+                "id": "gcn_943f1f964b7a4374"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Treat Conclusions 6 and 1 as established starting points: the Feynman-polaron calculation (Conclusion 6) predicts a polaron-renormalized hole mass $m_{\\mathrm{pol}}=0.24\\,m_e$, and the ARPES experiment (Conclusion 1) measured $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Compare the two values and state that $m_{\\mathrm{pol}}=0.24\\,m_e$ falls within the experimental uncertainty range of $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$ (specifically, the lower bound of the experimental interval is $0.24\\,m_e$), indicating quantitative agreement between the ab initio electron–phonon plus Feynman-polaron prediction and the ARPES measurement.\nFig. 4(a)",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Formulate the validation claim made by the authors: the combination of (i) ab initio evaluation of the Fröhlich vertex and dielectric response, yielding $\\tilde{g}_{\\mathrm{LO}}^{2}$ and $\\hbar\\tilde{\\omega}_{\\mathrm{LO}}$, and (ii) a Feynman polaron calculation using the ab initio bare mass $m_{0}$ and the computed $\\alpha$, reproduces the experimentally measured hole effective mass in orthorhombic $CsPbBr_3$ within experimental uncertainty; therefore, the presented first-principles electron–phonon calculation plus Feynman-polaron treatment constitutes a viable predictive method to compute carrier effective masses in lead-halide perovskites, as the authors assert.\n[45]",
+                "step_id": "3"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "To move from qualitative models to predictive understanding one needs an end-to-end, parameter-free procedure that starts from atomic structure and produces renormalized quasiparticle properties comparable to momentum-resolved experiments. Before this work, separate elements existed (ab initio phonons, model polaron theories, optical inferences), but there was no demonstrated, quantitatively validated workflow that combined ab initio Fröhlich coupling calculations with an appropriate polaron theory to predict an experimentally observed quasiparticle mass in an LHP; without such validation, predictive application of first-principles methods to other LHP compositions and phases remained uncertain.",
+            "id": "paper:812638467241541632::conclusion_8_subproblem",
+            "source_package": "paper:812638467241541632"
+          }
+        ],
+        "source_package": "paper:812638467241541632"
+      }
+    ],
+    "papers": {
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "6915a086b48cd43bbc64eca7d6412a75"
+}

@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811097776103358464": {
+        "area": "Physics and Astrophysics",
+        "authors": "Fabio G. Santomauro | Jakob Grilj | Lars Mewes | Georgian Nedelcu | Sergii Yakunin | Thomas Rossi | Gloria Capano | André Al Haddad | James Budarz | Dominik Kinschel | Dario S. Ferreira | Giacomo Rossi | Mario Gutierrez Tovar | Daniel Grolimund | Valerie Samson | Maarten Nachtegaal | Grigory Smolentsev | Maksym V. Kovalenko | Majed Chergui",
+        "available_online": "",
+        "cover_date_start": "2017-07-01",
+        "created_at": "2022-12-17T20:53:01+08:00",
+        "doi": "10.1063/1.4971999",
+        "en_title": "Localized holes and delocalized electrons in photoexcited inorganic perovskites: Watching each atomic actor by picosecond X-ray absorption spectroscopy",
+        "id": "811097776103358464",
+        "keywords": "",
+        "publication_date": "2017-7",
+        "publication_id": "560",
+        "publication_name": "Structural Dynamics _ Structural Dynamics",
+        "research_categories": "",
+        "zh_title": "光激发无机钙钛矿中的局域空穴和离域电子：通过皮秒X射线吸收光谱法观察每个原子角色"
+      },
+      "paper:811998935622090753": {
+        "area": "Material science",
+        "authors": "John L. Lyons",
+        "available_online": "2021-7-23",
+        "cover_date_start": "2021-07-23",
+        "created_at": "2022-12-20T08:33:52+08:00",
+        "doi": "10.1021/acs.chemmater.1c01898",
+        "en_title": "Effective Donor Dopants for Lead Halide Perovskites",
+        "id": "811998935622090753",
+        "keywords": "",
+        "publication_date": "2021-8-10",
+        "publication_id": "2060",
+        "publication_name": "Chemistry of Materials _ Chem. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "用于卤化铅钙钛矿的有效施主掺杂剂"
+      },
+      "paper:812799399926169602": {
+        "area": "Material science",
+        "authors": "Jun Yin | Ghada H. Ahmed | Osman M. Bakr | Jean-Luc Brédas | Omar F. Mohammed",
+        "available_online": "2019-2-26",
+        "cover_date_start": "2019-02-26",
+        "created_at": "2022-12-22T13:34:38+08:00",
+        "doi": "10.1021/acsenergylett.9b00209",
+        "en_title": "Unlocking the Effect of Trivalent Metal Doping in All-Inorganic CsPbBr 3 Perovskite",
+        "id": "812799399926169602",
+        "keywords": "",
+        "publication_date": "2019-3-8",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "揭示三价金属掺杂对全无机CsPbBr₃钙钛矿的影响"
+      },
+      "paper:813109426834636800": {
+        "area": "Comprehensive Periodical",
+        "authors": "Kiyoshi Miyata | Daniele Meggiolaro | M. Tuan Trinh | Prakriti P. Joshi | Edoardo Mosconi | Skyler C. Jones | Filippo De Angelis | X.-Y. Zhu",
+        "available_online": "",
+        "cover_date_start": "2017-08-04",
+        "created_at": "2022-12-23T10:06:34+08:00",
+        "doi": "10.1126/sciadv.1701217",
+        "en_title": "Large polarons in lead halide perovskites",
+        "id": "813109426834636800",
+        "keywords": "",
+        "publication_date": "2017-8-4",
+        "publication_id": "6329",
+        "publication_name": "Science Advances _ Sci. Adv.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中的大极化子"
+      },
+      "paper:840556798095130624": {
+        "area": "Material science",
+        "authors": "Marija Knezevic | Duong Vien Quach | Isabelle Lampre | Marie Erard | Pascal Pernot | David Berardan | C Colbeau-Justin | Mohamed Nawfal Ghazzal",
+        "available_online": "",
+        "cover_date_start": "2023-03-08",
+        "created_at": "2023-03-09T03:52:39+08:00",
+        "doi": "10.1039/d2ta09920a",
+        "en_title": "Adjusting the band gap of CsPbBr3−yXy (X = Cl, I) for optimal interfacial charge transfer and enhanced photocatalytic hydrogen generation",
+        "id": "840556798095130624",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\"]",
+        "zh_title": "调整CsPbBr₃₋ₙXₙ（X = Cl，I）的带隙以实现最佳界面电荷转移并增强光催化产氢性能"
+      },
+      "paper:867764362457121499": {
+        "area": "arXiv-Physics",
+        "authors": "Kingshuk Mukhuti | Arnab Mandal | Basabendra Roy | Sayan Bhattacharyya | Bhavtosh Bansal",
+        "available_online": "",
+        "cover_date_start": "2022-10-10",
+        "created_at": "2023-05-23T05:45:46+08:00",
+        "doi": "10.48550/arXiv.2210.05041",
+        "en_title": "Carrier thermalization and zero-point bandgap renormalization in halide perovskites from the Urbach tails of the emission spectrum",
+        "id": "867764362457121499",
+        "keywords": "",
+        "publication_date": "2022-10-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于发射光谱的乌尔巴赫尾研究卤化物钙钛矿中的载流子热化和零点带隙重整化"
+      }
+    },
+    "variables": [
+      {
+        "content": "Temperature‑dependent dynamic lattice disorder and lattice‑polaron formation in crystalline CsPbBr3 are assumed here to induce level shifts and polaron binding energies whose magnitudes are smaller than about 0.20 eV, so that these dynamical and polaronic effects do not change the qualitative ordering between conduction‑band‑resonant defect states and localized midgap defect states for substitutional Pb‑site impurities (i.e., a defect classified as conduction‑band‑derived in a static HSE+SOC supercell calculation will not be converted into a deep localized donor, nor will a deep localized donor be converted into a conduction‑resonant state, by such effects).",
+        "content_hash": "80e94b061b5d843129c8ba988164af6450c5fae4f3e168dec9cf1e85d97dfa6e",
+        "id": "gcn_b9a513ab0d3f4700",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811998935622090753::P8",
+            "package_id": "paper:811998935622090753",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811998935622090753"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030886196246139225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+        "content_hash": "cb964e1254b791275e660c77db7345d06e04cb67be9d6c6d3a8c94d0950ca5da",
+        "id": "gcn_78dd3a5f6fb84289",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03028233151183971,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For dopant-induced defects in CsPbBr3, calculations performed with the semi-local generalized-gradient-approximation Perdew–Burke–Ernzerhof functional (PBE) and those performed with the higher-level HSE hybrid functional including spin–orbit coupling (HSE+SOC) show the following relationship: the absolute numerical defect formation energies and Kohn–Sham gaps computed at the PBE level are systematically different (PBE yields larger numerical formation energies and smaller single-particle gaps), but the two methods reproduce essentially the same qualitative ordering of defect formation energies as a function of growth (chemical-potential) condition and similar qualitative PDOS features for the dominant dopant-derived band-edge states; thus, PBE-level calculations capture formation-energy ordering and qualitative electronic-structure modifications while HSE+SOC is required for quantitatively accurate band gaps and transition-level positions in these heavy-atom halide perovskites.",
+        "content_hash": "5720bc5cd5035aea67f5f156834fd46976b6bd2e4a3abe447dc18c7215f3b042",
+        "id": "gcn_2b2fa6ceab304941",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812799399926169602::conclusion_6",
+            "package_id": "paper:812799399926169602",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812799399926169602"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02886002886002886,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For bulk crystalline CsPbBr3, define the HSE+SOC-computed defect formation energy E_f(X_s) as the energy required to create a point defect consisting of dopant species X in oxidation state X^{n+} occupying lattice site s (with s = Pb for substitution at a Pb^{2+} site, s = Cs for substitution at a Cs^{+} site, s = Br for substitution at a Br^{-} site, and s = i for an interstitial) in a periodic supercell density functional theory calculation that uses the Heyd–Scuseria–Ernzerhof hybrid exchange-correlation functional together with nonperturbative spin–orbit coupling (HSE+SOC). If the computed HSE+SOC formation energies satisfy E_f(Bi_Pb) ≪ E_f(Bi_Cs), E_f(Bi_Br) across the investigated Br-rich to Br-poor chemical-potential window, then the thermodynamically most probable equilibrium incorporation site for Bi^{3+} during synthesis and equilibration of CsPbBr3 is the Pb lattice site (Bi_Pb), under the assumptions that (a) dopant configuration populations are governed by thermodynamic equilibrium at the relevant synthesis temperature and timescale, (b) kinetic barriers, surface segregation, and non-equilibrium incorporation pathways are negligible or secondary compared with thermodynamic driving forces, and (c) the HSE+SOC supercell calculations include appropriate finite-size, charged-defect image-charge, and potential-alignment corrections so that computed E_f differences reliably predict relative thermodynamic stability.\n      [Original citation text, unchanged]",
+        "content_hash": "4b8ab04ed8802a71c5b71bde1080862021c9d4d89799477c64bc7a49f7ba3e7f",
+        "id": "gcn_fb296260db9948a4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812799399926169602::P1",
+            "package_id": "paper:812799399926169602",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812799399926169602"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Hybrid PBE0 calculations on a periodic $2\\\\times2\\\\times8$ $CsPbBr_{3}$ supercell in which localized geometrical distortions (shortened Pb–Br bonds) are imposed and the charged (+1) supercell is fully relaxed produce a spatial distribution of excess positive (hole) density that decays away from the region of maximal distortion; analysis of the decay and saturation behavior of the excess hole charge density and of the Pb–Br distance distribution along the long cell axis in this finite supercell yields a conservative lower-bound estimate for the hole-polaron radius of $\\\\rho_{h}\\\\sim2.5\\\\ \\\\mathrm{nm}$ in $CsPbBr_{3}$, recognizing that finite-cell periodic images, the seeding perturbation, and the zero-temperature hybrid-DFT treatment bias this value toward smaller localization and therefore render it a lower bound rather than an absolute polaron size in the infinite, finite-temperature crystal.",
+        "content_hash": "dc95c9dc0efd092e65fb587d795adb4866efd4614ee47f243ff1052a6c11e862",
+        "id": "gcn_ba604cfc3bd245e3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813109426834636800::conclusion_4",
+            "package_id": "paper:813109426834636800",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813109426834636800"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In time-resolved X-ray absorption measurements performed on colloidal nanocrystals of CsPbBr3 and CsPb(ClBr)3 suspended in toluene, following 355 nm photoexcitation and probed with an X-ray pulse of 80 ps full-width at half-maximum (FWHM), the Br K-edge transient difference spectrum recorded at a nominal pump‑probe delay of 100 ps (i.e., for delays ≳80 ps given the 80 ps probe width) exhibits two concurrent spectroscopic features: (a) an emergent pre‑edge absorption resonance at photon energy 13.475 keV that is assignable to a bound electronic transition from the bromine 1s core level to a localized 4p-like unoccupied level (a discrete 1s→4p excitation), and (b) a derivative‑like differential lineshape across the rising edge that is phenomenologically consistent with an effective increase of the Br K‑edge ionization threshold by approximately 5 eV. The coexistence of a new discrete 1s→4p resonance and an effective blueshift of the core‑ionization threshold is most straightforwardly interpreted as net removal of electron density at bromine lattice sites toward a neutral‑like electronic configuration with one 4p hole (notation Br0, 4p5), and, because such electronic localization at an anion site is expected to couple to local lattice displacements, these observations imply formation of a small hole polaron localized at Br lattice sites (a quasi‑particle consisting of a hole localized over a length scale on the order of a lattice spacing together with a localized lattice distortion).",
+        "content_hash": "25d5b295e6f1b67258396fb22b611fcf60c2dcf646cab1ffb5d0800165014f1b",
+        "id": "gcn_cb5e53e7dee845e8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811097776103358464::conclusion_1",
+            "package_id": "paper:811097776103358464",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811097776103358464"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ensemble of CsPbBr3 nanosheets studied, the conjunction of (i) a modest zero‑point bandgap renormalization numerically of order 33 meV, (ii) the absence of resolvable phonon‑replica lines in the measured PL spectra at the available instrumental spectral resolution and under the applied excitation conditions, and (iii) linewidth temperature dependence consistent with Bose‑population (coth‑like) scaling rather than strong‑coupling polaronic scaling, collectively provides evidence that disfavors formation of small polarons (self‑trapped excitons) as the operative carrier state in these samples, subject to the caveat that strong inhomogeneous broadening or other extrinsic effects could in principle mask polaronic signatures.",
+        "content_hash": "c65b6e9c6406f07b71340c4abc702f114044e7f9c90dc950e93b404d4bede6c5",
+        "id": "gcn_c11700f569314c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P8",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_f(Ce_Pb) denote the HSE+SOC-computed formation energy for Ce substituting at a Pb site in bulk CsPbBr3; the proposition is that the numerical result E_f(Ce_Pb) < 2.0 eV across the surveyed chemical-potential points implies that Ce^{3+} incorporation into the CsPbBr3 lattice is energetically facile under typical colloidal-synthesis chemical potentials and therefore likely to lead to appreciable dopant incorporation during synthesis, with the proviso that kinetic constraints or surface-mediated effects could still influence actual incorporation efficiency.",
+        "content_hash": "8299c756d77b4054c8debfaf4eda592788f8ac87dbb67b73b927a044250704fc",
+        "id": "gcn_1b469577559c40c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812799399926169602::P18",
+            "package_id": "paper:812799399926169602",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812799399926169602"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let PBE denote the semi-local generalized-gradient approximation using the Perdew–Burke–Ernzerhof exchange-correlation functional and let HSE+SOC denote the hybrid functional with spin–orbit coupling; the proposition is that for the dopant configurations considered in CsPbBr3 the PBE calculations reproduce the same qualitative formation-energy ordering as HSE+SOC and the same qualitative projected density-of-states features (i.e., the presence versus absence of defect-derived band-edge or in-gap states), even though PBE underestimates band gaps and yields different numerical formation energies, assuming that self-interaction and band-gap errors in PBE do not change the qualitative existence or ordering of the defect states in these defect configurations.",
+        "content_hash": "d146ae26fc3a44a06acf7e4f6a42c3d374ae83ca14bdf676639dac721a7756ba",
+        "id": "gcn_328c5979855c44d3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812799399926169602::P14",
+            "package_id": "paper:812799399926169602",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812799399926169602"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Incorporation of iodide into CsPbBr₃ (nominal examples CsPbBr₁.₉₅I₁.₀₅ and CsPbBr₁.₆₅I₁.₃₅) produces spectroscopic signatures characteristic of hole localization on iodide‑derived states: steady‑state and time‑resolved photoluminescence (PL, TRPL) are strongly quenched (for example TRPL lifetime ≈0.39 ns for CsPbBr₁.₉₅I₁.₀₅), femtosecond TAS shows an early‑time redshift of the photobleach (PB) spectral position together with markedly reduced PB amplitude consistent with hole transfer to iodide‑rich valence‑band states, and complementary techniques indicate accelerated non‑radiative hole‑channeling and shortened free‑carrier lifetimes (TAS t₁ ≈ 1.0 ps for CsPbBr₁.₉₅I₁.₀₅ and ≈0.67 ps for CsPbBr₁.₆₅I₁.₃₅; time‑resolved microwave conductivity, TRMC, traces for iodide‑rich samples show substantially shorter long‑lived photoconductivity responses than bromide‑ or chloride‑rich samples), all of which are consistent with iodide acting as a hole‑trapping center.",
+        "content_hash": "7cff9e15a5fe290b7df2b98417a28c68a5bd487ed3a48a0699ef0b9a1293a565",
+        "id": "gcn_556c2696b76646ff",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:840556798095130624::conclusion_4",
+            "package_id": "paper:840556798095130624",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:840556798095130624"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "b96c258750625f39af57654d7f5cd3d5"
+}

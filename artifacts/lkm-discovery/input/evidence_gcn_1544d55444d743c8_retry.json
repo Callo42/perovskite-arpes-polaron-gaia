@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+      "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+      "id": "gcn_1544d55444d743c8",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+              "id": "gcn_1544d55444d743c8"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_31bb841408184d5e",
+            "premises": [
+              {
+                "content": "In an ARPES measurement of a crystalline semiconductor, let E(k) denote the measured quasiparticle energy as a function of the in-plane crystal momentum k (the magnitude of a two-dimensional wave vector measured in reciprocal angstroms, Å^{-1}), and let E_{\\\\mathrm{VBM}} denote the valence-band-maximum (VBM) energy defined as the highest occupied quasiparticle energy; within the momentum window used for fitting the upper valence band, taken here to be the region |k-k_{\\\\mathrm{VBM}}|\\\\lesssim0.1\\\\ \\\\text{\\\\AA}^{-1} around the momentum of the VBM, the quasiparticle dispersion is assumed to be well described by the isotropic in-plane parabolic form\n      E(k)=E_{\\\\mathrm{VBM}}+\\\\frac{\\\\hbar^{2}k^{2}}{2m_{\\\\mathrm{exp}}},\n      where \\\\hbar is the reduced Planck constant and m_{\\\\mathrm{exp}} is the fitted experimental hole effective mass; under this parabolic-band approximation, least-squares fitting of the experimentally extracted band maxima to this functional form returns m_{\\\\mathrm{exp}} and the systematic error in m_{\\\\mathrm{exp}} arising from neglected higher-order (nonparabolic) terms is smaller than the quoted experimental uncertainty of \\\\pm0.02\\\\,m_e, with m_e the free electron mass.",
+                "id": "gcn_2e9e6e30a5d7431c"
+              },
+              {
+                "content": "Let an energy-distribution curve (EDC) be the ARPES-measured photoemission intensity as a function of binding energy E at fixed parallel momentum k; the energy position of the maximum of the measured EDC at the band top is used to define the valence-band-maximum energy E_{\\\\mathrm{VBM}} for the purposes of setting the energy zero and extracting an effective mass, and any systematic shift of the EDC peak maximum from the true quasiparticle band-edge caused by many-body interactions, inelastic background, or the instrumental lineshape is assumed to be smaller than the quoted energy/mass uncertainty so that using the EDC peak maximum to set E=0 does not induce a systematic error larger than \\\\pm0.02\\\\,m_e in the fitted hole effective mass.",
+                "id": "gcn_0a71cf6357114b76"
+              },
+              {
+                "content": "ARPES intensity maps measured over in-plane momentum (k_x,k_y) and as a function of photon energy (which probes different values of the momentum component perpendicular to the surface, k_{\\\\perp}) together with band-unfolding calculations show that the observed periodicity of four valence-band maxima at the surface Brillouin-zone corners and the absence of an additional valence-band maximum at the surface \\\\bar{\\\\Gamma} point are not caused by surface reconstruction, k_{\\\\perp} dispersion, or matrix-element effects; specifically, energy- and polarization-dependent ARPES measurements reveal no signature of an additional VBM at \\\\bar{\\\\Gamma}, and unfolding of orthorhombic bands onto the cubic cell shows negligible spectral weight transfer to backfolded bands, so that the measured dispersion used to obtain m_{\\\\mathrm{exp}} represents bulk-like valence-band behavior relevant to the orthorhombic structure.",
+                "id": "gcn_e24a3d64aa604555"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define ARPES as angle-resolved photoelectron spectroscopy, and define $m_e$ as the free electron mass; state that the experiment measured the momentum-resolved valence-band dispersion of single-crystalline orthorhombic $CsPbBr_3$ at room temperature using ARPES with extreme-ultraviolet photons in the 20–40 eV range; note that samples were cleaved in situ under ultrahigh vacuum and measurements were performed at room temperature in the orthorhombic phase as confirmed by x-ray diffraction.\n[28,29]",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "State that the valence-band photoemission intensity distribution was recorded as a function of energy $E$ and in-plane momentum wave vectors $k_x$ and $k_y$, and that the authors plotted cuts of this three-dimensional ARPES intensity to inspect the upper valence band dispersion along high-symmetry directions of the surface Brillouin zone.\nFig. 1(d)",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Define \"valence-band maximum\" (VBM) as the highest-energy point of the valence band and state that the authors set the energy zero at the VBM; specify that the VBM energy was determined from the energy of the photoemission peak maximum in energy distribution curves (EDCs).\nFig. 1(e)",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "State that ARPES data along the surface-path $\\bar{\\Gamma}-\\bar{M}-\\bar{\\Gamma}$ were acquired and that the upper valence band dispersion in this direction was extracted by fitting the valence-band energy distribution curves with a Gaussian line shape to determine the band maxima as a function of parallel momentum; define the symbol $m_{\\mathrm{exp}}$ to denote the experimentally determined hole effective mass.\nFig. 3",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "State that the authors fitted the experimentally extracted band maxima of the upper valence band with a parabolic dispersion around the band maximum (i.e., they assumed $E(k)=E_{\\mathrm{VBM}}+\\frac{\\hbar^{2}k^{2}}{2m_{\\mathrm{exp}}}$ in the vicinity of the VBM, where $k$ is the in-plane wave vector measured from the VBM and $\\hbar$ is the reduced Planck constant) and that the fit was performed on the upper valence band along the $\\bar{\\Gamma}-\\bar{M}$ direction.\nFig. 3",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Report the fitted numerical result: the parabolic fit around the valence-band maximum yields an experimental hole effective mass $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$, where the stated uncertainty $\\pm0.02\\,m_e$ reflects the fitting and experimental uncertainties described in the methods and Supplemental Material.\nFig. 3\n[30]",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "For a quantitative assessment of polaronic mass renormalization one requires an experimental, momentum-resolved determination of the quasiparticle dispersion near the band extrema. Prior to this measurement, CsPbBr$_3$ lacked a direct ARPES-derived effective mass in its orthorhombic phase: optical and transport probes provided indirect or excitonic estimates and theoretical works predicted small bare masses, but none provided a momentum-resolved quasiparticle bandfit to benchmark many-body renormalizations. Without such an ARPES-derived $m_{\\mathrm{exp}}$, it was impossible to establish unambiguously whether the experimentally relevant hole mass departs from DFT predictions and by how much, precluding an empirical test of polaron-based explanations for reduced mobilities and modified scattering in bulk CsPbBr$_3$.",
+            "id": "paper:812638467241541632::conclusion_1_subproblem",
+            "source_package": "paper:812638467241541632"
+          }
+        ],
+        "source_package": "paper:812638467241541632"
+      }
+    ],
+    "papers": {
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "a65fa8c41ba939585a9f7e2a3fbf4283"
+}

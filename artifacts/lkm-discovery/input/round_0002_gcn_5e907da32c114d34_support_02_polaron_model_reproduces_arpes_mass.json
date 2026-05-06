@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811687751610007552": {
+        "area": "Physics and Astrophysics",
+        "authors": "R. Saniz | H. Dixit | D. Lamoen | B. Partoens",
+        "available_online": "",
+        "cover_date_start": "2010-12-27",
+        "created_at": "2022-12-19T11:57:21+08:00",
+        "doi": "10.1063/1.3532109",
+        "en_title": "Quasiparticle energies and uniaxial pressure effects on the properties of SnO2",
+        "id": "811687751610007552",
+        "keywords": "",
+        "publication_date": "2010-12-27",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "准粒子能量及单轴压力对SnO₂性质的影响"
+      },
+      "paper:811916376221417473": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. L. M. van Mechelen | D. van der Marel | C. Grimaldi | A. B. Kuzmenko | N. P. Armitage | N. Reyren | H. Hagemann | I. I. Mazin",
+        "available_online": "2008-6-6",
+        "cover_date_start": "2008-06-06",
+        "created_at": "2022-12-20T03:05:48+08:00",
+        "doi": "10.1103/physrevlett.100.226403",
+        "en_title": "Electron-Phonon Interaction and Charge Carrier Mass Enhancement in SrTiO 3",
+        "id": "811916376221417473",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "《SrTiO₃ 中的电子 - 声子相互作用与电荷载流子质量增强》"
+      },
+      "paper:812373015365943297": {
+        "area": "Physics and Astrophysics",
+        "authors": "Colin D. Sonnichsen | Dallas P. Strandell | Patrick J. Brosseau | Patanjali Kambhampati",
+        "available_online": "2021-5-26",
+        "cover_date_start": "2021-05-26",
+        "created_at": "2022-12-21T09:20:21+08:00",
+        "doi": "10.1103/physrevresearch.3.023147",
+        "en_title": "Polaronic quantum confinement in bulk CsPb Br 3 perovskite crystals revealed by state-resolved pump/probe spectroscopy",
+        "id": "812373015365943297",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "68812",
+        "publication_name": "Physical Review Research _ Phys. Rev. Research",
+        "research_categories": "",
+        "zh_title": "通过态分辨泵浦/探测光谱揭示的体相CsPbBr₃钙钛矿晶体中的极化子量子限制"
+      },
+      "paper:812512896113180673": {
+        "area": "Material science",
+        "authors": "Heng Zhang | Elke Debroye | Julian A. Steele | Maarten B. J. Roeffaers | Johan Hofkens | Hai I. Wang | Mischa Bonn",
+        "available_online": "2021-1-20",
+        "cover_date_start": "2021-01-20",
+        "created_at": "2022-12-21T18:36:11+08:00",
+        "doi": "10.1021/acsenergylett.0c02482",
+        "en_title": "Highly Mobile Large Polarons in Black Phase CsPbI 3",
+        "id": "812512896113180673",
+        "keywords": "",
+        "publication_date": "2021-2-12",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "黑相CsPbI₃中的高迁移率大极化子"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813043027000950784": {
+        "area": "Physics and Astrophysics",
+        "authors": "Gayan Prasad Hettiarachchi | Mohd Nazlan Mohd Muhid | Halimaton Hamdan",
+        "available_online": "2018-4-19",
+        "cover_date_start": "2018-04-19",
+        "created_at": "2022-12-23T05:42:43+08:00",
+        "doi": "10.1103/physrevb.97.155142",
+        "en_title": "Transition of a small-bipolaron gas to a Fröhlich polaron in a deformable lattice",
+        "id": "813043027000950784",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "在可变形晶格中，小双极化子气体向弗罗利希极化子的转变"
+      },
+      "paper:813109426834636800": {
+        "area": "Comprehensive Periodical",
+        "authors": "Kiyoshi Miyata | Daniele Meggiolaro | M. Tuan Trinh | Prakriti P. Joshi | Edoardo Mosconi | Skyler C. Jones | Filippo De Angelis | X.-Y. Zhu",
+        "available_online": "",
+        "cover_date_start": "2017-08-04",
+        "created_at": "2022-12-23T10:06:34+08:00",
+        "doi": "10.1126/sciadv.1701217",
+        "en_title": "Large polarons in lead halide perovskites",
+        "id": "813109426834636800",
+        "keywords": "",
+        "publication_date": "2017-8-4",
+        "publication_id": "6329",
+        "publication_name": "Science Advances _ Sci. Adv.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中的大极化子"
+      },
+      "paper:867774054214402404": {
+        "area": "arXiv-Physics",
+        "authors": "Junqing Xu | Kejun Li | Uyen N. Huynh | Jinsong Huang | Valy Vardeny | Ravishankar Sundararaman | Yuan Ping",
+        "available_online": "",
+        "cover_date_start": "2022-10-31",
+        "created_at": "2023-05-23T06:24:17+08:00",
+        "doi": "10.48550/arXiv.2210.17074",
+        "en_title": "How Spin Relaxes in Bulk Halide Perovskites",
+        "id": "867774054214402404",
+        "keywords": "",
+        "publication_date": "2022-10-31",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "自旋如何在体相卤化物钙钛矿中弛豫"
+      }
+    },
+    "variables": [
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the Fröhlich electron–phonon coupling expression α = (e² / (4π ħ)) (1/εopt − 1/εs) √(mb* / (2 ħ ωLO)) with numerical inputs εopt = 6.1 ε0, εs = 18.1 ε0, ωLO = 16.15 THz (optical and static permittivities given in units of the vacuum permittivity ε0, and ωLO the effective LO-phonon angular frequency taken from literature values reported for black-phase CsPbI₃), and a bare band effective mass mb* = 0.1 m0 from prior density-functional-theory results, the resulting dimensionless Fröhlich coupling is α ≈ 1.23; inserting α into the low-order polaron mass expansion m* = mb*(1 + α/6 + α²/40 + …) and truncating at the quadratic term gives an estimated polaron effective mass m* ≈ 0.124 m0, consistent with the large-polaron regime (α < 6).",
+        "content_hash": "7841fab7387ab5f8d7f0b68eb1b8cb6bd497e744f283956d67061aea718ed993",
+        "id": "gcn_420c9ad0fe5e4945",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812512896113180673::conclusion_5",
+            "package_id": "paper:812512896113180673",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812512896113180673"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m^*(α) denote the variational single-polaron effective-mass relation derived by Feynman for the Fröhlich polaron in the parameter range 0 < α < 12, where α is the Fröhlich electron–phonon coupling constant. The proposition is that an experimentally extracted many-electron mass-renormalization factor m^*/m in an itinerant polaronic metal can be meaningfully mapped onto the single-particle variational relation m^*(α) to obtain an effective estimate of α (for example, yielding α ≈ 3.3 for m^*/m ≈ 1.7–1.8), i.e., the single-polaron Feynman formula is used here as a proxy to estimate an effective Fröhlich coupling strength for the observed itinerant phase despite neglecting many-electron effects such as screening and polaron–polaron interactions.\n      [28]",
+        "content_hash": "841bbadc39cf54c8919548ad392260fa9e42d899269f274f3671b1556b1bd124",
+        "id": "gcn_116e90fa9d1e4ebf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813043027000950784::P14",
+            "package_id": "paper:813043027000950784",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813043027000950784"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the Fröhlich coupling constant $\\alpha$ as the dimensionless parameter characterizing the long-range electron–longitudinal-optical-phonon interaction in the single-polaron Fröhlich model, and let $m^{*}(\\alpha)$ denote the polaron effective mass given by Feynman's variational solution for a single electron coupled to dispersionless longitudinal optical phonons, valid for $0<\\alpha<12$. Applying the single-particle Feynman variational relation $m^{*}(\\alpha)$ to an experimentally measured optically determined effective mass $m^{*}$ obtained from a finite-density Nb-doped SrTiO3 sample yields an approximate effective Fröhlich coupling constant in the range $3<\\alpha<4$; this application treats the single-polaron relation as an approximate guide for the intermediate-density regime despite the presence of finite carrier density, a Fermi energy $E_F$ comparable to the phonon energy $\\hbar\\omega_{\\mathrm{LO}}$, and attendant many-body screening and Pauli-blocking effects.\n      Feynman variational polaron relation discussed in the paper and cited reference [22] (R.P. Feynman, Phys. Rev. 97, 660 (1955)).",
+        "content_hash": "5de7d99fdcbf0315a5bfb144482ee58937982fd4835adf0bb967080c591e9148",
+        "id": "gcn_8f209e2164154060",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811916376221417473::P5",
+            "package_id": "paper:811916376221417473",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811916376221417473"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the Fröhlich electron–phonon interaction denote the long-range $q\\rightarrow0$ polar coupling between electrons and longitudinal-optical (LO) phonons that yields spin-conserving coupling matrix elements scaling as $1/q$ in magnitude for small $q$. In bulk CsPbBr$_3$, the long-range Fröhlich coupling is assumed to contribute negligibly to spin-flip electron–phonon matrix elements because the long-range part of the electron–phonon coupling couples predominantly to charge-density (spin-independent) operators, while spin-dependent parts of the electron–phonon interaction arise from short-range crystal-potential variations together with spin–orbit-induced spin mixing. Under this separation, Fröhlich-dominated modes such as O57 and O58 are assumed to have vanishingly small spin-flip modulus squares $|g^{\\uparrow\\downarrow}|^{2}(q\\to0)$ compared with the modes that dominate spin relaxation.",
+        "content_hash": "7b370ea6228a68affd72e08f239111148f564c1b6bf9c4373c5d9c2d9dcb9ac5",
+        "id": "gcn_68d0aa0587dd4cdd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867774054214402404::P7",
+            "package_id": "paper:867774054214402404",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867774054214402404"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\alpha$ denote the dimensionless Fröhlich coupling constant characterizing long-range electron–longitudinal-optical-phonon coupling in a polar crystal, and let $m^{*}(\\alpha)$ denote the polaron effective mass given by Feynman's variational single-polaron solution valid in the parameter domain $0<\\alpha<12$. Mapping the experimentally determined optically derived effective mass $m^{*}$ for lightly Nb-doped SrTiO3 onto the Feynman relation $m^{*}(\\alpha)$ yields an intermediate coupling range $3<\\alpha<4$. This experimental $\\alpha$ range is consistent with an independent multi-phonon Fröhlich-model estimate for polar SrTiO3 that gives $\\alpha\\approx3.6$ when multiple optical phonon branches are taken into account.",
+        "content_hash": "40a3b0efa0185dd3341bf997eccf33d3266ed058ed00e86d35c11a1de3d1d36d",
+        "id": "gcn_d333b16ca0f74cc0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811916376221417473::conclusion_4",
+            "package_id": "paper:811916376221417473",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811916376221417473"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fröhlich coupling constant is defined as\n      $$\n      \\\\alpha=\\\\frac{e^{2}}{\\\\hbar} \\\\frac{1}{4 \\\\pi \\\\epsilon}\\\\left(\\\\frac{1}{\\\\epsilon_{\\\\infty}}-\\\\frac{1}{\\\\epsilon_{0}}\\\\right) \\\\sqrt{\\\\frac{m^{*}}{2 \\\\hbar \\\\omega_{\\\\mathrm{LO}}}},\n      $$\n      with $e$ the elementary charge, $\\\\hbar$ the reduced Planck constant, $\\\\epsilon$ the vacuum permittivity, $\\\\epsilon_{\\\\infty}$ and $\\\\epsilon_{0}$ the optical and static dielectric constants, $m^{*}$ the carriers' reduced mass, and $\\\\omega_{\\\\mathrm{LO}}$ the LO phonon angular frequency. Using the approximate binding‑energy relation\n      $$\n      \\\\frac{\\\\Delta E}{\\\\hbar \\\\omega_{\\\\mathrm{LO}}} \\\\approx -\\\\alpha - 0.0159\\\\alpha^{2},\n      $$\n      and adopting the literature value $\\\\alpha\\\\approx2.7$ together with $\\\\omega_{\\\\mathrm{LO}}/(2\\\\pi)=4.07\\\\,$THz (optical phonon frequency used in the Appendix), yields an estimated polaron binding energy $\\\\Delta E\\\\approx47\\\\,$meV. The proposition is that these literature values for $\\\\alpha$ and $\\\\omega_{\\\\mathrm{LO}}$ are applicable to the synthesized CsPbBr₃ nanocrystals studied here and that the truncated quadratic approximation in the binding relation provides a sufficiently accurate estimate in this intermediate‑$\\\\alpha$ regime.",
+        "content_hash": "a2d25fafee72aeec77106f0eec8db88c1571618dc458ee4e5c4e70904023f952",
+        "id": "gcn_b366f64590124a61",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812373015365943297::P7",
+            "package_id": "paper:812373015365943297",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812373015365943297"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In intermediate-coupling continuum polaron theory for a polar semiconductor, the polaron effective mass $m_{p}^{*}$ (the measured quasiparticle mass including electron–phonon coupling effects) can be related approximately to the bare electron effective mass $m_{e}^{*}$ by the relation $m_{p}^{*}=m_{e}^{*}\\left(1+\\frac{\\alpha}{6}\\right)$, where $\\alpha$ is the dimensionless Fröhlich electron–phonon coupling constant; for SnO$_{2}$, taking $\\alpha=0.7$ and using the density-of-states electron effective mass $m_{e}^{*}=(m_{e\\perp}^{*2}m_{e\\parallel}^{*})^{1/3}$ yields a polaron mass estimate $m_{p}^{*}$ comparable to experimental polaron masses, provided the Fröhlich-model assumptions (continuum dielectric approximation, dominance of long-range polar optical phonon coupling, and intermediate coupling regime) are satisfied to acceptable accuracy.\n      (Fröhlich/intermediate-coupling polaron model)",
+        "content_hash": "8e62f6cc102ece43312eb717473000e312548bb9879467ccf20919a5afaf33de",
+        "id": "gcn_a5726cd196e54d3d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811687751610007552::P11",
+            "package_id": "paper:811687751610007552",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811687751610007552"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+        "id": "gcn_4ad259a13be9454a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P11",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using density-functional-theory-derived longitudinal-optical (LO) phonon frequencies, computed optical ($\\\\varepsilon_{\\\\infty}$) and static ($\\\\varepsilon_{0}$) dielectric constants, and bare-carrier effective masses $m$ as inputs to the canonical Fröhlich coupling formula and to the finite-temperature Feynman–Ōsaka variational polaron formalism, the unitless Fröhlich electron–phonon coupling constants and the resulting polaron parameters were evaluated: in $CH_{3}NH_{3}PbBr_{3}$, $\\\\alpha_{\\\\mathrm{e-ph}}=1.54$ for electrons and $\\\\alpha_{\\\\mathrm{e-ph}}=1.87$ for holes, and in $CsPbBr_{3}$, $\\\\alpha_{\\\\mathrm{e-ph}}=2.64$ for electrons and $\\\\alpha_{\\\\mathrm{e-ph}}=2.76$ for holes; the Feynman–Ōsaka numerical minimization at room temperature then yields the following mobilities and polaron radii: for $CH_{3}NH_{3}PbBr_{3}$, electron mobility $\\\\mu_{e}=149.8\\\\ \\\\mathrm{cm^{2}\\\\,V^{-1}\\\\,s^{-1}}$, hole mobility $\\\\mu_{h}=79.2\\\\ \\\\mathrm{cm^{2}\\\\,V^{-1}\\\\,s^{-1}}$, electron polaron radius $\\\\rho_{e}=4.18\\\\ \\\\mathrm{nm}$, and hole polaron radius $\\\\rho_{h}=3.13\\\\ \\\\mathrm{nm}$; for $CsPbBr_{3}$, $\\\\mu_{e}=48.2\\\\ \\\\mathrm{cm^{2}\\\\,V^{-1}\\\\,s^{-1}}$, $\\\\mu_{h}=41.3\\\\ \\\\mathrm{cm^{2}\\\\,V^{-1}\\\\,s^{-1}}$, $\\\\rho_{e}=2.67\\\\ \\\\mathrm{nm}$, and $\\\\rho_{h}=2.49\\\\ \\\\mathrm{nm}$; these computed mobilities and radii place carriers in a large-to-intermediate polaron regime and produce mobilities comparable to the upper range of experimentally measured single-crystal values.",
+        "content_hash": "7202d9b4ae7ebc1a3a816d4f6618b96f979dafc63af3e60a1f96aceab6ab9781",
+        "id": "gcn_3404dc48501b4996",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813109426834636800::conclusion_6",
+            "package_id": "paper:813109426834636800",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813109426834636800"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "9a660dc99c854e2df699ed00d103587f"
+}

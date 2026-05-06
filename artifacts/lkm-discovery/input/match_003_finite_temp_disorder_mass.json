@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812128399093923840": {
+        "area": "Material science",
+        "authors": "N.G. Bebenin | R.I. Zainullina | N.S. Chusheva | V.V. Ustinov | Ya.M. Mukovskii",
+        "available_online": "",
+        "cover_date_start": "2006-05-01",
+        "created_at": "2022-12-20T17:08:19+08:00",
+        "doi": "10.1016/j.jmmm.2005.10.160",
+        "en_title": "Hall effect and conductivity in La1−xBaxMnO3 single crystals",
+        "id": "812128399093923840",
+        "keywords": "[{\"en_name\": \"Colossal magnetoresistance\", \"ch_name\": \"\"}, {\"en_name\": \"Hall effect\", \"ch_name\": \"\"}, {\"en_name\": \"La<sub>1-</sub> <sub>x</sub>Ba<sub>x</sub>MnO<sub>3</sub>\", \"ch_name\": \"\"}, {\"en_name\": \"Manganites\", \"ch_name\": \"\"}]",
+        "publication_date": "2006-5",
+        "publication_id": "2151",
+        "publication_name": "Journal of Magnetism and Magnetic Materials _ Journal of Magnetism and Magnetic Materials",
+        "research_categories": "",
+        "zh_title": "La1−xBaxMnO3 单晶中的霍尔效应与电导率"
+      },
+      "paper:812543760582836226": {
+        "area": "Physics and Astrophysics",
+        "authors": "James M. Cave | Nicola E. Courtier | Isabelle A. Blakborn | Timothy W. Jones | Dibyajyoti Ghosh | Kenrick F. Anderson | Liangyou Lin | Andrew A. Dijkhoff | Gregory J. Wilson | Krishna Feron | M. Saiful Islam | Jamie M. Foster | Giles Richardson | Alison B. Walker",
+        "available_online": "",
+        "cover_date_start": "2020-11-14",
+        "created_at": "2022-12-21T20:38:50+08:00",
+        "doi": "10.1063/5.0021849",
+        "en_title": "Deducing transport properties of mobile vacancies from perovskite solar cell characteristics",
+        "id": "812543760582836226",
+        "keywords": "",
+        "publication_date": "2020-11-14",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "从钙钛矿太阳能电池特性推导移动空位的输运性质"
+      },
+      "paper:812549157129551873": {
+        "area": "Material science",
+        "authors": "Mateusz Dyksik | Herman Duim | Xiangzhou Zhu | Zhuo Yang | Masaki Gen | Yoshimitsu Kohama | Sampson Adjokatse | Duncan K. Maude | Maria Antonietta Loi | David A. Egger | Michal Baranowski | Paulina Plochocka",
+        "available_online": "2020-10-27",
+        "cover_date_start": "2020-10-27",
+        "created_at": "2022-12-21T21:00:16+08:00",
+        "doi": "10.1021/acsenergylett.0c01758",
+        "en_title": "Broad Tunability of Carrier Effective Masses in Two-Dimensional Halide Perovskites",
+        "id": "812549157129551873",
+        "keywords": "",
+        "publication_date": "2020-11-13",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "二维卤化物钙钛矿中载流子有效质量的广泛可调性"
+      },
+      "paper:812791378634342401": {
+        "area": "Material science",
+        "authors": "Guankui Long | Yecheng Zhou | Mingtao Zhang | Randy Sabatini | Abdullah Rasmita | Li Huang | Girish Lakhwani | Weibo Gao",
+        "available_online": "2019-3-15",
+        "cover_date_start": "2019-03-15",
+        "created_at": "2022-12-22T13:02:45+08:00",
+        "doi": "10.1002/adma.201807628",
+        "en_title": "Theoretical Prediction of Chiral 3D Hybrid Organic–Inorganic Perovskites",
+        "id": "812791378634342401",
+        "keywords": "",
+        "publication_date": "2019-4",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ Adv. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "手性三维有机-无机杂化钙钛矿的理论预测"
+      },
+      "paper:812806123768774656": {
+        "area": "Material science",
+        "authors": "Krzysztof Galkowski | Alessandro Surrente | Michal Baranowski | Baodan Zhao | Zhuo Yang | Aditya Sadhanala | Sebastian Mackowski | Samuel D. Stranks | Paulina Plochocka",
+        "available_online": "2019-1-29",
+        "cover_date_start": "2019-01-29",
+        "created_at": "2022-12-22T14:01:21+08:00",
+        "doi": "10.1021/acsenergylett.8b02243",
+        "en_title": "Excitonic Properties of Low-Band-Gap Lead–Tin Halide Perovskites",
+        "id": "812806123768774656",
+        "keywords": "",
+        "publication_date": "2019-3-8",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "低带隙铅锡卤化物钙钛矿的激子特性"
+      },
+      "paper:813098245273157632": {
+        "area": "Engineering Technology",
+        "authors": "Hyunho Lee | Priyanka Tyagi | Seunghyun Rhee | Myeongjin Park | Jiyun Song | Jaehoon Kim | Changhee Lee",
+        "available_online": "",
+        "cover_date_start": "2017-11-01",
+        "created_at": "2022-12-23T09:22:09+08:00",
+        "doi": "10.1109/jphotov.2017.2751506",
+        "en_title": "Analysis of Photovoltaic Properties of a Perovskite Solar Cell: Impact of Recombination, Space Charge, Exciton, and Disorder",
+        "id": "813098245273157632",
+        "keywords": "",
+        "publication_date": "2017-11",
+        "publication_id": "4104",
+        "publication_name": "IEEE Journal of Photovoltaics _ IEEE J. Photovoltaics",
+        "research_categories": "",
+        "zh_title": "钙钛矿太阳能电池的光伏特性分析：复合、空间电荷、激子和无序的影响"
+      },
+      "paper:867745366357836180": {
+        "area": "arXiv-Physics",
+        "authors": "David J. Abramovitch | Wissam A. Saidi | Liang Z. Tan",
+        "available_online": "",
+        "cover_date_start": "2021-05-13",
+        "created_at": "2023-05-23T04:30:17+08:00",
+        "doi": "10.48550/arXiv.2105.06525",
+        "en_title": "Thermal fluctuations and carrier localization induced by dynamic disorder in MAPbI3 described by a first-principles based tight-binding model",
+        "id": "867745366357836180",
+        "keywords": "",
+        "publication_date": "2021-05-13",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "基于第一性原理的紧束缚模型描述的MAPbI₃中由动态无序引起的热涨落和载流子局域化"
+      },
+      "paper:867747478844211257": {
+        "area": "arXiv-Physics",
+        "authors": "Matthias Wuttig | Carl-Friedrich Schoen | Mathias Schumacher | John Robertson | Pavlo Golub | Eric Bousquet | Jean-Yves Raty",
+        "available_online": "",
+        "cover_date_start": "2020-12-07",
+        "created_at": "2023-05-23T04:38:41+08:00",
+        "doi": "10.48550/arXiv.2012.03794",
+        "en_title": "Halide perovskites: third generation photovoltaic materials empowered by metavalent bonding",
+        "id": "867747478844211257",
+        "keywords": "",
+        "publication_date": "2020-12-07",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "卤化物钙钛矿：由变价键赋能的第三代光伏材料"
+      },
+      "paper:867757485061046539": {
+        "area": "arXiv-Physics",
+        "authors": "Christian Gehrmann | David A. Egger",
+        "available_online": "",
+        "cover_date_start": "2019-02-03",
+        "created_at": "2023-05-23T05:18:27+08:00",
+        "doi": "10.48550/arXiv.1902.00950",
+        "en_title": "Dynamic Shortening of Disorder Potentials in Anharmonic Halide Perovskites",
+        "id": "867757485061046539",
+        "keywords": "",
+        "publication_date": "2019-02-03",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "非谐卤化物钙钛矿中无序势的动态缩短"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the halide-perovskite systems studied (CsPbBr₃, CsPbI₃, and MAPbI₃) the combination of (i) a disorder potential $\\Delta V(\\mathbf{r})$ that is confined by finite-temperature dynamics to nearest-neighbor length scales, (ii) the observation that activating A-site and halide atomic motions dynamically shortens Pb-induced long-range disorder, and (iii) the observed narrowing of instantaneous band-edge energy distributions in the fully dynamical case implies that thermal nuclear motion perturbs electronic states only locally (on the order of single bonds) and therefore yields a low density of disorder-induced tail states; this mechanism explains how these crystals at elevated temperatures can exhibit narrow band-gap distributions, sharp optical absorption edges and small Urbach energies despite exhibiting large anharmonic nuclear motion.",
+        "content_hash": "dd05b1fb1ca1ef9462472ada28638ec835c553190f7468055e75a127e8c19255",
+        "id": "gcn_cb768fb24af34a91",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757485061046539::conclusion_7",
+            "package_id": "paper:867757485061046539",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757485061046539"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027730294396961064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For hybrid metal-halide perovskite compounds such as MAPbX_{3} and their alloys, thermally activated dynamic lattice disorder at temperatures near room temperature (including motion of the A-site organic cation and anharmonic lattice vibrations) increases dielectric screening relative to the low-temperature ordered orthorhombic phase, and prior experimental studies have observed that the exciton effective Rydberg R^{*} measured at room temperature can be reduced by a substantial fraction (empirically by at least about 20\\%) relative to the low-temperature value measured in the ordered phase.\n      36,37,52",
+        "content_hash": "844aa61c368f19826c1ce92ffa3f303f86594415dfeb48281fb3d9caf0d576f1",
+        "id": "gcn_fe7cc9b41a0944e3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812806123768774656::P11a",
+            "package_id": "paper:812806123768774656",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812806123768774656"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026742734890354787,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The energetic-disorder model for open-circuit voltage developed for organic bulk-heterojunction systems—which yields a disorder-induced effective-gap reduction term -\\sigma^2/(k_B T) when trap-state energies are Gaussian-distributed—applies to hybrid organo-lead halide perovskite absorber layers of composition CH_{3}NH_{3}PbI_{3-x}Cl_x and captures the dominant disorder-related contribution to the measured V_{OC}(T) in the devices studied here.\n      [20],[17]",
+        "content_hash": "0c49efd57d7a9245929f84e9166a36b21f977d89c8bd113417c887795a787f76",
+        "id": "gcn_816b1246494c4d2a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813098245273157632::P20",
+            "package_id": "paper:813098245273157632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813098245273157632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02649122807017544,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_A^{DFT} denote the migration activation energy for a halide vacancy computed by density functional theory (DFT) for an ideal bulk tetragonal crystal structure of a lead-halide perovskite (computations performed in a finite periodic supercell with the chosen exchange-correlation approximation and limited explicit temperature effects). The proposition is: E_A^{DFT} computed for the bulk tetragonal crystal is an accurate and applicable predictor of the dominant activation energy controlling halide-vacancy migration in room-temperature thin-film perovskite solar cell devices, despite possible local differences in crystal phase (e.g., tetragonal versus cubic), film strain, grain boundaries, surface chemistry, and interfaces with transport layers; all terms (E_A^{DFT}, tetragonal phase, thin-film device, halide vacancy) are defined within this statement.",
+        "content_hash": "cf46c628c904d033f49659722f18a713a4e0d8f751f740fd3c5d949973c0b209",
+        "id": "gcn_bf33b26e0ff54a4b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812543760582836226::P5",
+            "package_id": "paper:812543760582836226",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812543760582836226"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024922600619195046,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Band-structure calculations for idealized, stoichiometric perovskite lattices that predict an electron effective mass larger than the hole effective mass (with effective masses defined from the curvature of computed electronic bands in units of the free-electron mass m_{e}) can serve as qualitative guidance for real doped single-crystal samples only if disorder, polaronic effects, and localization do not qualitatively alter the low-energy electronic structure; therefore invoking such band-calculation results to explain temperature-dependent localization trends requires the assumption that disorder and interaction-driven renormalizations do not overturn the calculated mass hierarchy.",
+        "content_hash": "1fe1f821304dcc24f5747d872c42864de1399853d0617ece6c0e6b79a2054131",
+        "id": "gcn_9bdd2ce677fb44ae",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812128399093923840::P13",
+            "package_id": "paper:812128399093923840",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812128399093923840"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024891774891774892,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Phonon spectra computed at 300 K by extracting finite-temperature force constants using the temperature-dependent effective potential (TDEP) procedure from ab initio molecular dynamics (AIMD) sampling yield only very small imaginary-mode frequencies (imaginary-mode magnitudes less than 1 THz) for the three chlorofluoromethylammonium lead iodide perovskite models; because such sub-1-THz imaginary modes are a commonly reported feature in halide perovskites and can arise from anharmonic dynamical disorder, finite sampling, or near-zero soft modes that are stabilized by anharmonicity, these computed small imaginary modes are interpreted here as not indicating a gross lattice instability at 300 K and thus support finite-temperature thermodynamic stability in the reported models.",
+        "content_hash": "51d076a94e86da2852421d081a5392083b369ad1f3e9948791890a4edd57c2fb",
+        "id": "gcn_6fb625ea6e3b4570",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812791378634342401::conclusion_5",
+            "package_id": "paper:812791378634342401",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812791378634342401"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Combining the direct experimental reduced masses measured for phenethylamine-templated two-dimensional iodide perovskites with density-functional-theory results leads to the conclusion that carrier effective masses in two-dimensional halide perovskites can be broadly tuned by ionic composition: (i) selection of the organic spacer controls octahedral distortion angles $(\\beta,\\delta)$ and thereby can tune the reduced mass $\\mu$ over a wide range (the DFT map of $\\mu(\\beta,\\delta)$ spans approximately $0.05$–$0.30\\,m_{0}$), and (ii) substitution of the metal cation from Pb to Sn further reduces $\\mu$ through enhanced iodine $p$–tin $s$ hybridization; therefore ionic-composition engineering provides a concrete route to design two-dimensional halide perovskites with targeted effective masses appropriate for specific optoelectronic applications (for example, lower $\\mu$ to favor higher carrier mobility and reduced exciton binding energy in photovoltaics, or higher $\\mu$ to favor stronger excitonic confinement in light-emitting devices).",
+        "content_hash": "0ab27983b589bebaef6403278af26d1226769aa7bdac2f4ad4727b4c09b599c8",
+        "id": "gcn_347f72f4a5b54130",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812549157129551873::conclusion_9",
+            "package_id": "paper:812549157129551873",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812549157129551873"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For halide perovskite-type materials, the observation in a computed finite-temperature phonon dispersion of very small-magnitude imaginary phonon frequencies (mode frequency magnitudes less than 1 THz) can arise from anharmonic dynamical disorder, finite-supercell or finite-sampling noise in the TDEP extraction, or from near-zero soft modes that are stabilized by anharmonicity in experiment, and therefore such sub-1-THz imaginary modes need not be interpreted as evidence of a macroscopic lattice instability or an imminent thermally driven phase transition at that temperature.",
+        "content_hash": "e071d9200c4ce07c173b41bcde13a01f9575b0187680cbc96a1b71f671e50d36",
+        "id": "gcn_55a92adb54734405",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812791378634342401::P6",
+            "package_id": "paper:812791378634342401",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812791378634342401"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Comparing three computational scenarios evaluated at $T=300\\,$K on supercells of size $8\\times 8\\times 2$ unit cells — (A) an ideal tetragonal static Hamiltonian with no thermal fluctuations, (B) spatially uniform fluctuations constructed by averaging $300\\,$K thermally disordered Hamiltonian matrix elements across unit cells (so every unit cell shares the same averaged matrix elements), and (C) full $300\\,$K spatially disordered Hamiltonians where each unit cell retains its local instantaneous matrix elements — shows that (B) increases both electron and hole effective masses by $\\sim$21% relative to (A) (attributable to average bond-length and octahedral-rotation effects), while (C) increases hole masses by $\\sim$66% and electron masses by $\\sim$71% relative to (A); hence, local spatial disorder (unit-cell-to-unit-cell fluctuations) is the dominant contributor to the large finite-temperature effective mass enhancement observed in methylammonium lead iodide (MAPbI$_{3}$) at these simulation sizes.",
+        "content_hash": "922a070fad3cd3c9d47220a780d73526ce6022dad3b961156d8cb17467f41490",
+        "id": "gcn_f10ef84d019c497e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867745366357836180::conclusion_6",
+            "package_id": "paper:867745366357836180",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867745366357836180"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For halide perovskites (ABX3 with X = I, Br, Cl and B = Pb or Sn) the computed curvature‑derived hole and electron effective masses ($m_{h}^{*}$ and $m_{e}^{*}$, defined at the valence‑band maximum and conduction‑band minimum respectively) are much smaller than the corresponding effective masses computed for isostructural oxide perovskites; these small effective masses correlate with the metavalent character of the B–X bond (moderate relative electron transfer ET_rel and ES≈1), chemical substitution of the halogen following I→Br→Cl increases the computed ET_rel and is accompanied by an increase of the computed hole effective mass $m_{h}^{*}$, and the commonly observed electron–hole effective‑mass asymmetry in these halide perovskites is attributed to a small but non‑negligible Pb‑$s$ orbital weight at the valence‑band maximum, which tends to decrease $m_{h}^{*}$ while increasing $m_{e}^{*}$.",
+        "content_hash": "2c536d1eeb6c5687f393ac3b0dddebc9589334cdd3de3f27ab0007aae8aa7516",
+        "id": "gcn_6258acb59a7544e7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867747478844211257::conclusion_3",
+            "package_id": "paper:867747478844211257",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867747478844211257"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "727ed2c0b51d4cc37556dea7b5380f90"
+}

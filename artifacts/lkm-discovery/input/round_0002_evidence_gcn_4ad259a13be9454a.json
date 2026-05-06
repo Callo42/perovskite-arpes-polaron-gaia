@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+      "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+      "id": "gcn_4ad259a13be9454a",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "ea068d75372346aacde747116aeb8875"
+}

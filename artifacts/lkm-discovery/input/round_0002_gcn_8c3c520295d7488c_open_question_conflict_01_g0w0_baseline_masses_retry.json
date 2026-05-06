@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812435951493054467": {
+        "area": "Physics and Astrophysics",
+        "authors": "Manjari Jain | Deepika Gill | Preeti Bhumla | Pooja Basera | Saswata Bhattacharya",
+        "available_online": "",
+        "cover_date_start": "2021-05-10",
+        "created_at": "2022-12-21T13:30:26+08:00",
+        "doi": "10.1063/5.0044146",
+        "en_title": "Theoretical insights to excitonic effect in lead bromide perovskites",
+        "id": "812435951493054467",
+        "keywords": "",
+        "publication_date": "2021-5-10",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\"]",
+        "zh_title": "溴化铅钙钛矿中激子效应的理论见解"
+      },
+      "paper:812478968488787969": {
+        "area": "Physics and Astrophysics",
+        "authors": "Zakariae El Youbi | Sung Won Jung | Christine Richter | Karol Hricovini | Cephise Cacho | Matthew D. Watson",
+        "available_online": "2021-4-2",
+        "cover_date_start": "2021-04-02",
+        "created_at": "2022-12-21T16:21:22+08:00",
+        "doi": "10.1103/physrevb.103.155105",
+        "en_title": "Fermiology and electron-phonon coupling in the 2 H and 3 R polytypes of Nb S 2",
+        "id": "812478968488787969",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二硫化铌（NbS₂）的2H和3R多型体中的费米子学与电子-声子耦合"
+      },
+      "paper:812585864713469952": {
+        "area": "Physics and Astrophysics",
+        "authors": "A. S. Alexandrov",
+        "available_online": "1988-7-1",
+        "cover_date_start": "1988-07-01",
+        "created_at": "2022-12-21T23:26:08+08:00",
+        "doi": "10.1103/physrevb.38.925",
+        "en_title": "New theory of strong-coupling superconductors and high-temperature superconductivity of metallic oxides",
+        "id": "812585864713469952",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "强耦合超导体新理论与金属氧化物的高温超导性"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812645730505195521": {
+        "area": "Geoscience",
+        "authors": "P A Hartley | G D Parfitt",
+        "available_online": "2000-11-29",
+        "cover_date_start": "1984-05-01",
+        "created_at": "2022-12-22T03:24:02+08:00",
+        "doi": "10.1088/0022-3735/17/5/004",
+        "en_title": "An improved split-cell apparatus for the measurement of tensile strength of powders",
+        "id": "812645730505195521",
+        "keywords": "",
+        "publication_date": "1984-5",
+        "publication_id": "13622",
+        "publication_name": "Journal of Physics E: Scientific Instruments _ J. Phys. E: Sci. Instrum.",
+        "research_categories": "",
+        "zh_title": "一种用于测量粉末拉伸强度的改进型分裂式细胞仪 "
+      },
+      "paper:867764320174342541": {
+        "area": "arXiv-Physics",
+        "authors": "N. Mannella | W. Yang | X. J. Zhou | H. Zheng | J. F. Mitchell | J. Zaanen | T. P. Devereaux | N. Nagaosa | Z. Hussain | Z.-X. Shen",
+        "available_online": "",
+        "cover_date_start": "2005-10-17",
+        "created_at": "2023-05-23T05:45:36+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0510423",
+        "en_title": "Nodal quasiparticle in pseudogapped colossal magnetoresistive manganites",
+        "id": "867764320174342541",
+        "keywords": "",
+        "publication_date": "2005-10-17",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "赝能隙巨磁电阻锰氧化物中的节线准粒子"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      },
+      "paper:867768357833670849": {
+        "area": "arXiv-Physics",
+        "authors": "Mingu Kang | Sung Won Jung | Woo Jong Shin | Yeongsup Sohn | Sae Hee Ryu | Timur K. Kim | Moritz Hoesch | Keun Su Kim",
+        "available_online": "",
+        "cover_date_start": "2018-05-28",
+        "created_at": "2023-05-23T06:01:39+08:00",
+        "doi": "10.48550/arXiv.1805.11198",
+        "en_title": "Holstein polaron in a valley-degenerate two-dimensional semiconductor",
+        "id": "867768357833670849",
+        "keywords": "",
+        "publication_date": "2018-05-28",
+        "publication_id": "108490",
+        "publication_name": "Superconductivity _ Physics.cond-mat.supr-con",
+        "research_categories": "",
+        "zh_title": "谷简并二维半导体中的荷斯坦极化子"
+      }
+    },
+    "variables": [
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027730294396961064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the purpose of extracting electron-phonon mass renormalizations from ARPES dispersions, the bare Fermi velocity $v_F(\\mathrm{bare})$ entering the renormalization parameter $\\lambda = v_F(\\mathrm{bare})/v_F(\\mathrm{exp}) - 1$ is taken to equal the slope of the DFT Kohn–Sham band at the Fermi energy (i.e., $v_F(\\mathrm{bare})$ from the WIEN2K modified Becke–Johnson calculation), so that the experimentally extracted $\\lambda$ values represent electron-phonon mass renormalizations under the assumption that other many-body self-energy contributions and systematic DFT slope errors are not dominant.\n      [21],[22]",
+        "content_hash": "84820fb8c020e689b1649275ad492d0635fbe5fddc8bb4a95b8aeecbae826711",
+        "id": "gcn_4b315af8a11c40a3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812478968488787969::P14",
+            "package_id": "paper:812478968488787969",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812478968488787969"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Single-shot $G_{0}W_{0}$ quasiparticle calculations performed on top of Kohn–Sham orbitals obtained from the HSE06 hybrid density functional including spin–orbit coupling (SOC) and with a tuned fraction $\\alpha$ of exact Hartree–Fock exchange produce direct bandgaps (conduction-band minimum and valence-band maximum located at the $R$-point of the cubic Brillouin zone, $R=(0.5,0.5,0.5)$) of $E_{g}=2.37\\ \\mathrm{eV}$ for MAPbBr$_{3}$ with $\\alpha=50\\%$, $E_{g}=2.27\\ \\mathrm{eV}$ for FAPbBr$_{3}$ with $\\alpha=40\\%$, and $E_{g}=2.30\\ \\mathrm{eV}$ for CsPbBr$_{3}$ with $\\alpha=55\\%$; parabolic fits to the $G_{0}W_{0}$ quasiparticle band dispersions including SOC in small $k$-space regions around the band extrema yield electron and hole effective masses whose harmonic combination $\\mu^{-1}=m_{e}^{*-1}+m_{h}^{*-1}$ gives reduced masses $\\mu$ (in units of the free-electron mass $m_{0}$) of $\\mu=0.113$ for MAPbBr$_{3}$, $\\mu=0.115$ for FAPbBr$_{3}$, and $\\mu=0.080$ for CsPbBr$_{3}$.",
+        "content_hash": "5bbbba19545a49634e72117fe2144f489d15765e19016a3dd56408e25f26a7d0",
+        "id": "gcn_0ce7597200b44e0c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812435951493054467::conclusion_2",
+            "package_id": "paper:812435951493054467",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812435951493054467"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reported time dependence of the polaron effective mass m*(t) following injection of a bare Bloch electron into a polar crystal is computed at lowest order in the electron–phonon interaction, i.e., using only the leading non-diagonal density-matrix contributions and neglecting higher-order electron–phonon processes and any self-consistent evolution of the phonon cloud that would modify the interaction energy at higher order.",
+        "content_hash": "2d23d3c23e4024da49baaea1f5d9fcfe36b117fc6dd5969f142c41567becd35b",
+        "id": "gcn_fb9da652358240a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812645730505195521::P14",
+            "package_id": "paper:812645730505195521",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812645730505195521"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+        "id": "gcn_4ad259a13be9454a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P11",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Interpreting the observed large mass renormalization (λ ≈ 4.6 by the mass-ratio definition), the minute quasiparticle spectral weight at low energy, and the temperature dependence of the ARPES spectral function of La_{1.2}Sr_{1.8}Mn_{2}O_{7} within conventional Migdal–Eliashberg (weak-to-moderate-coupling electron–boson) theory leads to non-physical implications, whereas the same observations are consistent with a polaronic spectral-function picture in which the single-particle spectrum comprises (i) a low-energy \"zero-phonon\" polaron centre-of-mass quasiparticle of small spectral weight and large effective mass and (ii) a high-energy incoherent resonance whose peak position tracks the underlying bare-electron dispersion; accordingly the ARPES data support describing the low-temperature ferromagnetic metal as a polaronic metal with strongly anisotropic (nodal-confined) quasiparticle coherence.",
+        "content_hash": "f6a8da6e90416fd4d2dbec38c419326fb2ae88eb948010066b7e3dc1092bc192",
+        "id": "gcn_5e78ec4d40cf4d95",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764320174342541::conclusion_7",
+            "package_id": "paper:867764320174342541",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764320174342541"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "From fits to the lowest‑energy polaron sub‑band dispersion extracted from ARPES and comparison to Holstein‑model simulations, the effective polaron mass $m^{*}$ of the lowest polaron band is found to be enhanced relative to the bare band mass $m_{0}=0.85\\,m_{e}$ by approximately $m^{*}/m_{0}\\approx 3$ in the intermediate‑doping regime where the broken sub‑bands are resolved; mapping this experimental mass enhancement onto results of k‑average Holstein‑model simulations with phonon energy $\\Omega_{0}=26\\ \\mathrm{meV}$ yields an estimated dimensionless electron–phonon coupling constant $\\lambda\\approx 0.5\\pm0.1$ for that regime. As the surface carrier density $\\rho$ (the 2D surface carrier density determined from ARPES Fermi‑surface area) is increased across the measured range, the fitted $m^{*}/m_{0}$ increases by more than a factor of five and the inferred $\\lambda$ grows into the intermediate coupling range $\\lambda\\sim 0.5$–$0.8$.",
+        "content_hash": "f036ec7a82ae708fa865e7b80899189fbcf698ed59a08ab57486631c7010d4b7",
+        "id": "gcn_f9fb8aba5e584b84",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768357833670849::conclusion_3",
+            "package_id": "paper:867768357833670849",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768357833670849"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A generalized Kohn–Sham HSE hybrid-functional band-structure calculation for orthorhombic CsPbBr$_3$, carried out with converged pseudopotentials and numerical parameters and producing Bloch eigenvalues \\\\varepsilon_{n\\\\mathbf{k}}, yields an effective mass m_0 for the upper valence band by the relation 1/m_0=(1/\\\\hbar^{2})\\\\partial^{2}\\\\varepsilon_{\\\\mathrm{VB}}(k)/\\\\partial k^{2} evaluated in the parabolic approximation around the valence-band maximum; the value m_0=0.17\\\\,m_e obtained in such an HSE calculation is interpreted here as the bare (electronic, non–electron-phonon-renormalized) hole effective mass suitable to serve as the electronic input mass in subsequent electron–phonon and polaron-model calculations, i.e., the HSE m_0 is taken not to include substantial long-range electron–phonon dressing.",
+        "content_hash": "912c6a31ae0f4f5f08dba9bacf855eba13049368de68699bd5ef53315e355d1f",
+        "id": "gcn_49deead377d54edf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P3",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The polaronic renormalization of electronic band energy and effective mass in a narrow electronic band is given by\n      $W = D \\exp\\!\\left(-g^{2}\\right)$ and $m^{*}/m = \\exp\\!\\left(g^{2}\\right)$,\n      where $D$ is the unrenormalized electronic half-bandwidth (energy), $W$ is the polaron-renormalized half-bandwidth (energy), $m$ is the bare band electron mass (reference mass for the band electrons, e.g. the band-theory effective mass) and $m^{*}$ is the polaron effective mass; the dimensionless polaron parameter is\n      $g^{2}=\\dfrac{\\lambda D}{2 z \\omega}$,\n      with $\\lambda$ the (dimensionless) electron-phonon coupling constant, $\\omega$ a characteristic phonon frequency (energy units), and $z$ the nearest-neighbor coordination number (dimensionless).",
+        "content_hash": "b7962e283c5bd8640c816db11aa4fefd722e0ffba4f5e5665a84582332efeb57",
+        "id": "gcn_040fc9b0c02749fd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812585864713469952::conclusion_1",
+            "package_id": "paper:812585864713469952",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812585864713469952"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "479eca9d3c145ce48ddb4a6a63e1d7b0"
+}

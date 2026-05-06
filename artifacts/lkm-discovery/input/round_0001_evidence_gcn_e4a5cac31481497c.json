@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+      "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+      "id": "gcn_e4a5cac31481497c",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+              "id": "gcn_e4a5cac31481497c"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_9b8940e7a4c141b2",
+            "premises": [
+              {
+                "content": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure.",
+                "id": "gcn_c24c81b8a5fe413c"
+              },
+              {
+                "content": "Let Brillouin-zone unfolding denote the procedure that maps supercell eigenvalues and computed spectral weights onto the primitive-cell Brillouin zone to produce an energy–momentum colormap for extracting band dispersions and effective masses. The proposition is: the unfolded bulk spectral intensity and dispersion obtained from a 3×3×3 supercell HSE–SOC(α = 0.54) calculation can be directly compared to ARPES measurements of the valence-band dispersion of CsPbBr₃ without applying explicit corrections for photoemission matrix-element effects, surface electronic-structure differences, extrinsic surface disorder, or ARPES finite probing-depth effects; therefore, agreement between an unfolded bulk effective mass and an ARPES effective mass is taken as evidence that the bulk thermal-structure model captures the experimentally observed dispersion.",
+                "id": "gcn_43c66f240368417e"
+              },
+              {
+                "content": "Consider AIMD trajectories used to sample finite-temperature atomic configurations for a material with a soft anharmonic lattice. The proposition is: performing AIMD structural sampling with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange-correlation functional using a 3×3×3 supercell, a Nosé–Hoover thermostat sampling the canonical ensemble, and a 1 fs timestep yields a structural ensemble whose statistical distribution of atomic positions is sufficiently accurate for subsequent single-point HSE–SOC (with tuned α) electronic-structure calculations to produce reliable thermally renormalized unfolded band dispersions and effective masses; in particular, any systematic biases in equilibrium lattice parameters or force constants introduced by PBE do not materially change the unfolded band curvatures obtained from representative AIMD snapshots evaluated with HSE–SOC.",
+                "id": "gcn_1c2bf8f398f243f9"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "State the upstream results to be used as known starting points: (i) conclusion 2 — thermal lattice fluctuations at $T=300\\\\,$K substantially enhance carrier effective masses in $CsPbBr_{3}$, and (ii) conclusion 6 — $CsPbBr_{3}$ exhibits strong lattice anharmonicity and large low-frequency vibrational modes that produce the thermal fluctuations; treat these as established for the following comparison with experiment.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Describe the finite-temperature computational protocol used to obtain the room-temperature band structure and effective mass: perform ab initio molecular dynamics (AIMD) at $T=300\\\\,$K in the canonical ensemble (NVT) with the Nosé–Hoover thermostat to sample finite-temperature atomic configurations for a 3×3×3 pseudocubic supercell containing 135 atoms, using the Perdew–Burke–Ernzerhof (PBE) exchange-correlation functional to generate structural trajectories with a time step of 1 fs; select a representative equilibrated pseudocubic AIMD configuration and compute the electronic structure for that configuration using the HSE hybrid functional including spin–orbit coupling (HSE–SOC) with the hybrid mixing parameter $\\\\alpha=0.54$ chosen to reproduce the experimental room-temperature band gap $E_{\\\\text{g}}=2.37\\\\,$eV.\n[21]\nFig. 1",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Define the computed observable: the direction-averaged hole effective mass $m_{h}$ is extracted from the unfolded HSE–SOC band structure of the representative $T=300\\\\,$K AIMD configuration (define \"unfolded\" as the Brillouin-zone unfolding procedure used to map the supercell band structure onto the primitive-cell Brillouin zone).\n[27]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report the computed numerical result from the AIMD $T=300\\\\,$K HSE–SOC calculation with $\\\\alpha=0.54$: the direction-averaged hole effective mass is $m_{h}=0.265\\\\,m_{0}$, where $m_{0}$ denotes the electron rest mass; emphasize that this calculation was performed in the absence of any injected carrier (i.e., no extra hole was introduced).\nTable I",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Compare the computed $m_{h}=0.265\\\\,m_{0}$ to the ARPES experimental measurement reported by Puppin et al., which is $0.26 \\\\pm 0.02\\\\,m_{0}$; state that the computed value agrees with the experimental ARPES value within the experimental uncertainty.\n[14]",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Note the additional computational observation (from the authors' explicit hole-injection tests and conclusion 4) that introducing an extra hole into the AIMD supercell at $T=300\\\\,$K does not produce localized in-gap states nor materially change the valence-band dispersion; therefore the agreement between computed and measured hole masses is achieved in the absence of any polaron-induced mass enhancement.\nFig. 3",
+                "step_id": "6"
+              },
+              {
+                "reasoning": "Conclude that the experimentally observed hole effective mass can be explained by thermal-lattice fluctuations alone as captured by the finite-temperature HSE–SOC calculation (AIMD $T=300\\\\,$K, $\\\\alpha=0.54$), and therefore there is no ARPES-based evidence from this comparison for a significant polaron-induced enhancement of the hole effective mass in $CsPbBr_{3}$ under the studied conditions.",
+                "step_id": "7"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "In order to assess whether ARPES-observed effective-mass enhancements indicate polaron formation, one needs a polaron-free theoretical reference value for the hole effective mass that accurately represents the material at the experimental temperature. Prior zero-temperature hybrid-DFT or GW calculations provided differing masses and band gaps (sensitive to the choice of exchange–correlation treatment or parameters such as the hybrid mixing fraction $\\\\alpha$), and these zero-K results neglect thermal lattice fluctuations that can renormalize band dispersions. Without a finite-temperature, experimentally-benchmarked electronic-structure calculation it is ambiguous whether an observed mass enhancement arises from intrinsic thermal disorder or from carrier–phonon polaron formation; resolving this ambiguity requires a method that (a) captures realistic room-temperature atomic disorder, (b) computes the electronic band structure at that geometry with an electronic-structure prescription that yields correct experimental band gaps, and (c) compares the resulting polaron-free effective mass directly to experiment.",
+            "id": "paper:1096665743648358400::conclusion_1_subproblem",
+            "source_package": "paper:1096665743648358400"
+          }
+        ],
+        "source_package": "paper:1096665743648358400"
+      }
+    ],
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "efe01c37ccc525f268d6fa73796d394c"
+}

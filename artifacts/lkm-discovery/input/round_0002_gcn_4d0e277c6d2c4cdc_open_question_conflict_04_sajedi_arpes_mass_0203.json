@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1038087505087299587": {
+        "area": "Physics and Astrophysics",
+        "authors": "Noriharu Watanabe | Norio Narita | Yasunori Hori",
+        "available_online": "2024-5-2",
+        "cover_date_start": "2024-05-02",
+        "created_at": "2024-09-04T05:49:10+08:00",
+        "doi": "10.1093/pasj/psae019",
+        "en_title": "Nodal precession of a hot Jupiter transiting the edge of a late A-type star TOI-1518",
+        "id": "1038087505087299587",
+        "keywords": "",
+        "publication_date": "2024-6-11",
+        "publication_id": "578",
+        "publication_name": "Publications of the Astronomical Society of Japan _ ",
+        "research_categories": "",
+        "zh_title": "一颗热木星凌越一颗A-型晚期恒星TOI-1518边缘时的交点进动"
+      },
+      "paper:1075651160599166982": {
+        "area": "Material science",
+        "authors": "Yen-Po Liu | Nils Lamers | Zhaojun Zhang | Nelia Zaiats | Anders Mikkelsen | Jesper Wallentin | Regina Dittmann | Rainer Timm",
+        "available_online": "",
+        "cover_date_start": "2024-12-12",
+        "created_at": "2024-12-16T21:33:41+08:00",
+        "doi": "10.1021/acsnano.4c11458",
+        "en_title": "Ion Migration and Redox Reactions in Axial Heterojunction Perovskite CsPb(Br 1- x Cl x ) 3 Nanowire Devices Revealed by Operando Nanofocused X-ray Photoelectron Spectroscopy",
+        "id": "1075651160599166982",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2020",
+        "publication_name": "ACS Nano _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Engineering\", \"Nanotechnology\"]",
+        "zh_title": "通过原位纳米聚焦X射线光电子能谱揭示的轴向异质结钙钛矿CsPb(Br1 - xClx)3纳米线器件中的离子迁移和氧化还原反应"
+      },
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811895452952690688": {
+        "area": "Engineering Technology",
+        "authors": "Zili Tai | Ji Guo | Yeli Guan | Qingquan Shi",
+        "available_online": "",
+        "cover_date_start": "2021-08-20",
+        "created_at": "2022-12-20T01:42:40+08:00",
+        "doi": "10.1155/2021/9689391",
+        "en_title": "Impact of COVID-19 on Port Production and Operation Based on System Dynamics: A Case Study of Shanghai Port in China",
+        "id": "811895452952690688",
+        "keywords": "",
+        "publication_date": "2021-8-20",
+        "publication_id": "4478",
+        "publication_name": "Journal of Advanced Transportation _ Journal of Advanced Transportation",
+        "research_categories": "[\"Commerce, Management, Tourism and Services\", \"Transportation, Logistics and Supply Chains\"]",
+        "zh_title": "基于系统动力学的新冠疫情对港口生产运营的影响：以中国上海港为例"
+      },
+      "paper:812348082149654529": {
+        "area": "Chemistry",
+        "authors": "Oliviero Cannelli | Nicola Colonna | Michele Puppin | Thomas C. Rossi | Dominik Kinschel | Ludmila M. D. Leroy | Janina Löffler | James M. Budarz | Anne Marie March | Gilles Doumy | Andre Al Haddad | Ming-Feng Tu | Yoshiaki Kumagai | Donald Walko | Grigory Smolentsev | Franziska Krieg | Simon C. Boehme | Maksym V. Kovalenko | Majed Chergui | Giulia F. Mancini",
+        "available_online": "2021-6-2",
+        "cover_date_start": "2021-06-02",
+        "created_at": "2022-12-21T07:41:16+08:00",
+        "doi": "10.1021/jacs.1c02403",
+        "en_title": "Quantifying Photoinduced Polaronic Distortions in Inorganic Lead Halide Perovskite Nanocrystals",
+        "id": "812348082149654529",
+        "keywords": "",
+        "publication_date": "2021-6-23",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "量化无机卤化铅钙钛矿纳米晶体中的光致极化子畸变"
+      },
+      "paper:812512911313338368": {
+        "area": "Engineering Technology",
+        "authors": "I. Hamideddine | N. Tahiri | O. El Bounagui | H. Ez-Zahraouy",
+        "available_online": "",
+        "cover_date_start": "2021-05-01",
+        "created_at": "2022-12-21T18:36:15+08:00",
+        "doi": "10.1016/j.mssp.2020.105657",
+        "en_title": "First-principles calculations of electronic, optical and transport properties of the inorganic metal halide perovskite CsBI2Br (B = Sn, Ge, Pb) compounds",
+        "id": "812512911313338368",
+        "keywords": "[{\"en_name\": \"Band gap energy\", \"ch_name\": \"\"}, {\"en_name\": \"Optical properties\", \"ch_name\": \"\"}, {\"en_name\": \"Perovskite CsBI<sub>2</sub>Br compounds\", \"ch_name\": \"\"}, {\"en_name\": \"Solar cell\", \"ch_name\": \"\"}, {\"en_name\": \"Transport properties\", \"ch_name\": \"\"}]",
+        "publication_date": "2021-5",
+        "publication_id": "4057",
+        "publication_name": "Materials Science in Semiconductor Processing _ Materials Science in Semiconductor Processing",
+        "research_categories": "",
+        "zh_title": "无机金属卤化物钙钛矿CsBI2Br（B = Sn、Ge、Pb）化合物的电子、光学和输运性质的第一性原理计算"
+      },
+      "paper:812555077741969409": {
+        "area": "Biology",
+        "authors": "GIANLUCA NARDI | MAURA BOCCI | ROBERTO POGGI",
+        "available_online": "2020-10-15",
+        "cover_date_start": "2020-10-15",
+        "created_at": "2022-12-21T21:23:48+08:00",
+        "doi": "10.11646/zootaxa.4861.1.4",
+        "en_title": "Ptilodactyla exotica Chapin, 1927 in Italy (Coleoptera: Ptilodactylidae)",
+        "id": "812555077741969409",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "12023",
+        "publication_name": "Zootaxa _ Zootaxa",
+        "research_categories": "",
+        "zh_title": "外来细趾隐翅虫查平，1927年，发现于意大利（鞘翅目：细趾隐翅虫科）"
+      },
+      "paper:813129257290039296": {
+        "area": "Material science",
+        "authors": "Z. Yang | A. Surrente | K. Galkowski | A. Miyata | O. Portugall | R. J. Sutton | A. A. Haghighirad | H. J. Snaith | D. K. Maude | P. Plochocka | R. J. Nicholas",
+        "available_online": "2017-6-14",
+        "cover_date_start": "2017-06-14",
+        "created_at": "2022-12-23T11:25:22+08:00",
+        "doi": "10.1021/acsenergylett.7b00416",
+        "en_title": "Impact of the Halide Cage on the Electronic Properties of Fully Inorganic Cesium Lead Halide Perovskites",
+        "id": "813129257290039296",
+        "keywords": "",
+        "publication_date": "2017-7-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化物笼对全无机铯铅卤化物钙钛矿电子性质的影响"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "The longitudinal optical (LO) phonon mode with energy $\\hbar\\omega=18\\ \\text{meV}$ is defined as the lattice vibration whose eigenvector displaces Pb and Br atoms along specific directions in the orthorhombic cell, and prior experimental and theoretical evidence (including angle-resolved photoemission spectroscopy and electron–phonon coupling calculations) identifies this 18 meV LO mode as the phonon most strongly coupled to charge carriers in CsPbBr₃; accordingly, displacing the lattice along the 18 meV LO eigenvector constitutes the physically motivated candidate to model a photoinduced polaronic structural distortion.\n      Puppin et al., Phys. Rev. Lett. 2020; ARPES evidence cited in the paper",
+        "content_hash": "7cbbd7d3156ad5a36c58ef4d28f6462389a5f89bb559c653719332bf41b3173f",
+        "id": "gcn_6c46b505c8c04847",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348082149654529::P12",
+            "package_id": "paper:812348082149654529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348082149654529"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using reported literature values of absolute energy-level positions for pure bulk $CsPbBr_3$ and $CsPbCl_3$ materials to construct an expected built-in potential for an ideal $CsPbBr_3/CsPbCl_3$ heterojunction by simple Fermi-level alignment yields an approximate predicted built-in potential of about $0.63\\ \\mathrm{eV}$ for idealized end-member junctions; however, the applicability of such bulk-derived absolute energy references to surface-sensitive, nanowire-exposed SPEM measurements is limited by surface dipoles, local stoichiometry ($x$ in $CsPb(Br_{1-x}Cl_x)_3$), defect states, and measurement calibration, so the literature-based value should be treated only as a rough reference for surface-sensitive experiments.\n      [64]",
+        "content_hash": "cb9d3e1e32dded5443a9b1b6b4f0a4f01a7d3997c7eac4683536ae2afefc7168",
+        "id": "gcn_b5be0555905a4874",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1075651160599166982::P13",
+            "package_id": "paper:1075651160599166982",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1075651160599166982"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under the scenario defined by holding every COVID‑19 epidemic influence coefficient equal to its calibrated 2020 numeric value for the years 2020–2022, the model projects percentage impacts attributable to COVID‑19 on Shanghai's main variables equal to: GDP change of −3.8% (2020), −7.4% (2021), and −10.9% (2022); Port throughput impact of −0.03% (2020), −0.08% (2021), and −0.1% (2022); Passenger transportation declines of −49.1% (2020), −49.2% (2021), and −49.1% (2022); and Cargo transportation declines of −10.6% (2020), −20.1% (2021), and −28.6% (2022).",
+        "content_hash": "512966cfba1ab22ee455acb245d9ffe96960624a064c2a6862cd8457949ed08a",
+        "id": "gcn_b1518dbf2430482d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811895452952690688::conclusion_3",
+            "package_id": "paper:811895452952690688",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811895452952690688"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under a scenario in which every COVID‑19 epidemic influence coefficient is uniformly decreased by 10% relative to its 2020 calibrated value for 2020–2022, the model projects percentage impacts on Shanghai's variables of: GDP change of −3.8% (2020), −1.8% (2021), and +0.04% (2022); Port throughput impact of +0.03% (2020), −0.4% (2021), and −1.3% (2022); Passenger transportation declines of −49.1% (2020), −32.7% (2021), and −7.8% (2022); and Cargo transportation declines of −10.6% (2020), −6.8% (2021), and −2.0% (2022).",
+        "content_hash": "a2c2f0972060d4c635db153b6f1fd242d65c13328ed578fb22b390ca14704a85",
+        "id": "gcn_1d2aff7593e94291",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811895452952690688::conclusion_5",
+            "package_id": "paper:811895452952690688",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811895452952690688"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For cubic CsPbI2Br measured at 2 K, the band-gap energy determined from the 1s excitonic absorption is E_g = 1906 meV, the exciton binding energy determined from the hydrogenic exciton fits is R* = 22 ± 3 meV, the exciton reduced mass determined from the high-field inter–Landau-level fits is μ = 0.124 ± 0.02 m_0, and the effective dielectric constant inferred from R* via R* = R_0 (μ/m_0) / ε_eff^2 is ε_eff = 8.6.",
+        "content_hash": "8bef0d94b2bd755d119692a5e8dd627f53a3c1151177c0fe9d4f0eefee48cdcd",
+        "id": "gcn_0952326369d148eb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813129257290039296::conclusion_4",
+            "package_id": "paper:813129257290039296",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813129257290039296"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reported impact-parameter measurements and $1\\sigma$ uncertainties are $b_{2019}=0.91497_{-0.00089}^{+0.00093}$ ($\\sigma_{2019}\\approx0.00091$), $b_{2020}=0.8953_{-0.0048}^{+0.0050}$ ($\\sigma_{2020}\\approx0.0049$), and $b_{2022}=0.8797\\pm0.0011$ ($\\sigma_{2022}=0.0011$); the proposition is that these quoted uncertainties and the inverse-variance weights $w_i=1/\\sigma_{i}^2$ derived from them adequately represent both statistical measurement errors and instrument-to-instrument systematic offsets (including the 2020 CARMENES–EXPRES disagreement), so that the weighted least-squares slope estimate $db/dt$ and its formal uncertainty are valid for hypothesis testing and significance statements about the detected trend.",
+        "content_hash": "53aafb521c600663c2cc1f1f027d5ce4b2517e6c165d69a0f8e18f5e6abdb879",
+        "id": "gcn_4e4cb9aaa9ec4480",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1038087505087299587::P10",
+            "package_id": "paper:1038087505087299587",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1038087505087299587"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The species identity of a male beetle specimen can be determined as Ptilodactyla exotica Chapin, 1927 by visually comparing the specimen's aedeagus (the intromittent male genital sclerite, here examined in dorsal view) to published aedeagal illustrations attributed to Ptilodactyla exotica in Chapin (1927), Binaghi (1972), Süss & Puppin (1976), Aberlenc & Allemand (1997), Mann (2006), and Viñolas et al. (2020); this comparison is performed by checking congruence of the aedeagal median lobe shape, lateral lobes, apical configuration, and any associated ventral sclerites between the voucher specimen and those figures.\n      Chapin 1927; Binaghi 1972; Süss & Puppin 1976; Aberlenc & Allemand 1997; Mann 2006; Viñolas et al. 2020",
+        "content_hash": "21c4931ab2a49b7586fe3f9ead8091cdb035a547e3054b4a3669561af00d683e",
+        "id": "gcn_5af5551869714fca",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812555077741969409::P1",
+            "package_id": "paper:812555077741969409",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812555077741969409"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The GGA + mBJ band‑gap estimates obtained with the full‑potential linearized augmented plane‑wave (FP‑LAPW) implementation reproduce the experimental trend qualitatively where comparison data exist; for example, the computed E_g = 1.85 eV for CsPbI₂Br agrees closely with a cited experimental value of 1.92 eV, indicating qualitative agreement between the FP‑LAPW GGA + mBJ band gaps and available experimental measurements for these compositions.",
+        "content_hash": "2424aadf031805ed445a62dd7115f178d752e7173636d6bde331ae9d53c4b56c",
+        "id": "gcn_cbd6a9ef134943d4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812512911313338368::conclusion_8",
+            "package_id": "paper:812512911313338368",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812512911313338368"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "2250e3c0a9e513579a460ae99ad44202"
+}

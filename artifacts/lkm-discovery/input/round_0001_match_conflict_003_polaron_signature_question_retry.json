@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812131774938218498": {
+        "area": "Physics and Astrophysics",
+        "authors": "G. Bussetti | C. Goletti | P. Chiaradia | G. Chiarotti",
+        "available_online": "2005-10-28",
+        "cover_date_start": "2005-10-28",
+        "created_at": "2022-12-20T17:21:44+08:00",
+        "doi": "10.1103/physrevb.72.153316",
+        "en_title": "Infrared reflectance anisotropy spectroscopy of Si ( 111 ) − 2 × 1 : Surface excitons and polarons",
+        "id": "812131774938218498",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "硅（111）-2×1的红外反射各向异性光谱：表面激子与极化子"
+      },
+      "paper:812348082149654529": {
+        "area": "Chemistry",
+        "authors": "Oliviero Cannelli | Nicola Colonna | Michele Puppin | Thomas C. Rossi | Dominik Kinschel | Ludmila M. D. Leroy | Janina Löffler | James M. Budarz | Anne Marie March | Gilles Doumy | Andre Al Haddad | Ming-Feng Tu | Yoshiaki Kumagai | Donald Walko | Grigory Smolentsev | Franziska Krieg | Simon C. Boehme | Maksym V. Kovalenko | Majed Chergui | Giulia F. Mancini",
+        "available_online": "2021-6-2",
+        "cover_date_start": "2021-06-02",
+        "created_at": "2022-12-21T07:41:16+08:00",
+        "doi": "10.1021/jacs.1c02403",
+        "en_title": "Quantifying Photoinduced Polaronic Distortions in Inorganic Lead Halide Perovskite Nanocrystals",
+        "id": "812348082149654529",
+        "keywords": "",
+        "publication_date": "2021-6-23",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "量化无机卤化铅钙钛矿纳米晶体中的光致极化子畸变"
+      },
+      "paper:812373015365943297": {
+        "area": "Physics and Astrophysics",
+        "authors": "Colin D. Sonnichsen | Dallas P. Strandell | Patrick J. Brosseau | Patanjali Kambhampati",
+        "available_online": "2021-5-26",
+        "cover_date_start": "2021-05-26",
+        "created_at": "2022-12-21T09:20:21+08:00",
+        "doi": "10.1103/physrevresearch.3.023147",
+        "en_title": "Polaronic quantum confinement in bulk CsPb Br 3 perovskite crystals revealed by state-resolved pump/probe spectroscopy",
+        "id": "812373015365943297",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "68812",
+        "publication_name": "Physical Review Research _ Phys. Rev. Research",
+        "research_categories": "",
+        "zh_title": "通过态分辨泵浦/探测光谱揭示的体相CsPbBr₃钙钛矿晶体中的极化子量子限制"
+      },
+      "paper:812422390813294592": {
+        "area": "Geoscience",
+        "authors": "A. F. Barabanov",
+        "available_online": "",
+        "cover_date_start": "2000-01-01",
+        "created_at": "2022-12-21T12:36:33+08:00",
+        "doi": "10.1063/1.1309171",
+        "en_title": "Theory of the spin-polaron for 2D antiferromagnets",
+        "id": "812422390813294592",
+        "keywords": "",
+        "publication_date": "2000",
+        "publication_id": "96345",
+        "publication_name": "AIP Conference Proceedings _ ",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "二维反铁磁体的自旋极化子理论"
+      },
+      "paper:812600096490258433": {
+        "area": "Physics and Astrophysics",
+        "authors": "Manish Kumar | Priyanka A. Jha | Pardeep K. Jha | Prabhakar Singh",
+        "available_online": "",
+        "cover_date_start": "2020-06-14",
+        "created_at": "2022-12-22T00:22:41+08:00",
+        "doi": "10.1063/5.0012202",
+        "en_title": "Hysteric photo-conduction and negative differential resistance in cesium lead bromide",
+        "id": "812600096490258433",
+        "keywords": "",
+        "publication_date": "2020-6-14",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "溴化铯铅中的 hysteric 光电导和负微分电阻 （注：“hysteric”在这里可能是特定语境下的专业术语，不太常见，直接保留英文，因为不清楚准确对应的中文专业词汇） "
+      },
+      "paper:812741277719199744": {
+        "area": "Material science",
+        "authors": "Yifan Wang | Feng Yang | Xuanze Li | Fan Ru | Pei Liu | Li Wang | Wei Ji | Jing Xia | Xiangmin Meng",
+        "available_online": "2019-8-22",
+        "cover_date_start": "2019-08-22",
+        "created_at": "2022-12-22T09:43:42+08:00",
+        "doi": "10.1002/adfm.201904913",
+        "en_title": "Epitaxial Growth of Large‐Scale Orthorhombic CsPbBr 3 Perovskite Thin Films with Anisotropic Photoresponse Property",
+        "id": "812741277719199744",
+        "keywords": "[{\"en_name\": \"anisotropic photoresponse\", \"ch_name\": \"\"}, {\"en_name\": \"CsPbBr<sub>3</sub>\", \"ch_name\": \"\"}, {\"en_name\": \"epitaxy\", \"ch_name\": \"\"}, {\"en_name\": \"orthorhombic phase\", \"ch_name\": \"\"}, {\"en_name\": \"perovskite thin films\", \"ch_name\": \"\"}]",
+        "publication_date": "2019-10",
+        "publication_id": "2023",
+        "publication_name": "Advanced Functional Materials _ Adv. Funct. Mater.",
+        "research_categories": "",
+        "zh_title": "具有各向异性光响应特性的大规模正交相CsPbBr₃钙钛矿薄膜的外延生长"
+      },
+      "paper:813001823186059264": {
+        "area": "Material science",
+        "authors": "Thomas R. Hopper | Andrei Gorodetsky | Jarvist M. Frost | Christian Müller | Robert Lovrincic | Artem A. Bakulin",
+        "available_online": "2018-8-21",
+        "cover_date_start": "2018-08-21",
+        "created_at": "2022-12-23T02:58:59+08:00",
+        "doi": "10.1021/acsenergylett.8b01227",
+        "en_title": "Ultrafast Intraband Spectroscopy of Hot-Carrier Cooling in Lead-Halide Perovskites",
+        "id": "813001823186059264",
+        "keywords": "",
+        "publication_date": "2018-9-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中热载流子冷却的超快带内光谱学"
+      },
+      "paper:813246013451010049": {
+        "area": "Physics and Astrophysics",
+        "authors": "W. Wang | J.-M. Mariot | M. C. Richter | O. Heckmann | W. Ndiaye | P. De Padova | A. Taleb-Ibrahimi | P. Le Fèvre | F. Bertran | F. Bondino | E. Magnano | J. Krempaský | P. Blaha | C. Cacho | F. Parmigiani | K. Hricovini",
+        "available_online": "2013-2-14",
+        "cover_date_start": "2013-02-14",
+        "created_at": "2022-12-23T19:09:20+08:00",
+        "doi": "10.1103/physrevb.87.085118",
+        "en_title": "Fe t 2 g band dispersion and spin polarization in thin films of Fe 3 O 4 (0 0 1)/MgO(0 0 1): Half-metallicity of magnetite revisited",
+        "id": "813246013451010049",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "Fe₃O₄(0 0 1)/MgO(0 0 1)薄膜中的Fe t₂g能带色散和自旋极化：对磁铁矿半金属性的重新审视"
+      },
+      "paper:867760367160262776": {
+        "area": "arXiv-Physics",
+        "authors": "Vasilii V. Belykh | Dmitri R. Yakovlev | Mikhail M. Glazov | Philipp S. Grigoryev | Mujtaba Hussain | Janina Rautert | Dmitry N. Dirin | Maksym V. Kovalenko | Manfred Bayer",
+        "available_online": "",
+        "cover_date_start": "2018-10-09",
+        "created_at": "2023-05-23T05:29:54+08:00",
+        "doi": "10.48550/arXiv.1810.04081",
+        "en_title": "Coherent spin dynamics of electrons and holes in CsPbBr$_3$ perovskite crystals",
+        "id": "867760367160262776",
+        "keywords": "",
+        "publication_date": "2018-10-09",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "CsPbBr₃钙钛矿晶体中电子与空穴的相干自旋动力学"
+      },
+      "paper:867763944972878020": {
+        "area": "arXiv-Physics",
+        "authors": "Fabio Caruso | Feliciano Giustino",
+        "available_online": "",
+        "cover_date_start": "2015-07-24",
+        "created_at": "2023-05-23T05:44:07+08:00",
+        "doi": "10.48550/arXiv.1507.06911",
+        "en_title": "Spectral Fingerprints of Electron-Plasmon Coupling",
+        "id": "867763944972878020",
+        "keywords": "",
+        "publication_date": "2015-07-24",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "电子-等离激元耦合的光谱指纹图谱"
+      }
+    },
+    "variables": [
+      {
+        "content": "Polaron‑parameter calculations performed with variational polaron theory and material dielectric and effective‑mass inputs yield an estimated polaron radius r_p ≈ 36 Å for CsPbBr3; using the approximate mapping between polaron spatial extent and the carrier‑density threshold for overlap n_{\\mathrm{overlap}}\\sim 1/r_p^3 (modulo order‑unity packing factors), the larger r_p in CsPbBr3 reduces n_{\\mathrm{overlap}} and thereby increases the propensity for spatial overlap of distinct polarons and for emitted optical phonons from different polarons to be reabsorbed, which enhances the density‑dependent hot‑phonon bottleneck observed experimentally in CsPbBr3.",
+        "content_hash": "d321172369e9d8872493bb707a4e4c1bde5faa0cb113882e82f98ddaed9a9fec",
+        "id": "gcn_9fd1d0ec12054f67",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813001823186059264::conclusion_6",
+            "package_id": "paper:813001823186059264",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813001823186059264"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030090497737556562,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Optical absorption and photoluminescence measurements on the CsPbBr$_3$ powder indicate an optical bandgap $E_g\\approx 2.26\\ \\text{eV}$, an exciton-related feature giving an estimated exciton binding energy $E_b\\approx 170\\ \\text{meV}$ (difference between absorption onset and excitonic peak), and a photoluminescence Stokes shift of approximately $80\\ \\text{meV}$; these spectroscopic signatures imply formation of bound excitons that couple to the lattice and form polarons, and transient electrical (discharge-mode) measurements performed after a 5 V trigger pulse (discharge measured for 50 s) show that the photogenerated current scales approximately linearly with applied bias (measured at biases of 0 V, 2 V, and 5 V), a bias dependence consistent with hopping/polaron-mediated transport between localized states rather than purely band-like conduction.",
+        "content_hash": "fc7ee31910847577f84afbf8ec23a84338321bb98001500b12c645f3a9f37c4e",
+        "id": "gcn_e0a31e14c50e4679",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812600096490258433::conclusion_4",
+            "package_id": "paper:812600096490258433",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812600096490258433"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the self‑consistent spin‑polaron spectral functions computed from the effective three‑band CuO_2 model using the projected polaron basis and mode‑coupling self‑energy, omitting detailed photoemission matrix elements, additional oxygen and copper orbital channels beyond the adopted basis, and interference between orbital contributions does not overturn the qualitative comparison between the calculated spectral asymmetry, momentum‑dependent damping, and quasiparticle localization near (π/2,π/2) and the angle‑resolved photoemission data on cuprate insulators; these omitted effects may modify detailed intensities but not the principal spectral patterns associated with spin‑polaron physics.",
+        "content_hash": "e004af34370a2155e70f94b26bb947186904820faf1b08cc0169921788371be2",
+        "id": "gcn_d5e905e4501343d2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812422390813294592::P37",
+            "package_id": "paper:812422390813294592",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812422390813294592"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The exciton-polariton resonance in CsPbBr_3 at $T=10\\,$K is characterized by a transverse exciton energy $E_{\\mathrm{T}} = 2.3220\\ \\mathrm{eV}$ and a longitudinal exciton energy $E_{\\mathrm{L}} = 2.3274\\ \\mathrm{eV}$, giving a longitudinal-transverse splitting $\\hbar\\omega_{\\mathrm{LT}} = 5.4\\ \\mathrm{meV}$ and an exciton damping $\\hbar\\Gamma = 6.7\\ \\mathrm{meV}$; the exciton photoluminescence peak is at $2.318\\ \\mathrm{eV}$ with a Stokes shift of $4\\ \\mathrm{meV}$ and an exciton recombination lifetime $\\tau_X = 0.7\\ \\mathrm{ns}$. The exciton Zeeman splitting measured in a longitudinal magnetic field $B_{\\mathrm{F}}=10\\ \\mathrm{T}$ is $\\Delta E_{\\mathrm{Z}} = 1.32\\ \\mathrm{meV}$, corresponding to the exciton $g$-factor $g_X = \\Delta E_{\\mathrm{Z}}/(\\mu_B B_{\\mathrm{F}}) = 2.35$, where $\\mu_B$ is the Bohr magneton.",
+        "content_hash": "083e19193eb638f6111808d11aaf4bb9ed3385dde36bec6a3282100e7331ad2b",
+        "id": "gcn_fb4ef0ce9b9840ad",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760367160262776::conclusion_1",
+            "package_id": "paper:867760367160262776",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760367160262776"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Plasmonic-polaron bands are defined as broadened, momentum-dispersing replicas of the ordinary valence quasiparticle bands that are red-shifted by the plasmon energy $\\\\Omega_{p}$, and the extrema of these plasmonic-polaron bands produce broadened spectral resonances—plasmonic Van Hove singularities—that manifest as substructures in angle-integrated photoemission spectra; this conceptual framework explains how dispersive electron–plasmon coupling produces both angle-resolved replica bands and angle-integrated satellite substructure in solids with well-defined plasmon resonances.",
+        "content_hash": "054975208e0abf9dfd96a3db91e862892202cacc0d9baf63ce23d38480b6fd4c",
+        "id": "gcn_1b074ba5923140a1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763944972878020::conclusion_8",
+            "package_id": "paper:867763944972878020",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763944972878020"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The transient features observed at the Pb $L_{3}$-edge in photoexcited CsPbBr₃ nanocrystals—namely, pre-edge and postedge modulations—are best interpreted as consequences of a Br-centered polaronic structural distortion: the computed polaronic displacement pattern (large axial Br displacements and accompanying Pb displacements) produces the local geometry changes that would give rise to the postedge modulations in Pb $L_{3}$-edge XANES via XANES sensitivity to nearest-neighbor bond distances and via valence-band hybridization indicated by the projected density of states, and the experimentally observed identical Br and Pb kinetic traces further demonstrate that the Pb spectral changes are driven synchronously by the Br-centered structural deformation rather than by an independent electronic reduction of Pb.",
+        "content_hash": "2ed84a5d510748b94f4d805b1283aa0d72b6b31747eedb53df883ba3981faf60",
+        "id": "gcn_06300af6956445f4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348082149654529::conclusion_6",
+            "package_id": "paper:812348082149654529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348082149654529"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The principal incoherent spectral-weight redistribution caused by strong electron–lattice (small-polaron) coupling in Fe$_3$O$_4$ can be represented, across the parts of the Brillouin zone probed in the reported ARPES and SRPES geometries and photon energies, by an approximately isotropic Gaussian convolution of the calculated ground-state spectral function with full width at half maximum $\\mathrm{FWHM}_{\\mathrm{G}}=600\\ \\mathrm{meV}$; using this single Gaussian parameter in the spectral simulation captures the dominant effect of polaron-induced incoherent sidebands on angle-resolved, angle-integrated, and spin-resolved photoemission lineshapes.",
+        "content_hash": "ffce9d174975fad0e8d9deaa5273a8eb2af19249e18b838dd65fa861db2fb7e0",
+        "id": "gcn_82df44ec13db40b1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813246013451010049::P5",
+            "package_id": "paper:813246013451010049",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813246013451010049"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If the reported angular-resolved ultraviolet photoemission spectroscopy, $k$-resolved inverse photoemission spectroscopy, scanning-tunneling spectroscopy, pump-probe photoemission, and angular-resolved ultraviolet photoemission spectroscopy measurements on highly doped samples are all taken as correct, then strong electron-lattice coupling at the Si(111)-$2\\times1$ surface can provide an alternative explanation of their apparent inconsistency. In this scenario, lattice relaxation around an added electron lowers the electron energy and produces a surface-polaron band split off from the surface conduction band. In highly $n$-doped samples, surface band bending and surface occupation fill this polaronic band completely, so photoemission from doped samples originates from the filled polaronic band rather than from the bare surface conduction-band minimum. Because the polaronic band is a lattice-relaxed many-body state of electron addition, its energy need not coincide with the quasiparticle conduction-band minimum measured by inverse photoemission or with the bare electronic states entering optical excitations. Under this hypothesis, the approximately $0.45\\ \\mathrm{eV}$ separation observed in photoemission from highly doped samples corresponds to emission from a filled polaron band rather than to the bare surface quasiparticle gap, so the angular-resolved-ultraviolet-photoemission/$k$-resolved-inverse-photoemission gap of about $0.75\\ \\mathrm{eV}$ is decoupled from the optical gap of about $0.45\\ \\mathrm{eV}$. This surface-polaron explanation remains tentative because full reconciliation requires a fortuitous numerical coincidence between the polaron relaxation energy and the computed exciton binding energy, and decisive assessment requires accurate theoretical estimates of surface-polaron energies together with targeted experiments.",
+        "content_hash": "e12bd1edd464c7f0df053b7aed0671b22696415522b65e50265d324d5062c06f",
+        "id": "gcn_2104015437744ea9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812131774938218498::conclusion_4",
+            "package_id": "paper:812131774938218498",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812131774938218498"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Polarization-resolved steady-state absorption and photoluminescence (PL) measurements on an epitaxial orthorhombic CsPbBr$_3$ film at room temperature (and at $-143.15\\,^\\circ\\mathrm{C}$) show pronounced in-plane optical anisotropy: the integrated absorbance and integrated PL intensity vary periodically with linear polarization angle in the sample plane, reaching maxima at $0^\\circ$ and minima at $90^\\circ$ across the measured spectral window of approximately 350--535 nm. The angular dependence exhibits a $360^\\circ$ periodicity consistent with reduced orthorhombic symmetry.",
+        "content_hash": "8ab0e4a0a3df193d6f7eb43eca62c5baee3fc3564e854e98b4603e005c8a1515",
+        "id": "gcn_158aab626e084fb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812741277719199744::conclusion_6",
+            "package_id": "paper:812741277719199744",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812741277719199744"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the Fröhlich electron–phonon coupling framework and the approximate binding‑energy relation adopted in the study, the dimensionless Fröhlich coupling constant is defined by\n      $$\n      \\\\alpha=\\\\frac{e^{2}}{\\\\hbar}\\\\frac{1}{4\\\\pi\\\\epsilon}\\\\left(\\\\frac{1}{\\\\epsilon_{\\\\infty}}-\\\\frac{1}{\\\\epsilon_{0}}\\\\right)\\\\sqrt{\\\\frac{m^{*}}{2\\\\hbar\\\\omega_{\\\\mathrm{LO}}}},\n      $$\n      where $e$ is the elementary charge, $\\\\hbar$ is the reduced Planck constant, $\\\\epsilon$ is the vacuum permittivity, $\\\\epsilon_{\\\\infty}$ and $\\\\epsilon_{0}$ are the optical and static dielectric constants, $m^{*}$ is the carriers' reduced mass, and $\\\\omega_{\\\\mathrm{LO}}$ is the longitudinal optical phonon angular frequency. The polaron binding energy is approximated by\n      $$\n      \\\\frac{\\\\Delta E}{\\\\hbar\\\\omega_{\\\\mathrm{LO}}}\\\\approx -\\\\alpha - 0.0159\\\\alpha^{2}.\n      $$\n      Adopting the literature values used in the analysis — an optical phonon frequency $\\\\omega_{\\\\mathrm{LO}}/(2\\\\pi)=4.07\\\\,$THz and $\\\\alpha\\\\approx2.7$ — yields an estimated polaron binding energy $\\\\Delta E\\\\approx47\\\\,$meV and polaron radii reported in prior studies in the range $l_{p}\\\\sim2$–5 nm (polaron diameter on the order of 4–10 nm, commonly quoted as ≈5 nm). Given the experimental nanocrystal edge length of approximately 20 nm, these lattice‑dressed carrier sizes imply an effective polaronic confining potential with discrete energy level spacings sufficient to produce quantum‑confined excitonic behavior; therefore the excitation is described as a quantum‑confined exciton polaron (a \"polaron‑exciton\") in these CsPbBr₃ nanocrystals.",
+        "content_hash": "d114fe6797ebb38d88d8470cf04612631caa0fde6d3b6dac5ecd3ac5cf0c08b6",
+        "id": "gcn_3ab0b288ea214c6c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812373015365943297::conclusion_5",
+            "package_id": "paper:812373015365943297",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812373015365943297"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5004b7d8c757a3b9a9303930b91c793c"
+}

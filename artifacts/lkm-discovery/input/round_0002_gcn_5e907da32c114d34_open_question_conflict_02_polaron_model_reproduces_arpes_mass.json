@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1051382135996284929": {
+        "area": "arXiv-Physics",
+        "authors": "Li Zhou | Yiduo Wang | Jianlong Kang | Xin Li | Quan Long | Xianming Zhong | Zhihui Chen | Chuanjia Tong | Keqiang Chen | Zi-Lan Deng | Zhengwei Zhang | Chuan-Cun Shu | Yongbo Yuan | Xiang Ni | Si Xiao | Xiangping Li | Yingwei Wang | Jun He",
+        "available_online": "",
+        "cover_date_start": "2024-10-08",
+        "created_at": "2024-10-10T22:17:15+08:00",
+        "doi": "10.48550/arxiv.2410.06198",
+        "en_title": "Observation of polaronic state assisted sub-bandgap saturable absorption",
+        "id": "1051382135996284929",
+        "keywords": "",
+        "publication_date": "2024-10-08",
+        "publication_id": "108520",
+        "publication_name": "Optics _ Physics.physics.optics",
+        "research_categories": "",
+        "zh_title": "极化子态辅助的亚带隙饱和吸收观测"
+      },
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811813299376095232": {
+        "area": "Physics and Astrophysics",
+        "authors": "Z. Qu | D.W. Kang | H. Jiang | S.J. Xie",
+        "available_online": "",
+        "cover_date_start": "2010-06-01",
+        "created_at": "2022-12-19T20:16:13+08:00",
+        "doi": "10.1016/j.physb.2009.12.020",
+        "en_title": "Temperature effect on polaron dynamics in DNA molecule: The role of electron-base interaction",
+        "id": "811813299376095232",
+        "keywords": "[{\"en_name\": \"DNA\", \"ch_name\": \"\"}, {\"en_name\": \"Electron-base interaction\", \"ch_name\": \"\"}, {\"en_name\": \"Polaron dynamics\", \"ch_name\": \"\"}, {\"en_name\": \"Temperature\", \"ch_name\": \"\"}]",
+        "publication_date": "2010-6",
+        "publication_id": "615",
+        "publication_name": "Physica B: Condensed Matter _ Physica B: Condensed Matter",
+        "research_categories": "",
+        "zh_title": "温度对DNA分子中极化子动力学的影响：电子-碱基相互作用的作用"
+      },
+      "paper:811929265497964547": {
+        "area": "Physics and Astrophysics",
+        "authors": "C. H. Patterson",
+        "available_online": "2008-3-31",
+        "cover_date_start": "2008-03-31",
+        "created_at": "2022-12-20T03:57:01+08:00",
+        "doi": "10.1103/physrevb.77.094523",
+        "en_title": "Small polarons and magnetic antiphase boundaries in Ca 2 − x Na x Cu O 2 Cl 2 ( x = 0.06 , 0.12 ) : Origin of striped phases in cuprates",
+        "id": "811929265497964547",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "Ca₂₋ₓNaₓCuO₂Cl₂（x = 0.06，0.12）中的小极化子与磁反相边界：铜酸盐中条纹相的起源 "
+      },
+      "paper:867753314249343108": {
+        "area": "arXiv-Physics",
+        "authors": "A.E.Myasnikova | E.N. Myasnikov",
+        "available_online": "",
+        "cover_date_start": "2007-12-17",
+        "created_at": "2023-05-23T05:01:52+08:00",
+        "doi": "10.48550/arXiv.0712.2782",
+        "en_title": "Correlation of optical conductivity and ARPES spectra of strong-coupling large polarons and its display in cuprates",
+        "id": "867753314249343108",
+        "keywords": "",
+        "publication_date": "2007-12-17",
+        "publication_id": "108490",
+        "publication_name": "Superconductivity _ Physics.cond-mat.supr-con",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "强耦合大极化子的光导率与角分辨光电子能谱（ARPES）的相关性及其在铜酸盐中的表现 "
+      },
+      "paper:867764320174342541": {
+        "area": "arXiv-Physics",
+        "authors": "N. Mannella | W. Yang | X. J. Zhou | H. Zheng | J. F. Mitchell | J. Zaanen | T. P. Devereaux | N. Nagaosa | Z. Hussain | Z.-X. Shen",
+        "available_online": "",
+        "cover_date_start": "2005-10-17",
+        "created_at": "2023-05-23T05:45:36+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0510423",
+        "en_title": "Nodal quasiparticle in pseudogapped colossal magnetoresistive manganites",
+        "id": "867764320174342541",
+        "keywords": "",
+        "publication_date": "2005-10-17",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "赝能隙巨磁电阻锰氧化物中的节线准粒子"
+      }
+    },
+    "variables": [
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure.",
+        "content_hash": "13747b834c18e25cd1a33125aa14a2dc934c6335bdcd60854563362233933692",
+        "id": "gcn_c24c81b8a5fe413c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030158730158730156,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider ground‑state DFT‑based AIMD simulations performed on a finite CsPbBr₃ supercell at finite temperature with trajectory lengths on the order of $6\\ \\mathrm{ps}$ that yield band‑edge standard deviations of order $\\sim49\\ \\mathrm{meV}$ at $300\\ \\mathrm{K}$; the proposition is that these equilibrium, ground‑state AIMD band‑edge fluctuations capture the magnitude and relevant sub‑picosecond timescales of band‑edge energy shifts that are produced by photoinduced exciton‑polaron formation, i.e., that thermally driven equilibrium band fluctuations from ground‑state AIMD are quantitatively representative of the non‑equilibrium, carrier‑induced lattice distortions occurring during ultrafast optical excitation.",
+        "content_hash": "c7a318308f21490534f55edba8b0d53bd11a5c2e5fc12db104c98ec9c87b61a6",
+        "id": "gcn_75dab708cd5a42c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1051382135996284929::P7",
+            "package_id": "paper:1051382135996284929",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1051382135996284929"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030090497737556562,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A practical, validated finite-temperature first-principles protocol for obtaining polaron-free band structures of strongly anharmonic materials is as follows: (i) perform AIMD at the target temperature in the canonical (NVT) ensemble with a Nosé–Hoover thermostat to sample thermally distorted atomic configurations (example parameters used here for CsPbBr₃: 3×3×3 pseudocubic supercell containing 135 atoms, 1 fs time step, structural evolution performed with the Perdew–Burke–Ernzerhof (PBE) exchange-correlation functional), (ii) select representative equilibrated pseudocubic atomic configurations from the AIMD trajectory and compute single-point electronic structures with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC), (iii) determine the hybrid mixing parameter α by matching the calculated band gap for the chosen representative configuration to the experimental room-temperature band gap (for the CsPbBr₃ representative configuration used here, α = 0.54 yields E_g = 2.37 eV), and (iv) apply Brillouin-zone unfolding to map supercell eigenvalues and spectral weights onto the primitive-cell Brillouin zone, thereby obtaining effective finite-temperature band dispersions from which effective masses and band separations can be extracted; this workflow reproduces experimental band gaps and ARPES-measured hole masses for CsPbBr₃ and provides a rigorous polaron-free baseline for comparing first-principles band structures with experiment in strongly anharmonic materials.",
+        "content_hash": "71d13b593a4d9c46ea0650c8501266825aaab7e4de2d4f0f502c7e410f7642a3",
+        "id": "gcn_c95a37779ca54337",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_7",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02964426877470356,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The claim is: If, upon increasing temperature from low T up to the Curie temperature T_{C}, ARPES EDCs show that (i) the low-energy nodal quasiparticle peak spectral weight decreases and disappears by T ≲ T_{C} while (ii) the high-energy hump maximum position and lineshape experience only minor changes over the same temperature range, then this behavior indicates that the low-energy coherence associated with the polaron centre-of-mass motion is thermally destroyed (polaron centre-of-mass decoherence), whereas the local incoherent polaron excitations giving rise to the hump are robust to thermal fluctuations in that temperature window; here \"hump\" and \"quasiparticle peak\" are the EDC features described in the ARPES spectra and T_{C} denotes the ferromagnetic Curie temperature.",
+        "content_hash": "58968a69c99ce9dd7f834d860aa934243a4466428fdf5ddb635f42fde61d1c7b",
+        "id": "gcn_43ebd7a3c2884096",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764320174342541::P8",
+            "package_id": "paper:867764320174342541",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764320174342541"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54.",
+        "content_hash": "b4c6a8a750bba688cccd32b362099d0c7fa3846208dba72908e40731a64bd010",
+        "id": "gcn_3f848904ab0d4b48",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_2",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Static, zero-temperature hybrid-DFT calculations on periodically repeated supercells that converge to static, symmetry-broken solutions (isolated polaron, stripe, checkerboard) do not include thermal effects, finite-temperature phonon populations, time-dependent polaron hopping processes, nor dynamical stripe fluctuations; consequently, direct comparison of such static calculated charge and spin patterns and band structures to experimental probes performed at finite temperature and over finite measurement timescales (for example, STM, ARPES, neutron scattering) implicitly assumes that the static solutions represent the dominant instantaneous configurations or time-averaged patterns in the real material, an assumption whose validity depends on unknown energy barriers and fluctuation timescales.",
+        "content_hash": "a730492b696b976d4a84ec1f74734a1a60011a55490a5aa33a29bd71c6ede694",
+        "id": "gcn_46c3d66bb58c4505",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811929265497964547::P14",
+            "package_id": "paper:811929265497964547",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811929265497964547"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the same finite-temperature workflow (AIMD structural sampling at T = 300 K followed by single-point HSE–SOC electronic-structure calculations and Brillouin-zone unfolding) to crystalline Si and GaAs yields only minor thermal renormalization: the direction-averaged heavy-hole effective masses for Si and GaAs change by approximately 5% between T = 0 K and T = 300 K, and the unfolded room-temperature band-structure colormaps for Si and GaAs show much weaker energy–momentum smearing than the unfolded room-temperature band structure for CsPbBr₃; consequently, the large thermally induced mass renormalization observed in CsPbBr₃ is not a generic feature of all semiconductors but is specific to materials with very soft, strongly anharmonic lattices.",
+        "content_hash": "6cebe948520df24973b2bb51ff22d8612d338a0511bd2b264926f58c0ac5cdbb",
+        "id": "gcn_53a5034187ac4353",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_5",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under an applied uniform electric field of magnitude E = 0.6 mV/Å and with dynamical thermal base-pair fluctuations sampled from the Boltzmann distribution at finite temperature and evolved non-adiabatically, polaron transport in the one-dimensional single-band tight-binding model changes from continuous, bandlike drift at strictly zero temperature to discrete, thermally assisted hopping at finite temperature; the average polaron velocity v_avg, measured as the time derivative of the electronic charge centroid, increases with increasing temperature (indicating thermally activated transport), and increasing either the local coupling β or the non-local coupling α reduces v_avg under the same applied field, consistent with increased charge localization and an increased effective polaron mass.",
+        "content_hash": "079298c7148987b4039a0ce732fd593daf8257d260e4b7669376e79d356d987b",
+        "id": "gcn_4656d68c0b744a02",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811813299376095232::conclusion_3",
+            "package_id": "paper:811813299376095232",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811813299376095232"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Within the SCLP picture in the strong-coupling Franck–Condon regime, increasing temperature leads to thermal destruction of SCLPs when polaron thermal velocities exceed the relevant phonon phase/group velocities that limit polaron propagation; this thermal destruction reduces the polaron concentration N_{p} and therefore reduces the integrated intensity (total spectral weight) of both the ARPES and optical-conductivity photodissociation bands. Increasing carrier concentration beyond a maximal non-overlap polaron density n_{0}\\simeq 2/V_{0} (with V_{0} the effective polaron volume) leads to coexistence of polarons and free carriers and to increased screening of the electron–phonon interaction by free carriers; screening reduces the polaron binding energy E_{p}, shifting photodissociation-band maxima to lower energies and reducing band intensity. These qualitative trends explain experimentally observed temperature- and doping-dependent reductions of mid-IR intensity and mobility changes in several complex oxides.",
+        "content_hash": "a98f2b04164f150726e517a9ddea2ab52f1ded235c74115925ee5996e6e1f04f",
+        "id": "gcn_47f96d8df6644641",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753314249343108::conclusion_11",
+            "package_id": "paper:867753314249343108",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753314249343108"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "9c7a4f7371e9de076f04f26e293c19e3"
+}

@@ -1,0 +1,172 @@
+{
+  "review_id": "2026-05-06T04-21-22Z_69ae0dc5_auto",
+  "created_at": "2026-05-06T04:21:22Z",
+  "ir_hash": "sha256:69ae0dc5a29fbf7d4bfb719a6cd6ab27bf1a239f4b97427bc4a987500df4cf05",
+  "ir": {
+    "knowledges": [
+      {
+        "id": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+        "label": "gcn_1544d55444d743c8",
+        "type": "claim",
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e. [@Puppin2020]",
+        "metadata": {
+          "lkm_id": "gcn_1544d55444d743c8",
+          "lkm_original": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+          "source_paper": "paper:812638467241541632",
+          "provenance_source": "lkm",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Puppin2020"
+              ]
+            }
+          }
+        },
+        "exported": true
+      },
+      {
+        "id": "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
+        "label": "gcn_2e9e6e30a5d7431c",
+        "type": "claim",
+        "content": "In an ARPES measurement of a crystalline semiconductor, let E(k) denote the measured quasiparticle energy as a function of the in-plane crystal momentum k (the magnitude of a two-dimensional wave vector measured in reciprocal angstroms, Å^{-1}), and let E_{\\\\mathrm{VBM}} denote the valence-band-maximum (VBM) energy defined as the highest occupied quasiparticle energy; within the momentum window used for fitting the upper valence band, taken here to be the region |k-k_{\\\\mathrm{VBM}}|\\\\lesssim0.1\\\\ \\\\text{\\\\AA}^{-1} around the momentum of the VBM, the quasiparticle dispersion is assumed to be well described by the isotropic in-plane parabolic form\n      E(k)=E_{\\\\mathrm{VBM}}+\\\\frac{\\\\hbar^{2}k^{2}}{2m_{\\\\mathrm{exp}}},\n      where \\\\hbar is the reduced Planck constant and m_{\\\\mathrm{exp}} is the fitted experimental hole effective mass; under this parabolic-band approximation, least-squares fitting of the experimentally extracted band maxima to this functional form returns m_{\\\\mathrm{exp}} and the systematic error in m_{\\\\mathrm{exp}} arising from neglected higher-order (nonparabolic) terms is smaller than the quoted experimental uncertainty of \\\\pm0.02\\\\,m_e, with m_e the free electron mass. [@Puppin2020]",
+        "metadata": {
+          "lkm_id": "gcn_2e9e6e30a5d7431c",
+          "lkm_original": "In an ARPES measurement of a crystalline semiconductor, let E(k) denote the measured quasiparticle energy as a function of the in-plane crystal momentum k (the magnitude of a two-dimensional wave vector measured in reciprocal angstroms, Å^{-1}), and let E_{\\\\mathrm{VBM}} denote the valence-band-maximum (VBM) energy defined as the highest occupied quasiparticle energy; within the momentum window used for fitting the upper valence band, taken here to be the region |k-k_{\\\\mathrm{VBM}}|\\\\lesssim0.1\\\\ \\\\text{\\\\AA}^{-1} around the momentum of the VBM, the quasiparticle dispersion is assumed to be well described by the isotropic in-plane parabolic form\n      E(k)=E_{\\\\mathrm{VBM}}+\\\\frac{\\\\hbar^{2}k^{2}}{2m_{\\\\mathrm{exp}}},\n      where \\\\hbar is the reduced Planck constant and m_{\\\\mathrm{exp}} is the fitted experimental hole effective mass; under this parabolic-band approximation, least-squares fitting of the experimentally extracted band maxima to this functional form returns m_{\\\\mathrm{exp}} and the systematic error in m_{\\\\mathrm{exp}} arising from neglected higher-order (nonparabolic) terms is smaller than the quoted experimental uncertainty of \\\\pm0.02\\\\,m_e, with m_e the free electron mass.",
+          "source_paper": "paper:812638467241541632",
+          "provenance_source": "lkm",
+          "prior": 0.82,
+          "prior_justification": "ARPES parabolic-fit assumption from LKM evidence chain; TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Puppin2020"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
+        "label": "gcn_0a71cf6357114b76",
+        "type": "claim",
+        "content": "Let an energy-distribution curve (EDC) be the ARPES-measured photoemission intensity as a function of binding energy E at fixed parallel momentum k; the energy position of the maximum of the measured EDC at the band top is used to define the valence-band-maximum energy E_{\\\\mathrm{VBM}} for the purposes of setting the energy zero and extracting an effective mass, and any systematic shift of the EDC peak maximum from the true quasiparticle band-edge caused by many-body interactions, inelastic background, or the instrumental lineshape is assumed to be smaller than the quoted energy/mass uncertainty so that using the EDC peak maximum to set E=0 does not induce a systematic error larger than \\\\pm0.02\\\\,m_e in the fitted hole effective mass. [@Puppin2020]",
+        "metadata": {
+          "lkm_id": "gcn_0a71cf6357114b76",
+          "lkm_original": "Let an energy-distribution curve (EDC) be the ARPES-measured photoemission intensity as a function of binding energy E at fixed parallel momentum k; the energy position of the maximum of the measured EDC at the band top is used to define the valence-band-maximum energy E_{\\\\mathrm{VBM}} for the purposes of setting the energy zero and extracting an effective mass, and any systematic shift of the EDC peak maximum from the true quasiparticle band-edge caused by many-body interactions, inelastic background, or the instrumental lineshape is assumed to be smaller than the quoted energy/mass uncertainty so that using the EDC peak maximum to set E=0 does not induce a systematic error larger than \\\\pm0.02\\\\,m_e in the fitted hole effective mass.",
+          "source_paper": "paper:812638467241541632",
+          "provenance_source": "lkm",
+          "prior": 0.8,
+          "prior_justification": "EDC peak-position assumption from LKM evidence chain; TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Puppin2020"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555",
+        "label": "gcn_e24a3d64aa604555",
+        "type": "claim",
+        "content": "ARPES intensity maps measured over in-plane momentum (k_x,k_y) and as a function of photon energy (which probes different values of the momentum component perpendicular to the surface, k_{\\\\perp}) together with band-unfolding calculations show that the observed periodicity of four valence-band maxima at the surface Brillouin-zone corners and the absence of an additional valence-band maximum at the surface \\\\bar{\\\\Gamma} point are not caused by surface reconstruction, k_{\\\\perp} dispersion, or matrix-element effects; specifically, energy- and polarization-dependent ARPES measurements reveal no signature of an additional VBM at \\\\bar{\\\\Gamma}, and unfolding of orthorhombic bands onto the cubic cell shows negligible spectral weight transfer to backfolded bands, so that the measured dispersion used to obtain m_{\\\\mathrm{exp}} represents bulk-like valence-band behavior relevant to the orthorhombic structure. [@Puppin2020]",
+        "metadata": {
+          "lkm_id": "gcn_e24a3d64aa604555",
+          "lkm_original": "ARPES intensity maps measured over in-plane momentum (k_x,k_y) and as a function of photon energy (which probes different values of the momentum component perpendicular to the surface, k_{\\\\perp}) together with band-unfolding calculations show that the observed periodicity of four valence-band maxima at the surface Brillouin-zone corners and the absence of an additional valence-band maximum at the surface \\\\bar{\\\\Gamma} point are not caused by surface reconstruction, k_{\\\\perp} dispersion, or matrix-element effects; specifically, energy- and polarization-dependent ARPES measurements reveal no signature of an additional VBM at \\\\bar{\\\\Gamma}, and unfolding of orthorhombic bands onto the cubic cell shows negligible spectral weight transfer to backfolded bands, so that the measured dispersion used to obtain m_{\\\\mathrm{exp}} represents bulk-like valence-band behavior relevant to the orthorhombic structure.",
+          "source_paper": "paper:812638467241541632",
+          "provenance_source": "lkm",
+          "prior": 0.84,
+          "prior_justification": "bulk-like ARPES dispersion assignment supported by measurements and unfolding in LKM chain; TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Puppin2020"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "github:perovskite_arpes_polaron::__conjunction_result_d63e67ba",
+        "label": "__conjunction_result_d63e67ba",
+        "type": "claim",
+        "content": "all_true(github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c,github:perovskite_arpes_polaron::gcn_0a71cf6357114b76,github:perovskite_arpes_polaron::gcn_e24a3d64aa604555)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "conjunction_result",
+          "visibility": "formal_internal",
+          "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c,github:perovskite_arpes_polaron::gcn_0a71cf6357114b76,github:perovskite_arpes_polaron::gcn_e24a3d64aa604555)",
+          "owning_strategy_type": "deduction",
+          "helper_kind": "conjunction_result",
+          "helper_visibility": "formal_internal",
+          "owning_strategy_id": "lcs_455e7937f3ffc02d"
+        },
+        "exported": false
+      },
+      {
+        "id": "github:perovskite_arpes_polaron::__implication_result_c7228dab",
+        "label": "__implication_result_c7228dab",
+        "type": "claim",
+        "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_d63e67ba,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "implication_result",
+          "visibility": "formal_internal",
+          "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_d63e67ba,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+          "owning_strategy_type": "deduction",
+          "helper_kind": "implication_result",
+          "helper_visibility": "formal_internal",
+          "prior": 0.95,
+          "owning_strategy_id": "lcs_455e7937f3ffc02d"
+        },
+        "exported": false
+      }
+    ],
+    "strategies": [
+      {
+        "id": "",
+        "conclusion": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+        "premises": [
+          "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
+          "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
+          "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555"
+        ],
+        "background": []
+      }
+    ],
+    "operators": []
+  },
+  "beliefs": [
+    {
+      "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_d63e67ba",
+      "label": "__conjunction_result_d63e67ba",
+      "belief": 0.5509379200000001
+    },
+    {
+      "knowledge_id": "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
+      "label": "gcn_0a71cf6357114b76",
+      "belief": 0.7999999999999999
+    },
+    {
+      "knowledge_id": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+      "label": "gcn_1544d55444d743c8",
+      "belief": 0.7611721209760001
+    },
+    {
+      "knowledge_id": "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
+      "label": "gcn_2e9e6e30a5d7431c",
+      "belief": 0.8200000000000001
+    },
+    {
+      "knowledge_id": "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555",
+      "label": "gcn_e24a3d64aa604555",
+      "belief": 0.8400000000000001
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811262655791628288": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yan Zhou | Zhiping Hu | Yue Li | Jianqiu Xu | Xiaosheng Tang | Yulong Tang",
+        "available_online": "",
+        "cover_date_start": "2016-06-27",
+        "created_at": "2022-12-18T07:48:09+08:00",
+        "doi": "10.1063/1.4955037",
+        "en_title": "CsPbBr 3 nanocrystal saturable absorber for mode-locking ytterbium fiber laser",
+        "id": "811262655791628288",
+        "keywords": "",
+        "publication_date": "2016-6-27",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "用于锁模镱光纤激光器的CsPbBr₃纳米晶体可饱和吸收体"
+      },
+      "paper:812114724350066688": {
+        "area": "Chemistry",
+        "authors": "S. Idrissi | H. Labrim | L. Bahmad | A. Benyoussef",
+        "available_online": "",
+        "cover_date_start": "2021-08-01",
+        "created_at": "2022-12-20T16:13:59+08:00",
+        "doi": "10.1016/j.solidstatesciences.2021.106679",
+        "en_title": "Study of the solar perovskite CsMBr3 (M=Pb or Ge) photovoltaic materials: Band-gap engineering",
+        "id": "812114724350066688",
+        "keywords": "",
+        "publication_date": "2021-8",
+        "publication_id": "3501",
+        "publication_name": "Solid State Sciences _ Solid State Sciences",
+        "research_categories": "",
+        "zh_title": "太阳能钙钛矿CsMBr3（M = Pb或Ge）光伏材料的研究：带隙工程"
+      },
+      "paper:812470264418795521": {
+        "area": "Material science",
+        "authors": "Shuhua Chen | Qixuan Zhong | Jun Liu | Wenhao Guan | Pengli Li | Israr Mahmood | Muhan Cao | Qiao Zhang",
+        "available_online": "2021",
+        "cover_date_start": "2021-01-01",
+        "created_at": "2022-12-21T15:46:47+08:00",
+        "doi": "10.1039/d1nr01198g",
+        "en_title": "Improved photophysical properties and durability of CsPbBr 3 NCs endowed by inorganic oxoacid and bromide ions",
+        "id": "812470264418795521",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2079",
+        "publication_name": "Nanoscale _ Nanoscale",
+        "research_categories": "",
+        "zh_title": "无机含氧酸和溴离子赋予CsPbBr₃纳米晶改善的光物理性质和耐久性"
+      },
+      "paper:812512828345810945": {
+        "area": "Physics and Astrophysics",
+        "authors": "H. Zitouni | N. Tahiri | O. El Bounagui | H. Ez-Zahraouy",
+        "available_online": "",
+        "cover_date_start": "2021-02-01",
+        "created_at": "2022-12-21T18:35:55+08:00",
+        "doi": "10.1016/j.elspec.2021.147043",
+        "en_title": "Doping effect of iodine on electronic and optical properties of perovskite CsPbBr3 compound for photovoltaic applications: Ab initio calculations",
+        "id": "812512828345810945",
+        "keywords": "[{\"ch_name\":\"从头计算\",\"en_name\":\"Ab initio calculation\"},{\"ch_name\":\"间隙能\",\"en_name\":\"Gap energy\"},{\"ch_name\":\"碘掺杂\",\"en_name\":\"Iodine doping\"},{\"ch_name\":\"光学性质\",\"en_name\":\"Optical properties\"},{\"ch_name\":\"钙钛矿CsPbBr<sub>3</sub>化合物\",\"en_name\":\"Perovskite CsPbBr<sub>3</sub> compound\"},{\"ch_name\":\"光伏应用\",\"en_name\":\"Photovoltaic applications\"}]",
+        "publication_date": "2021-2",
+        "publication_id": "641",
+        "publication_name": "Journal of Electron Spectroscopy and Related Phenomena _ Journal of Electron Spectroscopy and Related Phenomena",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "碘对用于光伏应用的钙钛矿CsPbBr3化合物电子和光学性质的掺杂效应：从头算计算"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813129257290039296": {
+        "area": "Material science",
+        "authors": "Z. Yang | A. Surrente | K. Galkowski | A. Miyata | O. Portugall | R. J. Sutton | A. A. Haghighirad | H. J. Snaith | D. K. Maude | P. Plochocka | R. J. Nicholas",
+        "available_online": "2017-6-14",
+        "cover_date_start": "2017-06-14",
+        "created_at": "2022-12-23T11:25:22+08:00",
+        "doi": "10.1021/acsenergylett.7b00416",
+        "en_title": "Impact of the Halide Cage on the Electronic Properties of Fully Inorganic Cesium Lead Halide Perovskites",
+        "id": "813129257290039296",
+        "keywords": "",
+        "publication_date": "2017-7-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化物笼对全无机铯铅卤化物钙钛矿电子性质的影响"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      },
+      "paper:867769513020489995": {
+        "area": "arXiv-Physics",
+        "authors": "Jagadish Kumar | K.P.S.S. Hembram",
+        "available_online": "",
+        "cover_date_start": "2022-02-13",
+        "created_at": "2023-05-23T06:06:14+08:00",
+        "doi": "10.48550/arXiv.2202.06171",
+        "en_title": "Interface properties of CsPbBr$_3$ /CsPbI$_3$ perovskite heterostructure for solar cell",
+        "id": "867769513020489995",
+        "keywords": "",
+        "publication_date": "2022-02-13",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "用于太阳能电池的CsPbBr$_3$/CsPbI$_3$钙钛矿异质结构的界面性质"
+      }
+    },
+    "variables": [
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "All electronic band‑structure calculations reported for CsPbBr3−xIx were performed using an idealized cubic Pm3m unit cell. Experimental structural data cited for CsPbBr3 indicate phase changes with temperature: CsPbBr3 adopts an orthorhombic phase at room temperature, transforms to a tetragonal phase at 373 K, and reaches the cubic phase at 403 K (Møller, Nature 182 (1958) 1436, and related diffraction studies). Because the simulations fixed the structure to the cubic Pm3m symmetry for all compositions and did not model the orthorhombic or tetragonal symmetries that are present at or near room temperature, the computed Kohn–Sham band gaps and derived optical spectra for the cubic model can differ systematically from values that would be obtained for the lower‑symmetry (orthorhombic or tetragonal) experimental phases.\n      Section 2; Table 1",
+        "content_hash": "e5476d3d5d73ab2d3ea0bf01bd6d7df6e07f86d1c30cae1bb2fee5ff0c3ee601",
+        "id": "gcn_571cbee64cba41d6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812512828345810945::P1",
+            "package_id": "paper:812512828345810945",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812512828345810945"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028531243721117136,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For theoretical hole effective masses to be directly comparable with ARPES-measured effective masses, the electronic-structure calculation should produce a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}} that is not strongly underestimated relative to the experimental optical gap; concretely, in the present case the orthorhombic one-shot G_{0}W_{0} calculation yields a larger gap of 2.09\\ \\mathrm{eV and a hole mass of 0.226\\,m_{0}}, which is numerically closer to the experimental optical gap (~2.37\\ \\mathrm{eV} at room temperature) and to the ARPES mass than the cubic-phase G_{0}W_{0} result (gap 1.74\\ \\mathrm{eV}, mass 0.15\\,m_{0}), illustrating that a calculation that does not strongly underestimate the quasiparticle gap gives a more reliable theoretical effective mass for ARPES comparison.",
+        "content_hash": "348ed516eb36c8aaa808f6bca08ef02c7eec601ebed9e99ef972830762ea967f",
+        "id": "gcn_0cc9a72f074e40f4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_5",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Kohn–Sham fundamental band gap E_{g} (energy difference between the conduction-band minimum and valence-band maximum computed from the PBE-GGA plane-wave calculations described above) for cubic CsPbBr3 has its valence-band maximum and conduction-band minimum located at the R high-symmetry point of the cubic Brillouin zone (i.e., the gap is direct at R), and the computed E_{g} values as a function of lattice parameter a (in ångströms) are: a = 5.6 ⇒ E_{g} = 0.8 eV; a = 5.7 ⇒ E_{g} = 1.2 eV; a = 5.8 ⇒ E_{g} = 1.29 eV; a = 5.9 ⇒ E_{g} = 1.49 eV; a = 6.0 ⇒ E_{g} = 1.71 eV; a = 6.1 ⇒ E_{g} = 1.90 eV; a = 6.2 ⇒ E_{g} = 1.98 eV; a = 6.3 ⇒ E_{g} = 2.10 eV; across this sampled range E_{g} increases with increasing a, increasing rapidly for a < 6.0 Å and exhibiting a plateauing (slower increase) for a > 6.0 Å in the reported dataset.",
+        "content_hash": "4f5b7209a036c75f77d0f53c151408c27bcd806bcf0890340828a6d4743f7de2",
+        "id": "gcn_01ffd5e71d614a34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812114724350066688::conclusion_3",
+            "package_id": "paper:812114724350066688",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812114724350066688"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A powder X-ray diffraction (XRD) pattern collected from an ensemble of colloidal CsPbBr3 nanocrystals that matches the cubic CsPbBr3 reference pattern (JCPDS/PDF entry for cubic CsPbBr3, JCPDS/PDF No. 54-0752) is interpreted as indicating that the dominant crystalline phase of the nanoparticle ensemble remains cubic after the chemical treatment, under the explicit assumption that peak broadening caused by the small particle size distribution and a modest signal-to-noise ratio do not conceal a minority orthorhombic phase or subtle treatment-induced structural distortions.",
+        "content_hash": "0588f870d339b9fce68534b6696a6cf4950f81e3f92f11dd796bf3c9c354238c",
+        "id": "gcn_a82ee6be7db44363",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812470264418795521::P9",
+            "package_id": "paper:812470264418795521",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812470264418795521"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "X-ray diffraction (XRD) patterns of polycrystalline samples display peaks at angles corresponding to lattice plane spacings; the proposition is: the measured XRD pattern of the drop-cast CsPbBr3 sample uniquely identifies the sample as a pure cubic-phase three-dimensional perovskite CsPbBr3 without contributions from other crystalline phases (such as orthorhombic or tetragonal perovskite polymorphs or unreacted PbBr2) only if the observed peak positions and relative intensities match cubic CsPbBr3 reference data within experimental uncertainty and if nanocrystal-size-induced peak broadening, lattice strain, surface relaxation, or overlap with substrate or capping-ligand scattering do not conceal additional phase contributions. Definitions: \"XRD pattern\" denotes the measured diffracted intensity versus 2θ angle using a laboratory X-ray source; \"pure cubic phase\" denotes the perovskite crystal symmetry with lattice parameters and relative peak intensities consistent with cubic CsPbBr3 reference patterns.",
+        "content_hash": "a5d3217f16374bfb0d3e5806677a64ffeadc97157990ccb7875fafe0d4592157",
+        "id": "gcn_8fe6ffc6c7ee4190",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811262655791628288::P3",
+            "package_id": "paper:811262655791628288",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811262655791628288"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "At the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation density-functional-theory level, the calculated single-particle Kohn--Sham band gaps are: bulk CsPbBr$_{3}$ $=3.04\\ \\text{eV}$, bulk CsPbI$_{3}$ $=2.58\\ \\text{eV}$, monolayer CsPbBr$_{3}$ $=3.88\\ \\text{eV}$, and monolayer CsPbI$_{3}$ $=3.15\\ \\text{eV}$, and the larger gaps for the monolayers relative to the corresponding bulk phases are attributed to quantum-confinement-induced widening of the electronic gaps.",
+        "content_hash": "eb09a17206d8fbe22c0c79c89409a7d34fda799db02b201e60b25a96617ebb21",
+        "id": "gcn_f577706842324950",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769513020489995::conclusion_3a",
+            "package_id": "paper:867769513020489995",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769513020489995"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For orthorhombic CsPbBr3 measured at 2 K, the band-gap energy determined from the 1s excitonic absorption is E_g = 2342 meV, the exciton binding energy determined from the hydrogenic exciton fits is R* = 33 ± 1 meV, the exciton reduced mass determined from the high-field inter–Landau-level fits is μ = 0.126 ± 0.01 m_0, and the effective dielectric constant inferred from R* via R* = R_0 (μ/m_0) / ε_eff^2 is ε_eff = 7.3.",
+        "content_hash": "39cdea3c466557b7c693b0eb96a2905eee627ff2395f2d0ab7194531d6f9c207",
+        "id": "gcn_92ecd2d053564bb4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813129257290039296::conclusion_5",
+            "package_id": "paper:813129257290039296",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813129257290039296"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "654a0eae42caa52dc35991fea8b96ed0"
+}

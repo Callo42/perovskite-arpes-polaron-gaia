@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1001302087335673870": {
+        "area": "Comprehensive Periodical",
+        "authors": "Rui Cheng | Haoran Ge | Shengpu Huang | Sen Xie | Qiwei Tong | Hao Sang | Fan Yan | Liangyu Zhu | Rui Wang | Yong Liu | Min Hong | Ctirad Uher | Qingjie Zhang | Wei Liu | Xinfeng Tang",
+        "available_online": "",
+        "cover_date_start": "2024-05-25",
+        "created_at": "2024-05-25T17:41:05+08:00",
+        "doi": "10.1126/sciadv.adn9959",
+        "en_title": "Unraveling electronic origins for boosting thermoelectric performance of p-type (Bi,Sb) 2 Te 3",
+        "id": "1001302087335673870",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "6329",
+        "publication_name": "Science Advances _ ",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "揭示提升p型（Bi,Sb）₂Te₃热电性能的电子起源"
+      },
+      "paper:811081036640288769": {
+        "area": "Physics and Astrophysics",
+        "authors": "James Endres | Michael Kulbak | Lianfeng Zhao | Barry P. Rand | David Cahen | Gary Hodes | Antoine Kahn",
+        "available_online": "",
+        "cover_date_start": "2017-01-21",
+        "created_at": "2022-12-17T19:46:30+08:00",
+        "doi": "10.1063/1.4974471",
+        "en_title": "Electronic structure of the CsPbBr 3 /polytriarylamine (PTAA) system",
+        "id": "811081036640288769",
+        "keywords": "",
+        "publication_date": "2017-1-21",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "CsPbBr₃/聚三芳基胺（PTAA）体系的电子结构"
+      },
+      "paper:812575347965952001": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Sajedi | M. Krivenkov | D. Marchenko | A. Varykhalov | J. Sánchez-Barriga | E. D. L. Rienks | O. Rader",
+        "available_online": "2020-8-21",
+        "cover_date_start": "2020-08-21",
+        "created_at": "2022-12-21T22:44:21+08:00",
+        "doi": "10.1103/physrevb.102.081116",
+        "en_title": "Absence of a giant Rashba effect in the valence band of lead halide perovskites",
+        "id": "812575347965952001",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿价带中不存在巨大的 Rashba 效应"
+      },
+      "paper:812576440359845889": {
+        "area": "Physics and Astrophysics",
+        "authors": "Meng-Fan Yang | Jin-Peng Yang",
+        "available_online": "",
+        "cover_date_start": "2020-08-17",
+        "created_at": "2022-12-21T22:48:41+08:00",
+        "doi": "10.1063/5.0016223",
+        "en_title": "Revealing mechanism of obtaining the valence band maximum via photoelectron spectroscopy in organic halide perovskite single crystals",
+        "id": "812576440359845889",
+        "keywords": "",
+        "publication_date": "2020-8-17",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "有机卤化物钙钛矿单晶中通过光电子能谱获取价带最大值的揭示机制"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812997651334168577": {
+        "area": "Physics and Astrophysics",
+        "authors": "Zeineb Ben Aziza | Viktor Zólyomi | Hugo Henck | Debora Pierucci | Mathieu G. Silly | José Avila | Samuel J. Magorrian | Julien Chaste | Chaoyu Chen | Mina Yoon | Kai Xiao | Fausto Sirotti | Maria C. Asensio | Emmanuel Lhuillier | Mahmoud Eddrief | Vladimir I. Fal'ko | Abdelkarim Ouerghi",
+        "available_online": "2018-9-4",
+        "cover_date_start": "2018-09-04",
+        "created_at": "2022-12-23T02:42:25+08:00",
+        "doi": "10.1103/physrevb.98.115405",
+        "en_title": "Valence band inversion and spin-orbit effects in the electronic structure of monolayer GaSe",
+        "id": "812997651334168577",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "单层 GaSe 电子结构中的价带反转和自旋轨道效应"
+      },
+      "paper:813060828537290752": {
+        "area": "Chemistry",
+        "authors": "Xue-Peng Wang | Xian-Bin Li | Nian-Ke Chen | Ji-Hong Zhao | Qi-Dai Chen | Hong-Bo Sun",
+        "available_online": "2018",
+        "cover_date_start": "2018-01-01",
+        "created_at": "2022-12-23T06:53:28+08:00",
+        "doi": "10.1039/c7cp07270h",
+        "en_title": "Electric field analyses on monolayer semiconductors: the example of InSe",
+        "id": "813060828537290752",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3439",
+        "publication_name": "Physical Chemistry Chemical Physics _ Phys. Chem. Chem. Phys.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "单层半导体的电场分析：以InSe为例"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "From momentum-resolved UPS/ARPES spectra collected at the surface M point, the binding-energy positions of the valence-band maximum (VBM) relative to the Fermi level are E_VBM^M = 1.13 eV for CH₃NH₃PbI₃ and E_VBM^M = 1.29 eV for CH₃NH₃PbBr₃ when these M-point values are obtained by linear-scale leading-edge extrapolation; using the theoretically calculated energy differences Δ_{M→R} between the surface M-point VBM and the bulk R-point VBM (Δ_{M→R}=0.27 eV for CH₃NH₃PbI₃ and Δ_{M→R}=0.40 eV for CH₃NH₃PbBr₃), subtracting these Δ_{M→R} corrections yields inferred bulk R-point VBMs of 0.86 eV for CH₃NH₃PbI₃ and 0.89 eV for CH₃NH₃PbBr₃, where all energies are given as binding energies measured from the Fermi level.",
+        "content_hash": "d77ac3d25ee695a7ca197d5845e1b5eb2735bcd38581a973c6d26a73bc05b9cf",
+        "id": "gcn_56f8abb20c18435a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812576440359845889::conclusion_3",
+            "package_id": "paper:812576440359845889",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812576440359845889"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03007688828584351,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fits to ARPES band dispersions yield the following valence-sector effective masses for monolayer GaSe: at the Brillouin-zone center ($\\Gamma$ point) the effective mass is m^{*}_{\\Gamma}\\approx0.65\\,m_e (a positive, electronlike curvature of the valence-band minimum located at $\\Gamma$), and at the valence-band maximum (VBM) located off-$\\Gamma$ along $\\Gamma K$ the effective mass is m^{*}_{\\mathrm{VBM}}\\approx-1.56\\,m_e (a negative, holelike mass at the band-edge maxima). Additional ARPES-measured effective masses for deeper occupied valence bands fall in the range m^{*}\\approx-0.17\\,m_e to -0.30\\,m_e. In these expressions, m_e denotes the free-electron mass, and the sign convention is that negative effective mass indicates holelike dispersion near a band maximum.",
+        "content_hash": "b2608a1769217258efea6e7cc4bbe7a44bd7265f74dbe09c9f4bcccc57508ed6",
+        "id": "gcn_d56b5a2ff4a94e8d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812997651334168577::conclusion_3",
+            "package_id": "paper:812997651334168577",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812997651334168577"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the CsPbBr$_3$ films and measurement protocols employed, shifts in the Br 3d$_{5/2}$ core-level binding energy (measured with Al-Kα XPS and referenced to the sample Fermi level $E_F$) mirror shifts in the valence-band maximum (VBM) determined by UPS closely enough—approximately one-to-one within the reported sample set and within typical uncertainties of order 0.05–0.1 eV—that the Br 3d$_{5/2}$ binding energy can be used as a practical experimental proxy to infer relative changes in $E_{\\text{VBM}}$, even though other core levels such as Pb 4f and Cs 4d exhibit non-unity proportionality slopes (≈0.8 and ≈1.1, respectively) with respect to VBM changes due to stoichiometry-related effects.",
+        "content_hash": "65465983e685ed9684fdd90ad30de6ff1ecfb417a571358b95b9826091adb117",
+        "id": "gcn_6f98345af57f4852",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811081036640288769::P12",
+            "package_id": "paper:811081036640288769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811081036640288769"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "High-resolution angle-resolved photoemission spectroscopy (ARPES) measurements of epitaxial Bi0.5Sb1.5Te3 films directly resolve two distinct valence-band branches dispersing along the surface momentum direction between the surface Brillouin-zone points denoted $\\overline{\\Gamma}$ and $\\overline{\\mathrm{M}}$, and these two branches move closer in energy as the antimony (Sb) fraction is increased and become aligned in energy (converge) at the composition Bi0.5Sb1.5Te3; this band convergence produces a pronounced flattening of the topmost valence-band maximum along the $\\overline{\\Gamma}$–$\\overline{\\mathrm{M}}$ cut (denoted $\\mathrm{VBM}_{\\overline{\\Gamma}-\\overline{\\mathrm{M}}}$) and an abrupt increase of the single-valley effective mass of that topmost band. In these ARPES data the single-valley effective mass $m_{\\mathrm{b}}^{*}$ is estimated by fitting a parabolic dispersion $E(k)=E_0+\\hbar^2 k^2/(2m_{\\mathrm{b}}^{*})$ to the measured band-peak positions, where $E(k)$ is the electronic energy as a function of in-plane crystal momentum $k$ parallel to the surface and $\\hbar$ is the reduced Planck constant; using the relation $m_{\\mathrm{b}}^{*}=\\hbar^{2}\\big(\\partial^{2}E/\\partial k^{2}\\big)^{-1}$ yields a maximum measured value $m_{\\mathrm{b}}^{*}=1.27\\ m_{\\mathrm{e}}$ for the $\\mathrm{VBM}_{\\overline{\\Gamma}-\\overline{\\mathrm{M}}}$ band at Bi0.5Sb1.5Te3, where $m_{\\mathrm{e}}$ is the free-electron mass. The spectroscopic ARPES observation that the two $\\overline{\\Gamma}$–$\\overline{\\mathrm{M}}$ valence branches converge at Bi0.5Sb1.5Te3 therefore provides the immediate electronic explanation for the abrupt increase of the measured single-valley effective mass at this composition.",
+        "content_hash": "8fc5bc4c93498bf205586e9f502dd7ac67cb8c3f9be2acc1b88105d26e43400d",
+        "id": "gcn_67cf2fbeb42e48f8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1001302087335673870::conclusion_1",
+            "package_id": "paper:1001302087335673870",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1001302087335673870"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The combination of (i) ARPES observation that the valence-band maximum (VBM) of monolayer GaSe occurs away from the Brillouin-zone center ($\\Gamma$) along the $\\Gamma K$ direction and (ii) density-functional-theory (DFT) calculations that place the conduction-band minimum (CBM) of monolayer GaSe at the $\\Gamma$-point implies that the fundamental single-particle electronic gap of ML GaSe is indirect (VBM not at $\\Gamma$ while CBM is at $\\Gamma$); the ARPES momentum-resolved measurement of the valence-band topology thereby supports identification of ML GaSe as an indirect band-gap semiconductor.",
+        "content_hash": "3fc2be8ffde04f0cda8957f04a2d57fd348addcbb5dc249264ff667c09e9912f",
+        "id": "gcn_2d2633c968d34418",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812997651334168577::conclusion_7",
+            "package_id": "paper:812997651334168577",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812997651334168577"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The assignment that the bulk R point of CsPbBr$_3$ is probed at photon energy $h\\nu=29\\ \\text{eV}$ is based on photon-energy-dependent ARPES measurements in which observable dispersion features (for example the energy position of valence-band intensity maxima and the curvature of the dispersion near the VBM) evolve with $h\\nu$ in a manner consistent with reaching the expected bulk high-symmetry $k_z$ location at that photon energy; this assignment assumes that (i) the photon-energy dependence of these spectral features is dominated by final-state $k_z$ dispersion rather than by matrix-element-driven intensity modulations, and (ii) $k_z$ broadening and surface contributions do not prevent identifying the observed intensity maximum with the bulk R point.",
+        "content_hash": "29d4ee2860e1ec6857761516cc4814a7c6804055131e768e4f853d726f521ba5",
+        "id": "gcn_0e2cb3e35cfd40d0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812575347965952001::P7",
+            "package_id": "paper:812575347965952001",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812575347965952001"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using PBE-plane-wave calculations with an $8\\times8\\times1$ Monkhorst–Pack $k$-point grid, the intrinsic InSe monolayer is found to have an indirect band gap of $1.407\\,$eV, and under applied perpendicular effective fields up to $\\pm 0.76\\,$V/nm the band gap decreases slightly with increasing $|E_{\\mathrm{eff}}|$; the conduction-band minimum (CBM) remains located at the $\\Gamma$ point and the electron effective masses at the CBM along the $\\Gamma$–K and $\\Gamma$–M directions are small and insensitive to the applied effective fields, implying that the high electron mobility is preserved under these fields, whereas the valence-band maximum (VBM) has an effective mass for holes more than an order of magnitude larger than the electron effective mass at zero field and this hole effective mass decreases (holes become lighter) when a perpendicular field is applied while the VBM position shifts weakly toward the K point; orbital decomposition and tight-binding analysis of the VBM indicate that the VBM is predominantly composed of indium $s$ and selenium $p_z$ orbitals and is spatially localized near Se atoms and between In atoms, which explains why Se-centered field-induced polarization perturbs the VBM more strongly than the CBM.",
+        "content_hash": "20c5460d767c0509d63902b0b73275deb598418a7725a254f14812fe53aac16e",
+        "id": "gcn_9776555734ae45c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813060828537290752::conclusion_5",
+            "package_id": "paper:813060828537290752",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813060828537290752"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Photon-energy-dependent ARPES measurements of inorganic cesium lead bromide (CsPbBr$_3$) indicate that the bulk R point (the $k$-space location of the valence-band maximum) is probed at $h\\nu=29\\ \\text{eV}$. The measured valence-band dispersions near the VBM and the dependence of the EDC full width at half maximum on in-plane momentum $k_{\\parallel}$ are incompatible with a Rashba parameter $\\alpha_{R}=11\\ \\mathrm{eV}\\mathring{\\text{A}}$ when analyzed with the same unresolved-Rashba-splitting model used above, i.e., a model that represents the EDC at each $k_{\\parallel}$ as the incoherent sum of two parabolic spin-split branches $E_{\\pm}(k_{\\parallel}) = E_0 + \\tfrac{\\hbar^2}{2m^{*}}(k_{\\parallel}\\mp k_0)^2$ with equal spectral weight, a $k$-independent intrinsic Lorentzian width, and Gaussian instrumental broadening, and that uses the experimentally determined valence-band effective mass $m^{*}_{\\mathrm{exp}}$ (extracted from the measured dispersion near the VBM) as the curvature input. Accounting for the experimental error bars on the EDC widths in this modeling framework produces an approximate upper bound $\\alpha_{R}\\lesssim1.06\\ \\mathrm{eV}\\mathring{\\text{A}}$ for the valence band in CsPbBr$_3$, where $\\alpha_{R}$ is defined by $\\alpha_{R}=\\Delta E/(2\\Delta k)$.",
+        "content_hash": "212d8ce73de588d6d52d42c1a97eded31f4145b9718793b639f92984732a57bd",
+        "id": "gcn_28c45fc5f9ea409f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812575347965952001::conclusion_2",
+            "package_id": "paper:812575347965952001",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812575347965952001"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "b75162b3f2877ffc3b5ceccae466cf57"
+}

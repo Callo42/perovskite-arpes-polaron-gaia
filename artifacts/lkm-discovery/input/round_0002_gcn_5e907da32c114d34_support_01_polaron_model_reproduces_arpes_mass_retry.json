@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:1146777376458276891": {
+        "area": "arXiv-Physics",
+        "authors": "K. Lizárraga | J. A. Guerra | L. A. Enrique-Moran | E. Serquen | E. Ventura | Cesar E. P. Villegas | A. R. Rocha | P. Venezuela",
+        "available_online": "",
+        "cover_date_start": "2025-06-27",
+        "created_at": "2025-07-01T04:03:52+08:00",
+        "doi": "10.48550/arxiv.2506.22680",
+        "en_title": "Determining Exciton Binding Energy and Reduced Effective Mass in Metal Tri-Halide Perovskites from Optical and Impedance Spectroscopy Measurements",
+        "id": "1146777376458276891",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "通过光学和阻抗谱测量确定金属卤化物钙钛矿中的激子结合能和约化有效质量"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812649006076264448": {
+        "area": "Physics and Astrophysics",
+        "authors": "Huafeng Shi | Xiaoli Zhang | Xiaowei Sun | Xinhai Zhang",
+        "available_online": "",
+        "cover_date_start": "2020-04-13",
+        "created_at": "2022-12-22T03:37:03+08:00",
+        "doi": "10.1063/1.5145261",
+        "en_title": "Strong hot-phonon bottleneck effect in all-inorganic perovskite nanocrystals",
+        "id": "812649006076264448",
+        "keywords": "",
+        "publication_date": "2020-4-13",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\"]",
+        "zh_title": "全无机钙钛矿纳米晶体中的强热声子瓶颈效应"
+      },
+      "paper:812781314741633025": {
+        "area": "Physics and Astrophysics",
+        "authors": "Eugenio Cinquanta | Daniele Meggiolaro | Silvia G. Motti | Marina Gandini | Marcelo J. P. Alcocer | Quinten A. Akkerman | Caterina Vozzi | Liberato Manna | Filippo De Angelis | Annamaria Petrozza | Salvatore Stagira",
+        "available_online": "2019-4-24",
+        "cover_date_start": "2019-04-24",
+        "created_at": "2022-12-22T12:22:46+08:00",
+        "doi": "10.1103/physrevlett.122.166601",
+        "en_title": "Ultrafast THz Probe of Photoinduced Polarons in Lead-Halide Perovskites",
+        "id": "812781314741633025",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "卤化铅钙钛矿中光生极化子的超快太赫兹探测"
+      },
+      "paper:867749954985132669": {
+        "area": "arXiv-Physics",
+        "authors": "Jarvist Moore Frost | Lucy D. Whalley | Aron Walsh",
+        "available_online": "",
+        "cover_date_start": "2017-08-14",
+        "created_at": "2023-05-23T04:48:31+08:00",
+        "doi": "10.48550/arXiv.1708.04158",
+        "en_title": "Slow cooling of hot polarons in halide perovskite solar cells",
+        "id": "867749954985132669",
+        "keywords": "",
+        "publication_date": "2017-08-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "卤化物钙钛矿太阳能电池中热极化子的缓慢冷却"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The effective mass entering the Drude prefactor used to infer transport parameters for photogenerated carriers in CsPbBr3 is taken as m_p = 3.5 × m*, where m_p is the effective polaron mass and m* = 0.21 m_e is the bare electronic band effective mass (m_e = 9.10938356×10^−31 kg is the electron rest mass); the multiplicative factor 3.5 is adopted from Feynman–Osaka polaron model estimates to account for polaron mass enhancement, and using this fixed scaling produces a physically appropriate value of m_p for the photogenerated carrier population in the studied nanocrystal thin films such that the uncertainty in this adopted scaling is small compared with the quoted mobility estimate μ = q τ_s / m_p.",
+        "content_hash": "0d09f02409bd634db737d621ef1d1c9ec2ae00655f2c8898ebb2516509a9e0b4",
+        "id": "gcn_486e443ce09241e8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812781314741633025::P2",
+            "package_id": "paper:812781314741633025",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812781314741633025"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030117753623188408,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_{0}\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right),\n      with the inputs m_{0}=0.17\\\\,m_e and \\\\alpha=1.81 produces a polaron-renormalized hole mass m_{\\\\mathrm{pol}}=0.24\\\\,m_e; this theoretical mass renormalization reduces the discrepancy between the computed bare mass and the ARPES-derived mass to within the experimental uncertainty of \\\\pm0.02\\\\,m_e.",
+        "content_hash": "0f03375698c16f3a155fca0b713d3f3a5bbfc85c0c9723ddad2bceaa813fed32",
+        "id": "gcn_ffcf3464e99c47ed",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_6",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using continuum Fröhlich and Feynman variational formalisms to estimate large‑polaron parameters yields representative polaron radii for CsPbBr3 of electron ρ_e ≈ 26.7 Å and hole ρ_h ≈ 24.9 Å, and for representative organic perovskites larger electron polaron radii such as ρ_e ≈ 41.8 Å; for colloidal CsPbBr3 nanocrystals with physical size ≈15 nm and organic surface ligands, these continuum polaron radius estimates are taken as valid approximations for the screening length scale that controls dynamic Coulomb screening of interactions mediating carrier–LO‑phonon scattering, and smaller polaron radii correspond to reduced dynamic screening and therefore to stronger effective carrier–LO coupling in the nanocrystals under the stated experimental excitation conditions.",
+        "content_hash": "62affba77b59776e1e397778fe06df23a5874f47b9c51c2dd02dd25ab9b53263",
+        "id": "gcn_090553bf5b3a4df5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812649006076264448::P10",
+            "package_id": "paper:812649006076264448",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812649006076264448"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reduced effective mass $\\\\mu$ is defined by $\\\\mu=\\\\dfrac{m_e m_h}{m_e+m_h}$ where $m_e$ and $m_h$ are the bare electron and hole band effective masses (in units of the electron rest mass $m_e$). The Pollmann–Büttner (PB) exciton–polaron model was used to compute a two-dimensional surface $E_{xb}^{PB}(m_e,m_h;\\\\varepsilon_{\\\\infty},\\\\varepsilon_{0},\\\\hbar\\\\omega_{LO})$ of exciton-polaron binding energies as a function of the bare masses, where the PB effective potential employed is\n      $$\n      V_{eff}(r)=\\\\frac{e^2}{\\\\varepsilon_0 r}+\\\\frac{e^2}{\\\\varepsilon^{*} r}\\\\left(\\\\frac{m_h}{\\\\Delta m}e^{-r/l_h}-\\\\frac{m_e}{\\\\Delta m}e^{-r/l_e}\\\\right),\n      $$\n      with $\\\\Delta m=m_h-m_e$, polaron radii $l_{e/h}=\\\\sqrt{\\\\hbar^2 m_{e/h}/\\\\hbar\\\\omega_{LO}}$, LO phonon energy $\\\\hbar\\\\omega_{LO}$, ionic dielectric constant $\\\\varepsilon_0$, electronic dielectric constant $\\\\varepsilon_{\\\\infty}$, and effective screening $1/\\\\varepsilon^{*}=1/\\\\varepsilon_{\\\\infty}-1/\\\\varepsilon_{0}$. The experimentally determined exciton binding energies at 300 K (MAPbI$_3$: $16.3\\\\pm1.6$ meV; MAPbBr$_3$: $33.3\\\\pm0.5$ meV; MAPbCl$_3$: $44.0\\\\pm6.0$ meV; CsPbBr$_3$: $31.1\\\\pm1.5$ meV; FAPbI$_3$: $18.1\\\\pm0.2$ meV) were intersected with the PB $E_{xb}^{PB}(m_e,m_h)$ surface (computed using the measured $\\\\varepsilon_{\\\\infty}$, $\\\\varepsilon_{0}$ and $\\\\hbar\\\\omega_{LO}$ for each material) to define admissible $(m_e,m_h)$ regions; the reduced mass $\\\\mu$ was then computed from the admissible pairs and averaged over that region. The 300 K averaged reduced masses obtained in this manner are: MAPbI$_3$: $\\\\mu=0.107\\\\,m_e$; MAPbBr$_3$: $\\\\mu=0.121\\\\,m_e$; MAPbCl$_3$: $\\\\mu=0.135\\\\,m_e$; CsPbBr$_3$: $\\\\mu=0.128\\\\,m_e$; FAPbI$_3$: $\\\\mu=0.103\\\\,m_e$; these values are the averages over the admissible $(m_e,m_h)$ contours consistent with the EBF-derived $E_{xb}$ and with the quoted input parameters.",
+        "content_hash": "4736c57b0185d1f98e891e0997e327d640caa208048f8e3f722ec1df2cdfe195",
+        "id": "gcn_bc5464170ff24ce7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1146777376458276891::conclusion_2",
+            "package_id": "paper:1146777376458276891",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1146777376458276891"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The charge-carrier large (Fröhlich) polaron in methylammonium lead iodide (CH3NH3PbI3, hereafter MAPI) at temperature $T=300\\,$K has finite-temperature Feynman-variational internal parameters and spatial extents obtained from a numerical solution of the temperature-dependent continuum Fröhlich polaron model as follows: for the electron polaron the variational oscillator parameters are $v=19.88$ and $w=16.98$ (dimensionless numbers expressed in units of $\\hbar\\omega_{0}$ where $\\omega_{0}$ is the effective optical-phonon angular frequency), giving a reduced polaron mass $\\mu$ defined by $\\mu = m(v^{2}-w^{2})/v^{2}$ (where $m$ is the bare-band effective mass used in the continuum model, for the electron $m_{e}=0.12\\,m_{0}$ with $m_{0}$ the free-electron mass), and a root-mean-square polaron radius $r_{e}=\\sqrt{\\langle\\rho^{2}\\rangle}=(3/2\\mu v)^{1/2}=26.8\\ \\mathring{\\mathrm{A}}$; for the hole polaron the corresponding radius is $r_{h}=25.3\\ \\mathring{\\mathrm{A}}$ with $v=20.11$ and $w=16.84$ (using a hole bare-band effective mass $m_{h}=0.15\\,m_{0}$ in the same $\\mu$ relation). The polaron free energies (variational free-energy minima of the Feynman functional) at $300\\,$K are $F_{e}=35.5\\ \\text{meV}$ for the electron polaron and $F_{h}=43.6\\ \\text{meV}$ for the hole polaron. Under the weak-coupling, athermal Feynman approximation (small $\\alpha$ expansion with $w\\approx3$ and $v\\approx3+\\tfrac{2}{5}\\alpha$) the same model yields an athermal estimate $r\\approx29.5\\ \\mathring{\\mathrm{A}}$, and the full finite-temperature variational solution produces a polaron radius that decreases with increasing temperature, as above.",
+        "content_hash": "1e6fc6c6b3bde8e8365d2d8fab2137f2c218ded0836627a1593154e5d496553d",
+        "id": "gcn_1cb99d20cc714345",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749954985132669::conclusion_1",
+            "package_id": "paper:867749954985132669",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749954985132669"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+        "id": "gcn_4ad259a13be9454a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P11",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "957720cd58f3082c8b38f759a18c0b3d"
+}

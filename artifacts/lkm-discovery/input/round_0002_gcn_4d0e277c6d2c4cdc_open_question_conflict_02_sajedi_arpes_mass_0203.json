@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1110939600638967827": {
+        "area": "arXiv-Physics",
+        "authors": "Nathan Valadez | Iftakhar Bin Elius | Dante James | Peter Radanovich | Tetiana Romanova | Sami Elgalal | Grzegorz Chajewski | Florie Mesple | Ellis Thompson | Keng Tou Chu | Matthew Yankowitz | Andrzej Ptok | Dariusz Kaczorowski | Madhab Neupane",
+        "available_online": "",
+        "cover_date_start": "2025-03-20",
+        "created_at": "2025-03-24T06:37:21+08:00",
+        "doi": "10.48550/arxiv.2503.15774",
+        "en_title": "Low-lying Electronic Structure of Rare-Earth Based Topological Nodal Line Semimetal Candidate DySbTe",
+        "id": "1110939600638967827",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics",
+        "research_categories": "",
+        "zh_title": "基于稀土的拓扑节线半金属候选物DySbTe的低能电子结构"
+      },
+      "paper:811063591120666625": {
+        "area": "Physics and Astrophysics",
+        "authors": "L. Khalil | E. Papalazarou | M. Caputo | N. Nilforoushan | L. Perfetti | A. Taleb-Ibrahimi | V. Kandyba | A. Barinov | Q. D. Gibson | R. J. Cava | M. Marsi",
+        "available_online": "2017-2-15",
+        "cover_date_start": "2017-02-15",
+        "created_at": "2022-12-17T18:37:10+08:00",
+        "doi": "10.1103/physrevb.95.085118",
+        "en_title": "Electronic band structure for occupied and unoccupied states of the natural topological superlattice phase Sb 2 Te",
+        "id": "811063591120666625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "天然拓扑超晶格相Sb₂Te的占据态和未占据态的电子能带结构"
+      },
+      "paper:811659269886705665": {
+        "area": "Physics and Astrophysics",
+        "authors": "S. V. Eremeev | G. Bihlmayer | M. Vergniory | Yu. M. Koroteev | T. V. Menshchikova | J. Henk | A. Ernst | E. V. Chulkov",
+        "available_online": "2011-5-25",
+        "cover_date_start": "2011-05-25",
+        "created_at": "2022-12-19T10:04:11+08:00",
+        "doi": "10.1103/physrevb.83.205129",
+        "en_title": "Ab initio electronic structure of thallium-based topological insulators",
+        "id": "811659269886705665",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "铊基拓扑绝缘体的从头算电子结构"
+      },
+      "paper:812575347965952001": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Sajedi | M. Krivenkov | D. Marchenko | A. Varykhalov | J. Sánchez-Barriga | E. D. L. Rienks | O. Rader",
+        "available_online": "2020-8-21",
+        "cover_date_start": "2020-08-21",
+        "created_at": "2022-12-21T22:44:21+08:00",
+        "doi": "10.1103/physrevb.102.081116",
+        "en_title": "Absence of a giant Rashba effect in the valence band of lead halide perovskites",
+        "id": "812575347965952001",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿价带中不存在巨大的 Rashba 效应"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813109074647318530": {
+        "area": "Comprehensive Periodical",
+        "authors": "Gerald Derondeau | Federico Bisti | Masaki Kobayashi | Jürgen Braun | Hubert Ebert | Victor A. Rogalev | Ming Shi | Thorsten Schmitt | Junzhang Ma | Hong Ding | Vladimir N. Strocov | Ján Minár",
+        "available_online": "2017-8-18",
+        "cover_date_start": "2017-08-18",
+        "created_at": "2022-12-23T10:05:10+08:00",
+        "doi": "10.1038/s41598-017-09480-y",
+        "en_title": "Fermi surface and effective masses in photoemission response of the (Ba1−x K x )Fe2As2 superconductor",
+        "id": "813109074647318530",
+        "keywords": "",
+        "publication_date": "2017-12",
+        "publication_id": "9354",
+        "publication_name": "Scientific Reports _ Sci Rep",
+        "research_categories": "",
+        "zh_title": "（Ba1−x K x ）Fe2As2 超导体光电子发射响应中的费米面与有效质量"
+      },
+      "paper:867757797993873913": {
+        "area": "arXiv-Physics",
+        "authors": "Tay-Rong Chang | Peng-Jen Chen | Guang Bian | Titus Neupert | Raman Sankar | Su-Yang Xu | Ilya Belopolski | Shin-Ming Huang | Guoqing Chang | BaoKai Wang | Hao Zheng | Fangcheng Chou | Arun Bansil | Horng-Tay Jeng | Hsin Lin | M. Zahid Hasan",
+        "available_online": "",
+        "cover_date_start": "2015-11-19",
+        "created_at": "2023-05-23T05:19:41+08:00",
+        "doi": "10.48550/arXiv.1511.06231",
+        "en_title": "Topological Dirac States and Pairing Correlations in the Non-Centrosymmetric Superconductor PbTaSe2",
+        "id": "867757797993873913",
+        "keywords": "",
+        "publication_date": "2015-11-19",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "非中心对称超导体PbTaSe₂中的拓扑狄拉克态与配对关联"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "Micro–angle-resolved photoemission spectroscopy (μ-ARPES) intensity maps, acquired with a submicrometric photon spot (~0.6 μm), photon energy 74 eV, and linear P polarization, show that the projected occupied electronic band structures measured at representative microscopic regions assigned to the Te-rich QL, Sb-rich 1BL, and Sb-rich 2BLs terminations differ markedly: moving from the Te-rich QL termination to the Sb-rich 2BLs termination the μ-ARPES spectral weight of bands within ~0–0.5 eV binding energy near the Fermi level ($E_F$) along the surface high-symmetry direction $\\overline{\\Gamma M}$ systematically diminishes, while the intensity of bands in the 1–2 eV binding-energy range along $\\overline{\\Gamma M}$ increases; additionally, constant-energy Fermi-surface maps measured on the Te-rich region display the threefold rotational symmetry of the Sb2Te surface Brillouin zone and permit identification of the high-symmetry directions denoted $\\overline{\\Gamma M}$ and $\\overline{\\Gamma M'}$.",
+        "content_hash": "96c1bd25fffea4445c8ea17d1d5b7c4b80f52839eae4adc036938a51b21bee65",
+        "id": "gcn_e2b96c5867864614",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811063591120666625::conclusion_3",
+            "package_id": "paper:811063591120666625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811063591120666625"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The assignment that the bulk R point of CsPbBr$_3$ is probed at photon energy $h\\nu=29\\ \\text{eV}$ is based on photon-energy-dependent ARPES measurements in which observable dispersion features (for example the energy position of valence-band intensity maxima and the curvature of the dispersion near the VBM) evolve with $h\\nu$ in a manner consistent with reaching the expected bulk high-symmetry $k_z$ location at that photon energy; this assignment assumes that (i) the photon-energy dependence of these spectral features is dominated by final-state $k_z$ dispersion rather than by matrix-element-driven intensity modulations, and (ii) $k_z$ broadening and surface contributions do not prevent identifying the observed intensity maximum with the bulk R point.",
+        "content_hash": "29d4ee2860e1ec6857761516cc4814a7c6804055131e768e4f853d726f521ba5",
+        "id": "gcn_0e2cb3e35cfd40d0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812575347965952001::P7",
+            "package_id": "paper:812575347965952001",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812575347965952001"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Angle-resolved photoemission spectroscopy (ARPES) measurements (ARPES = angle-resolved photoemission spectroscopy) taken along the surface high-symmetry direction $\\bar{\\Gamma}$–$\\bar{M}$ with incident photon energies varied in the range 105–140 eV show a band feature labeled s1 whose measured binding-energy versus in-plane-momentum dispersion is invariant under the change of photon energy, and energy-distribution-curve (EDC) analysis (EDC = intensity versus binding energy at fixed momentum) shows that the peak positions of s1 do not shift with photon energy; because varying the photon energy in ARPES primarily samples different out-of-plane crystal momentum $k_z$, the observed photon-energy independence of the s1 dispersion demonstrates that the s1 electronic eigenstate has negligible $k_z$ dispersion and is therefore localized in the top few atomic layers of the (001) surface, in agreement with the surface-localized state predicted by the slab electronic-structure calculation.",
+        "content_hash": "856ba3e92cb52997a4a2985f2e2c675f737ed6ebaa58c99e44e0883edbce8b8c",
+        "id": "gcn_cdd74ccc4db745a8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757797993873913::conclusion_6",
+            "package_id": "paper:867757797993873913",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757797993873913"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For three‑dimensional valence states in angle‑resolved photoemission spectroscopy (ARPES) the intrinsic final‑state k_z broadening Δk_z—set by the photoelectron mean free path λ and thus scaling inversely with λ—causes a matrix‑element‑weighted averaging of the valence k_z dispersion over the interval Δk_z; this averaging shifts ARPES peak positions toward the band interior, reduces apparent bandwidth in k_∥ cuts, and produces an extrinsic, photon‑energy dependent apparent effective mass m^*_{ARPES} that can exceed the true quasiparticle mass renormalization present in the ground‑state Bloch spectral function. Consequently, ARPES‑derived effective masses depend on photon energy: lower photon energy hν (shorter λ and larger Δk_z) enhances the extrinsic contribution, while higher soft‑X‑ray photon energy (longer λ and smaller Δk_z) yields ARPES masses that are closer to the intrinsic quasiparticle effective mass m^*.",
+        "content_hash": "0ac2c38183c13dd5d6a96d6c410aae618c0ec37b8cfe881857b4552a73d642a7",
+        "id": "gcn_324f56d7dda0421f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813109074647318530::conclusion_4",
+            "package_id": "paper:813109074647318530",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813109074647318530"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The absence of particular computed surface-derived states in angle-resolved photoemission spectroscopy (ARPES) measurements can result from experimental photoemission matrix-element effects (dependence of photoemission intensity on photon energy, polarization, and orbital symmetry) or from surface modifications such as adsorbates, contamination, or reconstructions that shift or remove states; consequently, the discrepancy between calculated occupied trivial surface states and their nonobservation in many ARPES experiments on TlAB2 compounds can plausibly be attributed to matrix-element suppression or to surface chemistry/reconstruction effects, but this explanation remains a hypothesis in the absence of targeted ARPES measurements varying photon energy and polarization and of detailed surface characterization, so alternative explanations such as incorrect termination modeling or inaccuracies in the computed state energies remain viable.",
+        "content_hash": "06bc6f3417893c72dbcdecef44db16d9802da1e261d08275043900707eee4f15",
+        "id": "gcn_12132e516bc64657",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811659269886705665::P8",
+            "package_id": "paper:811659269886705665",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811659269886705665"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "ARPES dispersion measured along the surface high-symmetry cut \\bar{M}-\\bar{X}-\\bar{M} with incident photon energy h\\nu = 75 eV at T = 15 K shows a pronounced energy separation (gap) at the \\bar{X} point of approximately 300 meV, and the measured dispersion along this cut is in good agreement with the calculated surface electronic structure along the same direction obtained from first-principles calculations.",
+        "content_hash": "ab3022bc925eba5b3c945eb7e4863bebf285d4ce1298e5bc477023f3e93c0dd0",
+        "id": "gcn_9d57b3b3412748d2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1110939600638967827::conclusion_6",
+            "package_id": "paper:1110939600638967827",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1110939600638967827"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In angle-resolved photoemission spectroscopy (ARPES) of a crystalline solid, the component of the electron crystal momentum perpendicular to the sample surface, k_{\\perp}, is commonly estimated from the incident photon energy h\\nu by the free-electron final-state approximation k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)}, where m_{0} is the free-electron mass, \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} is the photoelectron kinetic energy measured with respect to the vacuum level (E_{\\mathrm{kin}}=h\\nu-\\phi-E_{B}, with \\phi the sample work function and E_{B} the electron binding energy), \\theta is the electron emission polar angle, and V_{0} is an inner-potential model parameter; applying this mapping with the model parameter V_{0}=5.3\\ \\mathrm{eV} assigns the photon energy h\\nu=29\\ \\mathrm{eV} to the first bulk R point in the perpendicular momentum coordinate for CsPbBr_{3} in the measurements reported here.",
+        "content_hash": "56fe52a3f1c54db6134c6b4c8edab1cc652a38a21a5e755bd76d499140b36f37",
+        "id": "gcn_e17b013445234bfa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "b191c358c7702e8c1bb1dc0c267ebabd"
+}

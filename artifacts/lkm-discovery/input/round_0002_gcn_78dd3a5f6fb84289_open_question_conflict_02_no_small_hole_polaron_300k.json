@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1182110330721927196": {
+        "area": "Comprehensive Periodical",
+        "authors": "Abdullah S. Abbas | Beiye C. Li | Richard D. Schaller | Vitali B. Prakapenka | Stella Chariton | Daqian Bian | Gregory S. Engel | A. Paul Alivisatos",
+        "available_online": "2025/07/01",
+        "cover_date_start": "2025-07-01",
+        "created_at": "2025-10-06T16:04:25+08:00",
+        "doi": "10.1038/s41467-025-60992-y",
+        "en_title": "Efficient up-conversion in CsPbBr 3 nanocrystals via phonon-driven exciton-polaron formation",
+        "id": "1182110330721927196",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications",
+        "research_categories": "",
+        "zh_title": "通过声子驱动的激子极化子形成实现CsPbBr₃纳米晶体中的高效上转换"
+      },
+      "paper:812348082149654529": {
+        "area": "Chemistry",
+        "authors": "Oliviero Cannelli | Nicola Colonna | Michele Puppin | Thomas C. Rossi | Dominik Kinschel | Ludmila M. D. Leroy | Janina Löffler | James M. Budarz | Anne Marie March | Gilles Doumy | Andre Al Haddad | Ming-Feng Tu | Yoshiaki Kumagai | Donald Walko | Grigory Smolentsev | Franziska Krieg | Simon C. Boehme | Maksym V. Kovalenko | Majed Chergui | Giulia F. Mancini",
+        "available_online": "2021-6-2",
+        "cover_date_start": "2021-06-02",
+        "created_at": "2022-12-21T07:41:16+08:00",
+        "doi": "10.1021/jacs.1c02403",
+        "en_title": "Quantifying Photoinduced Polaronic Distortions in Inorganic Lead Halide Perovskite Nanocrystals",
+        "id": "812348082149654529",
+        "keywords": "",
+        "publication_date": "2021-6-23",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "量化无机卤化铅钙钛矿纳米晶体中的光致极化子畸变"
+      },
+      "paper:812665048831885312": {
+        "area": "Chemistry",
+        "authors": "Gary B. Schuster",
+        "available_online": "2000-2-29",
+        "cover_date_start": "2000-02-29",
+        "created_at": "2022-12-22T04:40:47+08:00",
+        "doi": "10.1021/ar980059z",
+        "en_title": "Long-Range Charge Transfer in DNA: Transient Structural Distortions Control the Distance Dependence",
+        "id": "812665048831885312",
+        "keywords": "",
+        "publication_date": "2000-4-1",
+        "publication_id": "3336",
+        "publication_name": "Accounts of Chemical Research _ Acc. Chem. Res.",
+        "research_categories": "",
+        "zh_title": "DNA中的长程电荷转移：瞬态结构畸变控制距离依赖性"
+      },
+      "paper:813240658910248961": {
+        "area": "Comprehensive Periodical",
+        "authors": "Alexander J. Gillett | Claire Tonnelé | Giacomo Londi | Gaetano Ricci | Manon Catherin | Darcy M. L. Unson | David Casanova | Frédéric Castet | Yoann Olivier | Weimin M. Chen | Elena Zaborova | Emrys W. Evans | Bluebell H. Drummond | Patrick J. Conaghan | Lin-Song Cui | Neil C. Greenham | Yuttapoom Puttisong | Frédéric Fages | David Beljonne | Richard H. Friend",
+        "available_online": "2021-11-17",
+        "cover_date_start": "2021-11-17",
+        "created_at": "2022-12-23T18:48:03+08:00",
+        "doi": "10.1038/s41467-021-26689-8",
+        "en_title": "Spontaneous exciton dissociation enables spin state interconversion in delayed fluorescence organic semiconductors",
+        "id": "813240658910248961",
+        "keywords": "",
+        "publication_date": "2021-12",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications _ Nat Commun",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "自发激子解离实现了延迟荧光有机半导体中的自旋态相互转换"
+      },
+      "paper:813263308424478722": {
+        "area": "Physics and Astrophysics",
+        "authors": "Hannah Mangold | Ian A. Howard | Silvia Janietz | Frédéric Laquai",
+        "available_online": "",
+        "cover_date_start": "2012-12-03",
+        "created_at": "2022-12-23T20:18:03+08:00",
+        "doi": "10.1063/1.4769249",
+        "en_title": "Controlled energy shuttling in terpolymers enabling independent optimization of absorption and transport properties in organic solar cell materials",
+        "id": "813263308424478722",
+        "keywords": "",
+        "publication_date": "2012-12-3",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "在三元共聚物中实现可控的能量穿梭，从而能够独立优化有机太阳能电池材料的吸收和传输性能"
+      },
+      "paper:814635495442087937": {
+        "area": "Physics and Astrophysics",
+        "authors": "María Andrea Mroginski | Néstor E. Massa | Horacio Salva | José Antonio Alonso | María Jesús Martínez-Lope",
+        "available_online": "1999-8-15",
+        "cover_date_start": "1999-08-15",
+        "created_at": "2022-12-27T15:10:38+08:00",
+        "doi": "10.1103/physrevb.60.5304",
+        "en_title": "Metal-insulator phase transitions of SmNiO 3 and PrNiO 3 : Electrons in a polaronic medium",
+        "id": "814635495442087937",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "SmNiO₃和PrNiO₃的金属-绝缘体相变：极化子介质中的电子"
+      },
+      "paper:823145343347589120": {
+        "area": "Material science",
+        "authors": "Hélène Seiler | Daniela Zahn | Victoria C. A. Taylor | Maryna I. Bodnarchuk | Yoav William Windsor | Maksym V. Kovalenko | Ralph Ernstorfer",
+        "available_online": "",
+        "cover_date_start": "2023-01-20",
+        "created_at": "2023-01-20T02:45:44+08:00",
+        "doi": "10.1021/acsnano.2c06727",
+        "en_title": "Direct Observation of Ultrafast Lattice Distortions during Exciton-Polaron Formation in Lead Halide Perovskite Nanocrystals",
+        "id": "823145343347589120",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2020",
+        "publication_name": "ACS Nano _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "卤化铅钙钛矿纳米晶体中激子 - 极化子形成过程中超快晶格畸变的直接观测"
+      },
+      "paper:867747865227690862": {
+        "area": "arXiv-Physics",
+        "authors": "Hélène Seiler | Daniela Zahn | Victoria C. A. Taylor | Maryna I. Bodnarchnuk | Yoav W. Windsor | Maxsym V. Kovalenko | Ralph Ernstorfer",
+        "available_online": "",
+        "cover_date_start": "2022-09-13",
+        "created_at": "2023-05-23T04:40:13+08:00",
+        "doi": "10.48550/arXiv.2209.05931",
+        "en_title": "Direct observation of ultrafast lattice distortions during exciton-polaron formation in lead-halide perovskite nanocrystals",
+        "id": "867747865227690862",
+        "keywords": "",
+        "publication_date": "2022-09-13",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "在卤化铅钙钛矿纳米晶体中激子 - 极化子形成过程中超快晶格畸变的直接观测"
+      }
+    },
+    "variables": [
+      {
+        "content": "Transient absorption (TA) spectroscopy of colloidal CsPbBr3 nanocrystals under one‑photon below‑gap excitation produces distinct ultrafast spectral dynamics compared with above‑gap excitation: (i) an initial TA spectral line shape that resembles the second derivative of the steady‑state absorption (a \"second‑derivative–like\" profile) at early delays (<1 ps) that evolves into a symmetric bleach plus photoinduced‑absorption (PA) pattern within ≈0.7 ps, (ii) a spectrally integrated TA signal S_int(t) = ∫_{λ1}^{λ2} ΔA(λ,t) dλ that crosses zero during the early relaxation, and (iii) a transient red shift of the ground‑state bleach minimum by ≈3 nm during these early dynamics; these features occur concurrently with a plateau in the integrated induced absorption that appears on a ≈0.7 ps timescale previously associated with exciton‑polaron formation in CsPbBr3, and therefore the observed below‑gap TA dynamics are consistent with rapid polaron formation that alters electron–phonon coupling and modifies the relaxation pathway of the up‑converted carriers.",
+        "content_hash": "55e0b142bb43a329958b99712dab60a2f5342fb4d592f790f9e6b5795b02183b",
+        "id": "gcn_e6f5397d759d47b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1182110330721927196::conclusion_4",
+            "package_id": "paper:1182110330721927196",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1182110330721927196"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The polaronic structural distortion produced by photoexcitation in CsPbBr₃ nanocrystals is quantified from periodic density-functional-theory phonon-eigenvector calculations: the dominant structural change is an asymmetric shortening of Pb–Br bonds along the orthorhombic $c$-axis, with the computed equilibrium bond distances $Pb\\!-\\!Br_{\\text{axial}}=2.958\\ \\text{\\AA}$ and $Pb\\!-\\!Br_{\\text{equatorial}}=2.964\\ \\text{\\AA}$, and with the photoinduced axial bromine displacement amplitude along the $c$-axis exceeding the equatorial bromine displacement amplitude by a factor of approximately six and exceeding the computed Pb off-center displacement amplitude by a factor of approximately $2.5$ for the polaronic state generated by displacing the lattice along the 18 meV LO phonon eigenvector.",
+        "content_hash": "67db487b8ab0dc0a6801fb0f5be783dba08a03b2261b27d1e6dacc14f6fbf19f",
+        "id": "gcn_c3dbda2f30a34305",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348082149654529::conclusion_3",
+            "package_id": "paper:812348082149654529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348082149654529"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Long-range migration of a radical cation (hole) in duplex DNA can be described by a phonon-assisted, polaron-like hopping mechanism in which photoinduced injection of the hole causes a rapid local structural distortion of the duplex that stabilizes and delocalizes the positive charge over a contiguous multibase segment (a \"polaron-like\" distortion extending over several base pairs), and thermally driven nuclear motions (phonons) then induce discrete relocations of that distorted, delocalized charge distribution along the helix in hops whose lengths may span multiple base pairs and vary with sequence. Here a polaron is the distorted duplex segment whose altered geometry lowers the energy of the positive charge and whose spatial extent and stabilization energy depend on base sequence and energetic minimization; polaron formation reduces site-to-site differences in base oxidation potentials by delocalization, enables less sequence-sensitive long-range migration, permits limited strand crossover via enhanced pyrimidine–purine electronic overlap within the distortion, and accommodates both short-range coherent superexchange (when transient conformations produce a continuously overlapped $\\pi$-path across a few bases) and longer-range multibase hopping within the same conceptual framework.",
+        "content_hash": "e026208983ff4aa009da8c9f7cb72a0cf01f7cf348b044394c8c69590d27237d",
+        "id": "gcn_db60000f9ce249a9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812665048831885312::conclusion_3",
+            "package_id": "paper:812665048831885312",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812665048831885312"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The transient features observed at the Pb $L_{3}$-edge in photoexcited CsPbBr₃ nanocrystals—namely, pre-edge and postedge modulations—are best interpreted as consequences of a Br-centered polaronic structural distortion: the computed polaronic displacement pattern (large axial Br displacements and accompanying Pb displacements) produces the local geometry changes that would give rise to the postedge modulations in Pb $L_{3}$-edge XANES via XANES sensitivity to nearest-neighbor bond distances and via valence-band hybridization indicated by the projected density of states, and the experimentally observed identical Br and Pb kinetic traces further demonstrate that the Pb spectral changes are driven synchronously by the Br-centered structural deformation rather than by an independent electronic reduction of Pb.",
+        "content_hash": "2ed84a5d510748b94f4d805b1283aa0d72b6b31747eedb53df883ba3981faf60",
+        "id": "gcn_06300af6956445f4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348082149654529::conclusion_6",
+            "package_id": "paper:812348082149654529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348082149654529"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The photoinduced absorption feature that emerges as the chromophore ground-state bleach decays is assigned predominantly to a positively charged state (hole, polaron) localized on the triarylamine monomer unit (a triarylamine polaron), i.e., the spectral shape and spectral position of the emergent photoinduced absorption match the expected signature of a hole residing on a triarylamine subunit rather than that of a hole localized on the donor–acceptor–donor chromophore or other charge-induced species; here \"triarylamine polaron\" denotes an electronic state in which a triarylamine subunit carries a positive polaron and \"photoinduced absorption\" denotes additional transient absorption features attributable to such charged states.",
+        "content_hash": "065423c6c6f9aa656af2a539b71bfc83021897edbf96ab4d415c32c84ef715e1",
+        "id": "gcn_30d2892aa99240b8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813263308424478722::P7",
+            "package_id": "paper:813263308424478722",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813263308424478722"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The longitudinal optical (LO) phonon mode with energy $\\hbar\\omega=18\\ \\text{meV}$ is defined as the lattice vibration whose eigenvector displaces Pb and Br atoms along specific directions in the orthorhombic cell, and prior experimental and theoretical evidence (including angle-resolved photoemission spectroscopy and electron–phonon coupling calculations) identifies this 18 meV LO mode as the phonon most strongly coupled to charge carriers in CsPbBr₃; accordingly, displacing the lattice along the 18 meV LO eigenvector constitutes the physically motivated candidate to model a photoinduced polaronic structural distortion.\n      Puppin et al., Phys. Rev. Lett. 2020; ARPES evidence cited in the paper",
+        "content_hash": "7cbbd7d3156ad5a36c58ef4d28f6462389a5f89bb559c653719332bf41b3173f",
+        "id": "gcn_6c46b505c8c04847",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348082149654529::P12",
+            "package_id": "paper:812348082149654529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348082149654529"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "An organic solar‑cell (OSC) device fabricated with a neat BF2 active layer exhibits a measured short‑circuit current density J_sc = 0.43 mA cm^−2 under AM1.5G (1 sun) illumination and a peak photovoltaic external quantum efficiency EQE_PV of 2.1% at 555 nm; these modest photocurrent and EQE values, together with transient absorption evidence for hole‑polaron formation in neat BF2 films, are interpreted as evidence that photoinduced intermolecular electron transfer—i.e., formation of intermolecular charge‑transfer species and free carriers—occurs in neat BF2 films under the experimental conditions and contributes to the observed hole‑polaron photoinduced absorption.",
+        "content_hash": "b4fcaef5efc36b7eb6dbea3e19c199da0cbb2d496973d6b8758368949a602948",
+        "id": "gcn_308b95b9529d45d1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813240658910248961::P11",
+            "package_id": "paper:813240658910248961",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813240658910248961"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the CsPbBr$_3$ nanocrystal film, the observed sub‑picosecond structural distortion that builds up with a fluence‑dependent time constant in the hundreds of femtoseconds to $\\sim$1.2 ps range is attributed to the establishment of an exciton‑polaron population, where an exciton‑polaron is defined as an exciton (a bound electron–hole pair) accompanied by a localized lattice displacement field that stabilizes the electronic excitation in the soft Pb–Br lattice; this attribution is based on (i) the sub‑picosecond time scales measured for the lattice response and their dependence on excitation density, (ii) the mode‑specific pattern of peak intensity changes and $Q$‑shifts that indicate local Pb–Br cage reorganization, and (iii) prior theoretical and experimental studies linking Pb–Br cage motions to polaronic distortions in lead‑halide perovskites, so that the data are consistent with lattice reorganization driven by electronic excitation creating exciton‑polarons.",
+        "content_hash": "ce4d921ccb69b2caad7efb2f2c54d2e1c2fd322f5fb8f19199f442f7c81ccb6d",
+        "id": "gcn_a6e5c37c17544b86",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:823145343347589120::conclusion_3",
+            "package_id": "paper:823145343347589120",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:823145343347589120"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The observed sub-picosecond, mode-specific structural distortion—identified above as predominantly Pb–Br_{2} bond lengthening of order 0.09%—and the density-dependent slowing of its build-up are attributed to the formation of an exciton-polaron population in the CsPbBr_{3} nanocrystals; here an exciton-polaron denotes an electronic excitation (bound electron–hole pair or exciton) whose presence induces a local lattice reorganization and thus becomes dressed by lattice polarization on the excited-state potential-energy surface. The data are consistent with a picture in which carriers created by the 3.1 eV pump couple to lattice degrees of freedom and induce the reported distortion as the excited-state lattice equilibrium is established on the timescale τ_{1} (≈0.4–1.2 ps depending on excitation density).",
+        "content_hash": "a1bac4fdde68c59655e02f96d85805966b727c47f129c6778f8171ba598e391c",
+        "id": "gcn_7d438dd68a644e38",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867747865227690862::conclusion_4",
+            "package_id": "paper:867747865227690862",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867747865227690862"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Continuous-wave 4880 Å photoinduced transmission measurements performed on the same samples produce photoabsorption spectra with mid-infrared spectral features whose center frequencies coincide with the polaron excitation energies and phonon-assisted hopping energies inferred from the small-polaron analysis: for SmNiO_{3} prominent photoabsorption bands appear near 1000\\ \\text{cm}^{-1} and 1800\\ \\text{cm}^{-1} (temperature dependent), while for PrNiO_{3} weak photoabsorption bands appear near 650\\ \\text{cm}^{-1}, near 850\\ \\text{cm}^{-1}, and as broader features in the 1267–1932\\ \\text{cm}^{-1} range; the ~650\\ \\text{cm}^{-1} feature observed in PrNiO_{3} is identified as a photoinduced infrared-activated phonon (a Raman-active normal mode rendered infrared-active by a local photoinduced lattice distortion), and the higher-frequency bands are interpreted as polaron bound-state excitations and as phonon overtones and combination bands that accompany polaron hopping, so that the measured photoabsorption energies are consistent with the polaron binding energies deduced from the optical-conductivity fits.",
+        "content_hash": "4582021bb40f7ec5e6f442ff87662670189618d531578435bf57f11eef8b4116",
+        "id": "gcn_3ab38a3315394491",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814635495442087937::conclusion_5",
+            "package_id": "paper:814635495442087937",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814635495442087937"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "c1de3b1c6565b282e579fa2208e8dbf1"
+}

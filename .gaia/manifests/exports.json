@@ -1,0 +1,15 @@
+{
+  "exports": [
+    {
+      "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e. [@Puppin2020]",
+      "content_hash": "ff360ad500fb533e76eb1732e6fd14fcd84a84241d3cdb050db8ed3b11aa70cc",
+      "label": "gcn_1544d55444d743c8",
+      "qid": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+      "type": "claim"
+    }
+  ],
+  "ir_hash": "sha256:c31a37793a2765d28b59471b960526ec3d7a06e00735a146f577577a9193cc57",
+  "manifest_schema_version": 1,
+  "package": "perovskite-arpes-polaron",
+  "version": "0.1.0"
+}

@@ -1,0 +1,265 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811998935622090753": {
+        "area": "Material science",
+        "authors": "John L. Lyons",
+        "available_online": "2021-7-23",
+        "cover_date_start": "2021-07-23",
+        "created_at": "2022-12-20T08:33:52+08:00",
+        "doi": "10.1021/acs.chemmater.1c01898",
+        "en_title": "Effective Donor Dopants for Lead Halide Perovskites",
+        "id": "811998935622090753",
+        "keywords": "",
+        "publication_date": "2021-8-10",
+        "publication_id": "2060",
+        "publication_name": "Chemistry of Materials _ Chem. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "用于卤化铅钙钛矿的有效施主掺杂剂"
+      },
+      "paper:812799399926169602": {
+        "area": "Material science",
+        "authors": "Jun Yin | Ghada H. Ahmed | Osman M. Bakr | Jean-Luc Brédas | Omar F. Mohammed",
+        "available_online": "2019-2-26",
+        "cover_date_start": "2019-02-26",
+        "created_at": "2022-12-22T13:34:38+08:00",
+        "doi": "10.1021/acsenergylett.9b00209",
+        "en_title": "Unlocking the Effect of Trivalent Metal Doping in All-Inorganic CsPbBr 3 Perovskite",
+        "id": "812799399926169602",
+        "keywords": "",
+        "publication_date": "2019-3-8",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "揭示三价金属掺杂对全无机CsPbBr₃钙钛矿的影响"
+      },
+      "paper:813180244751024128": {
+        "area": "Physics and Astrophysics",
+        "authors": "Li Lang | Ji-Hui Yang | Heng-Rui Liu | H.J. Xiang | X.G. Gong",
+        "available_online": "",
+        "cover_date_start": "2014-01-01",
+        "created_at": "2022-12-23T14:47:59+08:00",
+        "doi": "10.1016/j.physleta.2013.11.018",
+        "en_title": "First-principles study on the electronic and optical properties of cubic ABX3 halide perovskites",
+        "id": "813180244751024128",
+        "keywords": "",
+        "publication_date": "2014-1",
+        "publication_id": "604",
+        "publication_name": "Physics Letters A _ Physics Letters A",
+        "research_categories": "",
+        "zh_title": "立方ABX₃卤化物钙钛矿电子与光学性质的第一性原理研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "Define an equilibrated atomic configuration as a single instantaneous atomic-coordinate snapshot selected from an AIMD trajectory sampled at T = 300 K in the canonical ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms). Let HSE–SOC(α) denote electronic-structure calculations using the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling with hybrid mixing parameter α (fraction of nonlocal Fock exchange). The proposition is: computing the unfolded electronic band structure and extracting direction-averaged effective masses from one representative equilibrated AIMD configuration using HSE–SOC(α = 0.54), where α = 0.54 is chosen so that the calculated band gap for that configuration equals the experimental room-temperature band gap E_g = 2.37 eV, yields band dispersions and direction-averaged effective masses that accurately represent the thermally averaged electronic band structure of bulk CsPbBr₃ at T = 300 K within uncertainties comparable to typical experimental error bars; thus a single snapshot plus a tuned-α HSE–SOC calculation is treated as a surrogate for ensemble averaging over thermally fluctuating structures.",
+        "content_hash": "b05b2658686dd3b0d7272a8c5159f2f23c8cb3db3f38e9896f0303d8b22e70e2",
+        "id": "gcn_00749f497c204b4c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P3",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define Δ_v as the energy difference between the valence-band-edge maximum and a specific lower-lying valence-band feature in the bulk primitive-cell band structure. The proposition is: the numerical reduction of Δ_v by approximately 1.0 eV when comparing the ideal cubic (T = 0 K) HSE–SOC band structure to the AIMD (T = 300 K) unfolded HSE–SOC band structure for CsPbBr₃ arises solely from static structural disorder introduced by thermal lattice fluctuations sampled in AIMD and is not caused by other modeling differences such as the chosen hybrid mixing parameter α, many-body quasiparticle corrections beyond HSE, surface- or defect-related electronic states, or dynamical electron-phonon coupling effects that are not captured by the static unfolded-snapshot approach.",
+        "content_hash": "a46fa866344cc4490fab0857e2d9857a69715b83ac92e147dc8c2083290fde67",
+        "id": "gcn_efe2dc8dad854673",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P8",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure.",
+        "content_hash": "13747b834c18e25cd1a33125aa14a2dc934c6335bdcd60854563362233933692",
+        "id": "gcn_c24c81b8a5fe413c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028782894736842105,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+        "content_hash": "cb964e1254b791275e660c77db7345d06e04cb67be9d6c6d3a8c94d0950ca5da",
+        "id": "gcn_78dd3a5f6fb84289",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02804284323271665,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54.",
+        "content_hash": "b4c6a8a750bba688cccd32b362099d0c7fa3846208dba72908e40731a64bd010",
+        "id": "gcn_3f848904ab0d4b48",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_2",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027579737335834898,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For dopant-induced defects in CsPbBr3, calculations performed with the semi-local generalized-gradient-approximation Perdew–Burke–Ernzerhof functional (PBE) and those performed with the higher-level HSE hybrid functional including spin–orbit coupling (HSE+SOC) show the following relationship: the absolute numerical defect formation energies and Kohn–Sham gaps computed at the PBE level are systematically different (PBE yields larger numerical formation energies and smaller single-particle gaps), but the two methods reproduce essentially the same qualitative ordering of defect formation energies as a function of growth (chemical-potential) condition and similar qualitative PDOS features for the dominant dopant-derived band-edge states; thus, PBE-level calculations capture formation-energy ordering and qualitative electronic-structure modifications while HSE+SOC is required for quantitatively accurate band gaps and transition-level positions in these heavy-atom halide perovskites.",
+        "content_hash": "5720bc5cd5035aea67f5f156834fd46976b6bd2e4a3abe447dc18c7215f3b042",
+        "id": "gcn_2b2fa6ceab304941",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812799399926169602::conclusion_6",
+            "package_id": "paper:812799399926169602",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812799399926169602"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.026830135039090264,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the single‑particle band gap E_g as the energy difference between the conduction‑band minimum (CBM) and valence‑band maximum (VBM) in electronvolts (eV). For the cubic ABX3 set with A ∈ {Cs, CH3NH3, NH2CHNH2}, B ∈ {Sn, Pb}, and X ∈ {Cl, Br, I}, single‑point electronic structure calculations using the Heyd–Scuseria–Ernzerhof (HSE) screened hybrid functional together with explicit spin‑orbit coupling (SOC) yield the following representative band gaps (E_g in eV): CsSnCl3 E_g = 1.19, CsPbBr3 E_g = 1.32, CH3NH3SnBr3 E_g = 1.31, CH3NH3PbBr3 E_g = 1.48, NH2CHNH2SnBr3 E_g = 1.37, and NH2CHNH2PbBr3 E_g = 1.46. Several other members of the computed compositional grid have HSE+SOC band gaps that lie within the 1.1–1.5 eV range commonly identified as favorable for efficient single‑junction photovoltaic absorbers.",
+        "content_hash": "e0c1c7a30a62d3a1c81f25a9a7a21eee5d11707f06bfdb0ade16e07e3f48f691",
+        "id": "gcn_7961ae3c11f64789",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813180244751024128::conclusion_2",
+            "package_id": "paper:813180244751024128",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813180244751024128"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02532051282051282,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In first-principles calculations of point-defect thermodynamic transition levels in crystalline cesium lead bromide (CsPbBr3) performed with the Heyd–Scuseria–Ernzerhof screened‑exchange hybrid exchange–correlation functional (HSE, a hybrid functional that mixes a fraction α of exact Fock exchange with a screened Coulomb interaction characterized by screening parameter ω), projector‑augmented‑wave pseudopotentials (PAW), and explicit inclusion of spin–orbit coupling (SOC) as implemented in a plane‑wave code, the combination of HSE+PAW+SOC yields charged‑defect formation energies and thermodynamic transition levels that are estimated in this work to be accurate to within approximately 0.20 eV of the values that would be obtained from systematically improvable many‑body electronic‑structure calculations for the same supercell geometries and defect configurations.",
+        "content_hash": "14d2d74117df1cece3a03ccbd35fcca9e603bb378fb0c5627b5d7f4fbf6ace24",
+        "id": "gcn_8a8f3006bfb64985",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811998935622090753::P1",
+            "package_id": "paper:811998935622090753",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811998935622090753"
+          ]
+        },
+        "role": "premise",
+        "score": 0.022474747474747474,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider AIMD trajectories used to sample finite-temperature atomic configurations for a material with a soft anharmonic lattice. The proposition is: performing AIMD structural sampling with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange-correlation functional using a 3×3×3 supercell, a Nosé–Hoover thermostat sampling the canonical ensemble, and a 1 fs timestep yields a structural ensemble whose statistical distribution of atomic positions is sufficiently accurate for subsequent single-point HSE–SOC (with tuned α) electronic-structure calculations to produce reliable thermally renormalized unfolded band dispersions and effective masses; in particular, any systematic biases in equilibrium lattice parameters or force constants introduced by PBE do not materially change the unfolded band curvatures obtained from representative AIMD snapshots evaluated with HSE–SOC.",
+        "content_hash": "ec8b8e6d5641db77418bba1370d90487e1463ce70da3b0bc11ed0eaa7dbccc51",
+        "id": "gcn_1c2bf8f398f243f9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P9",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "61c97fe2cb04eb5b883e440f083b7281"
+}

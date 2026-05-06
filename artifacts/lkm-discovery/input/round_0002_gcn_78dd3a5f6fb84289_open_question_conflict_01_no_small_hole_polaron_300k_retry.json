@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1002512118513139714": {
+        "area": "arXiv-Physics",
+        "authors": "Feng Jin | Subhaskar Mandal | Zhenhan Zhang | Jinqi Wu | Wen Wen | Jiahao Ren | Baile Zhang | Timothy C.H. Liew | Qihua Xiong | Rui Su",
+        "available_online": "",
+        "cover_date_start": "2024-05-25",
+        "created_at": "2024-05-29T01:49:12+08:00",
+        "doi": "10.48550/arxiv.2405.16087",
+        "en_title": "Observation of perovskite topological valley exciton-polaritons at room temperature",
+        "id": "1002512118513139714",
+        "keywords": "",
+        "publication_date": "2024-05-25",
+        "publication_id": "108520",
+        "publication_name": "Optics _ Physics.physics.optics",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\", \"Quantum Physics\"]",
+        "zh_title": "室温下钙钛矿拓扑谷激子极化激元的观测"
+      },
+      "paper:811175867211317249": {
+        "area": "Physics and Astrophysics",
+        "authors": "E.N. Myasnikov | A.E. Myasnikova",
+        "available_online": "",
+        "cover_date_start": "2001-07-01",
+        "created_at": "2022-12-18T02:03:19+08:00",
+        "doi": "10.1016/s0375-9601(01)00100-1",
+        "en_title": "Band theory of semiconductors and autolocalization of electrons",
+        "id": "811175867211317249",
+        "keywords": "",
+        "publication_date": "2001-7",
+        "publication_id": "604",
+        "publication_name": "Physics Letters A _ Physics Letters A",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半导体的能带理论与电子的自局域化"
+      },
+      "paper:812348082149654529": {
+        "area": "Chemistry",
+        "authors": "Oliviero Cannelli | Nicola Colonna | Michele Puppin | Thomas C. Rossi | Dominik Kinschel | Ludmila M. D. Leroy | Janina Löffler | James M. Budarz | Anne Marie March | Gilles Doumy | Andre Al Haddad | Ming-Feng Tu | Yoshiaki Kumagai | Donald Walko | Grigory Smolentsev | Franziska Krieg | Simon C. Boehme | Maksym V. Kovalenko | Majed Chergui | Giulia F. Mancini",
+        "available_online": "2021-6-2",
+        "cover_date_start": "2021-06-02",
+        "created_at": "2022-12-21T07:41:16+08:00",
+        "doi": "10.1021/jacs.1c02403",
+        "en_title": "Quantifying Photoinduced Polaronic Distortions in Inorganic Lead Halide Perovskite Nanocrystals",
+        "id": "812348082149654529",
+        "keywords": "",
+        "publication_date": "2021-6-23",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "量化无机卤化铅钙钛矿纳米晶体中的光致极化子畸变"
+      },
+      "paper:812600096490258433": {
+        "area": "Physics and Astrophysics",
+        "authors": "Manish Kumar | Priyanka A. Jha | Pardeep K. Jha | Prabhakar Singh",
+        "available_online": "",
+        "cover_date_start": "2020-06-14",
+        "created_at": "2022-12-22T00:22:41+08:00",
+        "doi": "10.1063/5.0012202",
+        "en_title": "Hysteric photo-conduction and negative differential resistance in cesium lead bromide",
+        "id": "812600096490258433",
+        "keywords": "",
+        "publication_date": "2020-6-14",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "溴化铯铅中的 hysteric 光电导和负微分电阻 （注：“hysteric”在这里可能是特定语境下的专业术语，不太常见，直接保留英文，因为不清楚准确对应的中文专业词汇） "
+      },
+      "paper:813243833486671872": {
+        "area": "Material science",
+        "authors": "G. Reza Yazdi | Remigijus Vasiliauskas | Tihomir Iakimov | Alexei Zakharov | Mikael Syväjärvi | Rositza Yakimova",
+        "available_online": "",
+        "cover_date_start": "2013-06-01",
+        "created_at": "2022-12-23T19:00:40+08:00",
+        "doi": "10.1016/j.carbon.2013.02.022",
+        "en_title": "Growth of large area monolayer graphene on 3C-SiC and a comparison with other SiC polytypes",
+        "id": "813243833486671872",
+        "keywords": "",
+        "publication_date": "2013-6",
+        "publication_id": "2058",
+        "publication_name": "Carbon _ Carbon",
+        "research_categories": "",
+        "zh_title": "在3C-SiC上大面积单层石墨烯的生长及其与其他SiC多型体的比较"
+      },
+      "paper:814512151598202881": {
+        "area": "Physics and Astrophysics",
+        "authors": "Bal K. Agrawal | P. S. Yadav | Sudhir Kumar | S. Agrawal",
+        "available_online": "1995-8-15",
+        "cover_date_start": "1995-08-15",
+        "created_at": "2022-12-27T07:00:31+08:00",
+        "doi": "10.1103/physrevb.52.4896",
+        "en_title": "First-principles calculation of Ga-based semiconductors",
+        "id": "814512151598202881",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "基于第一性原理的镓基半导体计算"
+      },
+      "paper:814527204682629120": {
+        "area": "Physics and Astrophysics",
+        "authors": "D. J. Clark | C. C. Stoumpos | F. O. Saouma | M. G. Kanatzidis | J. I. Jang",
+        "available_online": "2016-5-5",
+        "cover_date_start": "2016-05-05",
+        "created_at": "2022-12-27T08:00:20+08:00",
+        "doi": "10.1103/physrevb.93.195202",
+        "en_title": "Polarization-selective three-photon absorption and subsequent photoluminescence in CsPbBr 3 single crystal at room temperature",
+        "id": "814527204682629120",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "室温下CsPbBr₃单晶中的偏振选择性三光子吸收及随后的光致发光"
+      },
+      "paper:867750390232253017": {
+        "area": "arXiv-Physics",
+        "authors": "Jeroen van den Brink | Peter Horsch | Andrzej M. Oles",
+        "available_online": "",
+        "cover_date_start": "2001-04-25",
+        "created_at": "2023-05-23T04:50:15+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0104496",
+        "en_title": "Photoemission spectra of LaMnO3 controlled by orbital excitations",
+        "id": "867750390232253017",
+        "keywords": "",
+        "publication_date": "2001-04-25",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "由轨道激发控制的LaMnO₃的光电子能谱"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "Optical absorption and photoluminescence measurements on the CsPbBr$_3$ powder indicate an optical bandgap $E_g\\approx 2.26\\ \\text{eV}$, an exciton-related feature giving an estimated exciton binding energy $E_b\\approx 170\\ \\text{meV}$ (difference between absorption onset and excitonic peak), and a photoluminescence Stokes shift of approximately $80\\ \\text{meV}$; these spectroscopic signatures imply formation of bound excitons that couple to the lattice and form polarons, and transient electrical (discharge-mode) measurements performed after a 5 V trigger pulse (discharge measured for 50 s) show that the photogenerated current scales approximately linearly with applied bias (measured at biases of 0 V, 2 V, and 5 V), a bias dependence consistent with hopping/polaron-mediated transport between localized states rather than purely band-like conduction.",
+        "content_hash": "fc7ee31910847577f84afbf8ec23a84338321bb98001500b12c645f3a9f37c4e",
+        "id": "gcn_e0a31e14c50e4679",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812600096490258433::conclusion_4",
+            "package_id": "paper:812600096490258433",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812600096490258433"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let ARPES denote angle-resolved photoemission spectroscopy measurements on layered manganites that report strong incoherent spectral weight at binding energies well below the coherent band. The proposition is that, under experimental conditions where orbital order or strong orbital fluctuations are present and electronic superexchange dominates, the incoherent ARPES features observed in certain highly doped layered manganite experiments can be attributed primarily to electronic orbital-excitation dressing (orbital polarons) rather than to small lattice (Jahn–Teller) polarons; in other words, orbital-polaron spectral signatures can mimic or dominate over lattice-polaron signatures in ARPES when orbital dynamics are the principal source of dressing. [23]",
+        "content_hash": "cdf7099e8289b39de9d694227d0c31a9778a6341039f49895b54b0564d76d275",
+        "id": "gcn_381704b33a6e458a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750390232253017::P12",
+            "package_id": "paper:867750390232253017",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750390232253017"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The comparison between calculated band dispersions and experimental angle-resolved photoemission spectroscopy (ARPES) data is based on experimental points available only along selected crystal directions (the paper cites measurements in the [110] direction for all compounds and additionally the [100] direction for GaAs), and the paper overlays calculated band energies with those ARPES points without performing matrix-element-weighted spectral-intensity simulations that would model how photoemission matrix elements and experimental intensity affect the observed peak positions; consequently, the mapping from the calculated band energies to measured photoemission peak positions outside the measured directions and the confidence in the absolute placement of conduction-band minima are limited by this restricted directional coverage and the implicit assumption that calculated bare band energies correspond directly to measured photoemission peak energies.\n      Fig. 5 (overlay of calculated dispersions with ARPES points)",
+        "content_hash": "755077493ad9df7bb8baefd1b1904773d116c51479224cdfa9c8f7e751968222",
+        "id": "gcn_9a2a2e484dc64f01",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814512151598202881::P3",
+            "package_id": "paper:814512151598202881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814512151598202881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Angle-resolved photoluminescence measured from the bulk region of a patterned CsPbBr3 perovskite valley-Hall honeycomb lattice at room temperature shows an s-mode polariton energy band extending from approximately 2.262 eV to 2.320 eV and a bandgap opening of approximately 5 meV at the two inequivalent valley points K and K' in the momentum-space spectra collected from the bulk domain.",
+        "content_hash": "7e5a1b45bcd2e3150c5e8a65ebab6e919b8a848434c1798a7fbc4bec825aa7c6",
+        "id": "gcn_70894df6b7314426",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1002512118513139714::conclusion_2",
+            "package_id": "paper:1002512118513139714",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1002512118513139714"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For an orbital-ordered ferromagnetic plane at low hole doping, angle-resolved photoemission spectroscopy (ARPES) measurements should observe: (i) a coherent quasiparticle band with a bandwidth and spectral weight strongly reduced relative to the single-electron bands predicted by local density approximation (LDA) or LDA+U band-structure calculations, and (ii) pronounced incoherent spectral weight at higher binding energies whose energy structure and momentum dependence vary with the orbital ordering parameter $E_z$. Consequently, incoherent ARPES features reported in some layered manganite experiments that have been discussed in terms of small lattice (Jahn–Teller) polarons may alternatively be explained by electronic orbital-excitation dressing (orbital polarons) under the relevant experimental conditions in which orbital dynamics dominate.",
+        "content_hash": "bb2df15ec861557a16402170fe8e2545acdc4e8dec04d794521943188858508b",
+        "id": "gcn_dea03522f2ac4b06",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750390232253017::conclusion_6",
+            "package_id": "paper:867750390232253017",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750390232253017"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The polished CsPbBr3 single crystal emits bright visible photoluminescence at room temperature when carriers are generated by three-photon absorption; the PL spectral shape produced under 3PA is essentially identical to the PL spectrum produced by one-photon excitation (showing band-edge recombination near the direct gap E_{g}=2.25 eV), and the PL spectral shape remains invariant as the fundamental excitation wavelength is tuned across the measured 3PA band, while the PL intensity exhibits pronounced increases at the two-photon and three-photon absorption band edges.",
+        "content_hash": "8877d6a682917b2996fa1e08ad4b26675bb7fdb5af55dc676365421ca68f4c73",
+        "id": "gcn_22e63f579a384a5b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814527204682629120::conclusion_5",
+            "package_id": "paper:814527204682629120",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814527204682629120"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Angle-resolved photoemission spectroscopy (ARPES) measured on polished 3C-SiC(111) shows a linear π-band dispersion at the graphene Brillouin-zone K point that is characteristic of a single graphene layer; that ARPES spectrum was recorded from the ARPES instrument sampling region (the ARPES probe spot or illuminated sampling region), and this single-spot band-structure measurement is used together with LEEM mapping to assert monolayer electronic structure across larger ~50×50 μm^2 LEEM-mapped regions.\n      Fig. 4(d) inset (ARPES spectrum)",
+        "content_hash": "0efae8ce358c04ff49ab74fac256fcadcf350a337318f616c28887f13630e118",
+        "id": "gcn_51c3764ecc984b0e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813243833486671872::P3",
+            "package_id": "paper:813243833486671872",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813243833486671872"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The longitudinal optical (LO) phonon mode with energy $\\hbar\\omega=18\\ \\text{meV}$ is defined as the lattice vibration whose eigenvector displaces Pb and Br atoms along specific directions in the orthorhombic cell, and prior experimental and theoretical evidence (including angle-resolved photoemission spectroscopy and electron–phonon coupling calculations) identifies this 18 meV LO mode as the phonon most strongly coupled to charge carriers in CsPbBr₃; accordingly, displacing the lattice along the 18 meV LO eigenvector constitutes the physically motivated candidate to model a photoinduced polaronic structural distortion.\n      Puppin et al., Phys. Rev. Lett. 2020; ARPES evidence cited in the paper",
+        "content_hash": "7cbbd7d3156ad5a36c58ef4d28f6462389a5f89bb559c653719332bf41b3173f",
+        "id": "gcn_6c46b505c8c04847",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812348082149654529::P12",
+            "package_id": "paper:812348082149654529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812348082149654529"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Depending on the electron–phonon coupling strength, a completely filled valence band can develop (a) a single momentum-space window centered at the valence-band top caused by u-polarons at weak coupling, and (b) two windows — one around the band top due to u-polarons and one around the band bottom due to d-polarons — at strong coupling; each window is accompanied by a corresponding polaron quasiparticle peak in angle-resolved photoemission spectroscopy (ARPES), so that the number of observed quasiparticle maxima equals the number of windows (one in the weak-coupling case, two in the strong-coupling case). A macroscopic population of autolocalized valence electrons modifies the phonon vacuum and produces a lattice deformation that can stabilize superstructures or change crystal symmetry (including generation of incommensurate structures). Upon heating above the polaron thermal-destruction temperature $T_{c}$ the valence polarons are thermally destroyed, the windows close, the quasiparticle peaks disappear, and the high-symmetry (undistorted) band structure and lattice symmetry are restored.",
+        "content_hash": "e7abb6fc8cd0485d908dd799dbc1027feaa88e4c72ac0691d97b614f387d8eb0",
+        "id": "gcn_926d67845bd546dc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811175867211317249::conclusion_8",
+            "package_id": "paper:811175867211317249",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811175867211317249"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "249135214bce742b378c36fb913b1ff4"
+}

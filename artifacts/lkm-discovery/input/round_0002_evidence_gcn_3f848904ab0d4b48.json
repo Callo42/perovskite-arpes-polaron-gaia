@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54.",
+      "content_hash": "b4c6a8a750bba688cccd32b362099d0c7fa3846208dba72908e40731a64bd010",
+      "id": "gcn_3f848904ab0d4b48",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54.",
+              "id": "gcn_3f848904ab0d4b48"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_5e7aa7aa12474862",
+            "premises": [
+              {
+                "content": "Define an equilibrated atomic configuration as a single instantaneous atomic-coordinate snapshot selected from an AIMD trajectory sampled at T = 300 K in the canonical ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms). Let HSE–SOC(α) denote electronic-structure calculations using the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling with hybrid mixing parameter α (fraction of nonlocal Fock exchange). The proposition is: computing the unfolded electronic band structure and extracting direction-averaged effective masses from one representative equilibrated AIMD configuration using HSE–SOC(α = 0.54), where α = 0.54 is chosen so that the calculated band gap for that configuration equals the experimental room-temperature band gap E_g = 2.37 eV, yields band dispersions and direction-averaged effective masses that accurately represent the thermally averaged electronic band structure of bulk CsPbBr₃ at T = 300 K within uncertainties comparable to typical experimental error bars; thus a single snapshot plus a tuned-α HSE–SOC calculation is treated as a surrogate for ensemble averaging over thermally fluctuating structures.",
+                "id": "gcn_00749f497c204b4c"
+              },
+              {
+                "content": "Let HSE–SOC(α) denote HSE calculations including SOC with fraction α of nonlocal Fock exchange. Consider two unfolded band structures: one computed on an AIMD (T = 300 K) configuration with α = 0.54 and another computed on the ideal cubic (T = 0 K) lattice with α = 0.74, where both α values were chosen so that each calculation reproduces the same experimental band gap E_g = 2.37 eV on its respective structure. The proposition is: the differences in band dispersions and effective masses between these two HSE–SOC(α) calculations can be attributed primarily to the presence or absence of thermal-lattice disorder (the atomic structural differences between the AIMD and ideal lattices) rather than to the different numerical choice of α itself or to compensating errors introduced by tuning α; in other words, tuning α to match the gap does not produce artificial changes in band curvature that would be mistaken for thermal effects in this comparison.",
+                "id": "gcn_869be47d79c54464"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "State the upstream results to be used as known starting points: (i) conclusion 6 — $CsPbBr_{3}$ has strong lattice anharmonicity and low-frequency vibrational modes that enable large thermal lattice fluctuations at room temperature; (ii) conclusion 5 — in contrast, Si and GaAs show only minor thermal renormalization, establishing that the large thermal effects in $CsPbBr_{3}$ are exceptional.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the relevant electronic effective masses: let $m_e$ denote the electron effective mass and $m_h$ denote the hole effective mass; define \"direction-averaged\" effective mass as the average of effective masses computed along the high-symmetry directions used by the authors (specifically the R–M and R–$\\\\Gamma$ directions reported in the paper), and denote the free-electron mass as $m_{0}$.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Describe the computational comparison that yields the mass renormalization numbers: compute unfolded HSE–SOC band structures and extract direction-averaged effective masses for two cases — (A) an equilibrated AIMD configuration at $T=300\\\\,$K using $\\\\alpha=0.54$ chosen to reproduce the experimental room-temperature band gap $E_{\\\\text{g}}=2.37\\\\,$eV, and (B) the ideal cubic ($T=0\\\\,$K) lattice using $\\\\alpha=0.74$ (the value required on the ideal lattice to reproduce the same $E_{\\\\text{g}}$). The comparison isolates the effect of thermal-lattice fluctuations while keeping the band-gap benchmark fixed.\nFig. 2\n[20]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Extract numerical values from the computed results: for the ideal cubic ($T=0\\\\,$K) case with $\\\\alpha=0.74$, the direction-averaged hole mass is $m_h \\\\approx 0.149\\\\,m_{0}$ (define $m_{0}$ as the electron rest mass), whereas for the AIMD $T=300\\\\,$K case with $\\\\alpha=0.54$, the direction-averaged hole mass is $m_h = 0.265\\\\,m_{0}$; similarly, the direction-averaged electron mass increases from $\\\\approx 0.172\\\\,m_{0}$ (ideal cubic, $\\\\alpha=0.74$) to $\\\\approx 0.263\\\\,m_{0}$ (AIMD, $\\\\alpha=0.54$), as reported in the tabulated results.\nTable I",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Compute the relative increases (define \"relative increase\" as $100\\\\times (m_{\\\\text{finite T}}-m_{0\\\\,\\\\text{ideal}})/m_{0\\\\,\\\\text{ideal}}\\\\%$): for electrons, the direction-averaged mass increases from $0.172\\\\,m_{0}$ to $0.263\\\\,m_{0}$, which corresponds to an increase of approximately $57\\\\%$; for holes, the direction-averaged mass increases from $0.149\\\\,m_{0}$ to $0.265\\\\,m_{0}$, corresponding to an increase of approximately $79\\\\%$.\nTable I",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "State the authors' interpretation: because the computed mass renormalizations are obtained by comparing band structures that (i) reproduce the same experimental band gap on the two structures by suitable choice of $\\\\alpha$ and (ii) differ only by the inclusion of finite-temperature atomic disorder (AIMD configuration vs ideal cubic lattice), the mass increases are attributed to thermal-lattice fluctuations rather than to the choice of $\\\\alpha$ or to polaron formation; this interpretation is supported by additional calculations in which applying $\\\\alpha=0.54$ to the ideal cubic lattice yields an underestimated gap and different masses, demonstrating that correct atomic structure (finite-temperature disorder) is the primary cause of the observed mass enhancement.\nFig. 2",
+                "step_id": "6"
+              },
+              {
+                "reasoning": "Conclude that thermal lattice fluctuations in $CsPbBr_{3}$ at $T=300\\\\,$K lead to large renormalizations of band-edge curvatures, specifically increasing the electron effective mass by approximately $57\\\\%$ and the hole effective mass by approximately $79\\\\%$, e.g., changing the direction-averaged hole mass from $m_h\\\\approx0.149\\\\,m_{0}$ (ideal cubic, $0\\\\,$K, $\\\\alpha=0.74$) to $m_h=0.265\\\\,m_{0}$ (AIMD, $300\\\\,$K, $\\\\alpha=0.54$).",
+                "step_id": "7"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "A central limitation in prior comparisons of computed and measured effective masses was the neglect of finite-temperature lattice disorder in the computed band structure: band dispersions obtained at $T=0\\\\,$K were used as the polaron-free reference, and differences between theory and experiment were attributed to polaronic effects. Because halide perovskites have soft, anharmonic lattices with low-frequency vibrational modes that are thermally activated at room temperature, the curvature of band edges (and thus effective masses) can be substantially altered by thermal fluctuations. Without quantifying these thermal renormalizations one cannot determine whether an observed mass enhancement is intrinsic (thermal) or extrinsic (polaronic). Therefore, quantifying the magnitude of mass renormalization caused purely by thermal lattice fluctuations is necessary to establish the correct polaron-free baseline for experimental comparison.",
+            "id": "paper:1096665743648358400::conclusion_2_subproblem",
+            "source_package": "paper:1096665743648358400"
+          }
+        ],
+        "source_package": "paper:1096665743648358400"
+      }
+    ],
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "b8de02b3e69651a092414b0ed234d51d"
+}

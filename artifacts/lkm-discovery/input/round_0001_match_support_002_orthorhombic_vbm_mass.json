@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811108022439903233": {
+        "area": "Chemistry",
+        "authors": "Jia Liang | Caixing Wang | Yanrong Wang | Zhaoran Xu | Zhipeng Lu | Yue Ma | Hongfei Zhu | Yi Hu | Chengcan Xiao | Xu Yi | Guoyin Zhu | Hongling Lv | Lianbo Ma | Tao Chen | Zuoxiu Tie | Zhong Jin | Jie Liu",
+        "available_online": "2016-11-30",
+        "cover_date_start": "2016-11-30",
+        "created_at": "2022-12-17T21:33:44+08:00",
+        "doi": "10.1021/jacs.6b10227",
+        "en_title": "All-Inorganic Perovskite Solar Cells",
+        "id": "811108022439903233",
+        "keywords": "",
+        "publication_date": "2016-12-14",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "全无机钙钛矿太阳能电池"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812645742362492930": {
+        "area": "Physics and Astrophysics",
+        "authors": "Xiaochi Liu | Yahua Yuan | Zhongwang Wang | Russell S. Deacon | Won Jong Yoo | Jian Sun | Koji Ishibashi",
+        "available_online": "2020-4-22",
+        "cover_date_start": "2020-04-22",
+        "created_at": "2022-12-22T03:24:04+08:00",
+        "doi": "10.1103/physrevapplied.13.044056",
+        "en_title": "Directly Probing Effective-Mass Anisotropy of Two-Dimensional Re Se 2 in Schottky Tunnel Transistors",
+        "id": "812645742362492930",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "503",
+        "publication_name": "Physical Review Applied _ Phys. Rev. Applied",
+        "research_categories": "",
+        "zh_title": "直接探测肖特基隧道晶体管中二维ReSe₂的有效质量各向异性"
+      },
+      "paper:812799694697660418": {
+        "area": "Engineering Technology",
+        "authors": "Zheng‐Ji Zhou | Yue‐Qing Deng | Pan‐Pan Zhang | Dong‐Xing Kou | Wen‐Hui Zhou | Yue‐Na Meng | Sheng‐Jie Yuan | Si‐Xin Wu",
+        "available_online": "2019-2-25",
+        "cover_date_start": "2019-02-25",
+        "created_at": "2022-12-22T13:35:48+08:00",
+        "doi": "10.1002/solr.201800354",
+        "en_title": "Cu 2 ZnSnS 4 Quantum Dots as Hole Transport Material for Enhanced Charge Extraction and Stability in All‐Inorganic CsPbBr 3 Perovskite Solar Cells",
+        "id": "812799694697660418",
+        "keywords": "[{\"en_name\": \"charge extraction\", \"ch_name\": \"\"}, {\"en_name\": \"CsPbBr<sub>3</sub> perovskite solar cells\", \"ch_name\": \"\"}, {\"en_name\": \"CZTS\", \"ch_name\": \"\"}, {\"en_name\": \"hole transporting material\", \"ch_name\": \"\"}, {\"en_name\": \"stability\", \"ch_name\": \"\"}]",
+        "publication_date": "2019-4",
+        "publication_id": "3975",
+        "publication_name": "Solar RRL _ Sol. RRL",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "Cu₂ZnSnS₄量子点作为空穴传输材料用于增强全无机CsPbBr₃钙钛矿太阳能电池中的电荷提取和稳定性 "
+      },
+      "paper:867749511697531781": {
+        "area": "arXiv-Physics",
+        "authors": "Wenjuan Zhao | Yuan Huang | Cheng Shen | Cong Li | Yongqing Cai | Yu Xu | Hongtao Rong | Qiang Gao | Yang Wang | Lin Zhao | Lihong Bao | Qingyan Wang | Guangyu Zhang | Hongjun Gao | Zuyan Xu | Xingjiang Zhou | Guodong Liu",
+        "available_online": "",
+        "cover_date_start": "2019-12-09",
+        "created_at": "2023-05-23T04:46:45+08:00",
+        "doi": "10.48550/arXiv.1912.03893",
+        "en_title": "Electronic Structure of Exfoliated Millimeter-Sized Monolayer WSe2 on Silicon Wafer",
+        "id": "867749511697531781",
+        "keywords": "",
+        "publication_date": "2019-12-09",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "硅片上剥离的毫米级单层二硒化钨的电子结构"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      },
+      "paper:875690247529168897": {
+        "area": "Chemistry",
+        "authors": "Chenyu Cao | Shaoming Xue | Fangchao Liu | Qiaoqian Wu | Jialin Wu | Zhenkui Zhang | ChengBo Guan | Wei-Yan Cong | Ying-Bo Lu",
+        "available_online": "",
+        "cover_date_start": "2023-06-13",
+        "created_at": "2023-06-14T02:40:24+08:00",
+        "doi": "10.1021/acsomega.3c02378",
+        "en_title": "Studies on the Light-Induced Phase Transition of CsPbBr 3 Metal Halide Perovskite Materials",
+        "id": "875690247529168897",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3485",
+        "publication_name": "ACS Omega _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "关于CsPbBr₃金属卤化物钙钛矿材料光致相变的研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03131881575727918,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+        "content_hash": "1c1b6b5a8e6abb85588c0b44f4ec5a15eb68b5a2357271084c9c407a682619a5",
+        "id": "gcn_8c3c520295d7488c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_2",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03007688828584351,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Ground-state Kohn–Sham band-structure calculations for stoichiometric orthorhombic CsPbBr3 indicate a direct electronic band gap of 2.11 eV with the valence-band maximum (VBM, the highest-occupied Kohn–Sham band at the band-edge k-point) and the conduction-band minimum (CBM, the lowest-unoccupied Kohn–Sham band at that same k-point) at the same k-point in reciprocal space. Projected density-of-states analysis shows the VBM is dominated by bromine 4p atomic-orbital character with a minor lead 6s contribution, while the CBM is dominated by lead 6p atomic-orbital character with a minor bromine 4s contribution. The tetragonal CsPbBr3 unit cell exhibits a band gap that is slightly lower than 2.11 eV, i.e., the computed orthorhombic→tetragonal structural change is accompanied by a small decrease of the electronic band gap.",
+        "content_hash": "7db9b1d831b3a0c85f42232d331167c13f0f14c27f83a4d24cd6ac6af051e89e",
+        "id": "gcn_002feed8c84d4b5b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:875690247529168897::conclusion_2",
+            "package_id": "paper:875690247529168897",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:875690247529168897"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025503573749187783,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The normalized anisotropy of the hole effective mass extracted from normalized Fowler–Nordheim tunneling slopes in Pd–ReSe₂ Schottky transistors matches the twofold asymmetric distribution of hole effective mass reported from angle‑resolved photoemission spectroscopy (ARPES) measurements of the hole‑band dispersion near the valence‑band maximum in ReSe₂ (ARPES shows a minimum along the a axis and a maximum normal to the a axis), indicating that the transport‑based FN tunneling extraction probes the same underlying band‑edge hole effective‑mass anisotropy that ARPES detects.",
+        "content_hash": "5655a652586de00313041ae8fa47d70f31abbbadd3a091e8fd6385277b1008c3",
+        "id": "gcn_1eb2a91cd3c14e4f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812645742362492930::conclusion_7",
+            "package_id": "paper:812645742362492930",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812645742362492930"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Effective quasiparticle hole masses were extracted by fitting local parabolic dispersions to the ARPES-measured valence-band extrema: at the Γ-point valence-band maximum the fitted effective mass is m*_Γ = 2.344 m_e (with m_e the free electron mass); at the K-point the fitted effective masses for the upper and lower spin-split valence branches are m*_{K,upper} = −0.529 m_e and m*_{K,lower} = −0.532 m_e, where the negative sign denotes hole-like band curvature.",
+        "content_hash": "1e3099b0bf38be9e7d8e2704715bf190d61c239faacb4dfff74a4bacbf5a2f75",
+        "id": "gcn_0d8d840ed0cb40de",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749511697531781::conclusion_6",
+            "package_id": "paper:867749511697531781",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749511697531781"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Considering measured vacuum-level energy positions, (a) the porous carbon electrode used has an effective vacuum work function $\\\\Phi_{\\\\mathrm{C}}\\\\approx -5.0\\\\ \\\\mathrm{eV}$, (b) valence-band X-ray photoelectron spectroscopy (XPS) places the CsPbBr3 valence-band maximum (VBM) at a less-negative energy (higher energy) than $\\\\Phi_{\\\\mathrm{C}}$, and (c) the TiO2 conduction band is positioned lower in energy than the CsPbBr3 conduction-band minimum, so that, on the basis of these vacuum-referenced energy positions alone, hole transfer from the CsPbBr3 valence band into the carbon electrode is energetically downhill and therefore energetically favorable for hole extraction, with the assumption that interface-specific phenomena (interface dipoles, chemical reactions, Fermi-level pinning, surface contamination, or band bending at the CsPbBr3/carbon interface) do not invert or negate the interfacial energy offset required for hole transfer.",
+        "content_hash": "2b0faa35a607ecfaebf6b13001b13702befaa2902242b0a14bba65f7e276aa9a",
+        "id": "gcn_ad86281c87be4605",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811108022439903233::P4",
+            "package_id": "paper:811108022439903233",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811108022439903233"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a heterojunction between a CsPbBr3 absorber with valence-band maximum energy E_{VB}^{CsPbBr3} and a CZTS hole-transport layer with valence-band maximum energy E_{VB}^{CZTS}, defining the valence-band offset as ΔE_{VB} = E_{VB}^{CsPbBr3} - E_{VB}^{CZTS}, a small offset ΔE_{VB} ≈ 0.2 eV corresponds to a negligibly small energetic barrier for holes moving from the higher-energy valence band of CsPbBr3 into the lower-energy valence band of CZTS, which reduces the energy loss during hole extraction and decreases the probability of interfacial charge recombination compared to cases with larger valence-band offsets.",
+        "content_hash": "ddbcff6502e27aca7ae6f109f04b56fda82bb032bbedcae59e8766c6513f57ef",
+        "id": "gcn_cdd2426a98014fba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812799694697660418::P2",
+            "package_id": "paper:812799694697660418",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812799694697660418"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "06440058564df9bdd468041799029626"
+}

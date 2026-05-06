@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811081036640288769": {
+        "area": "Physics and Astrophysics",
+        "authors": "James Endres | Michael Kulbak | Lianfeng Zhao | Barry P. Rand | David Cahen | Gary Hodes | Antoine Kahn",
+        "available_online": "",
+        "cover_date_start": "2017-01-21",
+        "created_at": "2022-12-17T19:46:30+08:00",
+        "doi": "10.1063/1.4974471",
+        "en_title": "Electronic structure of the CsPbBr 3 /polytriarylamine (PTAA) system",
+        "id": "811081036640288769",
+        "keywords": "",
+        "publication_date": "2017-1-21",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "CsPbBr₃/聚三芳基胺（PTAA）体系的电子结构"
+      },
+      "paper:813064614504824833": {
+        "area": "Chemistry",
+        "authors": "Jie Li | Yunrui Duan | Yifan Li | Tao Li | Long-Wei Yin | Hui Li",
+        "available_online": "2018",
+        "cover_date_start": "2018-01-01",
+        "created_at": "2022-12-23T07:08:30+08:00",
+        "doi": "10.1039/c7cp07132a",
+        "en_title": "First principles study of electronic transport properties in novel FeB 2 flake-based nanodevices",
+        "id": "813064614504824833",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3439",
+        "publication_name": "Physical Chemistry Chemical Physics _ Phys. Chem. Chem. Phys.",
+        "research_categories": "",
+        "zh_title": "新型FeB₂薄片基纳米器件中电子输运性质的第一性原理研究"
+      },
+      "paper:867754525035856019": {
+        "area": "arXiv-Physics",
+        "authors": "Zherui Han | Changkyun Lee | Jiawei Song | Haiyan Wang | Peter Bermel | Xiulin Ruan",
+        "available_online": "",
+        "cover_date_start": "2022-11-28",
+        "created_at": "2023-05-23T05:06:41+08:00",
+        "doi": "10.48550/arXiv.2211.15571",
+        "en_title": "Temperature-Dependent Full Spectrum Optical Responses of Semiconductors from First Principles",
+        "id": "867754525035856019",
+        "keywords": "",
+        "publication_date": "2022-11-28",
+        "publication_id": "108520",
+        "publication_name": "Optics _ Physics.physics.optics",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "基于第一性原理的半导体温度相关全光谱光学响应"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      },
+      "paper:867769043711427083": {
+        "area": "arXiv-Physics",
+        "authors": "Lingzhu Kong | Xifan Wu | Roberto Car",
+        "available_online": "",
+        "cover_date_start": "2012-04-01",
+        "created_at": "2023-05-23T06:04:22+08:00",
+        "doi": "10.48550/arXiv.1204.0268",
+        "en_title": "Role of quantum nuclei and local fields in the x-ray absorption spectra of water and ice",
+        "id": "867769043711427083",
+        "keywords": "",
+        "publication_date": "2012-04-01",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "量子核与局域场在水和冰的X射线吸收光谱中的作用"
+      },
+      "paper:867771194533741241": {
+        "area": "arXiv-Physics",
+        "authors": "Zhigang Song | Cheng-Cheng Liu | Jinbo Yang | Jingzhi Han | Meng Ye | Botao Fu | Yingchang Yang | Qian Niu | Jing Lu | Yugui Yao",
+        "available_online": "",
+        "cover_date_start": "2014-02-11",
+        "created_at": "2023-05-23T06:12:55+08:00",
+        "doi": "10.48550/arXiv.1402.2399",
+        "en_title": "Quantum spin Hall insulators and quantum valley Hall insulators of BiX/SbX (X = H, F, Cl, and Br) monolayers with a record bulk band gap",
+        "id": "867771194533741241",
+        "keywords": "",
+        "publication_date": "2014-02-11",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "具有创纪录体带隙的BiX/SbX（X = H、F、Cl和Br）单层的量子自旋霍尔绝缘体和量子谷霍尔绝缘体"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure.",
+        "content_hash": "13747b834c18e25cd1a33125aa14a2dc934c6335bdcd60854563362233933692",
+        "id": "gcn_c24c81b8a5fe413c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define an equilibrated atomic configuration as a single instantaneous atomic-coordinate snapshot selected from an AIMD trajectory sampled at T = 300 K in the canonical ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms). Let HSE–SOC(α) denote electronic-structure calculations using the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling with hybrid mixing parameter α (fraction of nonlocal Fock exchange). The proposition is: computing the unfolded electronic band structure and extracting direction-averaged effective masses from one representative equilibrated AIMD configuration using HSE–SOC(α = 0.54), where α = 0.54 is chosen so that the calculated band gap for that configuration equals the experimental room-temperature band gap E_g = 2.37 eV, yields band dispersions and direction-averaged effective masses that accurately represent the thermally averaged electronic band structure of bulk CsPbBr₃ at T = 300 K within uncertainties comparable to typical experimental error bars; thus a single snapshot plus a tuned-α HSE–SOC calculation is treated as a surrogate for ensemble averaging over thermally fluctuating structures.",
+        "content_hash": "b05b2658686dd3b0d7272a8c5159f2f23c8cb3db3f38e9896f0303d8b22e70e2",
+        "id": "gcn_00749f497c204b4c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P3",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026050420168067225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A single atomic-configuration snapshot extracted from a finite-duration ab initio molecular-dynamics (AIMD) trajectory of a periodic FeB₂ monolayer—where \"AIMD trajectory\" refers to Newtonian propagation of atomic positions on forces computed by Kohn–Sham density-functional theory and \"snapshot\" denotes one instantaneous set of atomic Cartesian coordinates taken at some simulation time during that trajectory—is assumed to be representative of the equilibrium structural ensemble at the simulated absolute temperature T (with T chosen from the set {300 K, 500 K, 1000 K, 1500 K, 2000 K}) so that that single snapshot is used without ensemble averaging as the finite flake geometry in subsequent electronic-transport device calculations.",
+        "content_hash": "3bccb18717f2a948cb709fb22bd9b1ad63f0ce0f455bb7e44944d882e5ff8ef0",
+        "id": "gcn_2514ec4cd96b4db7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813064614504824833::P1",
+            "package_id": "paper:813064614504824833",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813064614504824833"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computation of a time-reversal $Z_2$ invariant equal to $1$ for a single distorted atomic configuration extracted from an AIMD snapshot after $2.25\\ \\text{ps}$ at $600\\ \\text{K}$ is used to conclude that the topological phase persists under thermal lattice distortions; this premise explicitly states the modeling assumption that evaluation of the single-particle $Z_2$ index on one non-equilibrium MD snapshot is an appropriate and representative diagnostic of the ensemble-averaged finite-temperature topological character, thereby neglecting the possibility that other snapshots or dynamic disorder averaging could produce different $Z_2$ values or that the single snapshot is not representative of the thermal ensemble.",
+        "content_hash": "3d2b16a136c2c99d29417280afc84518f52cc075ea438c264fdc2fbe64a79f33",
+        "id": "gcn_bc625e554df2484c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867771194533741241::P10",
+            "package_id": "paper:867771194533741241",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867771194533741241"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the experimental calibration and resolution values reported for the spectroscopies employed here (UPS calibrated to the Fermi step of sputtered Au with an overall UPS resolution ≈0.15 eV and typical accuracy quoted as ≈±0.05 eV; XPS calibrated to the Au 4f$_{7/2}$ peak at 84.0 eV with overall XPS resolution ≈0.8 eV and typical accuracy quoted as ≈±0.1 eV; IPES in isochromat mode with overall resolution ≈0.45 eV and typical accuracy quoted as ≈±0.2 eV), the combined instrumental and analysis uncertainties support reporting values such as IE(CsPbBr$_3$)=5.65±0.10 eV and $\\Delta_{Br\\text{3d}-\\text{VBM}}\\approx67.26\\ \\text{eV}$ with the stated approximate uncertainties.",
+        "content_hash": "e5d95db13fceff3dd8943d7a2ead80d4d2e33698d9dd6dc09c2c7e6c52bfb656",
+        "id": "gcn_de68a53a152c4812",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811081036640288769::P4",
+            "package_id": "paper:811081036640288769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811081036640288769"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Path integral ab initio molecular dynamics (PI-AIMD) samples equilibrium quantum nuclear distributions by representing each nucleus as a Feynman path in imaginary time discretized into $P$ replicas; in the calculations underlying the spectral averages each path was discretized with $P=32$, the periodic simulation cell for liquid water contained $N=64$ H$_2$O molecules and for ice Ih $N=96$ H$_2$O molecules, and the reported XAS structural averages were obtained by computing spectra for all molecules in a single PI-AIMD snapshot and averaging over a prescribed central subset of path replicas (26 replicas for water, 16 replicas for ice). The proposition is that this single-snapshot, finite-$N$, finite-$P$ PI-AIMD ensemble (with the given $P$, $N$, and central-replica averaging protocol) yields a molecular-configuration ensemble that is representative of the true equilibrium quantum nuclear distribution at temperatures $T=300\\,$K (water) and $T=269\\,$K (ice Ih) for the purpose of converged XAS averages.\n      [13]",
+        "content_hash": "1ad7bdc19df8fcb47f397f9ccfff3fa2f0bf2f51bfd3f94a4ae11f56b87f84e5",
+        "id": "gcn_e6d87ac67be34f88",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769043711427083::P1",
+            "package_id": "paper:867769043711427083",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769043711427083"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54.",
+        "content_hash": "b4c6a8a750bba688cccd32b362099d0c7fa3846208dba72908e40731a64bd010",
+        "id": "gcn_3f848904ab0d4b48",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_2",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Obtaining finite-temperature band-structure renormalization due to electron–phonon interaction (EPI) by averaging Kohn–Sham band gaps over an ensemble of AIMD NVT snapshots (each snapshot evaluated as a frozen-configuration Kohn–Sham calculation) is an adequate and physically representative method for capturing the dominant EPI-induced band-gap renormalization in crystalline CeO2 for the temperatures studied, because AIMD sampling naturally includes anharmonic thermal disorder and atomic-position fluctuations that contribute to band-energy shifts whereas perturbative Allen–Heine–Cardona (AHC) approaches are limited to harmonic or weakly anharmonic regimes; thus the snapshot-averaging procedure justifies attributing the computed band-gap reduction primarily to dynamical electron–phonon disorder.",
+        "content_hash": "7f7c53f7550dc463ea48473d93e3bfa7d76968fe79ce3a7b8f08e1a191b81e68",
+        "id": "gcn_9f8e3b4e3ebd49bf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867754525035856019::P9",
+            "package_id": "paper:867754525035856019",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867754525035856019"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "d1423f299d0dad7cf97ad9589c30cbf1"
+}

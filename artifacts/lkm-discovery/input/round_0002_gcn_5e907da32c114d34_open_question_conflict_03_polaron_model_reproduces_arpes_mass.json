@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811933008738123778": {
+        "area": "Physics and Astrophysics",
+        "authors": "C M Srivastava",
+        "available_online": "",
+        "cover_date_start": "1998-01-01",
+        "created_at": "2022-12-20T04:11:54+08:00",
+        "doi": "10.1007/bf02847513",
+        "en_title": "Evidence of polaronic charge carriers in oxide superconductors",
+        "id": "811933008738123778",
+        "keywords": "",
+        "publication_date": "1998-1",
+        "publication_id": "661",
+        "publication_name": "Pramana _ Pramana - J Phys",
+        "research_categories": "",
+        "zh_title": "氧化物超导体中极化子电荷载流子的证据"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812649006076264448": {
+        "area": "Physics and Astrophysics",
+        "authors": "Huafeng Shi | Xiaoli Zhang | Xiaowei Sun | Xinhai Zhang",
+        "available_online": "",
+        "cover_date_start": "2020-04-13",
+        "created_at": "2022-12-22T03:37:03+08:00",
+        "doi": "10.1063/1.5145261",
+        "en_title": "Strong hot-phonon bottleneck effect in all-inorganic perovskite nanocrystals",
+        "id": "812649006076264448",
+        "keywords": "",
+        "publication_date": "2020-4-13",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\"]",
+        "zh_title": "全无机钙钛矿纳米晶体中的强热声子瓶颈效应"
+      },
+      "paper:813001823186059264": {
+        "area": "Material science",
+        "authors": "Thomas R. Hopper | Andrei Gorodetsky | Jarvist M. Frost | Christian Müller | Robert Lovrincic | Artem A. Bakulin",
+        "available_online": "2018-8-21",
+        "cover_date_start": "2018-08-21",
+        "created_at": "2022-12-23T02:58:59+08:00",
+        "doi": "10.1021/acsenergylett.8b01227",
+        "en_title": "Ultrafast Intraband Spectroscopy of Hot-Carrier Cooling in Lead-Halide Perovskites",
+        "id": "813001823186059264",
+        "keywords": "",
+        "publication_date": "2018-9-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中热载流子冷却的超快带内光谱学"
+      },
+      "paper:867747946651713773": {
+        "area": "arXiv-Physics",
+        "authors": "Wencan Jin | Hyun Ho Kim | Zhipeng Ye | Gaihua Ye | Laura Rojas | Xiangpeng Luo | Bowen Yang | Fangzhou Yin | Jason Shih An Horng | Shangjie Tian | Yang Fu | Gongjun Xu | Hui Deng | Hechang Lei | Kai Sun | Adam W. Tsen | Rui He | Liuyan Zhao",
+        "available_online": "",
+        "cover_date_start": "2020-02-29",
+        "created_at": "2023-05-23T04:40:32+08:00",
+        "doi": "10.48550/arXiv.2003.00176",
+        "en_title": "Observation of the polaronic character of excitons in a two-dimensional semiconducting magnet $\\mathrm{CrI_3}$",
+        "id": "867747946651713773",
+        "keywords": "",
+        "publication_date": "2020-02-29",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维半导体磁体$\\mathrm{CrI_3}$中激子的极化子特性观测"
+      },
+      "paper:867764362457121499": {
+        "area": "arXiv-Physics",
+        "authors": "Kingshuk Mukhuti | Arnab Mandal | Basabendra Roy | Sayan Bhattacharyya | Bhavtosh Bansal",
+        "available_online": "",
+        "cover_date_start": "2022-10-10",
+        "created_at": "2023-05-23T05:45:46+08:00",
+        "doi": "10.48550/arXiv.2210.05041",
+        "en_title": "Carrier thermalization and zero-point bandgap renormalization in halide perovskites from the Urbach tails of the emission spectrum",
+        "id": "867764362457121499",
+        "keywords": "",
+        "publication_date": "2022-10-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于发射光谱的乌尔巴赫尾研究卤化物钙钛矿中的载流子热化和零点带隙重整化"
+      }
+    },
+    "variables": [
+      {
+        "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+        "id": "gcn_4ad259a13be9454a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P11",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03177805800756621,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028373015873015873,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Polaron‑parameter calculations performed with variational polaron theory and material dielectric and effective‑mass inputs yield an estimated polaron radius r_p ≈ 36 Å for CsPbBr3; using the approximate mapping between polaron spatial extent and the carrier‑density threshold for overlap n_{\\mathrm{overlap}}\\sim 1/r_p^3 (modulo order‑unity packing factors), the larger r_p in CsPbBr3 reduces n_{\\mathrm{overlap}} and thereby increases the propensity for spatial overlap of distinct polarons and for emitted optical phonons from different polarons to be reabsorbed, which enhances the density‑dependent hot‑phonon bottleneck observed experimentally in CsPbBr3.",
+        "content_hash": "d321172369e9d8872493bb707a4e4c1bde5faa0cb113882e82f98ddaed9a9fec",
+        "id": "gcn_9fd1d0ec12054f67",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813001823186059264::conclusion_6",
+            "package_id": "paper:813001823186059264",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813001823186059264"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027757078986587184,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The strong hot‑phonon bottleneck observed in colloidal cubic CsPbBr3 nanocrystals is attributed to three material‑specific mechanisms that together increase LO phonon energy, increase carrier–LO coupling, and prolong LO phonon lifetimes: (i) a smaller A‑site ionic radius for Cs+ (Cs+ ionic radius ≈1.81 Å) compared with typical organic A‑site cations such as formamidinium (FA+, radius ≈2.79 Å) strengthens the interaction between the A cation and the [PbBr6] octahedral cage and increases the effective positive charge on Pb (reported values ≈1.1 e for CsPbBr3 versus ≈0.65 e for FAPbBr3), which raises the LO phonon energy associated with Pb–Br lattice vibrations; (ii) the larger atomic mass of Cs+ (m ≈133 u) relative to organic A‑site species (e.g., FA ≈45 u, MA ≈32 u) suppresses the efficiency of the dominant Klemens optical‑to‑acoustic phonon decay channel (optical phonon → two acoustic phonons), thereby increasing LO phonon lifetime and inhibiting optical‑to‑acoustic phonon conversion; and (iii) small polaron radii estimated from continuum Fröhlich/Feynman formalisms for CsPbBr3 (electron ρ_e ≈ 26.7 Å, hole ρ_h ≈ 24.9 Å) give reduced dynamic screening of the Coulomb interaction that mediates carrier–LO‑phonon scattering compared with larger polarons in organic perovskites (e.g., ρ_e ≈ 41.8 Å), permitting stronger effective carrier–LO coupling. These structural and polaronic factors together explain the experimentally extracted larger LO phonon energy (E_LO ≈ 47 meV) and larger carrier–LO coupling parameter (γ_LO ≈ 175 meV) and the resulting long‑lived nonequilibrium LO phonon population that underlies the hot‑phonon bottleneck in CsPbBr3 nanocrystals.",
+        "content_hash": "2dded9977f56dc505fa548c691c365060d1eb1f74c44890fdf2cc155b33b4856",
+        "id": "gcn_4234c479b0794857",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812649006076264448::conclusion_3",
+            "package_id": "paper:812649006076264448",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812649006076264448"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02454080096356519,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The periodic broad Raman replicas are interpreted as inelastic light scattering between phonon‑dressed electronic excitations — i.e., replicas of an electronic exciton state dressed by one or more quanta of a coupled LO phonon (exciton polarons) — specifically associated with the charge‑transfer B exciton whose optical absorption peak is at 1.96 eV. This resonant polaronic interpretation is supported by three experimental observations made on the same bilayer CrI₃ samples: (i) the periodic pattern appears when the excitation laser wavelength is 633 nm (photon energy ≃1.96 eV), which is resonant with the B exciton, and the same periodic pattern is absent or much weaker for off‑resonant excitation wavelengths such as 473 nm and 785 nm; (ii) the replica spacing extracted from the Raman fit equals the characteristic LO phonon shift ω_LO = 120.6 ± 0.9 cm&#8211;1 identified above; and (iii) the measured Lorentzian‑shaped, regularly spaced replicas closely resemble phonon‑dressed spectral features reported for polaron systems in angle‑resolved photoemission spectroscopy (ARPES), optical absorption, and photoluminescence, consistent with exciton–phonon dressing as the origin of the Raman replicas.",
+        "content_hash": "6784bf94c1652eb0d541a693410f6ddab856f81455d85eee79d46e67e00f91f4",
+        "id": "gcn_d3dbbad7c88e4c32",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867747946651713773::conclusion_4",
+            "package_id": "paper:867747946651713773",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867747946651713773"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the CsPbBr3 nanosheets studied, the combination of (i) a modest zero‑point bandgap renormalization quantified by ε_{F}≈33 meV, (ii) the absence of clearly resolved phonon‑replica lines in the measured PL under the experimental spectral resolution and excitation conditions, and (iii) linewidth and Urbach phonon energies on the order of 14–16 meV with linewidth temperature scaling consistent with Bose‑population (coth‑like) dependence, together indicate that the excitons behave as Mott–Wannier excitons subject to weak‑to‑moderate disorder and weak exciton–phonon coupling; these spectroscopic signatures disfavour formation of small polarons (self‑trapped excitons) as the dominant carrier state in these samples under the measurement conditions.",
+        "content_hash": "bc5d2f0764c6b50652c5375582cdeb5b2bf26bcf49562e1e2301aee1d191bf9f",
+        "id": "gcn_b24a8c0d8fb2496d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::conclusion_9",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The empirical ansatz used to relate the polaron effective mass m* to the dimensionless electron–phonon coupling α is\n      $$\n      \\frac{m^{*}}{m}=\\frac{1}{1-\\alpha/6},\n      $$\n      so that values of α fitted to ARPES or optical line shapes are converted directly into m^*/m and into an inferred polaron size measure via the factor $(\\hbar/2m\\omega_0)^{1/2}$, while other possible α–m^* relations or mass enhancements from purely electronic correlations are not considered in this conversion.",
+        "content_hash": "d9a775d681b1d3b439909a9ede73b7d483062d6bbfc5945c2a0a5eafd58302b4",
+        "id": "gcn_5f6490f26c814257",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811933008738123778::P12",
+            "package_id": "paper:811933008738123778",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811933008738123778"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using continuum Fröhlich and Feynman variational formalisms to estimate large‑polaron parameters yields representative polaron radii for CsPbBr3 of electron ρ_e ≈ 26.7 Å and hole ρ_h ≈ 24.9 Å, and for representative organic perovskites larger electron polaron radii such as ρ_e ≈ 41.8 Å; for colloidal CsPbBr3 nanocrystals with physical size ≈15 nm and organic surface ligands, these continuum polaron radius estimates are taken as valid approximations for the screening length scale that controls dynamic Coulomb screening of interactions mediating carrier–LO‑phonon scattering, and smaller polaron radii correspond to reduced dynamic screening and therefore to stronger effective carrier–LO coupling in the nanocrystals under the stated experimental excitation conditions.",
+        "content_hash": "62affba77b59776e1e397778fe06df23a5874f47b9c51c2dd02dd25ab9b53263",
+        "id": "gcn_090553bf5b3a4df5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812649006076264448::P10",
+            "package_id": "paper:812649006076264448",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812649006076264448"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ensemble of CsPbBr3 nanosheets studied, the conjunction of (i) a modest zero‑point bandgap renormalization numerically of order 33 meV, (ii) the absence of resolvable phonon‑replica lines in the measured PL spectra at the available instrumental spectral resolution and under the applied excitation conditions, and (iii) linewidth temperature dependence consistent with Bose‑population (coth‑like) scaling rather than strong‑coupling polaronic scaling, collectively provides evidence that disfavors formation of small polarons (self‑trapped excitons) as the operative carrier state in these samples, subject to the caveat that strong inhomogeneous broadening or other extrinsic effects could in principle mask polaronic signatures.",
+        "content_hash": "c65b6e9c6406f07b71340c4abc702f114044e7f9c90dc950e93b404d4bede6c5",
+        "id": "gcn_c11700f569314c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P8",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "230dccae671806e8d430f2bb017d7058"
+}

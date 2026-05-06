@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811767304407744512": {
+        "area": "Physics and Astrophysics",
+        "authors": "Letizia Chiodo | Juan Maria García-Lastra | Amilcare Iacomino | Stefano Ossicini | Jin Zhao | Hrvoje Petek | Angel Rubio",
+        "available_online": "2010-7-22",
+        "cover_date_start": "2010-07-22",
+        "created_at": "2022-12-19T17:13:27+08:00",
+        "doi": "10.1103/physrevb.82.045207",
+        "en_title": "Self-energy and excitonic effects in the electronic and optical properties of TiO 2 crystalline phases",
+        "id": "811767304407744512",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二氧化钛晶相电子和光学性质中的自能与激子效应"
+      },
+      "paper:812435951493054467": {
+        "area": "Physics and Astrophysics",
+        "authors": "Manjari Jain | Deepika Gill | Preeti Bhumla | Pooja Basera | Saswata Bhattacharya",
+        "available_online": "",
+        "cover_date_start": "2021-05-10",
+        "created_at": "2022-12-21T13:30:26+08:00",
+        "doi": "10.1063/5.0044146",
+        "en_title": "Theoretical insights to excitonic effect in lead bromide perovskites",
+        "id": "812435951493054467",
+        "keywords": "",
+        "publication_date": "2021-5-10",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\"]",
+        "zh_title": "溴化铅钙钛矿中激子效应的理论见解"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813035895870455808": {
+        "area": "Comprehensive Periodical",
+        "authors": "P. Chen | Woei Wu Pai | Y.-H. Chan | W.-L. Sun | C.-Z. Xu | D.-S. Lin | M. Y. Chou | A.-V. Fedorov | T.-C. Chiang",
+        "available_online": "2018-5-21",
+        "cover_date_start": "2018-05-21",
+        "created_at": "2022-12-23T05:14:23+08:00",
+        "doi": "10.1038/s41467-018-04395-2",
+        "en_title": "Large quantum-spin-Hall gap in single-layer 1T′ WSe2",
+        "id": "813035895870455808",
+        "keywords": "",
+        "publication_date": "2018-12",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications _ Nat Commun",
+        "research_categories": "",
+        "zh_title": "单层1T′相二硒化钨中的大量子自旋霍尔能隙"
+      },
+      "paper:814508196709269504": {
+        "area": "Chemistry",
+        "authors": "Xiaopeng Wang | Taylor Garcia | Stephen Monaco | Bohdan Schatschneider | Noa Marom",
+        "available_online": "2016",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-27T06:44:48+08:00",
+        "doi": "10.1039/c6ce00873a",
+        "en_title": "Effect of crystal packing on the excitonic properties of rubrene polymorphs",
+        "id": "814508196709269504",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3480",
+        "publication_name": "CrystEngComm _ CrystEngComm",
+        "research_categories": "[\"Chemical Sciences\", \"Theoretical and Computational Chemistry\"]",
+        "zh_title": "晶体堆积对红荧烯多晶型物激子性质的影响"
+      },
+      "paper:867746677467906727": {
+        "area": "arXiv-Physics",
+        "authors": "I. A. Nechaev | E. V. Chulkov",
+        "available_online": "",
+        "cover_date_start": "2013-09-30",
+        "created_at": "2023-05-23T04:35:30+08:00",
+        "doi": "10.48550/arXiv.1309.7911",
+        "en_title": "The quasiparticle band gap in the topological insulator Bi2Te3",
+        "id": "867746677467906727",
+        "keywords": "",
+        "publication_date": "2013-09-30",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "拓扑绝缘体Bi2Te3中的准粒子带隙"
+      },
+      "paper:867751481061671012": {
+        "area": "arXiv-Physics",
+        "authors": "Laura Caputo | Viet-Hung Nguyen | Jean-Christophe Charlier",
+        "available_online": "",
+        "cover_date_start": "2022-10-26",
+        "created_at": "2023-05-23T04:54:35+08:00",
+        "doi": "10.48550/arXiv.2210.14715",
+        "en_title": "First-principles study of the structural and electronic properties of BN-ring doped graphene",
+        "id": "867751481061671012",
+        "keywords": "",
+        "publication_date": "2022-10-26",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "BN环掺杂石墨烯结构与电子性质的第一性原理研究"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "The application of a single-shot many-body perturbation calculation in the G0W0 approximation, where the noninteracting Green’s function G0 and the screened interaction W0 are constructed from Kohn–Sham eigenstates obtained with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient approximation, produces a corrected quasiparticle band gap E_g under the assumption that (i) single-shot G0W0 applied to the PBE eigenstates captures the dominant quasiparticle self-energy corrections for single-layer 1T' WSe2 within typical G0W0 uncertainties, (ii) inclusion of higher-order diagrammatic corrections or the use of partially or fully self-consistent GW schemes would not change the computed gap by an amount comparable to the quoted G0W0 value (116 meV), and (iii) the absence of explicit environmental screening from the bilayer graphene/SiC substrate or other dielectric surroundings in the freestanding supercell G0W0 calculation does not shift the quasiparticle gap by an amount that would qualitatively alter the comparison to the experimental ARPES gap.",
+        "content_hash": "f4ccd02937f917aad4ebd31cb720dcc73a70d33e089816717ad233086a8c19cd",
+        "id": "gcn_eb792f2c1d4e44c9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813035895870455808::P5",
+            "package_id": "paper:813035895870455808",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813035895870455808"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+        "content_hash": "1c1b6b5a8e6abb85588c0b44f4ec5a15eb68b5a2357271084c9c407a682619a5",
+        "id": "gcn_8c3c520295d7488c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_2",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The crystalline quasiparticle fundamental gaps reported for the rubrene polymorphs were obtained with non-self-consistent G0W0 calculations starting from eigenvalues generated with the local density approximation (LDA) mean-field (denoted G0W0@LDA), whereas the isolated-rubrene-molecule reference fundamental gap cited for comparison was computed with G0W0 starting from a PBE mean-field (denoted G0W0@PBE); because G0W0 single-shot quasiparticle energies are known to depend on the mean-field starting point and on implementation-specific choices (basis, pseudopotentials, plasmon-pole or full-frequency treatment, cutoffs), direct comparison of G0W0@LDA crystal gaps to a G0W0@PBE molecular gap can introduce systematic inconsistencies into the reported polarization-induced gap narrowing numbers.\n      Fig. 4\n      Table 2",
+        "content_hash": "f97ce6ea3d9012d2d243121f87ed98c3c2c72ebe270427bb8cda9d35dbc28bcc",
+        "id": "gcn_ded8aaaf494a408a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814508196709269504::P3",
+            "package_id": "paper:814508196709269504",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814508196709269504"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the set of density-functional-theory (DFT) and many-body GW calculations surveyed for lead-halide perovskites and for different structural models of CsPbBr_{3}, the computed quasiparticle band gaps E_{\\mathrm{g}}^{\\mathrm{QP}} and the computed hole effective masses m_{h}^{*} display an empirical positive correlation such that larger calculated E_{\\mathrm{g}}^{\\mathrm{QP}} values are associated with larger computed m_{h}^{*} values; this empirical trend in the compared calculations motivates selecting a theoretical model with a larger quasiparticle gap (here the orthorhombic G_{0}W_{0} gap of 2.09\\ \\mathrm{eV) that yields a hole mass (0.226\\,m_{0}) closer to the ARPES measurement than models with smaller gaps.",
+        "content_hash": "83397834cc19019d36c585394feb49150a989eec33fb0c16c48dce95de8aedfb",
+        "id": "gcn_9297d2906df54ad6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P6",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the one-shot G0W0 computational protocol employed here, relaxing the internal atomic coordinates of Bi2Te3 at fixed experimental unit-cell volume to produce the small shifts of the Te^{II} fractional coordinate mu observed between sets '0', 'I', and 'II' (delta mu ∼ 10^{-3}) is essential to obtain physically adequate quasiparticle spectra: performing G0W0 on the unrelaxed experimental internal coordinates (set '0') can produce pathological quasiparticle results (for example, a severe band-gap reduction in LDA(set '0')+G0W0 was observed), whereas performing internal-coordinate relaxation within experimental uncertainty to produce sets 'I' (LDA-relaxed, (mu,nu) = (0.2101,0.3994)) or 'II' (GGA-relaxed, (mu,nu) = (0.2089,0.4000)) yields G0W0 quasiparticle band gaps and band-edge profiles that are well behaved and, for the GGA-relaxed reference (set 'II') brought to the G0W0 level, are in close quantitative agreement with bulk experimental gap estimates and with available angle-resolved photoemission spectroscopy (ARPES) band-edge profiles; therefore using relaxed internal coordinates within the experimental error bars is required in practice to avoid spurious one-shot G0W0 spectra for Bi2Te3.",
+        "content_hash": "1be8b0f808f6fe48adf459d9ccfb43ed837700df2803b8dc5cbc271dc1cb392e",
+        "id": "gcn_e83e04b1ab0a4995",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867746677467906727::conclusion_6",
+            "package_id": "paper:867746677467906727",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867746677467906727"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Single-shot $G_{0}W_{0}$ quasiparticle calculations performed on top of Kohn–Sham orbitals obtained from the HSE06 hybrid density functional including spin–orbit coupling (SOC) and with a tuned fraction $\\alpha$ of exact Hartree–Fock exchange produce direct bandgaps (conduction-band minimum and valence-band maximum located at the $R$-point of the cubic Brillouin zone, $R=(0.5,0.5,0.5)$) of $E_{g}=2.37\\ \\mathrm{eV}$ for MAPbBr$_{3}$ with $\\alpha=50\\%$, $E_{g}=2.27\\ \\mathrm{eV}$ for FAPbBr$_{3}$ with $\\alpha=40\\%$, and $E_{g}=2.30\\ \\mathrm{eV}$ for CsPbBr$_{3}$ with $\\alpha=55\\%$; parabolic fits to the $G_{0}W_{0}$ quasiparticle band dispersions including SOC in small $k$-space regions around the band extrema yield electron and hole effective masses whose harmonic combination $\\mu^{-1}=m_{e}^{*-1}+m_{h}^{*-1}$ gives reduced masses $\\mu$ (in units of the free-electron mass $m_{0}$) of $\\mu=0.113$ for MAPbBr$_{3}$, $\\mu=0.115$ for FAPbBr$_{3}$, and $\\mu=0.080$ for CsPbBr$_{3}$.",
+        "content_hash": "5bbbba19545a49634e72117fe2144f489d15765e19016a3dd56408e25f26a7d0",
+        "id": "gcn_0ce7597200b44e0c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812435951493054467::conclusion_2",
+            "package_id": "paper:812435951493054467",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812435951493054467"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_g^GW(model) denote the computed G0W0 quasiparticle band gap of a given periodic borazine‑ring doped graphene model and let E_g^GW(Si) ≈ 1.15 eV denote the G0W0 quasiparticle gap of bulk Silicon obtained with the same or a comparable G0W0 methodology; the proposition used for device‑relevant comparison is that when E_g^GW(model) lies within roughly ±0.2 eV of E_g^GW(Si), it is appropriate to describe that model as having a \"Silicon‑like\" quasiparticle gap for the purpose of identifying promising concentration and pattern ranges for optoelectronic applications.",
+        "content_hash": "c0be69ef238a43c0b4fbc5ca1028857b20f21a874a92cb4ae25a44ddd5d40dc6",
+        "id": "gcn_5d862bca9e3c4244",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751481061671012::P10",
+            "package_id": "paper:867751481061671012",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751481061671012"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the exciton binding energy E_b for a given excitonic eigenstate as the numerical difference E_b = E_gap^{G0W0} − E_exc, where E_gap^{G0W0} denotes the single-shot G0W0 quasiparticle electronic gap (the energy difference between the G0W0-corrected conduction-band minimum and valence-band maximum) and E_exc denotes the excitonic eigenvalue obtained by diagonalizing the Bethe–Salpeter Hamiltonian using electronic-only screening; reporting exciton binding energies relative to the G0W0 quasiparticle gap is a valid and standard operational choice for quantifying two-particle binding in these first-principles calculations, while explicitly acknowledging that alternative operational references (for example, intense features in the optical absorption spectrum) or inclusion of ionic/phonon effects would produce different numerical \"apparent\" binding energies.",
+        "content_hash": "e883f476f1ade90207d46d58df5c65d16a55d88ef8aed41caf58a48b72e76e96",
+        "id": "gcn_3786fce711a04a28",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811767304407744512::P9",
+            "package_id": "paper:811767304407744512",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811767304407744512"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "93d51e42735e7b045c49853b75cac523"
+}

@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:1182110330721927196": {
+        "area": "Comprehensive Periodical",
+        "authors": "Abdullah S. Abbas | Beiye C. Li | Richard D. Schaller | Vitali B. Prakapenka | Stella Chariton | Daqian Bian | Gregory S. Engel | A. Paul Alivisatos",
+        "available_online": "2025/07/01",
+        "cover_date_start": "2025-07-01",
+        "created_at": "2025-10-06T16:04:25+08:00",
+        "doi": "10.1038/s41467-025-60992-y",
+        "en_title": "Efficient up-conversion in CsPbBr 3 nanocrystals via phonon-driven exciton-polaron formation",
+        "id": "1182110330721927196",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications",
+        "research_categories": "",
+        "zh_title": "通过声子驱动的激子极化子形成实现CsPbBr₃纳米晶体中的高效上转换"
+      },
+      "paper:812519234889318400": {
+        "area": "Chemistry",
+        "authors": "Andrés Burgos-Caminal | Juan Manuel Moreno-Naranjo | Aurélien René Willauer | Arun Aby Paraecattil | Ahmad Ajdarzadeh | Jacques-E. Moser",
+        "available_online": "2020-12-30",
+        "cover_date_start": "2020-12-30",
+        "created_at": "2022-12-21T19:01:22+08:00",
+        "doi": "10.1021/acs.jpcc.0c08492",
+        "en_title": "Hot Carrier Mobility Dynamics Unravel Competing Subpicosecond Processes in Lead Halide Perovskites",
+        "id": "812519234889318400",
+        "keywords": "",
+        "publication_date": "2021-1-14",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "热载流子迁移率动力学揭示了卤化铅钙钛矿中相互竞争的亚皮秒过程"
+      },
+      "paper:812600096490258433": {
+        "area": "Physics and Astrophysics",
+        "authors": "Manish Kumar | Priyanka A. Jha | Pardeep K. Jha | Prabhakar Singh",
+        "available_online": "",
+        "cover_date_start": "2020-06-14",
+        "created_at": "2022-12-22T00:22:41+08:00",
+        "doi": "10.1063/5.0012202",
+        "en_title": "Hysteric photo-conduction and negative differential resistance in cesium lead bromide",
+        "id": "812600096490258433",
+        "keywords": "",
+        "publication_date": "2020-6-14",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "溴化铯铅中的 hysteric 光电导和负微分电阻 （注：“hysteric”在这里可能是特定语境下的专业术语，不太常见，直接保留英文，因为不清楚准确对应的中文专业词汇） "
+      },
+      "paper:812716552079015937": {
+        "area": "Comprehensive Periodical",
+        "authors": "Hélène Seiler | Samuel Palato | Colin Sonnichsen | Harry Baker | Etienne Socie | Dallas P. Strandell | Patanjali Kambhampati",
+        "available_online": "2019-10-31",
+        "cover_date_start": "2019-10-31",
+        "created_at": "2022-12-22T08:05:27+08:00",
+        "doi": "10.1038/s41467-019-12830-1",
+        "en_title": "Two-dimensional electronic spectroscopy reveals liquid-like lineshape dynamics in CsPbI3 perovskite nanocrystals",
+        "id": "812716552079015937",
+        "keywords": "",
+        "publication_date": "2019-12",
+        "publication_id": "10026",
+        "publication_name": "Nature Communications _ Nat Commun",
+        "research_categories": "",
+        "zh_title": "二维电子光谱揭示了CsPbI3钙钛矿纳米晶体中类似液体的线形动力学"
+      },
+      "paper:867748274650480883": {
+        "area": "arXiv-Physics",
+        "authors": "Andres Burgos-Caminal | Juan M. Moreno-Naranjo | Aurelien R. Willauer | Arun A. Paraecattil | Ahmad Ajdarzadeh | Jacques-E. Moser",
+        "available_online": "",
+        "cover_date_start": "2019-09-10",
+        "created_at": "2023-05-23T04:41:51+08:00",
+        "doi": "10.48550/arXiv.1909.04589",
+        "en_title": "Hot Carrier Mobility Dynamics Unravel Competing Sub-ps Cooling Processes in Lead Halide Perovskites",
+        "id": "867748274650480883",
+        "keywords": "",
+        "publication_date": "2019-09-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "热载流子迁移率动力学揭示了卤化铅钙钛矿中相互竞争的亚皮秒冷却过程 "
+      },
+      "paper:867749151528452113": {
+        "area": "arXiv-Physics",
+        "authors": "C. Jozwiak | J. Graf | S.Y. Zhou | A. Bostwick | Eli Rotenberg | H. Zheng | J.F. Mitchell | A. Lanzara",
+        "available_online": "",
+        "cover_date_start": "2008-06-12",
+        "created_at": "2023-05-23T04:45:20+08:00",
+        "doi": "10.48550/arXiv.0806.2120",
+        "en_title": "Bilayer splitting and c-axis coupling in bilayer manganites showing colossal magnetoresistance",
+        "id": "867749151528452113",
+        "keywords": "",
+        "publication_date": "2008-06-12",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "表现出巨磁电阻效应的双层锰氧化物中的双层分裂和c轴耦合"
+      },
+      "paper:867764320174342541": {
+        "area": "arXiv-Physics",
+        "authors": "N. Mannella | W. Yang | X. J. Zhou | H. Zheng | J. F. Mitchell | J. Zaanen | T. P. Devereaux | N. Nagaosa | Z. Hussain | Z.-X. Shen",
+        "available_online": "",
+        "cover_date_start": "2005-10-17",
+        "created_at": "2023-05-23T05:45:36+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0510423",
+        "en_title": "Nodal quasiparticle in pseudogapped colossal magnetoresistive manganites",
+        "id": "867764320174342541",
+        "keywords": "",
+        "publication_date": "2005-10-17",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "赝能隙巨磁电阻锰氧化物中的节线准粒子"
+      },
+      "paper:867764362457121499": {
+        "area": "arXiv-Physics",
+        "authors": "Kingshuk Mukhuti | Arnab Mandal | Basabendra Roy | Sayan Bhattacharyya | Bhavtosh Bansal",
+        "available_online": "",
+        "cover_date_start": "2022-10-10",
+        "created_at": "2023-05-23T05:45:46+08:00",
+        "doi": "10.48550/arXiv.2210.05041",
+        "en_title": "Carrier thermalization and zero-point bandgap renormalization in halide perovskites from the Urbach tails of the emission spectrum",
+        "id": "867764362457121499",
+        "keywords": "",
+        "publication_date": "2022-10-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于发射光谱的乌尔巴赫尾研究卤化物钙钛矿中的载流子热化和零点带隙重整化"
+      }
+    },
+    "variables": [
+      {
+        "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+        "content_hash": "cb964e1254b791275e660c77db7345d06e04cb67be9d6c6d3a8c94d0950ca5da",
+        "id": "gcn_78dd3a5f6fb84289",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Under otherwise comparable halide composition, film morphology, and excitation conditions, the characteristic time associated with the dynamic-screening/polaron-formation channel depends on the A-site cation identity: experimental fits and time-domain measurements give average dynamic-screening lifetimes near ≈320 fs for CH3NH3PbBr3 and near ≈650 fs for CsPbBr3, so that the fully inorganic CsPbBr3 displays a longer (slower) dynamic-screening/polaron-formation lifetime than perovskites containing organic A-site cations under comparable experimental conditions.",
+        "content_hash": "db384e1d70e6b7df8ec85d8a5bbb5017d5ef4279502207687bacd606c2ba8ea9",
+        "id": "gcn_c14c76eac0da4b08",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812519234889318400::conclusion_5",
+            "package_id": "paper:812519234889318400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812519234889318400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ensemble of CsPbBr3 nanosheets studied, the conjunction of (i) a modest zero‑point bandgap renormalization numerically of order 33 meV, (ii) the absence of resolvable phonon‑replica lines in the measured PL spectra at the available instrumental spectral resolution and under the applied excitation conditions, and (iii) linewidth temperature dependence consistent with Bose‑population (coth‑like) scaling rather than strong‑coupling polaronic scaling, collectively provides evidence that disfavors formation of small polarons (self‑trapped excitons) as the operative carrier state in these samples, subject to the caveat that strong inhomogeneous broadening or other extrinsic effects could in principle mask polaronic signatures.",
+        "content_hash": "c65b6e9c6406f07b71340c4abc702f114044e7f9c90dc950e93b404d4bede6c5",
+        "id": "gcn_c11700f569314c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P8",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The claim is: If, upon increasing temperature from low T up to the Curie temperature T_{C}, ARPES EDCs show that (i) the low-energy nodal quasiparticle peak spectral weight decreases and disappears by T ≲ T_{C} while (ii) the high-energy hump maximum position and lineshape experience only minor changes over the same temperature range, then this behavior indicates that the low-energy coherence associated with the polaron centre-of-mass motion is thermally destroyed (polaron centre-of-mass decoherence), whereas the local incoherent polaron excitations giving rise to the hump are robust to thermal fluctuations in that temperature window; here \"hump\" and \"quasiparticle peak\" are the EDC features described in the ARPES spectra and T_{C} denotes the ferromagnetic Curie temperature.",
+        "content_hash": "58968a69c99ce9dd7f834d860aa934243a4466428fdf5ddb635f42fde61d1c7b",
+        "id": "gcn_43ebd7a3c2884096",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764320174342541::P8",
+            "package_id": "paper:867764320174342541",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764320174342541"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the CsPbBr3 nanosheets studied, the combination of (i) a modest zero‑point bandgap renormalization quantified by ε_{F}≈33 meV, (ii) the absence of clearly resolved phonon‑replica lines in the measured PL under the experimental spectral resolution and excitation conditions, and (iii) linewidth and Urbach phonon energies on the order of 14–16 meV with linewidth temperature scaling consistent with Bose‑population (coth‑like) dependence, together indicate that the excitons behave as Mott–Wannier excitons subject to weak‑to‑moderate disorder and weak exciton–phonon coupling; these spectroscopic signatures disfavour formation of small polarons (self‑trapped excitons) as the dominant carrier state in these samples under the measurement conditions.",
+        "content_hash": "bc5d2f0764c6b50652c5375582cdeb5b2bf26bcf49562e1e2301aee1d191bf9f",
+        "id": "gcn_b24a8c0d8fb2496d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::conclusion_9",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Comparing the fully inorganic composition CsPbBr3 with methylammonium‑containing analogues (CH3NH3PbBr3 and CH3NH3PbI3) under otherwise comparable experimental conditions, substitution of the organic methylammonium A‑site cation by inorganic cesium reduces the number of low‑energy molecular degrees of freedom (for example, rotational modes of the organic cation), and this reduction is associated with a longer observed dynamic screening / polaron formation lifetime in CsPbBr3 relative to the organic‑cation perovskites.",
+        "content_hash": "3e8049676de14c4d7d3b6c6df56e6c69eb6f3291d0a4c272edc21f0b9213a93f",
+        "id": "gcn_65c313a34c2242f7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748274650480883::P13",
+            "package_id": "paper:867748274650480883",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748274650480883"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Transient absorption (TA) spectroscopy of colloidal CsPbBr3 nanocrystals under one‑photon below‑gap excitation produces distinct ultrafast spectral dynamics compared with above‑gap excitation: (i) an initial TA spectral line shape that resembles the second derivative of the steady‑state absorption (a \"second‑derivative–like\" profile) at early delays (<1 ps) that evolves into a symmetric bleach plus photoinduced‑absorption (PA) pattern within ≈0.7 ps, (ii) a spectrally integrated TA signal S_int(t) = ∫_{λ1}^{λ2} ΔA(λ,t) dλ that crosses zero during the early relaxation, and (iii) a transient red shift of the ground‑state bleach minimum by ≈3 nm during these early dynamics; these features occur concurrently with a plateau in the integrated induced absorption that appears on a ≈0.7 ps timescale previously associated with exciton‑polaron formation in CsPbBr3, and therefore the observed below‑gap TA dynamics are consistent with rapid polaron formation that alters electron–phonon coupling and modifies the relaxation pathway of the up‑converted carriers.",
+        "content_hash": "55e0b142bb43a329958b99712dab60a2f5342fb4d592f790f9e6b5795b02183b",
+        "id": "gcn_e6f5397d759d47b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1182110330721927196::conclusion_4",
+            "package_id": "paper:1182110330721927196",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1182110330721927196"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Optical absorption and photoluminescence measurements on the CsPbBr$_3$ powder indicate an optical bandgap $E_g\\approx 2.26\\ \\text{eV}$, an exciton-related feature giving an estimated exciton binding energy $E_b\\approx 170\\ \\text{meV}$ (difference between absorption onset and excitonic peak), and a photoluminescence Stokes shift of approximately $80\\ \\text{meV}$; these spectroscopic signatures imply formation of bound excitons that couple to the lattice and form polarons, and transient electrical (discharge-mode) measurements performed after a 5 V trigger pulse (discharge measured for 50 s) show that the photogenerated current scales approximately linearly with applied bias (measured at biases of 0 V, 2 V, and 5 V), a bias dependence consistent with hopping/polaron-mediated transport between localized states rather than purely band-like conduction.",
+        "content_hash": "fc7ee31910847577f84afbf8ec23a84338321bb98001500b12c645f3a9f37c4e",
+        "id": "gcn_e0a31e14c50e4679",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812600096490258433::conclusion_4",
+            "package_id": "paper:812600096490258433",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812600096490258433"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $q_{\\\\mathrm{ARPES}}$ denote the Fermi-surface nesting vector extracted from ARPES measurements and let $q_{\\\\mathrm{polaron}}$ denote the incommensurate scattering vector identified in prior scattering experiments that marks short-range polaron correlations. The proposition is that a smaller numerical difference $|q_{\\\\mathrm{ARPES}}-q_{\\\\mathrm{polaron}}|$ at a given doping leads to stronger cooperation between an electronic nesting instability and polaron correlations and therefore implies that polaronic correlations are strengthened at the doping with the closer alignment (here, the ARPES $q_{\\\\mathrm{ARPES}}$ at $x=0.40$ is numerically closer to the published $q_{\\\\mathrm{polaron}}$ values for dopings near $x=0.40$). This proposition assumes (a) that the scattering-derived $q_{\\\\mathrm{polaron}}$ pertains to the same electronic degrees of freedom probed by ARPES, (b) that the reported numerical closeness is physically meaningful given experimental uncertainties, and (c) that proximity in $q$-space enhances susceptibility to polaron formation. Ref. 28",
+        "content_hash": "b21995326c071550eb91599ac94035ac2228b760ad657e282fba8d2d6502a880",
+        "id": "gcn_eccceb0feb32449a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749151528452113::P9",
+            "package_id": "paper:867749151528452113",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749151528452113"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fitting the time-dependent homogeneous component of the 2DES lineshape for ensembles of CsPbI₃ nanocrystals to a Kubo-type diffusive model (Gaussian stochastic frequency fluctuations with finite correlation time) yields a frequency–frequency correlation time τ_c ≈ 110 fs and a root-mean-square transition-frequency fluctuation amplitude Δ ≈ 50 meV, where Δ is the RMS amplitude of equilibrium fluctuations of the optical transition angular frequency; using the classical relation for reorganization (polaron) energy λ = Δ^2/(2 k_B T) (k_B is the Boltzmann constant and T is the absolute temperature during the experiment) returns λ ≈ 50 meV under the experimental thermal conditions, and the polaron formation or environmental-equilibration timescale inferred from these parameters is therefore on the order of 100 fs, so these numerical values quantify the amplitude and timescale of electronic gap correlations (the FFCF) in the measured CsPbI₃ nanocrystal ensembles.",
+        "content_hash": "e6d4440592dcd7cd93d788e8b7e9ace94b5b8a5edc2018fc65ecb4bab2923938",
+        "id": "gcn_b83307227c954807",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812716552079015937::conclusion_2",
+            "package_id": "paper:812716552079015937",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812716552079015937"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "ff8a0fe57c48c0394e59c411cd0cc6e2"
+}

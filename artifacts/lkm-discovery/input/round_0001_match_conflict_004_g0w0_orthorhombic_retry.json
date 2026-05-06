@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812645742362492930": {
+        "area": "Physics and Astrophysics",
+        "authors": "Xiaochi Liu | Yahua Yuan | Zhongwang Wang | Russell S. Deacon | Won Jong Yoo | Jian Sun | Koji Ishibashi",
+        "available_online": "2020-4-22",
+        "cover_date_start": "2020-04-22",
+        "created_at": "2022-12-22T03:24:04+08:00",
+        "doi": "10.1103/physrevapplied.13.044056",
+        "en_title": "Directly Probing Effective-Mass Anisotropy of Two-Dimensional Re Se 2 in Schottky Tunnel Transistors",
+        "id": "812645742362492930",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "503",
+        "publication_name": "Physical Review Applied _ Phys. Rev. Applied",
+        "research_categories": "",
+        "zh_title": "直接探测肖特基隧道晶体管中二维ReSe₂的有效质量各向异性"
+      },
+      "paper:812783337180495874": {
+        "area": "Material science",
+        "authors": "Devendra Tiwari | Fabiola Cardoso-Delgado | Dominic Alibhai | Maia Mombrú | David J. Fermín",
+        "available_online": "2019-4-22",
+        "cover_date_start": "2019-04-22",
+        "created_at": "2022-12-22T12:30:48+08:00",
+        "doi": "10.1021/acsaem.9b00544",
+        "en_title": "Photovoltaic Performance of Phase-Pure Orthorhombic BiSI Thin-Films",
+        "id": "812783337180495874",
+        "keywords": "[{\"en_name\": \"band structure\", \"ch_name\": \"\"}, {\"en_name\": \"BiSI\", \"ch_name\": \"\"}, {\"en_name\": \"G<sub>0</sub>W<sub>0</sub>@PBE0\", \"ch_name\": \"\"}, {\"en_name\": \"photovoltaic\", \"ch_name\": \"\"}, {\"en_name\": \"power conversion losses\", \"ch_name\": \"\"}, {\"en_name\": \"thin-film\", \"ch_name\": \"\"}]",
+        "publication_date": "2019-5-28",
+        "publication_id": "2155",
+        "publication_name": "ACS Applied Energy Materials _ ACS Appl. Energy Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "纯正交相BiSI薄膜的光伏性能"
+      },
+      "paper:867762372951933877": {
+        "area": "arXiv-Physics",
+        "authors": "Xinxin Li | Wanyi Nie | Xuedan Ma",
+        "available_online": "",
+        "cover_date_start": "2023-02-15",
+        "created_at": "2023-05-23T05:37:52+08:00",
+        "doi": "10.48550/arXiv.2302.07703",
+        "en_title": "Intersubband Transitions in Lead Halide Perovskite-Based Quantum Wells for Mid-Infrared Detectors",
+        "id": "867762372951933877",
+        "keywords": "",
+        "publication_date": "2023-02-15",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "用于中红外探测器的卤化铅钙钛矿基量子阱中的子带间跃迁"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+        "content_hash": "1c1b6b5a8e6abb85588c0b44f4ec5a15eb68b5a2357271084c9c407a682619a5",
+        "id": "gcn_8c3c520295d7488c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_2",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030834914611005692,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029571646010002173,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02454080096356519,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Single-shot many-body quasiparticle calculations in the G0W0 approximation performed on top of a PBE0 hybrid Kohn–Sham starting point with spin–orbit coupling included (denoted G0W0@PBE0) predict a 0 K fundamental indirect band gap of 1.77 eV for orthorhombic BiSI and a direct transition only ≈20 meV higher in energy; the calculated electron effective mass is m_e* = 0.53 m_0 and the hole effective mass is m_h* = 0.95 m_0 (where m_0 is the free-electron mass), indicating more dispersive conduction bands consistent with strong spin–orbit coupling from Bi, and the ionization potential computed from electrostatic slab calculations and corrected by the quasiparticle shift is 6.33 eV below the vacuum level.",
+        "content_hash": "c8b4af8d0c16058d688e07a0464c5b93207e0268f531f556e1a8e7c54de8d613",
+        "id": "gcn_6ddb9a5e3c494568",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812783337180495874::conclusion_5",
+            "package_id": "paper:812783337180495874",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812783337180495874"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For theoretical hole effective masses to be directly comparable with ARPES-measured effective masses, the electronic-structure calculation should produce a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}} that is not strongly underestimated relative to the experimental optical gap; concretely, in the present case the orthorhombic one-shot G_{0}W_{0} calculation yields a larger gap of 2.09\\ \\mathrm{eV and a hole mass of 0.226\\,m_{0}}, which is numerically closer to the experimental optical gap (~2.37\\ \\mathrm{eV} at room temperature) and to the ARPES mass than the cubic-phase G_{0}W_{0} result (gap 1.74\\ \\mathrm{eV}, mass 0.15\\,m_{0}), illustrating that a calculation that does not strongly underestimate the quasiparticle gap gives a more reliable theoretical effective mass for ARPES comparison.",
+        "content_hash": "348ed516eb36c8aaa808f6bca08ef02c7eec601ebed9e99ef972830762ea967f",
+        "id": "gcn_0cc9a72f074e40f4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_5",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The normalized anisotropy of the hole effective mass extracted from normalized Fowler–Nordheim tunneling slopes in Pd–ReSe₂ Schottky transistors matches the twofold asymmetric distribution of hole effective mass reported from angle‑resolved photoemission spectroscopy (ARPES) measurements of the hole‑band dispersion near the valence‑band maximum in ReSe₂ (ARPES shows a minimum along the a axis and a maximum normal to the a axis), indicating that the transport‑based FN tunneling extraction probes the same underlying band‑edge hole effective‑mass anisotropy that ARPES detects.",
+        "content_hash": "5655a652586de00313041ae8fa47d70f31abbbadd3a091e8fd6385277b1008c3",
+        "id": "gcn_1eb2a91cd3c14e4f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812645742362492930::conclusion_7",
+            "package_id": "paper:812645742362492930",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812645742362492930"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value.",
+        "content_hash": "c36c7b1279e0a441d65f89c3014fd6119e39825cb32858e8f794f7dcf436760e",
+        "id": "gcn_762777de8c644c17",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_3",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The assertion that the one‑dimensional Schrödinger equation combined with the eight‑band $k\\cdot p$ approximation reproduces thickness‑dependent interband bandgap energies applies specifically to simulated CsPbBr3/TPBi single quantum well geometries with CsPbBr3 well widths varied between 2 and 20 nm and TPBi barrier thickness fixed at 7 nm, and the simulations used literature‑sourced material parameters (for CsPbBr3: lattice constant 5.77 Å, bandgap 2.34 eV, hole effective mass $m_{h}=0.26\\,m_{0}$, static dielectric constant 15.6; for TPBi the valence‑ and conduction‑band offsets relative to CsPbBr3 were set to 0.53 eV and 0.32 eV, respectively), an assumed cubic crystal phase for CsPbBr3, isotropic effective masses, and abrupt, ideal interfaces in the modeled heterostructures.\n      Fig. 3(b)",
+        "content_hash": "1f683cbf2fcf34230e0b574f34effcd6d6963b963e832cc61c673f02b682ea19",
+        "id": "gcn_6a4ad3e3954d404b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867762372951933877::P1",
+            "package_id": "paper:867762372951933877",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867762372951933877"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "d6c0907eacb1e6f5d2583220cf7fb411"
+}

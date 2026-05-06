@@ -1,0 +1,380 @@
+[
+  {
+    "frontier": "gcn_5e907da32c114d34",
+    "channel": "support",
+    "query_index": 1,
+    "text": "CsPbBr3 Feynman polaron model reproduces ARPES hole effective mass 0.26",
+    "raw_output": "input/round_0002_gcn_5e907da32c114d34_support_01_polaron_model_reproduces_arpes_mass_retry.json",
+    "retry_of": "input/round_0002_gcn_5e907da32c114d34_support_01_polaron_model_reproduces_arpes_mass.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_5e907da32c114d34",
+    "channel": "support",
+    "query_index": 2,
+    "text": "Fröhlich electron phonon coupling Feynman polaron CsPbBr3 ARPES effective mass evidence",
+    "raw_output": "input/round_0002_gcn_5e907da32c114d34_support_02_polaron_model_reproduces_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_5e907da32c114d34",
+    "channel": "open_question_conflict",
+    "query_index": 1,
+    "text": "CsPbBr3 ARPES mass does not require polaron G0W0 electron correlation",
+    "raw_output": "input/round_0002_gcn_5e907da32c114d34_open_question_conflict_01_polaron_model_reproduces_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_5e907da32c114d34",
+    "channel": "open_question_conflict",
+    "query_index": 2,
+    "text": "finite temperature AIMD thermal fluctuations explain CsPbBr3 ARPES effective mass without polaron",
+    "raw_output": "input/round_0002_gcn_5e907da32c114d34_open_question_conflict_02_polaron_model_reproduces_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_5e907da32c114d34",
+    "channel": "open_question_conflict",
+    "query_index": 3,
+    "text": "CsPbBr3 ARPES phonon replicas absent polaron signature effective mass",
+    "raw_output": "input/round_0002_gcn_5e907da32c114d34_open_question_conflict_03_polaron_model_reproduces_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_5e907da32c114d34",
+    "channel": "open_question_conflict",
+    "query_index": 4,
+    "text": "large polaron interpretation CsPbBr3 ARPES challenged G0W0",
+    "raw_output": "input/round_0002_gcn_5e907da32c114d34_open_question_conflict_04_polaron_model_reproduces_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_5e907da32c114d34",
+    "channel": "open_question_conflict",
+    "query_index": 5,
+    "text": "photoemission band mapping CsPbBr3 polaron alternative explanation thermal disorder",
+    "raw_output": "input/round_0002_gcn_5e907da32c114d34_open_question_conflict_05_polaron_model_reproduces_arpes_mass_retry.json",
+    "retry_of": "input/round_0002_gcn_5e907da32c114d34_open_question_conflict_05_polaron_model_reproduces_arpes_mass.json",
+    "code": 290001
+  },
+  {
+    "frontier": "gcn_e4a5cac31481497c",
+    "channel": "support",
+    "query_index": 1,
+    "text": "CsPbBr3 finite temperature AIMD HSE SOC 0.265 ARPES effective mass support",
+    "raw_output": "input/round_0002_gcn_e4a5cac31481497c_support_01_finite_temp_aimd_matches_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_e4a5cac31481497c",
+    "channel": "support",
+    "query_index": 2,
+    "text": "thermal lattice fluctuations renormalize CsPbBr3 band curvature ARPES mass",
+    "raw_output": "input/round_0002_gcn_e4a5cac31481497c_support_02_finite_temp_aimd_matches_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_e4a5cac31481497c",
+    "channel": "open_question_conflict",
+    "query_index": 1,
+    "text": "CsPbBr3 ARPES effective mass polaron model 0.26 Feynman challenges finite temperature disorder",
+    "raw_output": "input/round_0002_gcn_e4a5cac31481497c_open_question_conflict_01_finite_temp_aimd_matches_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_e4a5cac31481497c",
+    "channel": "open_question_conflict",
+    "query_index": 2,
+    "text": "single AIMD snapshot HSE SOC directly comparable to ARPES CsPbBr3 limitation",
+    "raw_output": "input/round_0002_gcn_e4a5cac31481497c_open_question_conflict_02_finite_temp_aimd_matches_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_e4a5cac31481497c",
+    "channel": "open_question_conflict",
+    "query_index": 3,
+    "text": "CsPbBr3 finite temperature AIMD effective mass experimental ARPES surface bulk discrepancy",
+    "raw_output": "input/round_0002_gcn_e4a5cac31481497c_open_question_conflict_03_finite_temp_aimd_matches_arpes_mass_retry.json",
+    "retry_of": "input/round_0002_gcn_e4a5cac31481497c_open_question_conflict_03_finite_temp_aimd_matches_arpes_mass.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_e4a5cac31481497c",
+    "channel": "open_question_conflict",
+    "query_index": 4,
+    "text": "thermal fluctuations versus polaron formation CsPbBr3 ARPES effective mass contradiction",
+    "raw_output": "input/round_0002_gcn_e4a5cac31481497c_open_question_conflict_04_finite_temp_aimd_matches_arpes_mass.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_e4a5cac31481497c",
+    "channel": "open_question_conflict",
+    "query_index": 5,
+    "text": "CsPbBr3 representative AIMD snapshot ensemble averaging ARPES mass uncertainty",
+    "raw_output": "input/round_0002_gcn_e4a5cac31481497c_open_question_conflict_05_finite_temp_aimd_matches_arpes_mass_retry.json",
+    "retry_of": "input/round_0002_gcn_e4a5cac31481497c_open_question_conflict_05_finite_temp_aimd_matches_arpes_mass.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_78dd3a5f6fb84289",
+    "channel": "support",
+    "query_index": 1,
+    "text": "CsPbBr3 extra hole HSE SOC no small hole polaron no localized in gap state",
+    "raw_output": "input/round_0002_gcn_78dd3a5f6fb84289_support_01_no_small_hole_polaron_300k_retry.json",
+    "retry_of": "input/round_0002_gcn_78dd3a5f6fb84289_support_01_no_small_hole_polaron_300k.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_78dd3a5f6fb84289",
+    "channel": "support",
+    "query_index": 2,
+    "text": "halide perovskite thermally stabilized small hole polaron not observed CsPbBr3",
+    "raw_output": "input/round_0002_gcn_78dd3a5f6fb84289_support_02_no_small_hole_polaron_300k.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_78dd3a5f6fb84289",
+    "channel": "open_question_conflict",
+    "query_index": 1,
+    "text": "CsPbBr3 evidence of large polarons photoemission band mapping ARPES",
+    "raw_output": "input/round_0002_gcn_78dd3a5f6fb84289_open_question_conflict_01_no_small_hole_polaron_300k_retry.json",
+    "retry_of": "input/round_0002_gcn_78dd3a5f6fb84289_open_question_conflict_01_no_small_hole_polaron_300k.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_78dd3a5f6fb84289",
+    "channel": "open_question_conflict",
+    "query_index": 2,
+    "text": "CsPbBr3 photoinduced polaron transient structural distortion evidence",
+    "raw_output": "input/round_0002_gcn_78dd3a5f6fb84289_open_question_conflict_02_no_small_hole_polaron_300k.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_78dd3a5f6fb84289",
+    "channel": "open_question_conflict",
+    "query_index": 3,
+    "text": "lead halide perovskites large polarons THz spectroscopy CsPbBr3",
+    "raw_output": "input/round_0002_gcn_78dd3a5f6fb84289_open_question_conflict_03_no_small_hole_polaron_300k.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_78dd3a5f6fb84289",
+    "channel": "open_question_conflict",
+    "query_index": 4,
+    "text": "small polaron formation CsPbBr3 holes HSE SOC experiment",
+    "raw_output": "input/round_0002_gcn_78dd3a5f6fb84289_open_question_conflict_04_no_small_hole_polaron_300k.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_78dd3a5f6fb84289",
+    "channel": "open_question_conflict",
+    "query_index": 5,
+    "text": "polaron signatures CsPbBr3 ARPES effective mass no localized in gap state",
+    "raw_output": "input/round_0002_gcn_78dd3a5f6fb84289_open_question_conflict_05_no_small_hole_polaron_300k.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_4d0e277c6d2c4cdc",
+    "channel": "support",
+    "query_index": 1,
+    "text": "CsPbBr3 ARPES hole effective mass 0.203 0.016 bulk R point support",
+    "raw_output": "input/round_0002_gcn_4d0e277c6d2c4cdc_support_01_sajedi_arpes_mass_0203.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_4d0e277c6d2c4cdc",
+    "channel": "support",
+    "query_index": 2,
+    "text": "Is there a polaron signature ARPES CsPbBr3 hole mass 0.203 evidence",
+    "raw_output": "input/round_0002_gcn_4d0e277c6d2c4cdc_support_02_sajedi_arpes_mass_0203_retry.json",
+    "retry_of": "input/round_0002_gcn_4d0e277c6d2c4cdc_support_02_sajedi_arpes_mass_0203.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_4d0e277c6d2c4cdc",
+    "channel": "open_question_conflict",
+    "query_index": 1,
+    "text": "CsPbBr3 ARPES hole effective mass 0.26 0.02 versus 0.203 0.016",
+    "raw_output": "input/round_0002_gcn_4d0e277c6d2c4cdc_open_question_conflict_01_sajedi_arpes_mass_0203.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_4d0e277c6d2c4cdc",
+    "channel": "open_question_conflict",
+    "query_index": 2,
+    "text": "CsPbBr3 ARPES effective mass discrepancy photon energy surface high symmetry direction",
+    "raw_output": "input/round_0002_gcn_4d0e277c6d2c4cdc_open_question_conflict_02_sajedi_arpes_mass_0203.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_4d0e277c6d2c4cdc",
+    "channel": "open_question_conflict",
+    "query_index": 3,
+    "text": "orthorhombic CsPbBr3 ARPES mass 0.203 0.26 experimental protocol difference",
+    "raw_output": "input/round_0002_gcn_4d0e277c6d2c4cdc_open_question_conflict_03_sajedi_arpes_mass_0203.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_4d0e277c6d2c4cdc",
+    "channel": "open_question_conflict",
+    "query_index": 4,
+    "text": "Puppin 2020 CsPbBr3 ARPES mass Sajedi 2022 disagreement",
+    "raw_output": "input/round_0002_gcn_4d0e277c6d2c4cdc_open_question_conflict_04_sajedi_arpes_mass_0203.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_4d0e277c6d2c4cdc",
+    "channel": "open_question_conflict",
+    "query_index": 5,
+    "text": "CsPbBr3 ARPES VBM Gamma M R point effective mass conflict",
+    "raw_output": "input/round_0002_gcn_4d0e277c6d2c4cdc_open_question_conflict_05_sajedi_arpes_mass_0203.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_8c3c520295d7488c",
+    "channel": "support",
+    "query_index": 1,
+    "text": "CsPbBr3 G0W0 SOC orthorhombic hole effective mass 0.226 support",
+    "raw_output": "input/round_0002_gcn_8c3c520295d7488c_support_01_g0w0_baseline_masses_retry.json",
+    "retry_of": "input/round_0002_gcn_8c3c520295d7488c_support_01_g0w0_baseline_masses.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_8c3c520295d7488c",
+    "channel": "support",
+    "query_index": 2,
+    "text": "one shot G0W0 CsPbBr3 hole effective mass ARPES comparison support",
+    "raw_output": "input/round_0002_gcn_8c3c520295d7488c_support_02_g0w0_baseline_masses.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_8c3c520295d7488c",
+    "channel": "open_question_conflict",
+    "query_index": 1,
+    "text": "CsPbBr3 G0W0 bare mass omits electron phonon polaron self energy ARPES mass",
+    "raw_output": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_01_g0w0_baseline_masses_retry.json",
+    "retry_of": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_01_g0w0_baseline_masses.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_8c3c520295d7488c",
+    "channel": "open_question_conflict",
+    "query_index": 2,
+    "text": "CsPbBr3 orthorhombic G0W0 mass 0.226 versus finite temperature AIMD 0.265",
+    "raw_output": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_02_g0w0_baseline_masses_retry.json",
+    "retry_of": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_02_g0w0_baseline_masses.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_8c3c520295d7488c",
+    "channel": "open_question_conflict",
+    "query_index": 3,
+    "text": "CsPbBr3 G0W0 quasiparticle gap underestimation ARPES effective mass comparison",
+    "raw_output": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_03_g0w0_baseline_masses.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_8c3c520295d7488c",
+    "channel": "open_question_conflict",
+    "query_index": 4,
+    "text": "theoretical hole mass CsPbBr3 phase sensitivity cubic orthorhombic ARPES",
+    "raw_output": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_04_g0w0_baseline_masses_retry.json",
+    "retry_of": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_04_g0w0_baseline_masses.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_8c3c520295d7488c",
+    "channel": "open_question_conflict",
+    "query_index": 5,
+    "text": "G0W0 explains CsPbBr3 ARPES mass no polaron contradiction Feynman polaron",
+    "raw_output": "input/round_0002_gcn_8c3c520295d7488c_open_question_conflict_05_g0w0_baseline_masses.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_762777de8c644c17",
+    "channel": "support",
+    "query_index": 1,
+    "text": "CsPbBr3 ARPES mass accounted by G0W0 no Fröhlich polaron renormalization support",
+    "raw_output": "input/round_0002_gcn_762777de8c644c17_support_01_gw_no_extra_polaron_needed.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_762777de8c644c17",
+    "channel": "support",
+    "query_index": 2,
+    "text": "CsPbBr3 no polaron signature ARPES G0W0 effective mass agreement",
+    "raw_output": "input/round_0002_gcn_762777de8c644c17_support_02_gw_no_extra_polaron_needed.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_762777de8c644c17",
+    "channel": "open_question_conflict",
+    "query_index": 1,
+    "text": "Feynman polaron reproduces CsPbBr3 ARPES mass evidence large polaron contradiction",
+    "raw_output": "input/round_0002_gcn_762777de8c644c17_open_question_conflict_01_gw_no_extra_polaron_needed.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_762777de8c644c17",
+    "channel": "open_question_conflict",
+    "query_index": 2,
+    "text": "CsPbBr3 ARPES linewidth effective mass valid polaronic signature no replicas",
+    "raw_output": "input/round_0002_gcn_762777de8c644c17_open_question_conflict_02_gw_no_extra_polaron_needed_retry.json",
+    "retry_of": "input/round_0002_gcn_762777de8c644c17_open_question_conflict_02_gw_no_extra_polaron_needed.json",
+    "code": 0
+  },
+  {
+    "frontier": "gcn_762777de8c644c17",
+    "channel": "open_question_conflict",
+    "query_index": 3,
+    "text": "lead halide perovskite Fröhlich polaron effective mass ARPES support",
+    "raw_output": "input/round_0002_gcn_762777de8c644c17_open_question_conflict_03_gw_no_extra_polaron_needed.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_762777de8c644c17",
+    "channel": "open_question_conflict",
+    "query_index": 4,
+    "text": "CsPbBr3 polaron mass renormalization detectable ARPES G0W0 challenged",
+    "raw_output": "input/round_0002_gcn_762777de8c644c17_open_question_conflict_04_gw_no_extra_polaron_needed.json",
+    "retry_of": null,
+    "code": 0
+  },
+  {
+    "frontier": "gcn_762777de8c644c17",
+    "channel": "open_question_conflict",
+    "query_index": 5,
+    "text": "thermal fluctuations polaron formation CsPbBr3 ARPES mechanism gap",
+    "raw_output": "input/round_0002_gcn_762777de8c644c17_open_question_conflict_05_gw_no_extra_polaron_needed_retry.json",
+    "retry_of": "input/round_0002_gcn_762777de8c644c17_open_question_conflict_05_gw_no_extra_polaron_needed.json",
+    "code": 0
+  }
+]

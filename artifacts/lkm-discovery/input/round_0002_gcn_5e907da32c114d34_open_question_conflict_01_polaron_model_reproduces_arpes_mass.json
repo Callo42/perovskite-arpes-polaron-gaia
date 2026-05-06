@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1035862525075259422": {
+        "area": "Chemistry",
+        "authors": "Tahira Khan | Sviatoslav Baranets | Manas R. Gartia | Jianwei Wang | Jyotsna Sharma",
+        "available_online": "",
+        "cover_date_start": "2024-08-27",
+        "created_at": "2024-08-29T02:27:51+08:00",
+        "doi": "10.1021/acsomega.4c04354",
+        "en_title": "Mapping and Characterization of Local Structures of CsPbBr 3",
+        "id": "1035862525075259422",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3485",
+        "publication_name": "ACS Omega _ ",
+        "research_categories": "",
+        "zh_title": "CsPbBr₃ 局部结构的映射与表征"
+      },
+      "paper:1040534298798587927": {
+        "area": "arXiv-Physics",
+        "authors": "Surajit Adhikari | Priya Johari",
+        "available_online": "",
+        "cover_date_start": "2024-09-09",
+        "created_at": "2024-09-10T23:51:49+08:00",
+        "doi": "10.48550/arxiv.2409.05538",
+        "en_title": "Probing Optoelectronic Properties of Stable Vacancy-Ordered Double Perovskites: Insights from Many-Body Perturbation Theory",
+        "id": "1040534298798587927",
+        "keywords": "",
+        "publication_date": "2024-09-09",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "探索稳定的空位有序双钙钛矿的光电性质：多体微扰理论的见解"
+      },
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:1102106391654432810": {
+        "area": "arXiv-Physics",
+        "authors": "Ayan Chakravorty | Surajit Adhikari | Priya Johari",
+        "available_online": "",
+        "cover_date_start": "2025-02-20",
+        "created_at": "2025-02-27T21:37:20+08:00",
+        "doi": "10.48550/arxiv.2502.14798",
+        "en_title": "Unlocking the Optoelectronic Potential of AGeX$_{3}$ (A = Ca, Sr, Ba; X = S, Se): A Sustainable Alternative in Chalcogenide Perovskites",
+        "id": "1102106391654432810",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "释放AGeX₃（A = Ca、Sr、Ba；X = S、Se）的光电潜力：硫属钙钛矿中的一种可持续替代物"
+      },
+      "paper:1183449694865457196": {
+        "area": "arXiv-Physics",
+        "authors": "F. Liu | Z. Yang | Y. Luo | S. Guo | C. Zhang | S. Choo | X. Xu | X. Wang | K. A. Mkhoyan | M. Bernardi | B. Jalan",
+        "available_online": "",
+        "cover_date_start": "2025-10-08",
+        "created_at": "2025-10-10T08:46:34+08:00",
+        "doi": "10.48550/arXiv.2510.07097",
+        "en_title": "Understanding Polaronic Transport in Anatase TiO2 Films by Combining Precise Synthesis and First-Principles Many-Body Theory",
+        "id": "1183449694865457196",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "通过精确合成与第一性原理多体理论相结合理解锐钛矿型TiO₂薄膜中的极化子输运"
+      },
+      "paper:812435951493054467": {
+        "area": "Physics and Astrophysics",
+        "authors": "Manjari Jain | Deepika Gill | Preeti Bhumla | Pooja Basera | Saswata Bhattacharya",
+        "available_online": "",
+        "cover_date_start": "2021-05-10",
+        "created_at": "2022-12-21T13:30:26+08:00",
+        "doi": "10.1063/5.0044146",
+        "en_title": "Theoretical insights to excitonic effect in lead bromide perovskites",
+        "id": "812435951493054467",
+        "keywords": "",
+        "publication_date": "2021-5-10",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\"]",
+        "zh_title": "溴化铅钙钛矿中激子效应的理论见解"
+      },
+      "paper:867749235922043031": {
+        "area": "arXiv-Physics",
+        "authors": "C.N. Veenstra | G.L. Goodvin | M. Berciu | A. Damascelli",
+        "available_online": "",
+        "cover_date_start": "2010-02-28",
+        "created_at": "2023-05-23T04:45:40+08:00",
+        "doi": "10.48550/arXiv.1003.0141",
+        "en_title": "Elusive electron-phonon coupling in quantitative analyses of the spectral function",
+        "id": "867749235922043031",
+        "keywords": "",
+        "publication_date": "2010-02-28",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "光谱函数定量分析中难以捉摸的电子 - 声子耦合"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value.",
+        "content_hash": "c36c7b1279e0a441d65f89c3014fd6119e39825cb32858e8f794f7dcf436760e",
+        "id": "gcn_762777de8c644c17",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_3",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Single-shot $G_{0}W_{0}$ quasiparticle calculations performed on top of Kohn–Sham orbitals obtained from the HSE06 hybrid density functional including spin–orbit coupling (SOC) and with a tuned fraction $\\alpha$ of exact Hartree–Fock exchange produce direct bandgaps (conduction-band minimum and valence-band maximum located at the $R$-point of the cubic Brillouin zone, $R=(0.5,0.5,0.5)$) of $E_{g}=2.37\\ \\mathrm{eV}$ for MAPbBr$_{3}$ with $\\alpha=50\\%$, $E_{g}=2.27\\ \\mathrm{eV}$ for FAPbBr$_{3}$ with $\\alpha=40\\%$, and $E_{g}=2.30\\ \\mathrm{eV}$ for CsPbBr$_{3}$ with $\\alpha=55\\%$; parabolic fits to the $G_{0}W_{0}$ quasiparticle band dispersions including SOC in small $k$-space regions around the band extrema yield electron and hole effective masses whose harmonic combination $\\mu^{-1}=m_{e}^{*-1}+m_{h}^{*-1}$ gives reduced masses $\\mu$ (in units of the free-electron mass $m_{0}$) of $\\mu=0.113$ for MAPbBr$_{3}$, $\\mu=0.115$ for FAPbBr$_{3}$, and $\\mu=0.080$ for CsPbBr$_{3}$.",
+        "content_hash": "5bbbba19545a49634e72117fe2144f489d15765e19016a3dd56408e25f26a7d0",
+        "id": "gcn_0ce7597200b44e0c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812435951493054467::conclusion_2",
+            "package_id": "paper:812435951493054467",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812435951493054467"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The exciton binding energy E_B computed as E_B = E_g^dir − E_o, where E_g^dir is the direct G0W0 quasiparticle gap and E_o is the lowest BSE excitonic-peak energy, assumes that polaronic (electron–phonon) renormalization of quasiparticle energies does not substantially change the energetic reference for comparing bound excitons to charge-separated polaron states; in other words, using the G0W0 direct gap as the unbound electron–hole reference without explicit inclusion of electron–phonon induced gap renormalization is taken to yield a valid comparison for exciton-versus-polaron energetics.",
+        "content_hash": "145967e21192d7b770fd09a4a934536fe47ca37dd714f02e989a24fd7b31fc8b",
+        "id": "gcn_d14333b206af4b6b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1040534298798587927::P14",
+            "package_id": "paper:1040534298798587927",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1040534298798587927"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The many-body FEP-DMC calculation of the polaron quasiparticle dispersion in crystalline anatase TiO2 yields a polaron band that is noticeably flatter than the single-particle electronic quasiparticle dispersion obtained from a G0W0 calculation (where G0W0 denotes one-shot GW quasiparticle corrections on top of density functional theory), and extracting effective masses from the curvature of these dispersions along the Γ–X high-symmetry direction gives a polaron effective-mass m_p that is larger than the electronic effective-mass m_e with an enhancement factor m_p/m_e = 1.6, consistent with intermediate electron–phonon renormalization characteristic of a large, dispersive polaron.",
+        "content_hash": "a2ffb38236edd94fc179285293422655db270a3ceeb9be80439388203cc8af76",
+        "id": "gcn_828beb85f4b646d9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1183449694865457196::conclusion_4",
+            "package_id": "paper:1183449694865457196",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1183449694865457196"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+        "content_hash": "1c1b6b5a8e6abb85588c0b44f4ec5a15eb68b5a2357271084c9c407a682619a5",
+        "id": "gcn_8c3c520295d7488c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_2",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For bulk cesium lead tribromide (CsPbBr₃), a Kohn–Sham density-functional calculation performed with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient-approximation exchange–correlation functional on the relaxed tetragonal structural geometry, without explicit inclusion of spin–orbit coupling (SOC) and without many-body quasiparticle corrections such as the GW approximation, yields a plotted single-particle density of states (DOS) from which a band-gap value of 1.93 eV is obtained; the substantive proposition under consideration is that this specific computational setup (DFT-PBE, no SOC, no GW) produces a quantitatively accurate estimate of the true single-particle band gap of bulk CsPbBr₃ and that the computed DOS near the band edges is sufficiently accurate for direct comparison with experiment in the absence of additional SOC or GW corrections.",
+        "content_hash": "082fb30f73addd036ac92186eb9c715c14a0e59b08343d703ca7b231e82f2fe4",
+        "id": "gcn_547ddaa2caed44d5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1035862525075259422::P1",
+            "package_id": "paper:1035862525075259422",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1035862525075259422"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using density-functional-perturbation-theory (DFPT) computed longitudinal-optical (LO) phonon frequencies ω_LO, the electronic ε_∞ and static ε_static dielectric constants, G0W0 effective masses m*, the Fröhlich coupling parameter α was evaluated by α = (1/ε_∞ − 1/ε_static) sqrt(R_∞/(c ℏ ω_LO)) sqrt(m*/m_e) (with m_e the free-electron mass), producing α values in the range ≈0.78–5.39 that classify the electron–LO-phonon coupling as weak-to-intermediate; polaron masses m_p were estimated from m_p = m* (1 + α/6 + α^2/40 + …), polaron stabilization energies E_p from E_p = (−α − 0.0123 α^2) ℏ ω_LO, and polaron mobilities μ_p were computed using the Hellwarth large-polaron mobility expression (evaluated with the DFPT ω_LO, computed α, and G0W0 masses), yielding electron polaron mobilities spanning 1.67–167.65 cm^2 V^−1 s^−1 and hole polaron mobilities spanning 1.68–142.45 cm^2 V^−1 s^−1; among the six compounds BaGeSe3 and CaGeSe3 show the highest computed μ_p values owing to their relatively low α and favorable effective masses.",
+        "content_hash": "db94669b1b83e924d1e52cfe05d7fc904df285b4e4d64a3d4e53bdc4c37a4c2a",
+        "id": "gcn_2f886526e7ee4375",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1102106391654432810::conclusion_8",
+            "package_id": "paper:1102106391654432810",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1102106391654432810"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let A(k,ω) denote the single-particle electron-removal spectral function computed for the Holstein single-polaron Hamiltonian with no filled Fermi sea and with the chemical potential positioned at the top of the first electron-removal state. The proposition is that omission of a Fermi sea and other many-electron effects in these single-polaron calculations does not qualitatively alter the relationship between observable quasiparticle renormalizations (velocity, mass, coherence, bandwidth) and the microscopic electron–phonon coupling λ in the sense relevant for ARPES-based extraction procedures; consequently, the conclusions about the inability to extract microscopic λ from single-quasiparticle renormalizations obtained in the single-polaron calculations are proposed to carry over to many-electron experimental situations.",
+        "content_hash": "0b10076ba67df60888813156bbd672d72482615528317134c3d14f5c5c0817b3",
+        "id": "gcn_41ba2df575a74226",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749235922043031::P7",
+            "package_id": "paper:867749235922043031",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749235922043031"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "33eed4acdf72c613dc5f4c36ddecb17f"
+}

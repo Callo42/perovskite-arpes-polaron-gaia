@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+      "content_hash": "cb964e1254b791275e660c77db7345d06e04cb67be9d6c6d3a8c94d0950ca5da",
+      "id": "gcn_78dd3a5f6fb84289",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+              "id": "gcn_78dd3a5f6fb84289"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_f1605d37c7074f6b",
+            "premises": [
+              {
+                "content": "Define a polaron as a charge carrier (here a hole) that self-localizes through a local lattice distortion, producing a localized in-gap electronic state or a strongly localized perturbation of the valence-band dispersion. Consider the following explicit first-principles simulation protocol: start from a 3×3×3 pseudocubic AIMD supercell (135 atoms) equilibrated at T = 300 K, remove one electron to introduce a single extra hole while applying any standard neutralizing background required for charged-supercell calculations, and compute the electronic structure of the charged supercell with HSE–SOC using α = 0.54. The proposition is: if a thermodynamically stable small hole polaron exists under bulk-like conditions at T = 300 K, then the stated simulation procedure (finite supercell of this size, the HSE–SOC electronic-structure method with the indicated α, and an AIMD-sampled atomic configuration) is sufficient to produce a detectable localized in-gap state or a stabilized localized lattice distortion; conversely, absence of such signatures in the described simulation implies that small polarons are not stabilized under the simulated conditions.",
+                "id": "gcn_82d0efc0c1024ec8"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Treat as known (from conclusion 6) that $CsPbBr_{3}$ at room temperature exhibits strong lattice anharmonicity and large thermal lattice fluctuations; use this as the structural context for hole-injection simulations.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Describe the computational procedure used to test the effect of an injected hole: start from an equilibrated AIMD supercell representing a room-temperature configuration (define \"AIMD supercell\" as the 3×3×3 pseudocubic supercell with 135 atoms sampled from the $T=300\\\\,$K AIMD run), explicitly remove one electron (introduce a single extra hole) into that supercell, and recompute the electronic band structure using the HSE hybrid functional with spin-orbit coupling (HSE–SOC) and with the hybrid mixing parameter $\\\\alpha=0.54$ (the value determined to reproduce the experimental $E_{\\\\text{g}}=2.37\\\\,$eV at finite temperature).\nFig. 3\n[20]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "State the direct computational observation: the unfolded band structure computed for the equilibrated $T=300\\\\,$K supercell with an extra hole shows no formation of localized in-gap states (define \"localized in-gap states\" as electronic states whose energy lies within the band gap and whose wavefunctions are spatially localized around specific lattice distortions), and the unfolded valence-band dispersions remain essentially unchanged relative to the polaron-free AIMD configuration (i.e., negligible change in valence-band curvature and dispersion).\nFig. 3",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report that the authors explicitly checked for hole localization (define \"hole localization\" as a self-trapped hole leading to a local lattice distortion that stabilizes a bound electronic state) and found no evidence for a stabilized localized hole or small-polaron formation in the simulated room-temperature conditions; therefore the addition of an extra hole produces negligible additional renormalization of the band structure beyond the thermally induced effects already present in the polaron-free AIMD configuration.\n[29]",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Conclude that explicit simulation of a single injected hole at $T=300\\\\,$K does not produce localized gap states and does not stabilize small polarons in $CsPbBr_{3}$ under the simulated conditions, and therefore small-polaron formation is not observed in these finite-temperature, HSE–SOC calculations.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "ARPES experiments introduce carriers (holes) and measure bands in the presence of these carriers; to attribute an experimentally observed mass enhancement to polarons one must demonstrate that an injected carrier induces localization or additional band renormalization (polaron formation). Prior theoretical studies that compared zero-K band structures to ARPES left open whether the presence of a hole in the experimental sample could itself cause additional mass enhancement (e.g., via self-trapping). Direct finite-temperature calculations including an explicit extra hole are therefore required to test the stability of small polarons and the carrier-induced modification of band dispersions under experimental conditions.",
+            "id": "paper:1096665743648358400::conclusion_4_subproblem",
+            "source_package": "paper:1096665743648358400"
+          }
+        ],
+        "source_package": "paper:1096665743648358400"
+      }
+    ],
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "3a62697c3e8b741accec651168e2292d"
+}

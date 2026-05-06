@@ -1,0 +1,190 @@
+{
+  "Puppin2020": {
+    "type": "article-journal",
+    "title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+    "DOI": "10.1103/physrevlett.124.206402",
+    "container-title": "Physical Review Letters",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Puppin",
+        "given": "M."
+      },
+      {
+        "family": "Polishchuk",
+        "given": "S."
+      },
+      {
+        "family": "Colonna",
+        "given": "N."
+      },
+      {
+        "family": "Crepaldi",
+        "given": "A."
+      },
+      {
+        "family": "Dirin",
+        "given": "D. N."
+      },
+      {
+        "family": "Nazarenko",
+        "given": "O."
+      },
+      {
+        "family": "Gennaro",
+        "given": "R. De"
+      },
+      {
+        "family": "Gatti",
+        "given": "G."
+      },
+      {
+        "family": "Roth",
+        "given": "S."
+      },
+      {
+        "family": "Barillot",
+        "given": "T."
+      },
+      {
+        "family": "Poletto",
+        "given": "L."
+      },
+      {
+        "family": "Xian",
+        "given": "R. P."
+      },
+      {
+        "family": "Rettig",
+        "given": "L."
+      },
+      {
+        "family": "Wolf",
+        "given": "M."
+      },
+      {
+        "family": "Ernstorfer",
+        "given": "R."
+      },
+      {
+        "family": "Kovalenko",
+        "given": "M. V."
+      },
+      {
+        "family": "Marzari",
+        "given": "N."
+      },
+      {
+        "family": "Grioni",
+        "given": "M."
+      },
+      {
+        "family": "Chergui",
+        "given": "M."
+      }
+    ],
+    "LKM-paper-id": "812638467241541632"
+  },
+  "Zhao2025": {
+    "type": "article-journal",
+    "title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+    "DOI": "10.48550/arxiv.2502.06904",
+    "container-title": "arXiv",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Bai-Qing"
+      },
+      {
+        "family": "Chen",
+        "given": "Xuan-Yan"
+      },
+      {
+        "family": "Li",
+        "given": "Chuan-Nan"
+      },
+      {
+        "family": "Li",
+        "given": "Jinshan"
+      },
+      {
+        "family": "Van de Walle",
+        "given": "Chris G."
+      },
+      {
+        "family": "Zhang",
+        "given": "Xie"
+      }
+    ],
+    "LKM-paper-id": "1096665743648358400"
+  },
+  "Sajedi2022": {
+    "type": "article-journal",
+    "title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+    "DOI": "10.48550/arXiv.2203.15070",
+    "container-title": "arXiv",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Sajedi",
+        "given": "Maryam"
+      },
+      {
+        "family": "Krivenkov",
+        "given": "Maxim"
+      },
+      {
+        "family": "Marchenko",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Sánchez-Barriga",
+        "given": "Jaime"
+      },
+      {
+        "family": "Chandran",
+        "given": "Anoop K."
+      },
+      {
+        "family": "Varykhalov",
+        "given": "Andrei"
+      },
+      {
+        "family": "Rienks",
+        "given": "Emile D. L."
+      },
+      {
+        "family": "Aguilera",
+        "given": "Irene"
+      },
+      {
+        "family": "Blügel",
+        "given": "Stefan"
+      },
+      {
+        "family": "Rader",
+        "given": "Oliver"
+      }
+    ],
+    "LKM-paper-id": "867765810263752934"
+  }
+}

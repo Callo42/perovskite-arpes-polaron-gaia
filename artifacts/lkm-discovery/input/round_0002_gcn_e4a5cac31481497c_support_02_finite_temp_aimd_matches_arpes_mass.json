@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811928603871674369": {
+        "area": "Physics and Astrophysics",
+        "authors": "Won Hoon Choi | Pil Gyu Kang | Kyung Deuk Ryang | Han Woong Yeom",
+        "available_online": "2008-3-24",
+        "cover_date_start": "2008-03-24",
+        "created_at": "2022-12-20T03:54:24+08:00",
+        "doi": "10.1103/physrevlett.100.126801",
+        "en_title": "Band-Structure Engineering of Gold Atomic Wires on Silicon by Controlled Doping",
+        "id": "811928603871674369",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "通过可控掺杂实现硅上金原子线的能带结构工程"
+      },
+      "paper:812283643916451843": {
+        "area": "Chemistry",
+        "authors": "Cheng-Liang Liu | Fu-Chuan Tsai | Chao-Ching Chang | Kuo-Huang Hsieh | Jen-Liang Lin | Wen-Chang Chen",
+        "available_online": "",
+        "cover_date_start": "2005-06-01",
+        "created_at": "2022-12-21T03:25:13+08:00",
+        "doi": "10.1016/j.polymer.2005.03.059",
+        "en_title": "Theoretical analysis on the geometries and electronic structures of coplanar conjugated poly(azomethine)s",
+        "id": "812283643916451843",
+        "keywords": "[{\"en_name\": \"Planarity\", \"ch_name\": \"\"}, {\"en_name\": \"Poly(azomethine)s\", \"ch_name\": \"\"}, {\"en_name\": \"Theoretical electronic properties\", \"ch_name\": \"\"}]",
+        "publication_date": "2005-6",
+        "publication_id": "3419",
+        "publication_name": "Polymer _ Polymer",
+        "research_categories": "",
+        "zh_title": "共面共轭聚甲亚胺几何结构与电子结构的理论分析"
+      },
+      "paper:867750573615612375": {
+        "area": "arXiv-Physics",
+        "authors": "Hugo Henck | Zeineb Ben Aziza | Debora Pierucci | Feriel Laourine | Francesco Reale | Pawel Palczynski | Julien Chaste | Mathieu G. Silly | François Bertran | Patrick Le Fevre | Emmanuel Lhuillier | Taro Wakamura | Cecilia Mattevi | Julien E. Rault | Matteo Calandra | Abdelkarim Ouerghi",
+        "available_online": "",
+        "cover_date_start": "2018-06-13",
+        "created_at": "2023-05-23T04:50:59+08:00",
+        "doi": "10.48550/arXiv.1806.04851",
+        "en_title": "Electronic band structure of Two-Dimensional WS2/Graphene van der Waals Heterostructures",
+        "id": "867750573615612375",
+        "keywords": "",
+        "publication_date": "2018-06-13",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "二维WS2/石墨烯范德华异质结构的电子能带结构"
+      },
+      "paper:867759455570232047": {
+        "area": "arXiv-Physics",
+        "authors": "Jihene Zribi | Debora Pierucci | Federico Bisti | Biyuan Zheng | Josse Avila | Lama Khalil | Cyrine Ernandes | Julien Chaste | Fabrice Oehler | Marco Pala | Thomas Maroutian | Ilka Hermes | Emmanuel Lhuillier | Anlian Pan | Abdelkarim Ouerghi",
+        "available_online": "",
+        "cover_date_start": "2022-12-06",
+        "created_at": "2023-05-23T05:26:16+08:00",
+        "doi": "10.48550/arXiv.2212.03248",
+        "en_title": "Unidirectional Rashba Spin Splitting in Single Layer WS$_{2(1-x)}$Se$_{2x}$ alloy",
+        "id": "867759455570232047",
+        "keywords": "",
+        "publication_date": "2022-12-06",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "单层WS$_{2(1 - x)}$Se$_{2x}$合金中的单向 Rashba 自旋分裂"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      },
+      "paper:975213909877194758": {
+        "area": "Physics and Astrophysics",
+        "authors": "Peng Zhang | Yuyang Dong | Dayu Yan | Bei Jiang | Tao Yang | Jun Li | Zhaopeng Guo | Yong Huang | Haobo | Qing Li | Yupeng Li | Kifu Kurokawa | Rui Wang | Yuefeng Nie | Makoto Hashimoto | Donghui Lu | Wen-He Jiao | Jie Shen | Tian Qian | Zhijun Wang | Youguo Shi | Takeshi Kondo",
+        "available_online": "",
+        "cover_date_start": "2024-03-14",
+        "created_at": "2024-03-14T17:51:54+08:00",
+        "doi": "10.1103/physrevx.14.011047",
+        "en_title": "Spontaneous Gap Opening and Potential Excitonic States in an Ideal Dirac Semimetal",
+        "id": "975213909877194758",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "479",
+        "publication_name": "Physical Review X _ ",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "理想狄拉克半金属中的自发能隙打开与潜在激子态"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure.",
+        "content_hash": "13747b834c18e25cd1a33125aa14a2dc934c6335bdcd60854563362233933692",
+        "id": "gcn_c24c81b8a5fe413c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02854251012145749,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The effective mass m^{*} reported here is computed from the second derivative of the periodic DFT band energy E(k) with respect to crystal momentum k at the band edge using a single optimized unit cell via the relation 1/m^{*} = (1/\\hbar^{2}) (d^{2}E(k)/dk^{2}), and it is assumed for the mobility inferences that this zero‑temperature, defect‑free band curvature is an adequate proxy for the transport effective mass in real polymer films despite the neglect of electron–phonon coupling, finite‑temperature thermal fluctuations, conformational disorder, and static defects that are known to renormalize band curvature and hence transport masses.",
+        "content_hash": "a7a9c640a5539aa5c5940cc30adb269398b7441c92f7f35276df8155bbbd9644",
+        "id": "gcn_1e85472317054d07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812283643916451843::P8",
+            "package_id": "paper:812283643916451843",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812283643916451843"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Thermal lattice fluctuations in bulk CsPbBr₃ at T = 300 K substantially renormalize band-edge curvatures: comparing unfolded HSE–SOC band structures computed on a representative equilibrated AIMD configuration at 300 K (with α = 0.54 chosen to reproduce the experimental E_g = 2.37 eV) to the unfolded HSE–SOC band structure computed on the ideal cubic lattice at 0 K using α = 0.74 (the value required on the ideal lattice to reproduce E_g = 2.37 eV), the direction-averaged electron effective mass increases by approximately 57% and the direction-averaged hole effective mass increases by approximately 79%; numerically, the direction-averaged hole mass changes from m_h ≈ 0.149 m_0 for the ideal cubic 0 K calculation with α = 0.74 to m_h = 0.265 m_0 for the AIMD 300 K calculation with α = 0.54.",
+        "content_hash": "b4c6a8a750bba688cccd32b362099d0c7fa3846208dba72908e40731a64bd010",
+        "id": "gcn_3f848904ab0d4b48",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_2",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let ω denote vibrational angular frequency and D(ω) denote the phonon density of states (number of vibrational modes per unit angular-frequency interval per unit cell); for bulk CsPbBr₃ the computed D(ω) contains vibrational frequencies that are drastically lower than those computed for Si and GaAs, and the low-frequency behavior of the normalized spectral function D(ω)/ω² exhibits a pronounced peak (a boson-peak-like feature) in the low-frequency region; these spectroscopic signatures indicate the presence of higher-order (nonquadratic) contributions to the vibrational potential-energy surface and a flattened potential-energy surface for lattice vibrations, which makes low-energy vibrational modes readily thermally activated at T ≈ 300 K and thereby produces the large thermal lattice fluctuations that strongly renormalize the electronic band structure of CsPbBr₃.",
+        "content_hash": "f1c8a542f8f56e16bdcab85d1057d281de9eb1ab03c136e75c6cc6f85b20a60c",
+        "id": "gcn_8145207dbe214fcb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_6",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A parabolic dispersion fit for a conduction band is written E(k)=E_0+(\\hbar^2/2m^*)(k−k_0)^2 where m^* is the effective mass; in fitting conduction-band dispersions extracted from ARPES after potassium deposition, holding the quadratic coefficient (equivalently holding m^*) fixed assumes that carrier doping and any surface electric-field (Stark) effects do not renormalize the band curvature (effective mass), i.e., that only rigid energy shifts occur, an assumption that can be violated if doping or surface perturbations change quasiparticle renormalization, hybridization, or many-body interactions and thereby bias the extracted conduction-band-bottom energies.",
+        "content_hash": "dddc2be998dc1e60da81313d6d3cb122e16022bad871b73efa1076a81a70c5ba",
+        "id": "gcn_e7c6c7c9711d4999",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:975213909877194758::P9",
+            "package_id": "paper:975213909877194758",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:975213909877194758"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define an energy distribution curve (EDC) at a given crystal momentum $\\mathbf{k}$ as the ARPES-measured intensity $I(E,\\mathbf{k})$ versus binding energy $E$, and define the full width at half maximum (FWHM) of an EDC peak as the energy interval $\\Delta E$ between points where $I(E,\\mathbf{k})$ equals half its peak value. The reported ARPES EDCs for the WS₂ valence-band branches near the valence-band maximum exhibit FWHM values of approximately $\\Delta E\\approx 80\\ \\text{meV}$; such spectral sharpness (EDC FWHM $\\sim80\\ \\text{meV}$) implies that energy-dependent many-body self-energy effects that would substantially renormalize band curvature or produce large energy-dependent quasiparticle linewidth increases near the top of the valence band are small enough that they do not meaningfully alter the occupied-state band curvature extracted from these ARPES data.\n      Fig. 2(d)",
+        "content_hash": "659a2bca57734f88a51445f5d0b5de2c6de5d015ad6b8402d2422168f3a240e4",
+        "id": "gcn_c28b6f0f7cfd4847",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750573615612375::P3",
+            "package_id": "paper:867750573615612375",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750573615612375"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the same finite-temperature workflow (AIMD structural sampling at T = 300 K followed by single-point HSE–SOC electronic-structure calculations and Brillouin-zone unfolding) to crystalline Si and GaAs yields only minor thermal renormalization: the direction-averaged heavy-hole effective masses for Si and GaAs change by approximately 5% between T = 0 K and T = 300 K, and the unfolded room-temperature band-structure colormaps for Si and GaAs show much weaker energy–momentum smearing than the unfolded room-temperature band structure for CsPbBr₃; consequently, the large thermally induced mass renormalization observed in CsPbBr₃ is not a generic feature of all semiconductors but is specific to materials with very soft, strongly anharmonic lattices.",
+        "content_hash": "6cebe948520df24973b2bb51ff22d8612d338a0511bd2b264926f58c0ac5cdbb",
+        "id": "gcn_53a5034187ac4353",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_5",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Hole effective masses m* extracted from the curvature of ARPES-measured valence-band dispersions near the K point by fitting to a parabolic dispersion and applying the standard relation between curvature and effective mass yield m* ≈ 0.5 me (upper band) and m* ≈ 0.7 me (lower band) under the assumptions that (i) many-body self-energy effects (electron–electron and electron–phonon interactions) do not strongly renormalize the band curvature within the narrow energy–momentum window used for the fit, (ii) instrumental energy and momentum resolution and lifetime broadening do not materially distort the fitted curvature, and (iii) each fitted branch is well described by a single parabolic dispersion in the fitting range.",
+        "content_hash": "7aab275810a3815112df742fd747868b882b0908528ea56d20db5e86a8c6df8a",
+        "id": "gcn_f347226081f14ccb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759455570232047::P13",
+            "package_id": "paper:867759455570232047",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759455570232047"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass $m^{*}$ of electrons in the S2 surface band for the Si(111)-(5×2)-Au wires is estimated by fitting an approximately parabolic dispersion $E(k_{\\parallel}) \\approx E_{0} + \\frac{\\hbar^{2}k_{\\parallel}^{2}}{2m^{*}}$ to the measured ARPES dispersion near the Fermi-level crossing at room temperature (here $\\hbar$ is the reduced Planck constant and $k_{\\parallel}$ is the electron momentum component parallel to the wire direction), with the experimental instrumental constraints of energy resolution $\\Delta E \\approx 15\\ \\mathrm{meV}$ and angular resolution $\\Delta\\theta \\approx 0.15^\\circ$; the proposition is that this parabolic fit, applied to the observed ARPES intensity maxima, yields an effective-mass estimate $m^{*}\\approx 0.25\\,m_{e}$ (with $m_{e}$ the free electron mass) that accurately reflects the quasiparticle band curvature, assuming negligible distortion from thermal broadening, many-body self-energy effects that would strongly renormalize the dispersion in the measured energy–momentum window, or misassignment of spectral maxima due to overlapping weak states or inhomogeneous broadening.",
+        "content_hash": "0d0d3c66fdeefc5f7e087e896b339efadda2e72fcafb1b7f2dc4f5e93783cf78",
+        "id": "gcn_80d42a79f653465c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811928603871674369::P4",
+            "package_id": "paper:811928603871674369",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811928603871674369"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "2041f3c9615eb7147857a37b50c90297"
+}

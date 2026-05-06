@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1025266469098749962": {
+        "area": "Chemistry",
+        "authors": "Supriya Ghosh | Bapi Pradhan | Arkamita Bandyopadhyay | Irina Skvortsova | Yiyue Zhang | Christian Sternemann | Michael Paulus | Sara Bals | Johan Hofkens | Khadga J Karki | Arnulf Materny",
+        "available_online": "",
+        "cover_date_start": "2024-07-31",
+        "created_at": "2024-07-30T20:42:55+08:00",
+        "doi": "10.1021/acs.jpclett.4c01957",
+        "en_title": "Rashba-Type Band Splitting Effect in 2D (PEA) 2 PbI 4 Perovskites and Its Impact on Exciton-Phonon Coupling",
+        "id": "1025266469098749962",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3390",
+        "publication_name": "The Journal of Physical Chemistry Letters _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "二维(PEA)₂PbI₄钙钛矿中的 Rashba 型能带分裂效应及其对激子-声子耦合的影响"
+      },
+      "paper:811130963508592641": {
+        "area": "Material science",
+        "authors": "Michael Sendner | Pabitra K. Nayak | David A. Egger | Sebastian Beck | Christian Müller | Bernd Epding | Wolfgang Kowalsky | Leeor Kronik | Henry J. Snaith | Annemarie Pucci | Robert Lovrinčić",
+        "available_online": "2016",
+        "cover_date_start": "2016-01-01",
+        "created_at": "2022-12-17T23:04:53+08:00",
+        "doi": "10.1039/c6mh00275g",
+        "en_title": "Optical phonons in methylammonium lead halide perovskites and implications for charge transport",
+        "id": "811130963508592641",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2056",
+        "publication_name": "Materials Horizons _ Mater. Horiz.",
+        "research_categories": "",
+        "zh_title": "甲脒铅卤化物钙钛矿中的光学声子及其对电荷传输的影响"
+      },
+      "paper:812300868551442436": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yasuhiro Yamada | Hirofumi Mino | Takuya Kawahara | Kenichi Oto | Hidekatsu Suzuura | Yoshihiko Kanemitsu",
+        "available_online": "2021-6-11",
+        "cover_date_start": "2021-06-11",
+        "created_at": "2022-12-21T04:33:39+08:00",
+        "doi": "10.1103/physrevlett.126.237401",
+        "en_title": "Polaron Masses in CH 3 NH 3 Pb X 3 Perovskites Determined by Landau Level Spectroscopy in Low Magnetic Fields",
+        "id": "812300868551442436",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "低磁场下通过朗道能级光谱法测定的CH₃NH₃PbX₃钙钛矿中的极化子质量 "
+      },
+      "paper:812512896113180673": {
+        "area": "Material science",
+        "authors": "Heng Zhang | Elke Debroye | Julian A. Steele | Maarten B. J. Roeffaers | Johan Hofkens | Hai I. Wang | Mischa Bonn",
+        "available_online": "2021-1-20",
+        "cover_date_start": "2021-01-20",
+        "created_at": "2022-12-21T18:36:11+08:00",
+        "doi": "10.1021/acsenergylett.0c02482",
+        "en_title": "Highly Mobile Large Polarons in Black Phase CsPbI 3",
+        "id": "812512896113180673",
+        "keywords": "",
+        "publication_date": "2021-2-12",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "黑相CsPbI₃中的高迁移率大极化子"
+      },
+      "paper:812580943318482944": {
+        "area": "Physics and Astrophysics",
+        "authors": "Clément Collignon | Phillipe Bourges | Benoît Fauqué | Kamran Behnia",
+        "available_online": "2020-8-3",
+        "cover_date_start": "2020-08-03",
+        "created_at": "2022-12-21T23:06:35+08:00",
+        "doi": "10.1103/physrevx.10.031025",
+        "en_title": "Heavy Nondegenerate Electrons in Doped Strontium Titanate",
+        "id": "812580943318482944",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "479",
+        "publication_name": "Physical Review X _ Phys. Rev. X",
+        "research_categories": "",
+        "zh_title": "掺杂钛酸锶中的重非简并电子"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813109426834636800": {
+        "area": "Comprehensive Periodical",
+        "authors": "Kiyoshi Miyata | Daniele Meggiolaro | M. Tuan Trinh | Prakriti P. Joshi | Edoardo Mosconi | Skyler C. Jones | Filippo De Angelis | X.-Y. Zhu",
+        "available_online": "",
+        "cover_date_start": "2017-08-04",
+        "created_at": "2022-12-23T10:06:34+08:00",
+        "doi": "10.1126/sciadv.1701217",
+        "en_title": "Large polarons in lead halide perovskites",
+        "id": "813109426834636800",
+        "keywords": "",
+        "publication_date": "2017-8-4",
+        "publication_id": "6329",
+        "publication_name": "Science Advances _ Sci. Adv.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中的大极化子"
+      }
+    },
+    "variables": [
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For methylammonium lead halide perovskites, replacing the carrier effective mass $m^{*}$ in Fröhlich polaron expressions by the reduced exciton mass $m_{\\mathrm{ex}}^{*}=\\left(\\frac{1}{m_{\\mathrm{e}}^{*}}+\\frac{1}{m_{\\mathrm{h}}^{*}}\\right)^{-1}$ (with $m_{\\mathrm{e}}^{*}$ and $m_{\\mathrm{h}}^{*}$ the electron and hole band masses) yields quantitatively accurate values of the electron–phonon coupling constant $\\alpha$ and derived polaron parameters for free-carrier transport.",
+        "content_hash": "809c62097c68bafcb61b12493cdebabba5312f1505d09837780bc39fb527282e",
+        "id": "gcn_2c6935383e474ae5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811130963508592641::P10",
+            "package_id": "paper:811130963508592641",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811130963508592641"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the computational workflow as the sequence: (A) compute ab initio phonons, Born effective charges, and dielectric response by density-functional perturbation theory (DFPT); (B) compute the ab initio long-wavelength Fröhlich electron–phonon vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega; (C) reduce the multi-mode result to a single effective LO-like mode characterized by parameters (\\\\tilde{g}_{\\\\mathrm{LO}}^{2},\\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}) and compute the Fröhlich coupling parameter \\\\alpha from these inputs and the bare mass m_0; and (D) use a Feynman-polaron calculation with the ab initio bare mass m_0 and the computed \\\\alpha to predict the polaron-renormalized mass m_{\\\\mathrm{pol}}; the proposition is that this same sequence of calculations and approximations will produce quantitatively accurate predictions of carrier effective masses across the broader family of inorganic and hybrid lead-halide perovskites (LHPs) when the Fröhlich mechanism dominates carrier dressing, i.e., the method is generally predictive for LHPs beyond the tested case of orthorhombic CsPbBr$_3$.",
+        "content_hash": "98d5c3c084258b42bc3a2b8428719eb6572da8f5b33455f3b5c26befacd17bc6",
+        "id": "gcn_943f1f964b7a4374",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P10",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031009615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Feynman polaron model, in which a charge carrier interacting with longitudinal‑optical phonons forms a polaron with an effective mass that increases with electron–phonon coupling strength, provides an appropriate theoretical framework for the layered lead‑halide perovskite thin films studied here so that an increase of carrier effective mass in Rashba‑split bands translates into measurably stronger Fröhlich (LO) phonon scattering and therefore a larger experimentally fitted γLO parameter.\n      Feynman polaron theory (R. P. Feynman, Phys. Rev. 1955) and relevant applications to lead‑halide perovskites cited in the paper",
+        "content_hash": "115b3a393caf8d83a9cb1efbfa96019e413843f0f81f95759e7b84e1591510f4",
+        "id": "gcn_8182c7cde5f94e44",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1025266469098749962::P14",
+            "package_id": "paper:1025266469098749962",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1025266469098749962"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030621785881252923,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a polar semiconductor with lattice constant $a$ and Fröhlich coupling constant $\\alpha$, a carrier forms a large polaron (delocalized over multiple unit cells) when $\\alpha\\approx 2$, the polaron mass enhancement satisfies $m_{\\mathrm{p}}/m^{*}<1.5$, and the polaron radius $l_{\\mathrm{p}}=\\sqrt{\\frac{h}{2 c m^{*}\\omega_{\\mathrm{LO}}}}$ is much larger than $a$, and these criteria correctly classify polarons in methylammonium lead halide perovskites at room temperature.",
+        "content_hash": "00984af580cddfd7e10c15f3ebeac55ce33ec006962918044cf025ebcf2ed27c",
+        "id": "gcn_dce3b6187ee34dff",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811130963508592641::P15",
+            "package_id": "paper:811130963508592641",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811130963508592641"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029437229437229435,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the methylammonium lead halide perovskites CH$_3$NH$_3$PbI$_3$, CH$_3$NH$_3$PbBr$_3$, and CH$_3$NH$_3$PbCl$_3$, the computed Fröhlich coupling constants $\\alpha\\sim 1.7$–$2.2$, polaron radii $l_{\\mathrm{p}}=27$–$51\\ \\text{\\AA}$, and polaron mass enhancements $m_{\\mathrm{p}}/m_{\\mathrm{ex}}^{*}<1.5$ correspond to the large-polaron (weak-to-intermediate Fröhlich coupling) regime, in which polarons extend over several unit cells and the effective-mass renormalization is moderate. The combination of relatively low LO phonon energies (small $\\omega_{\\mathrm{LO}}$) and comparatively strong ionic screening quantified by $1/\\varepsilon^{*}=1/\\varepsilon_{\\infty}-1/\\varepsilon_{\\text{Static}}\\approx 0.17$–$0.22$ implies a Debye temperature for LO modes $\\Omega_{\\mathrm{D}}=\\hbar c \\omega_{\\mathrm{LO}}/k_{\\mathrm{B}}$ below room temperature, yielding substantial thermal occupation of LO phonons at $T=300\\ \\mathrm{K}$; the material-property combination of low $\\omega_{\\mathrm{LO}}$ and sizable ionic screening therefore constitutes an intrinsic limitation on room-temperature carrier mobilities in these lead–halide perovskites and accounts for mobilities that remain orders of magnitude below those of a high-mobility polar semiconductor such as GaAs.",
+        "content_hash": "20eee40493d25e69d51cd8d5e05ec0d9f80691bb2fc79b69de705abbbaf89a72",
+        "id": "gcn_6164722b1cd6445d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811130963508592641::conclusion_5",
+            "package_id": "paper:811130963508592641",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811130963508592641"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027912386121341344,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In Fröhlich-model calculations of polaron coupling constants α and polaron mass renormalizations for halide perovskite crystals, it is standard to take the input bare electron band mass m_e^b and bare hole band mass m_h^b from prior literature electronic-structure calculations (density-functional-theory or many-body computations that neglect electron–phonon renormalization) and to treat these literature band masses as equivalent to the physical high-magnetic-field bare masses that would be reflected in magneto-optical Landau-level analyses in the limit ℏω_c ≫ ℏω_LO; this procedure neglects possible inaccuracies of the theoretical band-mass values and assumes that many-body renormalizations other than Fröhlich polaron formation (for example, additional electronic correlation or sample-dependent strain) do not substantially alter the bare masses relative to the cited literature values.\n      Representative literature values are those reported in advanced first-principles calculations (e.g., M. Bokdam et al., Sci. Rep. 6, 28618 (2016)).",
+        "content_hash": "e0a7bf291a76423072d44f1e87ae83e6cbe9d4c569b75aadc774a377c4230c15",
+        "id": "gcn_c5f60d75e80549b3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812300868551442436::P6",
+            "package_id": "paper:812300868551442436",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812300868551442436"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02761904761904762,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The unitless Fröhlich electron–phonon coupling constant $\\\\alpha_{\\\\mathrm{e-ph}}$ for a carrier species in a lead-halide perovskite can be estimated by selecting a single characteristic longitudinal-optical (LO) phonon angular frequency $\\\\omega_{\\\\mathrm{LO}}$ (for example, from the peak(s) in the calculated $\\\\operatorname{Im}[1/\\\\varepsilon(\\\\omega)]$ spectrum), together with the computed optical dielectric constant $\\\\varepsilon_{\\\\infty}$, static dielectric constant $\\\\varepsilon_{0}$, and the bare-carrier effective mass $m$, and inserting these into the canonical formula\n      $\\\\displaystyle \\\\alpha_{\\\\mathrm{e-ph}}=\\\\frac{e^{2}}{\\\\hbar}\\\\frac{1}{4\\\\pi\\\\epsilon}\\\\Bigl(\\\\frac{1}{\\\\varepsilon_{\\\\infty}}-\\\\frac{1}{\\\\varepsilon_{0}}\\\\Bigr)\\\\sqrt{\\\\frac{m}{2\\\\hbar\\\\omega_{\\\\mathrm{LO}}}}$,\n      where $e$ is the elementary charge, $\\\\hbar$ is the reduced Planck constant, and $\\\\epsilon$ is the permittivity of free space; using a single (or a small set of) effective LO mode(s) together with DFT-derived dielectric constants and effective masses produces $\\\\alpha_{\\\\mathrm{e-ph}}$ values sufficiently accurate to classify the material into the weak/intermediate/strong Fröhlich coupling regimes for subsequent polaron-model calculations.\n      Miyata et al., fig. S12; table S2",
+        "content_hash": "668713f062e009c1320d5c429451bd8771064d5c5e7eba50fe1e0ef7fcdc4f40",
+        "id": "gcn_1fee5470193f4854",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813109426834636800::P11",
+            "package_id": "paper:813109426834636800",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813109426834636800"
+          ]
+        },
+        "role": "premise",
+        "score": 0.023268398268398268,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the Fröhlich electron–phonon coupling expression α = (e² / (4π ħ)) (1/εopt − 1/εs) √(mb* / (2 ħ ωLO)) with numerical inputs εopt = 6.1 ε0, εs = 18.1 ε0, ωLO = 16.15 THz (optical and static permittivities given in units of the vacuum permittivity ε0, and ωLO the effective LO-phonon angular frequency taken from literature values reported for black-phase CsPbI₃), and a bare band effective mass mb* = 0.1 m0 from prior density-functional-theory results, the resulting dimensionless Fröhlich coupling is α ≈ 1.23; inserting α into the low-order polaron mass expansion m* = mb*(1 + α/6 + α²/40 + …) and truncating at the quadratic term gives an estimated polaron effective mass m* ≈ 0.124 m0, consistent with the large-polaron regime (α < 6).",
+        "content_hash": "7841fab7387ab5f8d7f0b68eb1b8cb6bd497e744f283956d67061aea718ed993",
+        "id": "gcn_420c9ad0fe5e4945",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812512896113180673::conclusion_5",
+            "package_id": "paper:812512896113180673",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812512896113180673"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define a Fröhlich polar coupling description as a continuum electron–longitudinal-optical-phonon coupling model characterized by a dimensionless Fröhlich coupling constant α and by calculations predicting the polaron effective mass m_polaron(T;α) and polaron radius r_polaron(T;α) as functions of temperature T and α. The proposition is: for physically relevant values of the Fröhlich coupling constant quoted for SrTiO3 (e.g., α ≲ 2) and within the existing theoretical treatments surveyed (including perturbative and nonperturbative calculations), the predicted thermal evolution of the Fröhlich-polaron mass and radius is that they decrease with increasing temperature (\"polaron undressing\") rather than increase; therefore, these Fröhlich-type large-polaron theories, as formulated in the cited literature and within the explored parameter ranges, do not produce the pronounced temperature-induced mass amplification reported for doped SrTiO3 and thus cannot quantitatively account for the combination of mass growth, permittivity evolution, and high-T metallicity observed.\n      [94]\n      [98]",
+        "content_hash": "196ff5905e03d837445475d2a720af06e5a3060bc3aca586f0e9c23b824f8617",
+        "id": "gcn_67c449099476460d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812580943318482944::P10",
+            "package_id": "paper:812580943318482944",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812580943318482944"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "7476159dff4b7056fb7eaf898d742c70"
+}

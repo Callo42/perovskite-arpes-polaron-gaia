@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+      "content_hash": "1c1b6b5a8e6abb85588c0b44f4ec5a15eb68b5a2357271084c9c407a682619a5",
+      "id": "gcn_8c3c520295d7488c",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+              "id": "gcn_8c3c520295d7488c"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_711664a6a8574817",
+            "premises": [
+              {
+                "content": "In the orthorhombic-structure G_{0}W_{0} quasiparticle calculation that produced the averaged hole effective mass m_{h}^{*}=0.226\\,m_{0}, the construction of maximally-localized Wannier functions (Wannierization) was applied only to the valence-band manifold for the purpose of interpolating and averaging band curvatures whereas the conduction-band manifold was not Wannierized; this partial (valence-only) Wannier interpolation procedure can introduce a systematic bias in the interpolation of quasiparticle band curvatures and may lead to a modest overestimation of the reported averaged hole effective mass relative to a calculation in which both valence and conduction bands are treated consistently in the Wannier interpolation or in which no post-processing interpolation is used.",
+                "id": "gcn_ec768b9675814820"
+              },
+              {
+                "content": "Numerical quasiparticle properties computed within the one-shot G_{0}W_{0} approximation, including the valence-band effective mass m_{h}^{*} and the quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}, are sensitive to specific computational choices and convergence parameters such as basis-set completeness, density and sampling of k points in the Brillouin zone, the frequency-integration scheme or plasmon-pole model used for the screened Coulomb interaction, the numerical treatment of spin–orbit coupling, details of pseudopotential versus all-electron implementations, and whether the GW calculation is performed as a single-shot (G_{0}W_{0}) or with partial self-consistency; consequently, different reasonable implementations or convergence thresholds of the G_{0}W_{0} method can produce quantitatively different values of m_{h}^{*} comparable to the differences observed between the cubic and orthorhombic calculations reported here.",
+                "id": "gcn_5868b15c687043a9"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "State the computational approach used and define notation: the one-shot GW quasiparticle method is denoted $G_{0}W_{0}$ (an instance of many-body perturbation theory in the GW approximation) and spin–orbit coupling is explicitly included; calculations were performed with the all-electron FLEUR and SPEX codes, which implement the $G_{0}W_{0}$ method and include spin–orbit coupling. \n[36],[37],[38]",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Explain the purpose of using $G_{0}W_{0}$ for comparison with ARPES: $G_{0}W_{0}$ yields quasiparticle self-energy corrections to electronic states and therefore produces quasiparticle band structures and band gaps that are directly comparable to ARPES spectra; these $G_{0}W_{0}$ calculations include electron–electron correlation but do not include electron–phonon (polaronic) self-energy contributions, so they provide a \"bare-band\" reference in searches for polaronic mass enhancement.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Report the $G_{0}W_{0}$ result for the cubic crystal structure and define symbols: for the cubic structural model (with lattice parameter 6.017 Å taken from the cited structural data), the $G_{0}W_{0}$ calculation evaluated the valence-band maximum (VBM) at the R point and, along the X–R direction, yields a valence-band hole effective mass $m_{h}^{*}=0.15\\ m_{0}$ and a quasiparticle band gap of $1.74\\,$eV. The labels $m_{h}^{*}$ and $m_{0}$ are as defined above and the band gap is the energy difference between valence-band maximum and conduction-band minimum in the $G_{0}W_{0}$ quasiparticle spectrum. \nFig. 1",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report the $G_{0}W_{0}$ result for the orthorhombic structural unit cell and note methodological details and caveats: a $G_{0}W_{0}$ calculation performed for an orthorhombic unit cell, with a Wannierization procedure applied for the valence band only (i.e., maximally-localized Wannier functions used for the valence manifold), yields an averaged hole effective mass over crystallographic directions of $m_{h}^{*}=0.226\\ m_{0}$ and a quasiparticle band gap of $2.09\\,$eV; the authors note that because Wannierization was only performed for the valence band there is a possibility that the effective mass is slightly overestimated in the orthorhombic calculation, but they believe such overestimation is limited. \nFig. S4",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Summarize the relationship of these calculations to electron-phonon coupling: explicitly state that the reported $G_{0}W_{0}$ quasiparticle band gaps and effective masses include electron–electron correlation effects but omit electron–phonon (polaronic) self-energy contributions, so any discrepancy between $G_{0}W_{0}$ masses and experiment could be indicative of additional electron–phonon renormalization but the $G_{0}W_{0}$ numbers themselves do not contain such polaronic mass enhancement.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Theoretical predictions of carrier effective masses in lead-halide perovskites have been confounded by sensitivity to the structural phase (cubic vs orthorhombic), by the tendency of common DFT and hybrid-DFT functionals to underestimate band gaps, and by differing levels of many-body treatment in the literature. Since effective mass correlates with the quasiparticle band dispersion and hence with the gap, computations that underestimate the gap or omit important many-body corrections can yield band masses that are not directly comparable to ARPES. A GW calculation that provides a more accurate quasiparticle gap and includes spin–orbit coupling is therefore required to establish a reliable electronic baseline (excluding electron–phonon interactions) against which any additional polaronic mass renormalization could be identified.",
+            "id": "paper:867765810263752934::conclusion_2_subproblem",
+            "source_package": "paper:867765810263752934"
+          }
+        ],
+        "source_package": "paper:867765810263752934"
+      }
+    ],
+    "papers": {
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "51494c36b6f57ed0d5aa48c48bb339a6"
+}

@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1047756280451563523": {
+        "area": "arXiv-Physics",
+        "authors": "Tomáš Musálek | Petr Liška | Amedeo Morsa | Jon Ander Arregi | Matouš Kratochvíl | Dmitry Sergeev | Michael Müller | Tomáš Šikola | Miroslav Kolíbal",
+        "available_online": "",
+        "cover_date_start": "2024-09-26",
+        "created_at": "2024-09-30T22:09:23+08:00",
+        "doi": "10.48550/arxiv.2409.18294",
+        "en_title": "Achieving Different Stoichiometries and Morphologies in Vapor Phase Deposition of Inorganic Halide Perovskites: Single or Dual Precursor Sources?",
+        "id": "1047756280451563523",
+        "keywords": "",
+        "publication_date": "2024-09-26",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "在无机卤化物钙钛矿的气相沉积中实现不同的化学计量比和形貌：单前驱体源还是双前驱体源？"
+      },
+      "paper:811041546383130625": {
+        "area": "Physics and Astrophysics",
+        "authors": "Omer Yaffe | Yinsheng Guo | Liang Z. Tan | David A. Egger | Trevor Hull | Constantinos C. Stoumpos | Fan Zheng | Tony F. Heinz | Leeor Kronik | Mercouri G. Kanatzidis | Jonathan S. Owen | Andrew M. Rappe | Marcos A. Pimenta | Louis E. Brus",
+        "available_online": "2017-3-28",
+        "cover_date_start": "2017-03-28",
+        "created_at": "2022-12-17T17:09:34+08:00",
+        "doi": "10.1103/physrevlett.118.136001",
+        "en_title": "Local Polar Fluctuations in Lead Halide Perovskite Crystals",
+        "id": "811041546383130625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿晶体中的局部极化涨落"
+      },
+      "paper:812590319538274305": {
+        "area": "Material science",
+        "authors": "Šarūnas Svirskas | Sergejus Balčiūnas | Mantas Šimėnas | Gediminas Usevičius | Martynas Kinka | Martynas Velička | Dominik Kubicki | Marianela Escobar Castillo | Andrei Karabanov | Vladimir V. Shvartsman | Maria de Rosário Soares | Valdas Šablinskas | Andrei N. Salak | Doru C. Lupascu | Jūras Banys",
+        "available_online": "2020",
+        "cover_date_start": "2020-01-01",
+        "created_at": "2022-12-21T23:43:50+08:00",
+        "doi": "10.1039/d0ta04155f",
+        "en_title": "Phase transitions, screening and dielectric response of CsPbBr 3",
+        "id": "812590319538274305",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ J. Mater. Chem. A",
+        "research_categories": "",
+        "zh_title": "CsPbBr₃的相变、屏蔽与介电响应"
+      },
+      "paper:812665279099174913": {
+        "area": "Chemistry",
+        "authors": "Weichuan Zhang | Maochun Hong | Junhua Luo",
+        "available_online": "2020-4",
+        "cover_date_start": "2020-04-01",
+        "created_at": "2022-12-22T04:41:42+08:00",
+        "doi": "10.1002/anie.201916254",
+        "en_title": "Halide Double Perovskite Ferroelectrics",
+        "id": "812665279099174913",
+        "keywords": "[{\"en_name\": \"bismuth\", \"ch_name\": \"\"}, {\"en_name\": \"ferroelectrics\", \"ch_name\": \"\"}, {\"en_name\": \"materials science\", \"ch_name\": \"\"}, {\"en_name\": \"perovskites\", \"ch_name\": \"\"}, {\"en_name\": \"semiconductors\", \"ch_name\": \"\"}]",
+        "publication_date": "2020-6-8",
+        "publication_id": "3347",
+        "publication_name": "Angewandte Chemie International Edition _ Angew. Chem. Int. Ed.",
+        "research_categories": "",
+        "zh_title": "卤化物双钙钛矿铁电体"
+      },
+      "paper:813001823186059264": {
+        "area": "Material science",
+        "authors": "Thomas R. Hopper | Andrei Gorodetsky | Jarvist M. Frost | Christian Müller | Robert Lovrincic | Artem A. Bakulin",
+        "available_online": "2018-8-21",
+        "cover_date_start": "2018-08-21",
+        "created_at": "2022-12-23T02:58:59+08:00",
+        "doi": "10.1021/acsenergylett.8b01227",
+        "en_title": "Ultrafast Intraband Spectroscopy of Hot-Carrier Cooling in Lead-Halide Perovskites",
+        "id": "813001823186059264",
+        "keywords": "",
+        "publication_date": "2018-9-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中热载流子冷却的超快带内光谱学"
+      },
+      "paper:813054154053255168": {
+        "area": "Physics and Astrophysics",
+        "authors": "Chong-Xin Qian | Zun-Yi Deng | Kang Yang | Jiangshan Feng | Ming-Zi Wang | Zhou Yang | Shengzhong (Frank) Liu | Hong-Jian Feng",
+        "available_online": "",
+        "cover_date_start": "2018-02-26",
+        "created_at": "2022-12-23T06:26:56+08:00",
+        "doi": "10.1063/1.5019608",
+        "en_title": "Interface engineering of CsPbBr 3 /TiO 2 heterostructure with enhanced optoelectronic properties for all-inorganic perovskite solar cells",
+        "id": "813054154053255168",
+        "keywords": "",
+        "publication_date": "2018-2-26",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "用于全无机钙钛矿太阳能电池的具有增强光电性能的CsPbBr₃/TiO₂异质结构的界面工程"
+      },
+      "paper:867750195327140602": {
+        "area": "arXiv-Physics",
+        "authors": "Maximilian Frenzel | Marie Cherasse | Joanna M. Urban | Feifan Wang | Bo Xiang | Leona Nest | Lucas Huber | Luca Perfetti | Martin Wolf | Tobias Kampfrath | Xiaoyang Zhu | Sebatian F. Maehrlein",
+        "available_online": "",
+        "cover_date_start": "2023-01-09",
+        "created_at": "2023-05-23T04:49:28+08:00",
+        "doi": "10.48550/arXiv.2301.03508",
+        "en_title": "Nonlinear THz Control of the Lead Halide Perovskite Lattice",
+        "id": "867750195327140602",
+        "keywords": "",
+        "publication_date": "2023-01-09",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "卤化铅钙钛矿晶格的非线性太赫兹控制"
+      },
+      "paper:867751092878835757": {
+        "area": "arXiv-Physics",
+        "authors": "Eugenio Cinquanta | Daniele Meggiolaro | Silvia G. Motti | Marina Gandini | Marcelo J. P. Alcocer | Quinten Adriaan Akkerman | Caterina Vozzi | Liberato Manna | Filippo De Angelis | Annamaria Petrozza | Salvatore Stagira",
+        "available_online": "",
+        "cover_date_start": "2018-12-12",
+        "created_at": "2023-05-23T04:53:03+08:00",
+        "doi": "10.48550/arXiv.1812.04903",
+        "en_title": "Ultrafast THz probe of photo-induced polarons in lead-halide perovskites",
+        "id": "867751092878835757",
+        "keywords": "",
+        "publication_date": "2018-12-12",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "卤化铅钙钛矿中光致极化子的超快太赫兹探测"
+      },
+      "paper:867765214408344093": {
+        "area": "arXiv-Physics",
+        "authors": "Shulin Chen | Changwei Wu | Qiuyu Shang | Caili He | Wenke Zhou | Jinjin Zhao | Jingmin Zhang | Junlei Qi | Qing Zhang | Xiao Wang | Jiangyu Li | Peng Gao",
+        "available_online": "",
+        "cover_date_start": "2022-01-12",
+        "created_at": "2023-05-23T05:49:09+08:00",
+        "doi": "10.48550/arXiv.2201.04311",
+        "en_title": "Antiphase boundary in CH$_3$NH$_3$PbI$_3$ repels charge carriers while promotes fast ion migrations",
+        "id": "867765214408344093",
+        "keywords": "",
+        "publication_date": "2022-01-12",
+        "publication_id": "108505",
+        "publication_name": "Applied Physics _ Physics.physics.app-ph",
+        "research_categories": "",
+        "zh_title": "CH₃NH₃PbI₃中的反相边界排斥电荷载流子，同时促进快速离子迁移"
+      }
+    },
+    "variables": [
+      {
+        "content": "Broadband dielectric spectroscopy of CsPbBr₃ combining low-frequency LCR measurements (20 Hz–1 MHz) and vector-network-analyzer coaxial-line measurements (1 MHz–1 GHz) yields a high-frequency (microwave-range) permittivity $\\varepsilon_{\\infty}\\approx 27$ (the permittivity value approached at the upper end of the measured spectral window) and an overall lattice-related dielectric contribution of order $\\varepsilon_{\\text{r}}\\sim 30$ attributable to PbBr$_6$-sublattice (phonon) response; within the experimental upper-frequency limit of $1\\ \\mathrm{GHz}$ and above the detection threshold of the used measurement chain, no additional dielectric relaxation process is observed in the microwave band (no second Debye-like or equivalent relaxation peak up to 1 GHz), the observed strong low-frequency dispersion is instead related to electronic conductivity, and no critical slowing-down (divergent relaxation) in the microwave range is detected near the tetragonal–orthorhombic structural transition.",
+        "content_hash": "a41d32a760c0190e70521ebb9938a727d5bd6417fef90a6182147f08fd825bc7",
+        "id": "gcn_9313fbe009034cdf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812590319538274305::conclusion_4",
+            "package_id": "paper:812590319538274305",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812590319538274305"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Intense single‑cycle terahertz (THz) electric fields nonlinearly excite and coherently drive Raman‑active PbX6 octahedral twist phonons in lead‑halide perovskites: in methylammonium lead bromide (MAPbBr3) a dominant coherent phonon with frequency ω_ph/2π = 1.14 THz and damping rate Γ = (2·1.7 ps)^{-1} (so that the phonon lifetime 1/(2Γ)=1.7 ps) is observed in both freestanding single crystals and in ≈400 nm polycrystalline thin films at low temperature (80 K), and in cesium lead bromide (CsPbBr3) two Raman‑active twist modes at ≈0.9 THz and ≈1.3 THz are observed at low temperature; the coherent oscillation amplitude of the observed MAPbBr3 mode scales as the square of the applied THz peak field amplitude E_THz (A ∝ E_THz^2), consistent with a Raman‑type excitation mechanism whose lowest‑order perturbative driving force is quadratic in the applied electric field. All frequency and lifetime numbers above are given in hertz and seconds respectively and the sample labels MAPbBr3 and CsPbBr3 denote the chemical compositions CH3NH3PbBr3 and CsPbBr3.",
+        "content_hash": "ace0075efdf3b938a3372493728dfd32eec75f19d4ff17207c8be03ab17f9888",
+        "id": "gcn_1f9ee4f96e8b425b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750195327140602::conclusion_1",
+            "package_id": "paper:867750195327140602",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750195327140602"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Combining the frequency-resolved transient THz conductivity (observation of Lorentzian phonon resonances superimposed on a Drude background and their time evolution), mode-resolved DFT identification of the Pb–Br modes strongly coupled to a hole-induced lattice distortion, and time-domain build-up/decay analysis, provides direct spectroscopic evidence that photogenerated carriers in $CsPbBr_{3}$ nanocrystal thin films become lattice-dressed large polarons that affect the transport-relevant dielectric response on sub-picosecond to picosecond timescales.",
+        "content_hash": "d5d64b24fa54f3e1026e6c36958468780008c3a8b2193371fed4e47d77651a8b",
+        "id": "gcn_b81e9565dbab4bd8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751092878835757::conclusion_6",
+            "package_id": "paper:867751092878835757",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751092878835757"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition is that the atomic-scale observation of an antiphase boundary—defined as a planar half-unit-cell registry shift that converts corner-sharing [PbX_6]^{4-} octahedra into local edge-sharing octahedra (X = halide)—in two chemically distinct lead-halide perovskites, CH3NH3PbI3 (MAPbI3) and CsPbBr3, implies that the same APB structural motif is likely to occur across other lead-halide perovskite chemistries synthesized under comparable low-temperature solution or colloidal growth conditions, where 'likely' denotes a higher-than-chance expectation rather than a formal proof of universal occurrence; here 'lead-halide perovskites' denotes ABX3 materials with Pb on the B-site and halide X on the X-site and A-site cations being organic (e.g., MA^+) or inorganic (e.g., Cs^+).",
+        "content_hash": "adf99475c3801a06cfa5328dbbab819c555715bafecd2f3143ba1195848ef3ec",
+        "id": "gcn_a3f9abf4ace34049",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765214408344093::P11",
+            "package_id": "paper:867765214408344093",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765214408344093"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Experimental observation of a strong Raman central peak in the all-inorganic perovskite CsPbBr3, in addition to the hybrid perovskite CH3NH3PbBr3, demonstrates that anharmonic, local polar thermal fluctuations occur in lead–halide perovskite lattices even when the A-site is the atomic, nonpolar cation Cs+; therefore the presence of a dipolar organic A-site cation and its rotational degrees of freedom are not required for these local polar fluctuations to occur in APbBr3-type lead–halide perovskites.",
+        "content_hash": "547503eed2d0dd830f010aed8148f11baf76496b16f6038295dc831a233febcb",
+        "id": "gcn_2d3dc8c3fc4943d0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811041546383130625::conclusion_2",
+            "package_id": "paper:811041546383130625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811041546383130625"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Polarization hysteresis-loop measurements of electric polarization $P$ versus applied electric field $E$ performed on CsPbBr₃ below room temperature show no remanent, switchable polarization (no $P$ at $E=0$ that reverses with field polarity) above the experiment's detection threshold; together with the dielectric spectroscopy data, these measurements establish that CsPbBr₃ remains in a paraelectric state (no macroscopic ferroelectric order) across the investigated temperature range, including temperatures below the 220 K anomaly, while not excluding the existence of extremely small, spatially inhomogeneous, or leakage-masked polar regions that would lie below the measurement sensitivity.",
+        "content_hash": "5306f5ac25cc47a0344094481cebd4d7e9b14d1c83fcc6cf5317e8a2f11b5633",
+        "id": "gcn_61d9c0b67daf40b4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812590319538274305::conclusion_3",
+            "package_id": "paper:812590319538274305",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812590319538274305"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Linear fits of τ_{cool} versus n_0^{\\mathrm{hot}} for the five studied lead‑halide perovskites yield slopes s=\\partial\\tau_{cool}/\\partial n_0^{\\mathrm{hot}} that are significantly larger for the all‑inorganic CsPbBr3 than for the three hybrid perovskites containing organic A‑site cations (MAPbX3 and FAPbX3), which display similar, substantially shallower slopes; therefore, under the stated experimental conditions the sensitivity of the cooling time to HC density (interpreted as the strength of the hot‑phonon bottleneck) is composition dependent and is most pronounced in CsPbBr3.",
+        "content_hash": "85f543bf6be3bfa40a3b89b0194868ad9fc2a3dda6b851169803379ec78e2324",
+        "id": "gcn_d63380a5d00b44b4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813001823186059264::conclusion_3",
+            "package_id": "paper:813001823186059264",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813001823186059264"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Thin-film cesium lead bromide perovskite with chemical formula $\\mathrm{CsPbBr}_3$ synthesized by the reported two-step deposition exhibits a cubic crystal structure with an experimental interplanar spacing between (110) lattice planes of approximately $4.15\\ \\mathring{\\mathrm{A}}$, an optical-absorption peak at wavelength $519.5\\ \\mathrm{nm}$ (photon energy $2.38\\ \\mathrm{eV}$), and an optical bandgap estimated from a Tauc-plot extrapolation of the direct-transition relation $(A h\\nu)^2$ versus photon energy $h\\nu$ to be approximately $2.30\\ \\mathrm{eV}$; these measured structural and optical values characterize the baseline electronic and optical properties of the synthesized $\\mathrm{CsPbBr}_3$ absorber films.",
+        "content_hash": "23b0cc33637dd6412d5d7e24ec8ac97f0670c80c1869180e6f46f0febb90a6ec",
+        "id": "gcn_dcbc66f8b4604c40",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813054154053255168::conclusion_1",
+            "package_id": "paper:813054154053255168",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813054154053255168"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Hetero-substitution of divalent lead ions Pb2+ (Pb2+ denotes the divalent lead cation) in a three‑dimensional CsPbBr3 perovskite prototype by a pair of monovalent and trivalent metal ions Ag+ (monovalent silver) and Bi3+ (trivalent bismuth), combined with intercalation of bilayer n‑propylammonium organic cations (the n‑propylammonium cation is the protonated n‑propylamine, NH3+–(CH2)3–CH3), converts the 3D CsPbBr3 framework into a two‑dimensional (n = 2, i.e., two corner‑sharing octahedral layers thick in the inorganic slab) Ruddlesden–Popper–type halide double perovskite with stoichiometry (n‑propylammonium)2CsAgBiBr7; this composition, hereafter denoted 1, is thereby defined as a materials‑design target for realizing ferroelectricity in lead‑free halide double perovskites.",
+        "content_hash": "870f6fb2705a1029fe6bde00ad230e03433ce6580ae149c3d62e399b3b765460",
+        "id": "gcn_e34013eeb11c4daf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812665279099174913::conclusion_1",
+            "package_id": "paper:812665279099174913",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812665279099174913"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The stoichiometric, direct-bandgap $CsPbBr_3$ phase exhibits strong room-temperature photoluminescence (PL) under 532 nm continuous-wave excitation (measured with a confocal microscope) and, in X-ray photoelectron spectroscopy (XPS) measurements using monochromated Al Kα radiation (photon energy 1486.6 eV) delivered at an incident fluence of $5\\times10^{16}\\ \\mathrm{photons/cm^{2}}$, shows no detectable metallic lead ($Pb^0$) component in the Pb $4f$ spectral region under the applied measurement conditions; by contrast, samples whose dominant stoichiometries are $CsPb_2Br_5$ or $Cs_4PbBr_6$ exhibit strongly quenched PL under the same optical excitation conditions and develop a detectable $Pb^0$ XPS component under the same X-ray exposure, indicating greater susceptibility of these non-$CsPbBr_3$ stoichiometries to X-ray-induced Pb reduction and surface degradation (subject to the XPS detection limits and possible signal convolution with mixed phases).",
+        "content_hash": "cf09b5b9b17c119492c98066ccd915f0b1573bab307d2133022bbc76b797b0a0",
+        "id": "gcn_edb1fc70c2524b1a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1047756280451563523::conclusion_7",
+            "package_id": "paper:1047756280451563523",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1047756280451563523"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a9d4d2e0f4209ba7031fe03439f639cd"
+}

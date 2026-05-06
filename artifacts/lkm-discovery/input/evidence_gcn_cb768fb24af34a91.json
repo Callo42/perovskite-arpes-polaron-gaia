@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For the halide-perovskite systems studied (CsPbBr₃, CsPbI₃, and MAPbI₃) the combination of (i) a disorder potential $\\Delta V(\\mathbf{r})$ that is confined by finite-temperature dynamics to nearest-neighbor length scales, (ii) the observation that activating A-site and halide atomic motions dynamically shortens Pb-induced long-range disorder, and (iii) the observed narrowing of instantaneous band-edge energy distributions in the fully dynamical case implies that thermal nuclear motion perturbs electronic states only locally (on the order of single bonds) and therefore yields a low density of disorder-induced tail states; this mechanism explains how these crystals at elevated temperatures can exhibit narrow band-gap distributions, sharp optical absorption edges and small Urbach energies despite exhibiting large anharmonic nuclear motion.",
+      "content_hash": "dd05b1fb1ca1ef9462472ada28638ec835c553190f7468055e75a127e8c19255",
+      "id": "gcn_cb768fb24af34a91",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "For the halide-perovskite systems studied (CsPbBr₃, CsPbI₃, and MAPbI₃) the combination of (i) a disorder potential $\\Delta V(\\mathbf{r})$ that is confined by finite-temperature dynamics to nearest-neighbor length scales, (ii) the observation that activating A-site and halide atomic motions dynamically shortens Pb-induced long-range disorder, and (iii) the observed narrowing of instantaneous band-edge energy distributions in the fully dynamical case implies that thermal nuclear motion perturbs electronic states only locally (on the order of single bonds) and therefore yields a low density of disorder-induced tail states; this mechanism explains how these crystals at elevated temperatures can exhibit narrow band-gap distributions, sharp optical absorption edges and small Urbach energies despite exhibiting large anharmonic nuclear motion.",
+              "id": "gcn_cb768fb24af34a91"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_1cdab090889f4f2f",
+            "premises": [
+              {
+                "content": "Let the Urbach energy $E_U$ parameterize the exponential tail of the optical absorption coefficient and let $\\xi$ denote the spatial correlation length of the electronic disorder potential $\\Delta V(\\mathbf{r})$. The proposition is: for the halide-perovskite materials studied the principal contribution to $E_U$ arising from thermally induced electronic disorder scales approximately as $E_U \\propto \\alpha\\,\\xi^2$ with a material-dependent prefactor $\\alpha$, so that shortening $\\xi$ to nearest-neighbor length scales is expected to substantially reduce $E_U$ and the density of tail states, assuming other contributions to $E_U$ (electron-phonon coupling, excitonic broadening, static defects) are subdominant or separable.",
+                "id": "gcn_f72ac7c540e64a33"
+              },
+              {
+                "content": "Computational results for disorder correlation length $\\xi$ and band-edge histograms obtained from DFT-MD and constrained-scenario calculations on finite periodic supercells (for example, $4\\times 4\\times 2$ cells) are proposed to be extrapolated to predict macroscopic optical observables such as the Urbach energy $E_U$ and bulk density of tail states. The proposition is: such an extrapolation is valid under the assumption that extrinsic sources of disorder (defects, grain boundaries) are negligible and that the finite-supercell disorder statistics and computed $\\xi$ reflect the behavior of the bulk material that determines measured Urbach tails, and that scaling relations relating $E_U$ to $\\xi$ (for example $E_U\\propto\\xi^2$) apply to the thermally induced disorder type present in these samples.",
+                "id": "gcn_27d47236e3f14152"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the previously established upstream results treated as known: (i) the disorder potential computed from full finite-temperature dynamics in CsPbBr$_3$ is short-range correlated and vanishes on nearest-neighbor bond length scales (conclusion 1); and (ii) activating A-site and halide motions dynamically shortens Pb-induced long-range disorder, and this dynamic shortening is reflected in the narrowing of instantaneous band-edge energy distributions such that full dynamics yield substantially narrower CBM and VBM histograms and fewer tails than Pb-only constrained scenarios (conclusion 5). These upstream conclusions are used as starting points for the present inference.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Use the physical link between disorder-potential correlation length and the density of tail states: the Urbach energy (which quantifies the steepness of the optical absorption edge) scales with the square of the correlation length of the disorder potential, so a larger correlation length produces more disorder-induced tail states and a larger Urbach energy, whereas a short correlation length confines electronic perturbations to small spatial regions and yields fewer tail states. This scaling relation is invoked as given by previous literature. \n[27]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Combine the short-range disorder-potential observation with the narrowed band-edge distributions to establish the explanatory mechanism: because (a) full finite-temperature nuclear dynamics produce a short-range correlated disorder potential that perturbs electronic states only locally (conclusion 1), and (b) the full-MD band-edge energy histograms are narrowed relative to Pb-only constrained histograms (conclusion 5), it follows that the thermal nuclear motion in these halide perovskites perturbs electronic states only in small volumes of the crystal and consequently produces a low density of disorder-induced tail states. The authors explicitly connect the computed narrow CBM/VBM distributions to a reduced density of tail states arising from the short-range disorder. \nFig. 4",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Relate this mechanism to experimental indicators of disorder and optical sharpness: since a low density of tail states corresponds to a narrow distribution of available band gaps and a steep optical absorption onset, the dynamic-shortening mechanism rationalizes how halide perovskite crystals at elevated temperatures can exhibit narrow band-gap distributions, sharp optical absorption edges, and small Urbach energies (experimentally reported Urbach energies are on the order of $10$–$20\\ \\text{meV}$ for such materials), despite the presence of large anharmonic nuclear motion. The authors therefore propose this dynamic effect as the explanation linking atomistic nuclear dynamics to favorable optoelectronic observables. \n[12]",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "State caveats and explicit assumptions invoked by the authors: the conclusion is made in the context of pristine crystals \"in absence of defect states and other static perturbations of the crystal\" (i.e., the mechanism addresses disorder induced by thermal nuclear motion rather than by static defects), and the authors note that the dynamic-shortening mechanism yields a macroscopic crystal that on average contains only a small density of disorder-induced tail states, thereby producing a narrow optical absorption onset and small Urbach energy. The authors assert this implication based on the computed short-range $C(\\Delta y)$, the reduced tail density in the CBM/VBM histograms, and the scaling relation between correlation length and Urbach energy.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Reconciling the experimentally observed small Urbach energies and sharp absorption edges of HaPs with their pronounced anharmonic nuclear dynamics required an explicit microscopic mechanism that links finite-temperature nuclear motion to the spatial extent of the electronic disorder potential and then to band-edge statistics. Prior to this work there was no direct first-principles chain of evidence showing that dynamical collective motions could reduce the effective correlation length of the disorder potential and thereby suppress tail-state formation; without that chain the coexistence of strong nuclear disorder and favorable optoelectronic sharpness remained unexplained.",
+            "id": "paper:867757485061046539::conclusion_7_subproblem",
+            "source_package": "paper:867757485061046539"
+          }
+        ],
+        "source_package": "paper:867757485061046539"
+      }
+    ],
+    "papers": {
+      "paper:867757485061046539": {
+        "area": "arXiv-Physics",
+        "authors": "Christian Gehrmann | David A. Egger",
+        "available_online": "",
+        "cover_date_start": "2019-02-03",
+        "created_at": "2023-05-23T05:18:27+08:00",
+        "doi": "10.48550/arXiv.1902.00950",
+        "en_title": "Dynamic Shortening of Disorder Potentials in Anharmonic Halide Perovskites",
+        "id": "867757485061046539",
+        "keywords": "",
+        "publication_date": "2019-02-03",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "非谐卤化物钙钛矿中无序势的动态缩短"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "657a2878caadb358ded527c54958d4d4"
+}

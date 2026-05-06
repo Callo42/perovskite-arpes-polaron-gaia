@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1022743350287007747": {
+        "area": "Material science",
+        "authors": "Yulong Zhang | Zhaoyi Jiang | Jincheng Li | Guanxiong Meng | Jiajun Guo | Weijia Zhang",
+        "available_online": "",
+        "cover_date_start": "2024-07-23",
+        "created_at": "2024-07-23T21:36:56+08:00",
+        "doi": "10.3390/coatings14070918",
+        "en_title": "Preparation of Highly Efficient and Stable All-Inorganic CsPbBr3 Perovskite Solar Cells Using Pre-Crystallization Multi-Step Spin-Coating Method",
+        "id": "1022743350287007747",
+        "keywords": "[{\"en_name\": \"CsPbBr3\", \"ch_name\": \"\"}, {\"en_name\": \"highly efficient and stability\", \"ch_name\": \"\"}, {\"en_name\": \"perovskite solar cells\", \"ch_name\": \"\"}, {\"en_name\": \"porous PbBr2\", \"ch_name\": \"\"}, {\"en_name\": \"sequential deposition\", \"ch_name\": \"\"}]",
+        "publication_date": "",
+        "publication_id": "2195",
+        "publication_name": "Coatings _ ",
+        "research_categories": "[\"Engineering\", \"Materials Engineering\"]",
+        "zh_title": "采用预结晶多步旋涂法制备高效稳定的全无机CsPbBr₃钙钛矿太阳能电池"
+      },
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:1123587709437214737": {
+        "area": "arXiv-Physics",
+        "authors": "Ganesh Narasimha | Maryam Bari | Benjamin J Lawrie | Ilia N Ivanov | Marti Checa | Sumner B. Harris | Zuo-Guang Ye | Rama Vasudevan | Yongtao Liu",
+        "available_online": "",
+        "cover_date_start": "2025-04-24",
+        "created_at": "2025-04-28T04:16:27+08:00",
+        "doi": "10.48550/arxiv.2504.17882",
+        "en_title": "Ferroelastic Domain Induced Electronic Modulation in Halide Perovskites",
+        "id": "1123587709437214737",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "卤化物钙钛矿中铁电弹性畴诱导的电子调制"
+      },
+      "paper:811161431088037888": {
+        "area": "Material science",
+        "authors": "Jun Pan | Li Na Quan | Yongbiao Zhao | Wei Peng | Banavoth Murali | Smritakshi P. Sarmah | Mingjian Yuan | Lutfan Sinatra | Noktan M. Alyami | Jiakai Liu | Emre Yassitepe | Zhenyu Yang | Oleksandr Voznyy | Riccardo Comin | Mohamed N. Hedhili | Omar F. Mohammed | Zheng Hong Lu | Dong Ha Kim | Edward H. Sargent | Osman M. Bakr",
+        "available_online": "2016-8-16",
+        "cover_date_start": "2016-08-16",
+        "created_at": "2022-12-18T01:05:57+08:00",
+        "doi": "10.1002/adma.201600784",
+        "en_title": "Highly Efficient Perovskite-Quantum-Dot Light-Emitting Diodes by Surface Engineering",
+        "id": "811161431088037888",
+        "keywords": "[{\"en_name\": \"CsPbBr<sub>3</sub>\", \"ch_name\": \"\"}, {\"en_name\": \"external quantum efficiency\", \"ch_name\": \"\"}, {\"en_name\": \"light-emitting diodes\", \"ch_name\": \"\"}, {\"en_name\": \"perovskite\", \"ch_name\": \"\"}, {\"en_name\": \"quantum dots\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-10",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ Adv. Mater.",
+        "research_categories": "",
+        "zh_title": "通过表面工程实现的高效钙钛矿量子点发光二极管"
+      },
+      "paper:811884265452077056": {
+        "area": "Material science",
+        "authors": "Shivam Singh | Dinesh Kabra",
+        "available_online": "2021-8-26",
+        "cover_date_start": "2021-08-26",
+        "created_at": "2022-12-20T00:58:12+08:00",
+        "doi": "10.1021/acsami.1c14152",
+        "en_title": "Comparative Study of Recombination Dynamics in Optimized Composition of Sn- Versus Pb-Based Perovskite Solar Cells",
+        "id": "811884265452077056",
+        "keywords": "[{\"ch_name\":\"双分子复合\",\"en_name\":\"bimolecular recombination\"},{\"ch_name\":\"缺陷\",\"en_name\":\"defects\"},{\"ch_name\":\"无铅钙钛矿\",\"en_name\":\"Pb-free perovskite\"},{\"ch_name\":\"载流子衰减速率定律\",\"en_name\":\"rate law of charge carrier decay\"},{\"ch_name\":\"瞬态光电压\",\"en_name\":\"transient photovoltage\"}]",
+        "publication_date": "2021-9-8",
+        "publication_id": "2064",
+        "publication_name": "ACS Applied Materials and Interfaces _ ACS Appl. Mater. Interfaces",
+        "research_categories": "",
+        "zh_title": "锡基与铅基钙钛矿太阳能电池优化组成中复合动力学的比较研究"
+      },
+      "paper:812689137185325056": {
+        "area": "Material science",
+        "authors": "Wenzhen Lv | Ling Li | Mingguang Li | Ligang Xu | Wei Huang | Runfeng Chen",
+        "available_online": "",
+        "cover_date_start": "2020-03-01",
+        "created_at": "2022-12-22T06:16:31+08:00",
+        "doi": "10.1002/adom.201901485",
+        "en_title": "Self‐Assembly of Completely Inorganic Perovskite Nanocrystals with Improved Stability by Anchoring on Kaolinite Lamellae",
+        "id": "812689137185325056",
+        "keywords": "[{\"ch_name\":\"高岭石片层\",\"en_name\":\"kaolinite lamellae\"},{\"ch_name\":\"发光材料\",\"en_name\":\"luminescent materials\"},{\"ch_name\":\"光电器件\",\"en_name\":\"optoelectronic devices\"},{\"ch_name\":\"钙钛矿纳米晶体\",\"en_name\":\"perovskite nanocrystals\"},{\"ch_name\":\"稳定性\",\"en_name\":\"stability\"}]",
+        "publication_date": "2020-3",
+        "publication_id": "2068",
+        "publication_name": "Advanced Optical Materials _ Adv. Optical Mater.",
+        "research_categories": "",
+        "zh_title": "通过锚定在高岭石薄片上实现具有增强稳定性的全无机钙钛矿纳米晶体的自组装"
+      },
+      "paper:840556798095130624": {
+        "area": "Material science",
+        "authors": "Marija Knezevic | Duong Vien Quach | Isabelle Lampre | Marie Erard | Pascal Pernot | David Berardan | C Colbeau-Justin | Mohamed Nawfal Ghazzal",
+        "available_online": "",
+        "cover_date_start": "2023-03-08",
+        "created_at": "2023-03-09T03:52:39+08:00",
+        "doi": "10.1039/d2ta09920a",
+        "en_title": "Adjusting the band gap of CsPbBr3−yXy (X = Cl, I) for optimal interfacial charge transfer and enhanced photocatalytic hydrogen generation",
+        "id": "840556798095130624",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2059",
+        "publication_name": "Journal of Materials Chemistry A _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\"]",
+        "zh_title": "调整CsPbBr₃₋ₙXₙ（X = Cl，I）的带隙以实现最佳界面电荷转移并增强光催化产氢性能"
+      },
+      "paper:867764362457121499": {
+        "area": "arXiv-Physics",
+        "authors": "Kingshuk Mukhuti | Arnab Mandal | Basabendra Roy | Sayan Bhattacharyya | Bhavtosh Bansal",
+        "available_online": "",
+        "cover_date_start": "2022-10-10",
+        "created_at": "2023-05-23T05:45:46+08:00",
+        "doi": "10.48550/arXiv.2210.05041",
+        "en_title": "Carrier thermalization and zero-point bandgap renormalization in halide perovskites from the Urbach tails of the emission spectrum",
+        "id": "867764362457121499",
+        "keywords": "",
+        "publication_date": "2022-10-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于发射光谱的乌尔巴赫尾研究卤化物钙钛矿中的载流子热化和零点带隙重整化"
+      },
+      "paper:867772787102581530": {
+        "area": "arXiv-Physics",
+        "authors": "Radi A. Jishi | Robert J. Appleton | David M. Guzman",
+        "available_online": "",
+        "cover_date_start": "2020-09-03",
+        "created_at": "2023-05-23T06:19:15+08:00",
+        "doi": "10.48550/arXiv.2009.01714",
+        "en_title": "Electronic and Optical Properties of Ultrawide Bandgap Perovskite Semiconductors via First Principles Calculations",
+        "id": "867772787102581530",
+        "keywords": "",
+        "publication_date": "2020-09-03",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "基于第一性原理计算的超宽带隙钙钛矿半导体的电子和光学性质"
+      },
+      "paper:885128434664080187": {
+        "area": "Chemistry",
+        "authors": "Jingyi Ran | Bipeng Wang | Yifan Wu | Dongyu Liu | Carlos Mora Perez | Andrey S. Vasenko | Oleg V. Prezhdo",
+        "available_online": "2023-6-23",
+        "cover_date_start": "2023-06-23",
+        "created_at": "2023-07-10T03:44:24+08:00",
+        "doi": "10.1021/acs.jpclett.3c01231",
+        "en_title": "Halide Vacancies Create No Charge Traps on Lead Halide Perovskite Surfaces but Can Generate Deep Traps in the Bulk",
+        "id": "885128434664080187",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3390",
+        "publication_name": "The Journal of Physical Chemistry Letters _ J. Phys. Chem. Lett.",
+        "research_categories": "",
+        "zh_title": "卤化物空位在卤化铅钙钛矿表面不会产生电荷陷阱，但会在体相中产生深陷阱"
+      }
+    },
+    "variables": [
+      {
+        "content": "The computed hole self-trapping energies of approximately 0.25 eV (defined as E_ST = E₁ − E₂ with E₁ and E₂ as above) and the identification of the stabilized localized hole as an oxygen-centered small polaron imply that conventional substitutional acceptor chemical doping procedures operating under typical growth and measurement conditions near room temperature are unlikely to produce a significant density of mobile, delocalized band-like holes in these three perovskite crystals, because the energetically favored localized polaron state is lower in energy by ≈0.25 eV and therefore strongly favored over thermally activated delocalization.",
+        "content_hash": "d857e52973d3c131a47aa6adb9e53cb3f43244838d9f48d96944fddf748175b2",
+        "id": "gcn_fc5a0e2fd92c4382",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772787102581530::conclusion_6",
+            "package_id": "paper:867772787102581530",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772787102581530"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+        "content_hash": "cb964e1254b791275e660c77db7345d06e04cb67be9d6c6d3a8c94d0950ca5da",
+        "id": "gcn_78dd3a5f6fb84289",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Incorporation of iodide into CsPbBr₃ (nominal examples CsPbBr₁.₉₅I₁.₀₅ and CsPbBr₁.₆₅I₁.₃₅) produces spectroscopic signatures characteristic of hole localization on iodide‑derived states: steady‑state and time‑resolved photoluminescence (PL, TRPL) are strongly quenched (for example TRPL lifetime ≈0.39 ns for CsPbBr₁.₉₅I₁.₀₅), femtosecond TAS shows an early‑time redshift of the photobleach (PB) spectral position together with markedly reduced PB amplitude consistent with hole transfer to iodide‑rich valence‑band states, and complementary techniques indicate accelerated non‑radiative hole‑channeling and shortened free‑carrier lifetimes (TAS t₁ ≈ 1.0 ps for CsPbBr₁.₉₅I₁.₀₅ and ≈0.67 ps for CsPbBr₁.₆₅I₁.₃₅; time‑resolved microwave conductivity, TRMC, traces for iodide‑rich samples show substantially shorter long‑lived photoconductivity responses than bromide‑ or chloride‑rich samples), all of which are consistent with iodide acting as a hole‑trapping center.",
+        "content_hash": "7cff9e15a5fe290b7df2b98417a28c68a5bd487ed3a48a0699ef0b9a1293a565",
+        "id": "gcn_556c2696b76646ff",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:840556798095130624::conclusion_4",
+            "package_id": "paper:840556798095130624",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:840556798095130624"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed absence of deep, energetically separated trap states at Br vacancies on modeled CsPbBr3 surfaces, together with the surface-induced spatial separation of electron and hole charge density while preserving in-plane carrier delocalization, provides a mechanistic explanation for the experimentally observed bright photoluminescence and reduced blinking of colloidal lead-halide perovskite quantum dots (QDs): surface halide vacancies in the idealized CsBr-terminated slab do not immobilize carriers in deep traps and therefore do not produce the charged surface trap states that commonly cause blinking in traditional inorganic semiconductor QDs.",
+        "content_hash": "26c5fc88d9cff74ef09c877fd792db1a58d7aa2ad7071c895073be9cac1345ca",
+        "id": "gcn_38b5aaf43e4b47ec",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:885128434664080187::conclusion_7",
+            "package_id": "paper:885128434664080187",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:885128434664080187"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ensemble of CsPbBr3 nanosheets studied, the conjunction of (i) a modest zero‑point bandgap renormalization numerically of order 33 meV, (ii) the absence of resolvable phonon‑replica lines in the measured PL spectra at the available instrumental spectral resolution and under the applied excitation conditions, and (iii) linewidth temperature dependence consistent with Bose‑population (coth‑like) scaling rather than strong‑coupling polaronic scaling, collectively provides evidence that disfavors formation of small polarons (self‑trapped excitons) as the operative carrier state in these samples, subject to the caveat that strong inhomogeneous broadening or other extrinsic effects could in principle mask polaronic signatures.",
+        "content_hash": "c65b6e9c6406f07b71340c4abc702f114044e7f9c90dc950e93b404d4bede6c5",
+        "id": "gcn_c11700f569314c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P8",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In illuminated halide perovskite devices with a high density of shallow defect (trap) states or with polaronically stabilized carriers, recombination pathways that involve trapping or polaron stabilization can produce long small‑signal perturbed lifetimes τΔn—because trapped or polaron‑stabilized carriers relax slowly when perturbed—while simultaneously permitting substantial steady‑state nonradiative recombination that reduces the quasi‑Fermi level splitting and therefore suppresses the open‑circuit voltage V_OC; thus, a slow small‑signal relaxation time does not imply low nonradiative steady‑state losses or high steady‑state radiative efficiency.",
+        "content_hash": "ae1947c0d04f2d99e4cd1708e2ace6aa93cf0a8e666dc8c3c3a1b1ba0deb4fa9",
+        "id": "gcn_47df32996d134669",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811884265452077056::P9",
+            "package_id": "paper:811884265452077056",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811884265452077056"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A small blue shift of the steady-state photoluminescence emission peak from 531 nm to 529 nm measured on two CsPbBr₃ films prepared under nominally identical thickness and measurement conditions is attributed to passivation of near-band-edge defects or sub-band-gap defect states rather than to alternative causes such as subtle compositional variation (halide stoichiometry), residual strain, or measurement-sampling differences, absent direct evidence (for example, compositional mapping or strain analysis) that excludes those alternative mechanisms.",
+        "content_hash": "ab47ba8011ed991932b51bdcc9971c239738b2e45d61a9feb2751e641eb4606c",
+        "id": "gcn_9f8b80868baf4665",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1022743350287007747::P15",
+            "package_id": "paper:1022743350287007747",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1022743350287007747"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The measured increase in external quantum efficiency (EQE) of perovskite quantum‑dot LEDs after DDAB surface treatment (an increase to a maximum EQE of 3.0% for devices employing DDAB‑capped CsPbBr3 QDs in the ITO/PEDOT:PSS/PVK/QD/TPBi/LiF/Al stack) is primarily attributable to improved hole/electron balance in the perovskite QD emitting layer that results from halide‑ion‑pair ligand passivation; the halide/alkylammonium X‑type capping reduces surface trap states, thereby reducing nonradiative recombination losses and improving the carrier balance that controls external quantum efficiency.",
+        "content_hash": "756a633078f04ef0c4ec98379ed921a536895d7adc490d87bd55381672b87a4d",
+        "id": "gcn_ae7c07984b2b420e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811161431088037888::P8",
+            "package_id": "paper:811161431088037888",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811161431088037888"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Time‑domain ab initio simulations and theoretical studies reported for model halide‑perovskite systems that demonstrate non‑adiabatic electron–phonon interactions, polaron formation, and domain‑wall‑driven carrier separation provide a qualitatively plausible mechanistic template for interpreting co‑localized CL suppression and enhanced Raman phonon signatures observed at ferroelastic twin walls in real CsPbBr3 single crystals, even though differences in domain geometry, stoichiometry, defect content, and experimental excitation conditions may exist between the simulated models and the measured samples.\n      [27]",
+        "content_hash": "f4ccbfaaa8bb3a6a9dbe100b38067bd365afe158cc63e7d5e4cbf27496bafb18",
+        "id": "gcn_f2ec72ef76e34b77",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1123587709437214737::P11",
+            "package_id": "paper:1123587709437214737",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1123587709437214737"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The ≈13 nm red shift in the photoluminescence maximum observed when the hot-injection reaction time increases from 5 s to 2 min (with all other synthesis parameters held constant) is attributed primarily to an increase in the physical size of CsPbBr3 nanocrystals caused by Ostwald ripening (small nanoparticles dissolving and redepositing onto larger particles), rather than being substantially due to halide-composition changes, ligand desorption, aggregation-induced reabsorption/self-absorption, or a perovskite phase change.",
+        "content_hash": "b779464d3c966e360e2eac4b6b3df3f28ad2d6ffb02b3596b324c759bf3aef29",
+        "id": "gcn_445f38bdef1046ca",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812689137185325056::P12",
+            "package_id": "paper:812689137185325056",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812689137185325056"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "aa48bcf2cfe79ac58c45c601b932521b"
+}

@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811110495141494786": {
+        "area": "Material science",
+        "authors": "Xiaosheng Tang | Zhiping Hu | Wei Yuan | Wei Hu | Haibing Shao | Dongjia Han | Junfeng Zheng | Jiongyue Hao | Zhigang Zang | Juan Du | Yuxin Leng | Liang Fang | Miao Zhou",
+        "available_online": "2016-11-18",
+        "cover_date_start": "2016-11-18",
+        "created_at": "2022-12-17T21:43:33+08:00",
+        "doi": "10.1002/adom.201600788",
+        "en_title": "Perovskite CsPb 2 Br 5 Microplate Laser with Enhanced Stability and Tunable Properties",
+        "id": "811110495141494786",
+        "keywords": "",
+        "publication_date": "2017-2",
+        "publication_id": "2068",
+        "publication_name": "Advanced Optical Materials _ Advanced Optical Materials",
+        "research_categories": "",
+        "zh_title": "具有增强稳定性和可调谐特性的钙钛矿CsPb₂Br₅微板激光器"
+      },
+      "paper:811998935622090753": {
+        "area": "Material science",
+        "authors": "John L. Lyons",
+        "available_online": "2021-7-23",
+        "cover_date_start": "2021-07-23",
+        "created_at": "2022-12-20T08:33:52+08:00",
+        "doi": "10.1021/acs.chemmater.1c01898",
+        "en_title": "Effective Donor Dopants for Lead Halide Perovskites",
+        "id": "811998935622090753",
+        "keywords": "",
+        "publication_date": "2021-8-10",
+        "publication_id": "2060",
+        "publication_name": "Chemistry of Materials _ Chem. Mater.",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "用于卤化铅钙钛矿的有效施主掺杂剂"
+      },
+      "paper:812135586709110785": {
+        "area": "Material science",
+        "authors": "Tianyuan Liang | Wenjie Liu | Xiaoyu Liu | Yuanyuan Li | Wenhui Wu | Jiyang Fan",
+        "available_online": "2021-6-18",
+        "cover_date_start": "2021-06-18",
+        "created_at": "2022-12-20T17:36:53+08:00",
+        "doi": "10.1021/acs.chemmater.1c00542",
+        "en_title": "In Situ Phase-Transition Crystallization of All-Inorganic Water-Resistant Exciton-Radiative Heteroepitaxial CsPbBr 3 –CsPb 2 Br 5 Core–Shell Perovskite Nanocrystals",
+        "id": "812135586709110785",
+        "keywords": "",
+        "publication_date": "2021-7-13",
+        "publication_id": "2060",
+        "publication_name": "Chemistry of Materials _ Chem. Mater.",
+        "research_categories": "",
+        "zh_title": "全无机耐水激子辐射异质外延CsPbBr₃–CsPb₂Br₅核壳钙钛矿纳米晶体的原位相变结晶"
+      },
+      "paper:812716397275643905": {
+        "area": "Physics and Astrophysics",
+        "authors": "Y. K. Frodason | K. M. Johansen | A. Galeckas | L. Vines",
+        "available_online": "2019-11-4",
+        "cover_date_start": "2019-11-04",
+        "created_at": "2022-12-22T08:04:50+08:00",
+        "doi": "10.1103/physrevb.100.184102",
+        "en_title": "Broad luminescence from donor-complexed Li Zn and Na Zn acceptors in ZnO",
+        "id": "812716397275643905",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "氧化锌中施主络合的锂锌和钠锌受主的宽发光"
+      },
+      "paper:813109426834636800": {
+        "area": "Comprehensive Periodical",
+        "authors": "Kiyoshi Miyata | Daniele Meggiolaro | M. Tuan Trinh | Prakriti P. Joshi | Edoardo Mosconi | Skyler C. Jones | Filippo De Angelis | X.-Y. Zhu",
+        "available_online": "",
+        "cover_date_start": "2017-08-04",
+        "created_at": "2022-12-23T10:06:34+08:00",
+        "doi": "10.1126/sciadv.1701217",
+        "en_title": "Large polarons in lead halide perovskites",
+        "id": "813109426834636800",
+        "keywords": "",
+        "publication_date": "2017-8-4",
+        "publication_id": "6329",
+        "publication_name": "Science Advances _ Sci. Adv.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中的大极化子"
+      },
+      "paper:814713462943907842": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. B. Varley | V. Lordi | A. Miglio | G. Hautier",
+        "available_online": "2014-7-16",
+        "cover_date_start": "2014-07-16",
+        "created_at": "2022-12-27T20:20:27+08:00",
+        "doi": "10.1103/physrevb.90.045205",
+        "en_title": "Electronic structure and defect properties of B 6 O from hybrid functional and many-body perturbation theory calculations: A possible ambipolar transparent conductor",
+        "id": "814713462943907842",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "来自混合泛函和多体微扰理论计算的 B 6 O 的电子结构和缺陷特性：一种可能的双极性透明导体"
+      },
+      "paper:867764362457121499": {
+        "area": "arXiv-Physics",
+        "authors": "Kingshuk Mukhuti | Arnab Mandal | Basabendra Roy | Sayan Bhattacharyya | Bhavtosh Bansal",
+        "available_online": "",
+        "cover_date_start": "2022-10-10",
+        "created_at": "2023-05-23T05:45:46+08:00",
+        "doi": "10.48550/arXiv.2210.05041",
+        "en_title": "Carrier thermalization and zero-point bandgap renormalization in halide perovskites from the Urbach tails of the emission spectrum",
+        "id": "867764362457121499",
+        "keywords": "",
+        "publication_date": "2022-10-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于发射光谱的乌尔巴赫尾研究卤化物钙钛矿中的载流子热化和零点带隙重整化"
+      },
+      "paper:867770878820090503": {
+        "area": "arXiv-Physics",
+        "authors": "Henry A. Cortes | a Verónica L. Vildosola | ab María Andrea Barral | Horacio R. Corti",
+        "available_online": "",
+        "cover_date_start": "2018-05-09",
+        "created_at": "2023-05-23T06:11:40+08:00",
+        "doi": "10.48550/arXiv.1805.03692",
+        "en_title": "Effect of halogen dopants on the Li$_{2}$O$_{2}$ properties: Is chloride special?",
+        "id": "867770878820090503",
+        "keywords": "",
+        "publication_date": "2018-05-09",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Engineering\", \"Materials Engineering\", \"Physical Sciences\"]",
+        "zh_title": "卤素掺杂剂对Li₂O₂性质的影响：氯离子有何特殊之处？"
+      }
+    },
+    "variables": [
+      {
+        "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+        "content_hash": "cb964e1254b791275e660c77db7345d06e04cb67be9d6c6d3a8c94d0950ca5da",
+        "id": "gcn_78dd3a5f6fb84289",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Temperature‑dependent dynamic lattice disorder and lattice‑polaron formation in crystalline CsPbBr3 are assumed here to induce level shifts and polaron binding energies whose magnitudes are smaller than about 0.20 eV, so that these dynamical and polaronic effects do not change the qualitative ordering between conduction‑band‑resonant defect states and localized midgap defect states for substitutional Pb‑site impurities (i.e., a defect classified as conduction‑band‑derived in a static HSE+SOC supercell calculation will not be converted into a deep localized donor, nor will a deep localized donor be converted into a conduction‑resonant state, by such effects).",
+        "content_hash": "80e94b061b5d843129c8ba988164af6450c5fae4f3e168dec9cf1e85d97dfa6e",
+        "id": "gcn_b9a513ab0d3f4700",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811998935622090753::P8",
+            "package_id": "paper:811998935622090753",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811998935622090753"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030158730158730156,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define a polaron as a charge carrier (here a hole) that self-localizes through a local lattice distortion, producing a localized in-gap electronic state or a strongly localized perturbation of the valence-band dispersion. Consider the following explicit first-principles simulation protocol: start from a 3×3×3 pseudocubic AIMD supercell (135 atoms) equilibrated at T = 300 K, remove one electron to introduce a single extra hole while applying any standard neutralizing background required for charged-supercell calculations, and compute the electronic structure of the charged supercell with HSE–SOC using α = 0.54. The proposition is: if a thermodynamically stable small hole polaron exists under bulk-like conditions at T = 300 K, then the stated simulation procedure (finite supercell of this size, the HSE–SOC electronic-structure method with the indicated α, and an AIMD-sampled atomic configuration) is sufficient to produce a detectable localized in-gap state or a stabilized localized lattice distortion; conversely, absence of such signatures in the described simulation implies that small polarons are not stabilized under the simulated conditions.",
+        "content_hash": "6d5b61824ec83aadbeb65c701957b2f73d406842fe7d658f57537124deee7dc3",
+        "id": "gcn_82d0efc0c1024ec8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::P6",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The HSE06 hybrid DFT electronic band‑structure calculations reported for bulk monoclinic CsPbBr₃ and tetragonal CsPb₂Br₅ were performed using the VASP projector augmented‑wave implementation and the band structures and quoted gap values (direct gap 2.18 eV and indirect gap 2.09 eV for CsPbBr₃, and gap 4.06 eV for CsPb₂Br₅) are those obtained without an explicit treatment of spin–orbit coupling (SOC) in the band‑dispersion runs; i.e., SOC corrections and possible Rashba splitting were not included in the numerical band plots used to report those gap values.\n      [VASP, HSE06]",
+        "content_hash": "8b10fc4c124965c8b8a78626aa3daf0f1207e3140cb32f7fad7eb3493fa633c1",
+        "id": "gcn_7deff9c316694b1e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812135586709110785::P7",
+            "package_id": "paper:812135586709110785",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812135586709110785"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A hole small polaron is defined as a self-localized hole state in which an added hole localizes at or near a lattice site accompanied by local lattice relaxation that lowers the total energy relative to a delocalized hole; in spin-polarized hybrid-functional (HSE) supercell calculations for defect-free, stoichiometric bulk B₆O no self-consistent localized hole-polaron solution could be stabilized using the reported exchange fraction, cell sizes, and relaxation protocols, and therefore small hole polarons are not predicted to be thermodynamically stable intrinsic carrier species in stoichiometric bulk B₆O within the limits of these calculations.",
+        "content_hash": "3e6b2b8ab5ef82480a0867100d6d5c459523f30c0ab1cdb41e56a5abf593c765",
+        "id": "gcn_dd09e413a4294553",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814713462943907842::conclusion_4",
+            "package_id": "paper:814713462943907842",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814713462943907842"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The positive charge states corresponding to the (+/0) side of the donor–acceptor complexes contain a localized hole polaron, defined here as a self-trapped hole whose electronic density is localized primarily on an oxygen 2p orbital and accompanied by local lattice relaxation, located on an O neighbor of the acceptor cation; this polaronic final state is structurally analogous to the small-hole-polaron ground state of the neutral isolated Li_{Zn} and Na_{Zn} acceptors (i.e., a localized hole density at one of the oxygen neighbors and a symmetry-breaking lattice distortion) as obtained from the relaxed defect geometries in the HSE supercell calculations.",
+        "content_hash": "8c83cd128c756df48f3b548210fb1b2e0bb37d319f990dd1af42763006a83d40",
+        "id": "gcn_81b4402f739645e6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812716397275643905::conclusion_4",
+            "package_id": "paper:812716397275643905",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812716397275643905"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Confirmation of the PBE+SOC electronic-structure results by a limited number of higher-level hybrid-functional calculations using the Heyd–Scuseria–Ernzerhof screened hybrid functional (HSE06) but without performing a systematic convergence study (i.e., without varying the fraction of exact exchange, without carrying out GW quasiparticle corrections, and without explicit Bethe–Salpeter-equation excitonic calculations) is assumed to be sufficient to establish the reported DFT band-gap values for $CsPb_2Br_5$ to within approximately $\\pm0.1\\ \\mathrm{eV}$ for the purposes of comparison to room-temperature photoluminescence measurements.",
+        "content_hash": "e13aaee87dc72e583defcb053fc6b0ea866fae48b68f61789c8e59e728c8464c",
+        "id": "gcn_b3f4ba0eeb714144",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811110495141494786::P5",
+            "package_id": "paper:811110495141494786",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811110495141494786"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In undoped bulk crystalline $Li_2O_2$, the HSE calculation with $\\alpha=0.48$ gives an energy gain of about $906\\ \\mathrm{meV}$ for localizing an extra positive charge as a hole polaron on an oxygen dimer rather than keeping the charge delocalized. This large stabilization indicates that localized hole polarons are energetically favored over delocalized hole states in the bulk material.",
+        "content_hash": "b77e73fb54473fd6f2095b516fce0d637518a6e6acc929eabf4572bbf7b82f16",
+        "id": "gcn_6b1313975d8141df",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867770878820090503::P8",
+            "package_id": "paper:867770878820090503",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867770878820090503"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Hybrid PBE0 calculations on a periodic $2\\\\times2\\\\times8$ $CsPbBr_{3}$ supercell in which localized geometrical distortions (shortened Pb–Br bonds) are imposed and the charged (+1) supercell is fully relaxed produce a spatial distribution of excess positive (hole) density that decays away from the region of maximal distortion; analysis of the decay and saturation behavior of the excess hole charge density and of the Pb–Br distance distribution along the long cell axis in this finite supercell yields a conservative lower-bound estimate for the hole-polaron radius of $\\\\rho_{h}\\\\sim2.5\\\\ \\\\mathrm{nm}$ in $CsPbBr_{3}$, recognizing that finite-cell periodic images, the seeding perturbation, and the zero-temperature hybrid-DFT treatment bias this value toward smaller localization and therefore render it a lower bound rather than an absolute polaron size in the infinite, finite-temperature crystal.",
+        "content_hash": "dc95c9dc0efd092e65fb587d795adb4866efd4614ee47f243ff1052a6c11e862",
+        "id": "gcn_ba604cfc3bd245e3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813109426834636800::conclusion_4",
+            "package_id": "paper:813109426834636800",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813109426834636800"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ensemble of CsPbBr3 nanosheets studied, the conjunction of (i) a modest zero‑point bandgap renormalization numerically of order 33 meV, (ii) the absence of resolvable phonon‑replica lines in the measured PL spectra at the available instrumental spectral resolution and under the applied excitation conditions, and (iii) linewidth temperature dependence consistent with Bose‑population (coth‑like) scaling rather than strong‑coupling polaronic scaling, collectively provides evidence that disfavors formation of small polarons (self‑trapped excitons) as the operative carrier state in these samples, subject to the caveat that strong inhomogeneous broadening or other extrinsic effects could in principle mask polaronic signatures.",
+        "content_hash": "c65b6e9c6406f07b71340c4abc702f114044e7f9c90dc950e93b404d4bede6c5",
+        "id": "gcn_c11700f569314c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P8",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "91ab08149478c3505c05849b50ae6626"
+}

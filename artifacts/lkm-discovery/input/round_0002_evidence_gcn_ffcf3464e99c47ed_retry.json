@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Applying the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_{0}\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right),\n      with the inputs m_{0}=0.17\\\\,m_e and \\\\alpha=1.81 produces a polaron-renormalized hole mass m_{\\\\mathrm{pol}}=0.24\\\\,m_e; this theoretical mass renormalization reduces the discrepancy between the computed bare mass and the ARPES-derived mass to within the experimental uncertainty of \\\\pm0.02\\\\,m_e.",
+      "content_hash": "0f03375698c16f3a155fca0b713d3f3a5bbfc85c0c9723ddad2bceaa813fed32",
+      "id": "gcn_ffcf3464e99c47ed",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Applying the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_{0}\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right),\n      with the inputs m_{0}=0.17\\\\,m_e and \\\\alpha=1.81 produces a polaron-renormalized hole mass m_{\\\\mathrm{pol}}=0.24\\\\,m_e; this theoretical mass renormalization reduces the discrepancy between the computed bare mass and the ARPES-derived mass to within the experimental uncertainty of \\\\pm0.02\\\\,m_e.",
+              "id": "gcn_ffcf3464e99c47ed"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_c33c62750055451d",
+            "premises": [
+              {
+                "content": "For a Fröhlich polaron characterized by coupling strength \\\\alpha and bare electronic mass m_0, the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_0\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right)\n      truncated at the displayed second-order term provides a numerical estimate of the polaron-renormalized effective mass m_{\\\\mathrm{pol}} that is accurate for \\\\alpha\\\\approx1.81 within truncation and variational errors small compared to the experimental uncertainty of \\\\pm0.02\\\\,m_e used in the ARPES-derived mass comparison.",
+                "id": "gcn_2b322b6a88d742ba"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Treat Conclusions 5 and 2 as established starting points: the Fröhlich coupling parameter is $\\alpha=1.81$ and the bare mass is $m_{0}=0.17\\,m_e$; define $m_{\\mathrm{pol}}$ as the polaron-renormalized effective mass.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Present the Feynman variational polaron-model weak-to-intermediate coupling expansion quoted by the authors:\n$$\nm_{\\mathrm{pol}}=m_{0}\\left(1+\\frac{\\alpha}{6}+0.025\\alpha^{2}+\\cdots\\right),\n$$\nand define each symbol: $m_{\\mathrm{pol}}$ is the polaron mass, $m_{0}$ is the bare mass, and $\\alpha$ is the Fröhlich coupling parameter.\n[75,76]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Evaluate the series to second order using the provided numerical inputs: compute $\\frac{\\alpha}{6}=\\frac{1.81}{6}\\approx 0.3017$ and compute $0.025\\alpha^{2}=0.025\\times(1.81)^{2}\\approx 0.0819$; sum $1+0.3017+0.0819\\approx 1.3836$; multiply by $m_{0}=0.17\\,m_e$ to obtain $m_{\\mathrm{pol}}\\approx 0.17\\times 1.3836\\ m_e\\approx 0.235\\ m_e$, which the authors report as $m_{\\mathrm{pol}}=0.24\\,m_e$ after rounding.",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Compare the Feynman-model result to experiment: state that the computed polaron-renormalized mass $m_{\\mathrm{pol}}=0.24\\,m_e$ brings the theoretical quasiparticle mass into quantitative agreement with the ARPES-derived value $m_{\\mathrm{exp}}=0.26\\pm0.02\\,m_e$, i.e., the theoretical value lies within the experimental uncertainty interval, and conclude that the Feynman-polaron prediction accounts for the observed mass renormalization.\nFig. 4(a)",
+                "step_id": "4"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "DFT provides $m_{0}$ but does not include Fröhlich dressing; to translate a computed $\\alpha$ into a directly comparable quasiparticle mass one must apply a polaron theory appropriate for the computed coupling regime. Prior to this combination of ab initio $\\alpha$ and Feynman-model evaluation there was no direct, ab initio–anchored prediction of the renormalized hole mass in CsPbBr$_3$ that could be compared to the ARPES measurement; without such a calculation the role of Fröhlich polarons in explaining the experimentally observed mass enhancement remained unverified.",
+            "id": "paper:812638467241541632::conclusion_6_subproblem",
+            "source_package": "paper:812638467241541632"
+          }
+        ],
+        "source_package": "paper:812638467241541632"
+      }
+    ],
+    "papers": {
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "c575e772d1ff8f521fc2b194f3375064"
+}

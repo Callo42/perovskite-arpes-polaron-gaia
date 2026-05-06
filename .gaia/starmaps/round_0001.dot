@@ -1,0 +1,94 @@
+digraph starmap {
+    rankdir=TB;
+    compound=true;
+    node [fontname="Helvetica", fontsize=10];
+    edge [fontname="Helvetica", fontsize=9];
+
+    subgraph cluster_paper_puppin2020 {
+        label="paper_puppin2020";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8" [label="★ gcn_1544d55444d743c8\n(0.97)", shape=box, style=filled, fillcolor="#d4edda", color="#28a745", penwidth=2];
+        "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c" [label="gcn_2e9e6e30a5d7431c\n(0.82 → 0.87)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76" [label="gcn_0a71cf6357114b76\n(0.80 → 0.86)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555" [label="gcn_e24a3d64aa604555\n(0.84 → 0.89)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_5e907da32c114d34" [label="gcn_5e907da32c114d34\n(0.84)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "github:perovskite_arpes_polaron::gcn_943f1f964b7a4374" [label="gcn_943f1f964b7a4374\n(0.72 → 0.72)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "strat_0" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_1" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
+    subgraph cluster_paper_sajedi2022 {
+        label="paper_sajedi2022";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc" [label="gcn_4d0e277c6d2c4cdc\n(0.74)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "github:perovskite_arpes_polaron::gcn_e17b013445234bfa" [label="gcn_e17b013445234bfa\n(0.80 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7" [label="gcn_ccc6a5bf10864de7\n(0.80 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767" [label="gcn_3e860bd7f76e4767\n(0.80 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c" [label="gcn_8c3c520295d7488c\n(0.86)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "github:perovskite_arpes_polaron::gcn_ec768b9675814820" [label="gcn_ec768b9675814820\n(0.80 → 0.82)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_5868b15c687043a9" [label="gcn_5868b15c687043a9\n(0.80 → 0.82)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_762777de8c644c17" [label="gcn_762777de8c644c17\n(0.77)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b" [label="gcn_1fc9a84fbc6e4a1b\n(0.72 → 0.72)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207" [label="gcn_e808f6450bfc4207\n(0.80 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "strat_4" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_5" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_6" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
+    subgraph cluster_paper_zhao2025 {
+        label="paper_zhao2025";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c" [label="gcn_e4a5cac31481497c\n(0.77)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c" [label="gcn_c24c81b8a5fe413c\n(0.72 → 0.74)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_43c66f240368417e" [label="gcn_43c66f240368417e\n(0.72 → 0.74)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9" [label="gcn_1c2bf8f398f243f9\n(0.72 → 0.74)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289" [label="gcn_78dd3a5f6fb84289\n(0.88)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "github:perovskite_arpes_polaron::gcn_82d0efc0c1024ec8" [label="gcn_82d0efc0c1024ec8\n(0.80 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "strat_2" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_3" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
+    // cross-module strategy/operator nodes (outside clusters)
+    "strat_7" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    "strat_8" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+
+    // edges
+    "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c" -> "strat_0";
+    "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76" -> "strat_0";
+    "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555" -> "strat_0";
+    "strat_0" -> "github:perovskite_arpes_polaron::gcn_1544d55444d743c8";
+    "github:perovskite_arpes_polaron::gcn_943f1f964b7a4374" -> "strat_1";
+    "strat_1" -> "github:perovskite_arpes_polaron::gcn_5e907da32c114d34";
+    "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c" -> "strat_2";
+    "github:perovskite_arpes_polaron::gcn_43c66f240368417e" -> "strat_2";
+    "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9" -> "strat_2";
+    "strat_2" -> "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c";
+    "github:perovskite_arpes_polaron::gcn_82d0efc0c1024ec8" -> "strat_3";
+    "strat_3" -> "github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289";
+    "github:perovskite_arpes_polaron::gcn_e17b013445234bfa" -> "strat_4";
+    "github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7" -> "strat_4";
+    "github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767" -> "strat_4";
+    "strat_4" -> "github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc";
+    "github:perovskite_arpes_polaron::gcn_ec768b9675814820" -> "strat_5";
+    "github:perovskite_arpes_polaron::gcn_5868b15c687043a9" -> "strat_5";
+    "strat_5" -> "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c";
+    "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b" -> "strat_6";
+    "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207" -> "strat_6";
+    "strat_6" -> "github:perovskite_arpes_polaron::gcn_762777de8c644c17";
+    "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c" -> "strat_7";
+    "strat_7" -> "github:perovskite_arpes_polaron::gcn_1544d55444d743c8";
+    "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c" -> "strat_8";
+    "strat_8" -> "github:perovskite_arpes_polaron::gcn_1544d55444d743c8";
+}

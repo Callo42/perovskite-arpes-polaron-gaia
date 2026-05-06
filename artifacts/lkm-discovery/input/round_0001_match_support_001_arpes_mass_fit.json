@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1109550803607093257": {
+        "area": "arXiv-Physics",
+        "authors": "Dmitry Marchenko | Maryam Sajedi | Maxim Krivenkov | Saleem Ayaz Khan | Andrei Varykhalov | Alexander Fedorov | Jaime Sánchez-Barriga | Daniel M. Többens | Thomas Unold | Ján Minár | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2025-03-19",
+        "created_at": "2025-03-20T10:38:46+08:00",
+        "doi": "10.48550/arxiv.2503.15343",
+        "en_title": "Halide Perovskites as Spin-1 Dirac Materials",
+        "id": "1109550803607093257",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "卤化物钙钛矿作为自旋-1狄拉克材料"
+      },
+      "paper:812575347965952001": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Sajedi | M. Krivenkov | D. Marchenko | A. Varykhalov | J. Sánchez-Barriga | E. D. L. Rienks | O. Rader",
+        "available_online": "2020-8-21",
+        "cover_date_start": "2020-08-21",
+        "created_at": "2022-12-21T22:44:21+08:00",
+        "doi": "10.1103/physrevb.102.081116",
+        "en_title": "Absence of a giant Rashba effect in the valence band of lead halide perovskites",
+        "id": "812575347965952001",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿价带中不存在巨大的 Rashba 效应"
+      },
+      "paper:812575729140105217": {
+        "area": "Physics and Astrophysics",
+        "authors": "C. Monney | M. Herzog | A. Pulkkinen | Y. Huang | J. Pelliciari | P. Olalde-Velasco | N. Katayama | M. Nohara | H. Takagi | T. Schmitt | T. Mizokawa",
+        "available_online": "2020-8-25",
+        "cover_date_start": "2020-08-25",
+        "created_at": "2022-12-21T22:45:52+08:00",
+        "doi": "10.1103/physrevb.102.085148",
+        "en_title": "Mapping the unoccupied state dispersions in Ta 2 NiSe 5 with resonant inelastic x-ray scattering",
+        "id": "812575729140105217",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "利用共振非弹性X射线散射绘制Ta₂NiSe₅中的未占据态色散"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813120303382134786": {
+        "area": "Physics and Astrophysics",
+        "authors": "Zeineb Ben Aziza | Debora Pierucci | Hugo Henck | Mathieu G. Silly | Christophe David | Mina Yoon | Fausto Sirotti | Kai Xiao | Mahmoud Eddrief | Jean-Christophe Girard | Abdelkarim Ouerghi",
+        "available_online": "2017-7-7",
+        "cover_date_start": "2017-07-07",
+        "created_at": "2022-12-23T10:49:48+08:00",
+        "doi": "10.1103/physrevb.96.035407",
+        "en_title": "Tunable quasiparticle band gap in few-layer GaSe/graphene van der Waals heterostructures",
+        "id": "813120303382134786",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "少层GaSe/石墨烯范德华异质结构中的可调谐准粒子带隙"
+      },
+      "paper:867749511697531781": {
+        "area": "arXiv-Physics",
+        "authors": "Wenjuan Zhao | Yuan Huang | Cheng Shen | Cong Li | Yongqing Cai | Yu Xu | Hongtao Rong | Qiang Gao | Yang Wang | Lin Zhao | Lihong Bao | Qingyan Wang | Guangyu Zhang | Hongjun Gao | Zuyan Xu | Xingjiang Zhou | Guodong Liu",
+        "available_online": "",
+        "cover_date_start": "2019-12-09",
+        "created_at": "2023-05-23T04:46:45+08:00",
+        "doi": "10.48550/arXiv.1912.03893",
+        "en_title": "Electronic Structure of Exfoliated Millimeter-Sized Monolayer WSe2 on Silicon Wafer",
+        "id": "867749511697531781",
+        "keywords": "",
+        "publication_date": "2019-12-09",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "硅片上剥离的毫米级单层二硒化钨的电子结构"
+      },
+      "paper:867765184356156086": {
+        "area": "arXiv-Physics",
+        "authors": "C. Monney | M. Herzog | A. Pulkkinen | Y. Huang | J. Pelliciari | P. Olalde-Velasco | N. Katayama | M. Nohara | H. Takagi | T. Schmitt | T. Mizokawa",
+        "available_online": "",
+        "cover_date_start": "2020-08-06",
+        "created_at": "2023-05-23T05:49:02+08:00",
+        "doi": "10.48550/arXiv.2008.02575",
+        "en_title": "Mapping the unoccupied state dispersions in Ta$_2$NiSe$_5$ with resonant inelastic x-ray scattering",
+        "id": "867765184356156086",
+        "keywords": "",
+        "publication_date": "2020-08-06",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "利用共振非弹性X射线散射绘制Ta₂NiSe₅中的未占据态色散"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fitting an ARPES-extracted band dispersion E(k) of the valence band in CsSnBr₃ (where k is the scalar magnitude of the three-dimensional momentum deviation from the Brillouin-zone corner R) over a broad wave-vector range to the gapped-Dirac model function E(k)=A\\sqrt{\\Delta^{2}+t^{2}k^{2}}+E_{0}, with fit parameters A (energy scale), t (wave-vector/velocity scale), Δ (relative gap contribution) and E_{0} (energy offset), provides a global characterization of band curvature that matches the ARPES dispersion substantially better than a local parabolic (quadratic) fit over the same range; using this global gapped-Dirac fit the gap estimate 2AΔ≈1.3 eV was obtained from the reported data and the fitted curvature yields a representative hole effective mass m^{*}≈0.20\\,m_{0} for the material studied, so that the gapped-Dirac functional form is a reliable model for extracting effective-mass–relevant curvature in these measurements.\n      Fig.3",
+        "content_hash": "d29dc125cd676e57d64776e3474b9408d552ade12c0bbe3497f83b5334b61f99",
+        "id": "gcn_da7aaa70c1784112",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1109550803607093257::P6",
+            "package_id": "paper:1109550803607093257",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1109550803607093257"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02506265664160401,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When estimating the lowest conduction-band effective mass $m_{\\mathrm{CB}}$ by algebraically subtracting a valence-band effective mass $m_{\\mathrm{VB}}$ (obtained from parabolic fits to angle-resolved photoemission spectroscopy data of the occupied valence-band dispersion) from a measured electron–hole continuum effective mass $M_{\\text{tot}}$ via $m_{\\mathrm{CB}}=M_{\\text{tot}}-m_{\\mathrm{VB}}$, the resulting $m_{\\mathrm{CB}}$ is valid only if the ARPES-derived $m_{\\mathrm{VB}}$ is representative of the same band curvature relevant to the continuum measurement (same temperature, comparable energy/momentum fitting ranges, and surface/bulk correspondence); specifically, taking $m_{\\mathrm{VB}}=0.4\\,m_{e}$ as a lower bound and $m_{\\mathrm{VB}}=0.8\\,m_{e}$ as an upper bound for the valence-band effective mass (values obtained from different ARPES parabolic-fit ranges) and using the measured $M_{\\text{tot}}=1.7\\,m_{e}$ yields a conduction-band mass estimate $m_{\\mathrm{CB}}\\approx 0.9\\,m_{e}$ to $1.3\\,m_{e}$, with the caveat that this result inherits uncertainty from the ARPES fitting-range choice and any differences between the surface-sensitive ARPES dispersion and the bulk-sensitive RIXS continuum.\n      [6]",
+        "content_hash": "c724bd91682ac333190d79603851727b35d1ea4de08bf4058ae0d417ec83fad1",
+        "id": "gcn_153b2d15c96f44be",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812575729140105217::P8",
+            "package_id": "paper:812575729140105217",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812575729140105217"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m_{VB}^{\\mathrm{ARPES}} denote the effective mass extracted from angle-resolved photoemission spectroscopy parabolic fits to the occupied valence band near its maximum; the weak-point is the assumption that the ARPES-based parabolic-fit value m_{VB}\\approx 0.4\\,m_{e} (obtained from a fit limited to a small energy window \\sim0.3 eV) and an alternative larger-range fit value m_{VB}\\approx 0.8\\,m_{e} form reasonable lower and upper bounds, respectively, for the valence-band effective mass entering the convolution that determines M_{\\mathrm{tot}}, even though the RIXS-measured electron–hole continuum samples a broader energy range of order 1 eV and the curvature can depend on the fit window.\n      [6]",
+        "content_hash": "c3153c79a621494d71954fb22d9eac4961dcb86d67dc977d1449d837317abe34",
+        "id": "gcn_51d9bbbe3c164756",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765184356156086::P8",
+            "package_id": "paper:867765184356156086",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765184356156086"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fitting the experimentally extracted valence-band dispersion near the Brillouin-zone corner R to the gapped-Dirac functional form E(k)=A\\sqrt{\\Delta^{2}+t^{2}k^{2}}+E_{0}, where k is the scalar magnitude of the three-dimensional momentum deviation from R, A is an energy scaling parameter, t is a velocity (wave-vector) scale, Δ is a dimensionless relative gap contribution, and E_{0} is an overall energy offset, yields an estimated gap magnitude 2AΔ≈1.3 eV (from the reported fit) and, from the curvature implied by this global fit, a hole effective mass for CsPbBr₃ of order m^{*}≈0.20\\,m_{0} (with m_{0} the free-electron mass); by comparison, replacing the 3D Lieb-derived bandshape by a simple-cubic single-site cosine-like band gives an effective mass m^{*}≈0.65\\,m_{0}, so that the gapped spin-1 Dirac dispersion corresponds to an approximately fivefold reduction of the valence-band effective mass and, under the usual inverse-mass relation μ\\propto1/m^{*} for mobility μ at comparable scattering time, to an expected approximate fivefold increase in mobility.",
+        "content_hash": "f892662e269d43ad1655262b77fbf18a2477825d353428bb81dbb1efe4392b6e",
+        "id": "gcn_a951acaf18eb48e7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1109550803607093257::conclusion_4",
+            "package_id": "paper:1109550803607093257",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1109550803607093257"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Effective quasiparticle hole masses were extracted by fitting local parabolic dispersions to the ARPES-measured valence-band extrema: at the Γ-point valence-band maximum the fitted effective mass is m*_Γ = 2.344 m_e (with m_e the free electron mass); at the K-point the fitted effective masses for the upper and lower spin-split valence branches are m*_{K,upper} = −0.529 m_e and m*_{K,lower} = −0.532 m_e, where the negative sign denotes hole-like band curvature.",
+        "content_hash": "1e3099b0bf38be9e7d8e2704715bf190d61c239faacb4dfff74a4bacbf5a2f75",
+        "id": "gcn_0d8d840ed0cb40de",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749511697531781::conclusion_6",
+            "package_id": "paper:867749511697531781",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749511697531781"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Photon-energy-dependent ARPES measurements of inorganic cesium lead bromide (CsPbBr$_3$) indicate that the bulk R point (the $k$-space location of the valence-band maximum) is probed at $h\\nu=29\\ \\text{eV}$. The measured valence-band dispersions near the VBM and the dependence of the EDC full width at half maximum on in-plane momentum $k_{\\parallel}$ are incompatible with a Rashba parameter $\\alpha_{R}=11\\ \\mathrm{eV}\\mathring{\\text{A}}$ when analyzed with the same unresolved-Rashba-splitting model used above, i.e., a model that represents the EDC at each $k_{\\parallel}$ as the incoherent sum of two parabolic spin-split branches $E_{\\pm}(k_{\\parallel}) = E_0 + \\tfrac{\\hbar^2}{2m^{*}}(k_{\\parallel}\\mp k_0)^2$ with equal spectral weight, a $k$-independent intrinsic Lorentzian width, and Gaussian instrumental broadening, and that uses the experimentally determined valence-band effective mass $m^{*}_{\\mathrm{exp}}$ (extracted from the measured dispersion near the VBM) as the curvature input. Accounting for the experimental error bars on the EDC widths in this modeling framework produces an approximate upper bound $\\alpha_{R}\\lesssim1.06\\ \\mathrm{eV}\\mathring{\\text{A}}$ for the valence band in CsPbBr$_3$, where $\\alpha_{R}$ is defined by $\\alpha_{R}=\\Delta E/(2\\Delta k)$.",
+        "content_hash": "212d8ce73de588d6d52d42c1a97eded31f4145b9718793b639f92984732a57bd",
+        "id": "gcn_28c45fc5f9ea409f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812575347965952001::conclusion_2",
+            "package_id": "paper:812575347965952001",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812575347965952001"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fitting the experimentally measured ARPES valence-band dispersions near the valence-band extremum to the parabolic model $E(k)=E_{0}+\\frac{\\hbar^{2}}{2m^{*}}k^{2}$, where $E(k)$ is the band energy, $E_{0}$ is the band-edge energy, $k$ is the in-plane wave vector magnitude, $\\hbar$ is the reduced Planck constant, and $m^{*}$ is the effective mass parameter, yields fitted valence-band effective masses (expressed in units of the free-electron mass $m_{0}$) $m^{*}/m_{0}=-2.16$ at $k_{\\parallel}=0.26\\ \\text{\\AA}^{-1}$ for 1TL GaSe, $m^{*}/m_{0}=-1.33$ at $k_{\\parallel}=0.16\\ \\text{\\AA}^{-1}$ for 2TL GaSe, and $m^{*}/m_{0}=-1.17$ at $k_{\\parallel}=0.12\\ \\text{\\AA}^{-1}$ for 3TL GaSe, where the negative sign reflects the chosen curvature sign convention used to represent a valence-band maximum.",
+        "content_hash": "f5d30cd18280e58cacfcc950e5050553180cabcf3cfed6586fb8becdbfebb79e",
+        "id": "gcn_8955a5a07d5a4d05",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813120303382134786::conclusion_5",
+            "package_id": "paper:813120303382134786",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813120303382134786"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "80a95b8ef61a718b8c912baac8e47b20"
+}

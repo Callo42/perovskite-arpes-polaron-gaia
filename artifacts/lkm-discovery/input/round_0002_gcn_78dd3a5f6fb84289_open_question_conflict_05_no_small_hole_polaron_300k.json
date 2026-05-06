@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:811760991455936513": {
+        "area": "Physics and Astrophysics",
+        "authors": "A. S. Alexandrov",
+        "available_online": "1999-3-22",
+        "cover_date_start": "1999-03-22",
+        "created_at": "2022-12-19T16:48:22+08:00",
+        "doi": "10.1103/physrevlett.82.2620",
+        "en_title": "Comment on “Experimental and Theoretical Constraints of Bipolaronic Superconductivity in High T c Materials: An Impossibility”",
+        "id": "811760991455936513",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "对“高温超导材料中双极化子超导性的实验与理论限制：一种不可能性”的评论"
+      },
+      "paper:812363539300745217": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Grioni | L. Perfetti | H. Berger",
+        "available_online": "",
+        "cover_date_start": "2004-07-01",
+        "created_at": "2022-12-21T08:42:41+08:00",
+        "doi": "10.1016/j.elspec.2004.02.038",
+        "en_title": "Strong electron–electron and electron–phonon interactions in one- and two-dimensional solids",
+        "id": "812363539300745217",
+        "keywords": "[{\"ch_name\":\"角分辨光电发射光谱\",\"en_name\":\"Angle-resolved photoemission spectroscopy\"},{\"ch_name\":\"电子-电子相互作用\",\"en_name\":\"Electron-electron interaction\"},{\"ch_name\":\"电子-声子相互作用\",\"en_name\":\"Electron-phonon interaction\"}]",
+        "publication_date": "2004-7",
+        "publication_id": "641",
+        "publication_name": "Journal of Electron Spectroscopy and Related Phenomena _ Journal of Electron Spectroscopy and Related Phenomena",
+        "research_categories": "",
+        "zh_title": "一维和二维固体中强烈的电子-电子相互作用和电子-声子相互作用"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812781314741633025": {
+        "area": "Physics and Astrophysics",
+        "authors": "Eugenio Cinquanta | Daniele Meggiolaro | Silvia G. Motti | Marina Gandini | Marcelo J. P. Alcocer | Quinten A. Akkerman | Caterina Vozzi | Liberato Manna | Filippo De Angelis | Annamaria Petrozza | Salvatore Stagira",
+        "available_online": "2019-4-24",
+        "cover_date_start": "2019-04-24",
+        "created_at": "2022-12-22T12:22:46+08:00",
+        "doi": "10.1103/physrevlett.122.166601",
+        "en_title": "Ultrafast THz Probe of Photoinduced Polarons in Lead-Halide Perovskites",
+        "id": "812781314741633025",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "卤化铅钙钛矿中光生极化子的超快太赫兹探测"
+      },
+      "paper:813001823186059264": {
+        "area": "Material science",
+        "authors": "Thomas R. Hopper | Andrei Gorodetsky | Jarvist M. Frost | Christian Müller | Robert Lovrincic | Artem A. Bakulin",
+        "available_online": "2018-8-21",
+        "cover_date_start": "2018-08-21",
+        "created_at": "2022-12-23T02:58:59+08:00",
+        "doi": "10.1021/acsenergylett.8b01227",
+        "en_title": "Ultrafast Intraband Spectroscopy of Hot-Carrier Cooling in Lead-Halide Perovskites",
+        "id": "813001823186059264",
+        "keywords": "",
+        "publication_date": "2018-9-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中热载流子冷却的超快带内光谱学"
+      },
+      "paper:867764362457121499": {
+        "area": "arXiv-Physics",
+        "authors": "Kingshuk Mukhuti | Arnab Mandal | Basabendra Roy | Sayan Bhattacharyya | Bhavtosh Bansal",
+        "available_online": "",
+        "cover_date_start": "2022-10-10",
+        "created_at": "2023-05-23T05:45:46+08:00",
+        "doi": "10.48550/arXiv.2210.05041",
+        "en_title": "Carrier thermalization and zero-point bandgap renormalization in halide perovskites from the Urbach tails of the emission spectrum",
+        "id": "867764362457121499",
+        "keywords": "",
+        "publication_date": "2022-10-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于发射光谱的乌尔巴赫尾研究卤化物钙钛矿中的载流子热化和零点带隙重整化"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "When an electron is removed from a material with substantial electron–phonon coupling, the resulting hole propagates in the polaron-renormalized single-particle band so that angle-resolved photoemission spectroscopy (ARPES) measures the dispersion of the polaron band; consequently the normal-state spectral gap observed by ARPES and features seen in tunneling spectroscopy can inherit the momentum dependence of the polaron and bipolaron band dispersions rather than being strictly momentum-independent signatures of localized on-site bipolarons, and a theoretical framework with polaron-renormalized bands and intersite bipolaron spectral weight can account for the principal qualitative and semiquantitative features observed in ARPES and tunneling for cuprate superconductors.",
+        "content_hash": "517ad1c7d39fb21e8acf6d8d5427a87bcc397e33cfe64a98ac681820f23e8b2b",
+        "id": "gcn_b0689cfd62a64403",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811760991455936513::conclusion_7",
+            "package_id": "paper:811760991455936513",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811760991455936513"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Introducing one extra hole (removing one electron) into an equilibrated 3×3×3 pseudocubic AIMD supercell (135 atoms) of bulk CsPbBr₃ sampled at T = 300 K and recomputing the electronic structure with HSE–SOC using α = 0.54 produces no localized in-gap electronic states and causes no substantial change in the unfolded valence-band dispersions relative to the corresponding polaron-free AIMD calculation; the absence of such localized gap states or strongly localized valence-band perturbations in these finite-supercell HSE–SOC calculations indicates that thermally stabilized small-hole polarons are not observed under these simulated bulk-like room-temperature conditions.",
+        "content_hash": "cb964e1254b791275e660c77db7345d06e04cb67be9d6c6d3a8c94d0950ca5da",
+        "id": "gcn_78dd3a5f6fb84289",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_4",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Polaron‑parameter calculations performed with variational polaron theory and material dielectric and effective‑mass inputs yield an estimated polaron radius r_p ≈ 36 Å for CsPbBr3; using the approximate mapping between polaron spatial extent and the carrier‑density threshold for overlap n_{\\mathrm{overlap}}\\sim 1/r_p^3 (modulo order‑unity packing factors), the larger r_p in CsPbBr3 reduces n_{\\mathrm{overlap}} and thereby increases the propensity for spatial overlap of distinct polarons and for emitted optical phonons from different polarons to be reabsorbed, which enhances the density‑dependent hot‑phonon bottleneck observed experimentally in CsPbBr3.",
+        "content_hash": "d321172369e9d8872493bb707a4e4c1bde5faa0cb113882e82f98ddaed9a9fec",
+        "id": "gcn_9fd1d0ec12054f67",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813001823186059264::conclusion_6",
+            "package_id": "paper:813001823186059264",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813001823186059264"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ensemble of CsPbBr3 nanosheets studied, the conjunction of (i) a modest zero‑point bandgap renormalization numerically of order 33 meV, (ii) the absence of resolvable phonon‑replica lines in the measured PL spectra at the available instrumental spectral resolution and under the applied excitation conditions, and (iii) linewidth temperature dependence consistent with Bose‑population (coth‑like) scaling rather than strong‑coupling polaronic scaling, collectively provides evidence that disfavors formation of small polarons (self‑trapped excitons) as the operative carrier state in these samples, subject to the caveat that strong inhomogeneous broadening or other extrinsic effects could in principle mask polaronic signatures.",
+        "content_hash": "c65b6e9c6406f07b71340c4abc702f114044e7f9c90dc950e93b404d4bede6c5",
+        "id": "gcn_c11700f569314c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P8",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The effective mass entering the Drude prefactor used to infer transport parameters for photogenerated carriers in CsPbBr3 is taken as m_p = 3.5 × m*, where m_p is the effective polaron mass and m* = 0.21 m_e is the bare electronic band effective mass (m_e = 9.10938356×10^−31 kg is the electron rest mass); the multiplicative factor 3.5 is adopted from Feynman–Osaka polaron model estimates to account for polaron mass enhancement, and using this fixed scaling produces a physically appropriate value of m_p for the photogenerated carrier population in the studied nanocrystal thin films such that the uncertainty in this adopted scaling is small compared with the quoted mobility estimate μ = q τ_s / m_p.",
+        "content_hash": "0d09f02409bd634db737d621ef1d1c9ec2ae00655f2c8898ebb2516509a9e0b4",
+        "id": "gcn_486e443ce09241e8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812781314741633025::P2",
+            "package_id": "paper:812781314741633025",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812781314741633025"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because the electronic photohole created instantaneously by an ARPES probe initially experiences an unrelaxed lattice and the lattice relaxation to form a polaron occurs on a slower timescale set by the phonon frequency $\\omega_{0}$, ARPES can probe an initially more itinerant-hole dispersion (producing broad dispersive spectral intensity) prior to the lattice-localized heavy-polaron state with exponentially reduced coherent bandwidth, implying that ARPES spectra can simultaneously exhibit broad momentum-resolved dispersion and polaron-induced incoherent sidebands.\n      V. Perebeinos and P. B. Allen, Phys. Rev. Lett. 85 (2000) 5178.",
+        "content_hash": "66bdeab73a2edc3c31106935c46e81bd4ca396c8ce94b7bd02d8c7b5fd2d1ed7",
+        "id": "gcn_8d0e2ce0cb8c4d55",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812363539300745217::P11",
+            "package_id": "paper:812363539300745217",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812363539300745217"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+        "id": "gcn_4ad259a13be9454a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P11",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Angle-resolved photoemission spectroscopy (ARPES) measures the energy and momentum distribution of electrons removed from a solid by photon absorption; when electron–phonon interactions are significant so that single-particle quasiparticles have polaronic character, the hole left behind by the removed electron propagates in the polaron-renormalized single-particle band, and therefore the dispersion measured by ARPES reflects the polaron band dispersion. Consequently, gaps and spectral-function features observed in ARPES can exhibit momentum ($\\mathbf{k}$) dependence inherited from the underlying polaronic band structure rather than being strictly $\\mathbf{k}$ independent signatures of localized on-site bipolarons, provided that the coherent polaronic quasiparticle weight is sufficient to dominate the ARPES signal over incoherent multiphonon continua.",
+        "content_hash": "5058008b34b919f2cf45d93d5341096a3e7120650023066ba3823c76964f479f",
+        "id": "gcn_39d27564cf6140fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811760991455936513::P17",
+            "package_id": "paper:811760991455936513",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811760991455936513"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "d0b3e773353e011f640ba747eee9e128"
+}

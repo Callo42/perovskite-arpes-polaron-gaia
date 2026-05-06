@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1096665743648358400": {
+        "area": "arXiv-Physics",
+        "authors": "Bai-Qing Zhao | Xuan-Yan Chen | Chuan-Nan Li | Jinshan Li | Chris G. Van de Walle | Xie Zhang",
+        "available_online": "",
+        "cover_date_start": "2025-02-10",
+        "created_at": "2025-02-12T21:18:08+08:00",
+        "doi": "10.48550/arxiv.2502.06904",
+        "en_title": "Distinguishing thermal fluctuations from polaron formation in halide perovskites",
+        "id": "1096665743648358400",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "区分卤化物钙钛矿中热涨落与极化子形成"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813129257290039296": {
+        "area": "Material science",
+        "authors": "Z. Yang | A. Surrente | K. Galkowski | A. Miyata | O. Portugall | R. J. Sutton | A. A. Haghighirad | H. J. Snaith | D. K. Maude | P. Plochocka | R. J. Nicholas",
+        "available_online": "2017-6-14",
+        "cover_date_start": "2017-06-14",
+        "created_at": "2022-12-23T11:25:22+08:00",
+        "doi": "10.1021/acsenergylett.7b00416",
+        "en_title": "Impact of the Halide Cage on the Electronic Properties of Fully Inorganic Cesium Lead Halide Perovskites",
+        "id": "813129257290039296",
+        "keywords": "",
+        "publication_date": "2017-7-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化物笼对全无机铯铅卤化物钙钛矿电子性质的影响"
+      },
+      "paper:813330729722183682": {
+        "area": "Physics and Astrophysics",
+        "authors": "Abhishek Pandey | R. S. Dhaka | J. Lamsal | Y. Lee | V. K. Anand | A. Kreyssig | T. W. Heitmann | R. J. McQueeney | A. I. Goldman | B. N. Harmon | A. Kaminski | D. C. Johnston",
+        "available_online": "2012-2-23",
+        "cover_date_start": "2012-02-23",
+        "created_at": "2022-12-24T00:45:58+08:00",
+        "doi": "10.1103/physrevlett.108.087005",
+        "en_title": "Ba 1 − x K x Mn 2 As 2 : An Antiferromagnetic Local-Moment Metal",
+        "id": "813330729722183682",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Engineering\", \"Mathematical Sciences\", \"Physical Sciences\"]",
+        "zh_title": "Ba₁₋ₓKₓMn₂As₂：一种反铁磁局域矩金属"
+      },
+      "paper:867762304345702872": {
+        "area": "arXiv-Physics",
+        "authors": "Munisa Nurmamat | Yukiaki Ishida | Ryohei Yori | Kazuki Sumida | Siyuan Zhu | Masashi Nakatake | Yoshifumi Ueda | Masaki Taniguchi | Shik Shin | Yuichi Akahama | Akio Kimura",
+        "available_online": "",
+        "cover_date_start": "2018-05-31",
+        "created_at": "2023-05-23T05:37:36+08:00",
+        "doi": "10.48550/arXiv.1805.12327",
+        "en_title": "Prolonged photo-carriers generated in a massive-and-anisotropic Dirac material",
+        "id": "867762304345702872",
+        "keywords": "",
+        "publication_date": "2018-05-31",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "在一种块状各向异性狄拉克材料中产生的长寿命光生载流子"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "One-shot G_{0}W_{0} quasiparticle calculations that fully include relativistic spin–orbit coupling, performed for two structural models of CsPbBr3, yield the following valence-band hole effective masses and quasiparticle band gaps: for the cubic perovskite structure, an effective hole mass at the R point evaluated along the X–R direction of m_{h}^{*}=0.15\\,m_{0} with a quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=1.74\\ \\mathrm{eV}; for an orthorhombic structural unit cell, a G_{0}W_{0} calculation (with the valence band Wannier-interpolated for the purpose of band-curvature averaging) yields an averaged hole effective mass m_{h}^{*}=0.226\\,m_{0} with quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}=2.09\\ \\mathrm{eV}. These one-shot G_{0}W_{0} quasiparticle results include electron–electron correlation effects via the GW self-energy but do not include electron–phonon self-energy contributions (i.e., they are bare-band quasiparticle properties with respect to phonons).",
+        "content_hash": "1c1b6b5a8e6abb85588c0b44f4ec5a15eb68b5a2357271084c9c407a682619a5",
+        "id": "gcn_8c3c520295d7488c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_2",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02813852813852814,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using ab initio molecular dynamics (AIMD) sampling of finite-temperature atomic configurations for bulk CsPbBr₃ at temperature T = 300 K in the canonical (NVT) ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms) and a 1 fs time step, and computing single-point electronic structures on a representative equilibrated AIMD snapshot with the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling (HSE–SOC, where HSE denotes the screened hybrid functional of Heyd, Scuseria, and Ernzerhof and SOC denotes spin–orbit coupling) using a hybrid mixing parameter α = 0.54 chosen so that the calculated band gap E_g = 2.37 eV matches the experimental room-temperature band gap, the direction-averaged hole effective mass computed for that room-temperature AIMD configuration is m_h = 0.265 m_0 (where m_0 is the free-electron mass). This computed m_h = 0.265 m_0 agrees with the angle-resolved photoemission spectroscopy (ARPES) measurement of m_h = 0.26 ± 0.02 m_0 reported for CsPbBr₃, and this agreement is obtained without introducing any extra hole into the supercell (i.e., without polaron formation); therefore the ARPES-measured hole effective mass can be explained by thermal-lattice fluctuations alone under these simulated room-temperature, bulk-like conditions.",
+        "content_hash": "7d3c761c831214b51894d9e39b2fcb0ed7eb10ccfa6755acd9fcf3827f1127b4",
+        "id": "gcn_e4a5cac31481497c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1096665743648358400::conclusion_1",
+            "package_id": "paper:1096665743648358400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1096665743648358400"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027777777777777776,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value.",
+        "content_hash": "c36c7b1279e0a441d65f89c3014fd6119e39825cb32858e8f794f7dcf436760e",
+        "id": "gcn_762777de8c644c17",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_3",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A Fröhlich-type large-polaron mass renormalization of approximately 50% applied to the orthorhombic one-shot G_{0}W_{0} bare-band hole mass m_{h}^{*}=0.226\\,m_{0} would increase the mass to about 0.339\\,m_{0}; given the experimentally measured hole mass 0.203\\pm0.016\\,m_{0} reported here, such a 50% enhancement would exceed the experimental value by roughly 0.136\\,m_{0}, which corresponds to more than eight times the quoted experimental standard deviation, and therefore a 50% polaronic renormalization of that magnitude would be readily detectable as a statistically significant discrepancy between the ARPES measurement and the orthorhombic G_{0}W_{0} bare-band reference under the present uncertainty assumptions.",
+        "content_hash": "25e19f3045f200c1b5b4bdc2fa568b69c547a583270c3fbfeb45d788a4b768e2",
+        "id": "gcn_e808f6450bfc4207",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P8",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using in-plane angle-resolved photoemission spectroscopy (ARPES) measured at the valence-band maximum assigned to the bulk Z high-symmetry point and fitting the measured band dispersion E(k) with a low-order polynomial, the in-plane hole effective masses were determined as m_a* / m_0 = -0.54 and m_c* / m_0 = -0.05; here m_a* and m_c* are the hole effective masses along the crystallographic a- and c-axes respectively, m_0 is the free-electron mass, k is the electron wave number, E(k) is the measured band dispersion, and the effective mass was obtained from the fitted curvature using the relation h^2 / m* = d^2E / dk^2 where h denotes Planck's constant.",
+        "content_hash": "f6aabc402607a33fd6b9ba36c82a605cb310c71e5db2e5a55583da3846914b81",
+        "id": "gcn_5aed46fb179d4016",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867762304345702872::conclusion_1",
+            "package_id": "paper:867762304345702872",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867762304345702872"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For orthorhombic CsPbBr3 measured at 2 K, the band-gap energy determined from the 1s excitonic absorption is E_g = 2342 meV, the exciton binding energy determined from the hydrogenic exciton fits is R* = 33 ± 1 meV, the exciton reduced mass determined from the high-field inter–Landau-level fits is μ = 0.126 ± 0.01 m_0, and the effective dielectric constant inferred from R* via R* = R_0 (μ/m_0) / ε_eff^2 is ε_eff = 7.3.",
+        "content_hash": "39cdea3c466557b7c693b0eb96a2905eee627ff2395f2d0ab7194531d6f9c207",
+        "id": "gcn_92ecd2d053564bb4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813129257290039296::conclusion_5",
+            "package_id": "paper:813129257290039296",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813129257290039296"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Angle-resolved photoemission spectroscopy (ARPES) measurements performed on a single crystal of Ba1-xKxMn2As2 with x = 0.016 show a finite-size holelike Fermi-surface pocket centered at the Brillouin-zone center Γ, defined here by the in-plane momentum coordinates (k_x,k_y) = (0,0); energy-distribution curves and ARPES intensity maps demonstrate that the top of a valence (hole) band that lies below the chemical potential E_F in the undoped material moves to cross E_F for x = 0.016, which is consistent with the addition of holes by K substitution and with bulk metallicity in the doped crystal.",
+        "content_hash": "7b603fc7540113b90a7a3d423e4e47890ff22b63e189535436ca9e85565d9a9c",
+        "id": "gcn_0f75dbd298084a8c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813330729722183682::conclusion_2",
+            "package_id": "paper:813330729722183682",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813330729722183682"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "0eaa4105976e6400b41ca4501db6c884"
+}

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+      "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+      "id": "gcn_4d0e277c6d2c4cdc",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+              "id": "gcn_4d0e277c6d2c4cdc"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_46ef4a3b05e946de",
+            "premises": [
+              {
+                "content": "In angle-resolved photoemission spectroscopy (ARPES) of a crystalline solid, the component of the electron crystal momentum perpendicular to the sample surface, k_{\\perp}, is commonly estimated from the incident photon energy h\\nu by the free-electron final-state approximation k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)}, where m_{0} is the free-electron mass, \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} is the photoelectron kinetic energy measured with respect to the vacuum level (E_{\\mathrm{kin}}=h\\nu-\\phi-E_{B}, with \\phi the sample work function and E_{B} the electron binding energy), \\theta is the electron emission polar angle, and V_{0} is an inner-potential model parameter; applying this mapping with the model parameter V_{0}=5.3\\ \\mathrm{eV} assigns the photon energy h\\nu=29\\ \\mathrm{eV} to the first bulk R point in the perpendicular momentum coordinate for CsPbBr_{3} in the measurements reported here.",
+                "id": "gcn_e17b013445234bfa"
+              },
+              {
+                "content": "For a valence band with energy dispersion E(k) as a function of crystal momentum k along a measured one-dimensional cut, the hole effective mass m_{h}^{*} at a local band maximum at k=k_{0} is obtained by fitting the local dispersion to a quadratic form E(k)\\approx E(k_{0})+\\tfrac{\\hbar^{2}}{2m_{h}^{*}}(k-k_{0})^{2} in a neighborhood of k_{0}; in this expression \\hbar denotes the reduced Planck constant, E(k_{0}) the band energy at the extremum, and k the momentum coordinate along the measured direction, and the extracted parameter m_{h}^{*} is the curvature-derived hole effective mass under the assumption that the actual band dispersion within the sampled momentum window is well approximated by a parabola.",
+                "id": "gcn_ccc6a5bf10864de7"
+              },
+              {
+                "content": "The experimental uncertainty reported for the ARPES-determined hole effective mass, \\pm 0.016\\,m_{0}, is the sample-to-sample standard deviation of four independent fitted effective-mass values obtained from four different freshly cleaved single-crystal samples (individual fitted values 0.19, 0.23, 0.20, and 0.19\\,m_{0}); this uncertainty is taken to represent the combined random and systematic uncertainty affecting the ARPES determination, where the principal systematic-error sources considered include photon-energy calibration, inner-potential selection, surface-condition variability after cleavage, analyzer angular calibration, and choice of fitting model, and the proposition is that these systematic contributions are either small compared to the observed sample-to-sample scatter or are effectively captured by the quoted standard deviation.",
+                "id": "gcn_3e860bd7f76e4767"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "State the experimental technique and sample conditions used to determine the valence-band maximum (VBM) and the hole effective mass: angle-resolved photoemission spectroscopy (ARPES) measurements were performed on freshly cleaved single crystals of CsPbBr$_{3}$ at room temperature with photon energies varied between $h\\nu=21\\,$eV and $h\\nu=83\\,$eV in 2 eV steps to map the electronic states as a function of the electron wave vector perpendicular to the surface $k_{\\perp}$, with spatial resolution $\\sim 100\\ \\mu$m and base pressure better than $2\\times10^{-10}$ mbar. \nFig. 2",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define notation used for the measured quantity: denote the hole effective mass at the valence-band maximum by $m_{h}^{*}$ and the free-electron mass by $m_{0}$; the photon energy is $h\\nu$ and the perpendicular momentum is $k_{\\perp}$.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Explain how the VBM (the R point) was identified from the photon-energy-dependent ARPES data: normal-emission (i.e., $\\overline{\\Gamma}$) photon-energy-dependent scans show symmetry about $k_{\\perp}=3.66\\ \\text{\\AA}^{-1}$ and the contours of constant binding energy near the VBM close at photon energies of $h\\nu=29\\,$eV and $h\\nu=54\\,$eV, which the authors therefore assign as the first and second R points; this assignment was corroborated by $k_{\\parallel}$-dependent contour plots near 1.5 eV binding energy (near the VBM) and by the observation of closing contours at the specified photon energies. The assignment corresponds to an inner potential $V_{0}=5.3\\,$eV for the R-point mapping (a different inner potential $V_{0}=9.6\\,$eV was used for an X/$\\Gamma$ assignment at normal emission). \nFig. 2",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "State how the VBM photon energy was confirmed from the dispersion along the surface high-symmetry direction: band-dispersion cuts along $\\overline{\\Gamma}-\\overline{M}$ were taken at multiple photon energies and the binding-energy of the local maximum (related to the VBM) was evaluated as a function of photon energy; these data confirm $h\\nu=29\\,$eV as the photon energy at which the measured band reaches the VBM (R point) and show that the dispersion at $29\\,$eV appears narrower than at other photon energies. \nFig. 3",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Describe the procedure used to extract effective masses from the ARPES dispersions: for the band dispersion measured along $\\overline{\\Gamma}-\\overline{M}$ at the photon energy assigned to the VBM ($h\\nu=29\\,$eV), the authors fit the measured dispersion of the topmost valence band near its maximum to obtain a hole effective mass $m_{h}^{*}$ (the fitting procedure and fit of the dispersion are those used to produce the plotted effective masses versus photon energy). \nFig. 3",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Report the repeat measurements and fitted individual effective-mass values: the measurement at $h\\nu=29\\,$eV was repeated on four different cleaved single-crystal samples, yielding individual fitted hole effective masses of $0.19\\ m_{0}$, $0.23\\ m_{0}$, $0.20\\ m_{0}$, and $0.19\\ m_{0}$; these four values are those obtained from the dispersion fits for the topmost valence band at the assigned R point. \nFig. 3",
+                "step_id": "6"
+              },
+              {
+                "reasoning": "Compute and report the average and uncertainty: the average of the four repeated fitted values $0.19\\ m_{0}$, $0.23\\ m_{0}$, $0.20\\ m_{0}$, and $0.19\\ m_{0}$ is $0.203\\ m_{0}$ and the standard deviation is $\\pm 0.016\\ m_{0}$; therefore the experimentally determined hole effective mass at the VBM (R point) from ARPES is $m_{h}^{*}=0.203\\pm0.016\\ m_{0}$. \nFig. 3",
+                "step_id": "7"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "In the context of using ARPES to probe carrier quasiparticle properties in CsPbBr_{3}, prior experimental reports extracted VBM effective masses that differed substantially (for example, $0.26\\;m_{0}$ in a previous ARPES study). These discrepancies can arise because ARPES effective-mass extraction requires precise locating of the VBM in three-dimensional momentum space (including $k_{\\perp}$), because different photon energies probe different $k_{\\perp}$ slices, and because inner-potential and final-state assumptions shift the assigned high-symmetry points. Without repeated, photon-energy-dependent mapping and cross-checked sample statistics, an assigned mass can be biased by off-VBM cuts or by sample-to-sample variation, preventing a reliable experimental benchmark for testing polaronic mass renormalization hypotheses.",
+            "id": "paper:867765810263752934::conclusion_1_subproblem",
+            "source_package": "paper:867765810263752934"
+          }
+        ],
+        "source_package": "paper:867765810263752934"
+      }
+    ],
+    "papers": {
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "061df66a145e923581911b5a30723dd1"
+}

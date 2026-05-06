@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value.",
+      "content_hash": "c36c7b1279e0a441d65f89c3014fd6119e39825cb32858e8f794f7dcf436760e",
+      "id": "gcn_762777de8c644c17",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value.",
+              "id": "gcn_762777de8c644c17"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_9a0ea3ef46b042d4",
+            "premises": [
+              {
+                "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+                "id": "gcn_1fc9a84fbc6e4a1b"
+              },
+              {
+                "content": "A Fröhlich-type large-polaron mass renormalization of approximately 50% applied to the orthorhombic one-shot G_{0}W_{0} bare-band hole mass m_{h}^{*}=0.226\\,m_{0} would increase the mass to about 0.339\\,m_{0}; given the experimentally measured hole mass 0.203\\pm0.016\\,m_{0} reported here, such a 50% enhancement would exceed the experimental value by roughly 0.136\\,m_{0}, which corresponds to more than eight times the quoted experimental standard deviation, and therefore a 50% polaronic renormalization of that magnitude would be readily detectable as a statistically significant discrepancy between the ARPES measurement and the orthorhombic G_{0}W_{0} bare-band reference under the present uncertainty assumptions.",
+                "id": "gcn_e808f6450bfc4207"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Take as known the experimentally determined hole effective mass at the VBM: $m_{h}^{*}=0.203\\pm0.016\\ m_{0}$ as established from photon-energy-dependent ARPES at the R point ($h\\nu=29\\,$eV) (this is the result established earlier and treated here as an input).",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Take as known the orthorhombic $G_{0}W_{0}$ quasiparticle hole effective mass: $m_{h}^{*}=0.226\\ m_{0}$ with quasiparticle band gap $2.09\\,$eV as obtained from the orthorhombic $G_{0}W_{0}$ calculation (this is the theoretical result established earlier and treated here as an input).",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Compare the experimental and orthorhombic-theory masses numerically and state the authors' characterization of the agreement: the experimental mass $0.203\\pm0.016\\ m_{0}$ and the orthorhombic $G_{0}W_{0}$ mass $0.226\\ m_{0}$ differ by $0.023\\ m_{0}$ (about an $11\\%$ relative difference), and the authors describe these values as \"almost identical\" or \"in close agreement within uncertainties and computational caveats\" (the authors explicitly state the near equality of the experimental and orthorhombic-theory effective masses in the manuscript abstract and conclusions). \n[39]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Invoke the methodological fact that $G_{0}W_{0}$ calculations include electron–electron correlation but explicitly do not include electron–phonon (polaronic) self-energy contributions, and explain the logical implication: because the orthorhombic $G_{0}W_{0}$ mass $0.226\\ m_{0}$ (which excludes polaronic mass renormalization by construction) already closely matches the experimentally observed mass $0.203\\pm0.016\\ m_{0}$, there is no remaining unexplained mass enhancement in the ARPES data that must be attributed to large-polaron formation (i.e., an additional Fröhlich polaronic mass renormalization is not required to reconcile theory and experiment).",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "State the authors' conclusion about the physical origin of the observed effective mass: the effective mass observed in ARPES can be accounted for by electron–electron correlation effects already included in the $G_{0}W_{0}$ quasiparticle description, and therefore the ARPES-observed effective mass does not provide evidence of a residual mass enhancement that must be attributed to large-polaron formation. The authors explicitly conclude that large-polaron formation cannot be concluded from the photoemission data because the $G_{0}W_{0}$ \"bare-band\" theory already explains the measured mass. \nFig. 3",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Record the authors' stated caveats and limitations relevant to this inference: the orthorhombic calculation used Wannierization for the valence band only, which could slightly overestimate the effective mass, and there exist computational variations in $G_{0}W_{0}$ implementations and convergence (the authors benchmark and discuss differences with prior GW results in their Supplemental Material); these computational caveats are acknowledged by the authors but judged insufficient to alter the primary conclusion that no additional polaronic mass enhancement is required to explain the ARPES effective mass. \nFig. S4",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "A central unresolved experimental-theoretical ambiguity was whether an observed ARPES effective-mass increase relative to simple DFT originates from electron–phonon coupling (large-polaron formation) or from electronic many-body effects and computational choices (phase, gap underestimation). Resolving this requires (i) an experimental effective-mass benchmark obtained at the correct VBM and (ii) a theoretical baseline that captures electron–electron correlations while excluding electron–phonon self-energy. By comparing a carefully determined ARPES mass at R with $G_{0}W_{0}$ masses computed for realistic structural phases and improved quasiparticle gaps, one can test whether any remaining mass enhancement is attributable to polaronic physics. The near agreement between experiment and orthorhombic $G_{0}W_{0}$ shows that ARPES does not reveal a distinctive polaronic mass signature in CsPbBr_{3}.",
+            "id": "paper:867765810263752934::conclusion_3_subproblem",
+            "source_package": "paper:867765810263752934"
+          }
+        ],
+        "source_package": "paper:867765810263752934"
+      }
+    ],
+    "papers": {
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "bd8b8bd8faafa59d48dcad82df4355ec"
+}

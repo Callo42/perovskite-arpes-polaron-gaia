@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "focus": null,
+  "focus_kind": null,
+  "focus_resolved_id": null,
+  "mode": "auto",
+  "last_review_id": "2026-05-06T05-27-41Z_c31a3779_auto",
+  "baseline_review_id": "2026-05-06T04-21-22Z_69ae0dc5_auto",
+  "focus_stack": [],
+  "synthetic_obligations": [],
+  "synthetic_hypotheses": [
+    {
+      "qid": "hyp_caaf1794",
+      "content": "What observable can distinguish whether the CsPbBr3 ARPES hole effective-mass enhancement requires Fröhlich-polaron electron-phonon renormalization or can be explained by finite-temperature thermal fluctuations and dynamic disorder?",
+      "scope_qid": "package::gcn_1544d55444d743c8",
+      "created_at": "2026-05-06T04:20:20Z"
+    }
+  ],
+  "synthetic_rejections": []
+}

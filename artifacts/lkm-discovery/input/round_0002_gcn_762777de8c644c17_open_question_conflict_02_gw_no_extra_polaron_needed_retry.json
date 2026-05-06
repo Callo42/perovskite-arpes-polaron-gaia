@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812575347965952001": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Sajedi | M. Krivenkov | D. Marchenko | A. Varykhalov | J. Sánchez-Barriga | E. D. L. Rienks | O. Rader",
+        "available_online": "2020-8-21",
+        "cover_date_start": "2020-08-21",
+        "created_at": "2022-12-21T22:44:21+08:00",
+        "doi": "10.1103/physrevb.102.081116",
+        "en_title": "Absence of a giant Rashba effect in the valence band of lead halide perovskites",
+        "id": "812575347965952001",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿价带中不存在巨大的 Rashba 效应"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813273108671627265": {
+        "area": "Physics and Astrophysics",
+        "authors": "D. Usachov | A. Fedorov | O. Vilkov | V. K. Adamchuk | L. V. Yashina | L. Bondarenko | A. A. Saranin | A. Grüneis | D. V. Vyalikh",
+        "available_online": "2012-10-26",
+        "cover_date_start": "2012-10-26",
+        "created_at": "2022-12-23T20:57:00+08:00",
+        "doi": "10.1103/physrevb.86.155151",
+        "en_title": "Experimental and computational insight into the properties of the lattice-mismatched structures: Monolayers of h -BN and graphene on Ir(111)",
+        "id": "813273108671627265",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "关于晶格失配结构性质的实验与计算洞察：Ir(111) 上的 h -BN 和石墨烯单层"
+      },
+      "paper:813364990886019072": {
+        "area": "Physics and Astrophysics",
+        "authors": "C. Tournier-Colletta | L. Cardenas | Y. Fagot-Revurat | A. Tejeda | B. Kierren | D. Malterre",
+        "available_online": "2011-10-28",
+        "cover_date_start": "2011-10-28",
+        "created_at": "2022-12-24T03:02:06+08:00",
+        "doi": "10.1103/physrevb.84.155443",
+        "en_title": "Absolute coverage determination in the K/Si(111): B - 2 3 × 2 3 R 30 ∘ surface",
+        "id": "813364990886019072",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "K/Si(111)表面上绝对覆盖率的测定：B - 2 3×2 3 R 30°表面"
+      },
+      "paper:814536625953439744": {
+        "area": "Material science",
+        "authors": "Z. Wang | S. McKeown Walker | A. Tamai | Y. Wang | Z. Ristic | F. Y. Bruno | A. de la Torre | S. Riccò | N. C. Plumb | M. Shi | P. Hlawenka | J. Sánchez-Barriga | A. Varykhalov | T. K. Kim | M. Hoesch | P. D. C. King | W. Meevasana | U. Diebold | J. Mesot | B. Moritz | T. P. Devereaux | M. Radovic | F. Baumberger",
+        "available_online": "2016-4-11",
+        "cover_date_start": "2016-04-11",
+        "created_at": "2022-12-27T08:37:46+08:00",
+        "doi": "10.1038/nmat4623",
+        "en_title": "Tailoring the nature and strength of electron–phonon interactions in the SrTiO3(001) 2D electron liquid",
+        "id": "814536625953439744",
+        "keywords": "",
+        "publication_date": "2016-8",
+        "publication_id": "2007",
+        "publication_name": "Nature Materials _ Nature Mater",
+        "research_categories": "",
+        "zh_title": "调控SrTiO₃(001)二维电子气中电子-声子相互作用的性质和强度"
+      },
+      "paper:867764362457121499": {
+        "area": "arXiv-Physics",
+        "authors": "Kingshuk Mukhuti | Arnab Mandal | Basabendra Roy | Sayan Bhattacharyya | Bhavtosh Bansal",
+        "available_online": "",
+        "cover_date_start": "2022-10-10",
+        "created_at": "2023-05-23T05:45:46+08:00",
+        "doi": "10.48550/arXiv.2210.05041",
+        "en_title": "Carrier thermalization and zero-point bandgap renormalization in halide perovskites from the Urbach tails of the emission spectrum",
+        "id": "867764362457121499",
+        "keywords": "",
+        "publication_date": "2022-10-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "基于发射光谱的乌尔巴赫尾研究卤化物钙钛矿中的载流子热化和零点带隙重整化"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+        "id": "gcn_4ad259a13be9454a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P11",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ensemble of CsPbBr3 nanosheets studied, the conjunction of (i) a modest zero‑point bandgap renormalization numerically of order 33 meV, (ii) the absence of resolvable phonon‑replica lines in the measured PL spectra at the available instrumental spectral resolution and under the applied excitation conditions, and (iii) linewidth temperature dependence consistent with Bose‑population (coth‑like) scaling rather than strong‑coupling polaronic scaling, collectively provides evidence that disfavors formation of small polarons (self‑trapped excitons) as the operative carrier state in these samples, subject to the caveat that strong inhomogeneous broadening or other extrinsic effects could in principle mask polaronic signatures.",
+        "content_hash": "c65b6e9c6406f07b71340c4abc702f114044e7f9c90dc950e93b404d4bede6c5",
+        "id": "gcn_c11700f569314c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P8",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029211087420042643,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Considering the available spectroscopic indicators measured on CsPbBr3 nanosheets—(i) parameter values derived from Toyozawa‑style steepness or coupling indices that, in isolation, might suggest intermediate or strong polaronic coupling, (ii) the experimental absence of clear phonon replicas in the PL spectra at the available resolution, and (iii) observed linewidth temperature scaling consistent with a ∼\\coth(\\hbar\\omega_{p}/2k_{B}T) dependence rather than the \\sqrt{\\coth} scaling expected in some strong‑coupling Toyozawa regimes—the proposition is that a heuristic weighting which gives stronger credence to the absence of phonon replicas and to the observed coth‑like linewidth scaling justifies preferring a Dow‑Redfield (weak‑coupling, Mott‑Wannier exciton) interpretation of the exciton–phonon physics in these samples over a Toyozawa polaronic interpretation, while acknowledging that certain Toyozawa parameter estimates by themselves cross nominal critical thresholds.",
+        "content_hash": "822cd25b0fd3c42043ad27876b1efabaa6378b8413c4135e36a61265a8b096fa",
+        "id": "gcn_63843944a6834dc2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::P14",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e.",
+        "content_hash": "7d67ba6eb92d06cd45a0bfadaf5fb6f158e59d1adfcbb8365dcfe22caf3a5fc6",
+        "id": "gcn_1544d55444d743c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_1",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In room-temperature angle-resolved photoemission spectroscopy (ARPES) measurements on freshly cleaved single crystals of CsPbBr3, the hole effective mass at the valence-band maximum (VBM) located at the bulk Brillouin-zone R point was determined by fitting local quadratic dispersions and found to be m_{h}^{*}=0.203\\pm0.016\\,m_{0}, where m_{0} denotes the free-electron mass; this reported value is the average of four independent measurements on four different cleaved samples that produced individual fitted masses of 0.19\\,m_{0}, 0.23\\,m_{0}, 0.20\\,m_{0}, and 0.19\\,m_{0}. The identification of the VBM at the bulk R point was made by photon-energy-dependent ARPES mapping of the perpendicular crystal momentum k_{\\perp}, and under the free-electron final-state mapping k_{\\perp}=\\sqrt{\\tfrac{2m_{0}}{\\hbar^{2}}\\bigl(E_{\\mathrm{kin}}\\cos^{2}\\theta + V_{0}\\bigr)} with inner potential parameter V_{0}=5.3\\ \\mathrm{eV} (where \\hbar is the reduced Planck constant, E_{\\mathrm{kin}} the photoelectron kinetic energy referenced to the vacuum level, and \\theta the electron emission polar angle), the first R point in these measurements corresponds to photon energy h\\nu=29\\ \\mathrm{eV}.",
+        "content_hash": "22e676ad144512345207a2d5a7b09bb66cba1f0cdf9817203498f5f549359e39",
+        "id": "gcn_4d0e277c6d2c4cdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::conclusion_1",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Angle-resolved photoemission spectroscopy (ARPES) experiments detect two of the occupied surface-state bands predicted by the band-filling picture but fail to clearly resolve the third occupied surface state; this absence of a distinct ARPES signature for the third state is attributed to polaronic broadening—electron-phonon coupling that increases the spectral linewidth of that state beyond the experimental resolution and/or its intrinsic bandwidth—so that the missing ARPES feature does not contradict the electron-counting picture that predicts three occupied states.\n      [31]",
+        "content_hash": "d5ee106bbe967e2a2a0de3a4b7d478b60fac74ea4dd7cea984892f7268780528",
+        "id": "gcn_9bbe318307ca43fc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813364990886019072::P13",
+            "package_id": "paper:813364990886019072",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813364990886019072"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The combined experimental constraints from ARPES and spin-resolved ARPES on MAPbBr$_3$ and CsPbBr$_3$ are as follows: (i) high-resolution ARPES of MAPbBr$_3$ at $h\\nu=22$ and $30\\ \\text{eV}$ shows no $0.16\\ \\text{eV}$ dip nor ring-shaped constant-energy contour at the VBM and yields effective masses $m^{*}=0.32\\pm0.02\\,m_e$ and $m^{*}=0.26\\pm0.02\\,m_e$ respectively; (ii) an unresolved-Rashba-splitting simulation based on two parabolic spin-split branches $E_{\\pm}(k_{\\parallel}) = E_0 + \\tfrac{\\hbar^2}{2m^{*}}(k_{\\parallel}\\mp k_0)^2$ with equal weights and k-independent intrinsic width predicts a pronounced increase of EDC FWHM($k_{\\parallel}$) for $\\alpha_{R}\\sim11\\ \\mathrm{eV}\\mathring{\\text{A}}$ (with $2k_0=0.086\\ \\mathring{\\text{A}}^{-1}$, implying $m^{*}\\approx0.03\\,m_e$ in that mapping) that is not observed, instead constraining $\\alpha_{R}\\lesssim1.4\\ \\mathrm{eV}\\mathring{\\text{A}}$ in MAPbBr$_3$ under those model assumptions; (iii) photon-energy-dependent ARPES and EDC-width analysis of CsPbBr$_3$ at $h\\nu=29\\ \\text{eV}$ constrain $\\alpha_{R}\\lesssim1.06\\ \\mathrm{eV}\\mathring{\\text{A}}$ within the same modeling framework; and (iv) spin-resolved ARPES of CsPbBr$_3$ at $h\\nu=28\\ \\text{eV}$ detects no static VBM spin splitting with $\\Delta E\\lesssim29\\pm41\\ \\text{meV}$, corresponding to $\\alpha_{R}\\lesssim7.2\\times10^{-2}\\ \\mathrm{eV}\\mathring{\\text{A}}$ under the Rashba parametrization $\\alpha_{R}=\\Delta E/(2\\Delta k)$. \n      \n      Given these experimental bounds, a valence-band Rashba effect of the previously reported giant magnitude on the order of $7$–$11\\ \\mathrm{eV}\\mathring{\\text{A}}$, whether located in the bulk or confined to the surface, is not supported by the photoemission and spin-resolved data and therefore cannot account for the long carrier lifetimes and high photovoltaic efficiency observed in the studied hybrid and inorganic lead halide perovskite samples; other mechanisms must be responsible for the suppressed radiative recombination in these materials.",
+        "content_hash": "5d3393f9fde7da15b7f1d9f4a9401275333d2b0b1dd1905d43b6c5d23f54fd75",
+        "id": "gcn_57353810bb844f94",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812575347965952001::conclusion_5",
+            "package_id": "paper:812575347965952001",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812575347965952001"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Systematic ARPES analysis of SrTiO3(001) surface 2DEL samples as a function of sheet carrier concentration n_{2D} identifies three empirical regimes: (i) a low-density polaronic regime for n_{2D} ≲ n_1 ≈ 4×10^{13} cm^{-2} in which the quasiparticle effective mass saturates at m^{*} ≈ 1.4 m_e and the quasiparticle residue saturates at Z ≈ 0.2 with weak density dependence; (ii) an intermediate polaronic regime for n_{2D} ≈ 4–9×10^{13} cm^{-2} in which phonon satellite replicas persist in the spectra; and (iii) a high-density regime for n_{2D} ≳ n_2 ≈ 9×10^{13} cm^{-2} where replicas vanish, Z increases toward ≈0.5, and the effective coupling inferred from Z decreases toward α ≈ 1.3, thereby mapping a quantitative evolution from a coherent polaronic liquid to a more conventional metallic state as carrier density increases.",
+        "content_hash": "1e24a84eb9589aecbbec650b4c34dba880ba26a70cc37966c44fc0a8345afe4b",
+        "id": "gcn_0252064687f94434",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814536625953439744::conclusion_5",
+            "package_id": "paper:814536625953439744",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814536625953439744"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the CsPbBr3 nanosheets studied, the combination of (i) a modest zero‑point bandgap renormalization quantified by ε_{F}≈33 meV, (ii) the absence of clearly resolved phonon‑replica lines in the measured PL under the experimental spectral resolution and excitation conditions, and (iii) linewidth and Urbach phonon energies on the order of 14–16 meV with linewidth temperature scaling consistent with Bose‑population (coth‑like) dependence, together indicate that the excitons behave as Mott–Wannier excitons subject to weak‑to‑moderate disorder and weak exciton–phonon coupling; these spectroscopic signatures disfavour formation of small polarons (self‑trapped excitons) as the dominant carrier state in these samples under the measurement conditions.",
+        "content_hash": "bc5d2f0764c6b50652c5375582cdeb5b2bf26bcf49562e1e2301aee1d191bf9f",
+        "id": "gcn_b24a8c0d8fb2496d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764362457121499::conclusion_9",
+            "package_id": "paper:867764362457121499",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764362457121499"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In ARPES measurements of monolayer h-BN on Ir(111) the intrinsic energy/momentum broadening (linewidth) of the intrinsic π-band is substantially larger than that of the intrinsic σ-bands, and applying this larger intrinsic broadening as a convolution to simulated corrugation-induced replica features reduces their contrast and can render the π-replicas effectively unresolved in experimental ARPES intensity maps; consequently, differences in intrinsic linewidth between h-BN and graphene provide a plausible explanation for the differing experimental resolvability of π-replicas.",
+        "content_hash": "6a894fd7616f1c916fc2b8c30e6db9e6886085e3d5f89d0a7bdd2e21b5abac04",
+        "id": "gcn_0baff7da1e8944e2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813273108671627265::P14",
+            "package_id": "paper:813273108671627265",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813273108671627265"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "bd0cf0392dbe82b7b9419a84e26f5c18"
+}

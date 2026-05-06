@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:812649006076264448": {
+        "area": "Physics and Astrophysics",
+        "authors": "Huafeng Shi | Xiaoli Zhang | Xiaowei Sun | Xinhai Zhang",
+        "available_online": "",
+        "cover_date_start": "2020-04-13",
+        "created_at": "2022-12-22T03:37:03+08:00",
+        "doi": "10.1063/1.5145261",
+        "en_title": "Strong hot-phonon bottleneck effect in all-inorganic perovskite nanocrystals",
+        "id": "812649006076264448",
+        "keywords": "",
+        "publication_date": "2020-4-13",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\"]",
+        "zh_title": "全无机钙钛矿纳米晶体中的强热声子瓶颈效应"
+      },
+      "paper:812781314741633025": {
+        "area": "Physics and Astrophysics",
+        "authors": "Eugenio Cinquanta | Daniele Meggiolaro | Silvia G. Motti | Marina Gandini | Marcelo J. P. Alcocer | Quinten A. Akkerman | Caterina Vozzi | Liberato Manna | Filippo De Angelis | Annamaria Petrozza | Salvatore Stagira",
+        "available_online": "2019-4-24",
+        "cover_date_start": "2019-04-24",
+        "created_at": "2022-12-22T12:22:46+08:00",
+        "doi": "10.1103/physrevlett.122.166601",
+        "en_title": "Ultrafast THz Probe of Photoinduced Polarons in Lead-Halide Perovskites",
+        "id": "812781314741633025",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "卤化铅钙钛矿中光生极化子的超快太赫兹探测"
+      },
+      "paper:813001823186059264": {
+        "area": "Material science",
+        "authors": "Thomas R. Hopper | Andrei Gorodetsky | Jarvist M. Frost | Christian Müller | Robert Lovrincic | Artem A. Bakulin",
+        "available_online": "2018-8-21",
+        "cover_date_start": "2018-08-21",
+        "created_at": "2022-12-23T02:58:59+08:00",
+        "doi": "10.1021/acsenergylett.8b01227",
+        "en_title": "Ultrafast Intraband Spectroscopy of Hot-Carrier Cooling in Lead-Halide Perovskites",
+        "id": "813001823186059264",
+        "keywords": "",
+        "publication_date": "2018-9-14",
+        "publication_id": "2024",
+        "publication_name": "ACS Energy Letters _ ACS Energy Lett.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿中热载流子冷却的超快带内光谱学"
+      },
+      "paper:867751092878835757": {
+        "area": "arXiv-Physics",
+        "authors": "Eugenio Cinquanta | Daniele Meggiolaro | Silvia G. Motti | Marina Gandini | Marcelo J. P. Alcocer | Quinten Adriaan Akkerman | Caterina Vozzi | Liberato Manna | Filippo De Angelis | Annamaria Petrozza | Salvatore Stagira",
+        "available_online": "",
+        "cover_date_start": "2018-12-12",
+        "created_at": "2023-05-23T04:53:03+08:00",
+        "doi": "10.48550/arXiv.1812.04903",
+        "en_title": "Ultrafast THz probe of photo-induced polarons in lead-halide perovskites",
+        "id": "867751092878835757",
+        "keywords": "",
+        "publication_date": "2018-12-12",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "卤化铅钙钛矿中光致极化子的超快太赫兹探测"
+      },
+      "paper:867765810263752934": {
+        "area": "arXiv-Physics",
+        "authors": "Maryam Sajedi | Maxim Krivenkov | Dmitry Marchenko | Jaime Sánchez-Barriga | Anoop K. Chandran | Andrei Varykhalov | Emile D. L. Rienks | Irene Aguilera | Stefan Blügel | Oliver Rader",
+        "available_online": "",
+        "cover_date_start": "2022-03-28",
+        "created_at": "2023-05-23T05:51:31+08:00",
+        "doi": "10.48550/arXiv.2203.15070",
+        "en_title": "Is there a polaron signature in angle-resolved photoemission of CsPbBr3?",
+        "id": "867765810263752934",
+        "keywords": "",
+        "publication_date": "2022-03-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "在CsPbBr3的角分辨光电子能谱中是否存在极化子特征？"
+      }
+    },
+    "variables": [
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030886196246139225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Polaron‑parameter calculations performed with variational polaron theory and material dielectric and effective‑mass inputs yield an estimated polaron radius r_p ≈ 36 Å for CsPbBr3; using the approximate mapping between polaron spatial extent and the carrier‑density threshold for overlap n_{\\mathrm{overlap}}\\sim 1/r_p^3 (modulo order‑unity packing factors), the larger r_p in CsPbBr3 reduces n_{\\mathrm{overlap}} and thereby increases the propensity for spatial overlap of distinct polarons and for emitted optical phonons from different polarons to be reabsorbed, which enhances the density‑dependent hot‑phonon bottleneck observed experimentally in CsPbBr3.",
+        "content_hash": "d321172369e9d8872493bb707a4e4c1bde5faa0cb113882e82f98ddaed9a9fec",
+        "id": "gcn_9fd1d0ec12054f67",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813001823186059264::conclusion_6",
+            "package_id": "paper:813001823186059264",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813001823186059264"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029850746268656716,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Polaron‑radius overlap mapping proposition: polaron‑theory calculations that use Feynman variational parameters together with material dielectric and effective‑mass inputs yield a scalar polaron radius parameter $r_p$ that characterizes the spatial extent of the polaronic lattice distortion; the claim is that a computed value $r_p\\approx 36\\ \\text{\\AA}$ for CsPbBr3 is quantitatively meaningful within the theoretical uncertainty and that this radius maps to a carrier‑density threshold for significant polaron overlap via the approximate relation $n_{\\mathrm{overlap}}\\sim 1/r_p^3$ (up to order‑unity packing factors), so that a larger $r_p$ substantially lowers $n_{\\mathrm{overlap}}$ and thereby enhances phonon reabsorption at experimentally relevant densities.",
+        "content_hash": "f5cced392b27f5232e27f8a81a2376b0da99b6c06b5fed122a5701a0274ca875",
+        "id": "gcn_0fe08484c7c6471c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813001823186059264::P9",
+            "package_id": "paper:813001823186059264",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813001823186059264"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0293236301369863,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using continuum Fröhlich and Feynman variational formalisms to estimate large‑polaron parameters yields representative polaron radii for CsPbBr3 of electron ρ_e ≈ 26.7 Å and hole ρ_h ≈ 24.9 Å, and for representative organic perovskites larger electron polaron radii such as ρ_e ≈ 41.8 Å; for colloidal CsPbBr3 nanocrystals with physical size ≈15 nm and organic surface ligands, these continuum polaron radius estimates are taken as valid approximations for the screening length scale that controls dynamic Coulomb screening of interactions mediating carrier–LO‑phonon scattering, and smaller polaron radii correspond to reduced dynamic screening and therefore to stronger effective carrier–LO coupling in the nanocrystals under the stated experimental excitation conditions.",
+        "content_hash": "62affba77b59776e1e397778fe06df23a5874f47b9c51c2dd02dd25ab9b53263",
+        "id": "gcn_090553bf5b3a4df5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812649006076264448::P10",
+            "package_id": "paper:812649006076264448",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812649006076264448"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029206349206349208,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The effective mass entering the Drude prefactor used to infer transport parameters for photogenerated carriers in CsPbBr3 is taken as m_p = 3.5 × m*, where m_p is the effective polaron mass and m* = 0.21 m_e is the bare electronic band effective mass (m_e = 9.10938356×10^−31 kg is the electron rest mass); the multiplicative factor 3.5 is adopted from Feynman–Osaka polaron model estimates to account for polaron mass enhancement, and using this fixed scaling produces a physically appropriate value of m_p for the photogenerated carrier population in the studied nanocrystal thin films such that the uncertainty in this adopted scaling is small compared with the quoted mobility estimate μ = q τ_s / m_p.",
+        "content_hash": "0d09f02409bd634db737d621ef1d1c9ec2ae00655f2c8898ebb2516509a9e0b4",
+        "id": "gcn_486e443ce09241e8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812781314741633025::P2",
+            "package_id": "paper:812781314741633025",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812781314741633025"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029116045245077504,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_{0}\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right),\n      with the inputs m_{0}=0.17\\\\,m_e and \\\\alpha=1.81 produces a polaron-renormalized hole mass m_{\\\\mathrm{pol}}=0.24\\\\,m_e; this theoretical mass renormalization reduces the discrepancy between the computed bare mass and the ARPES-derived mass to within the experimental uncertainty of \\\\pm0.02\\\\,m_e.",
+        "content_hash": "0f03375698c16f3a155fca0b713d3f3a5bbfc85c0c9723ddad2bceaa813fed32",
+        "id": "gcn_ffcf3464e99c47ed",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_6",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Cesium lead bromide (CsPbBr_{3}) undergoes crystallographic phase changes with temperature and adopts an orthorhombic ground-state structure at room temperature, yet ARPES band dispersions measured at room temperature can in practice resemble higher-symmetry cubic-phase dispersions for some momentum-space cuts; therefore using an orthorhombic-structure G_{0}W_{0} calculation that yields m_{h}^{*}=0.226\\,m_{0} for direct quantitative comparison with room-temperature ARPES data assumes that the orthorhombic theoretical band structure is an appropriate representation of the electronic states probed in the ARPES experiment, and further assumes that any difference in structural symmetry between the theoretical model and the actual electronic-state symmetry sampled by ARPES does not change the effective mass by an amount comparable to the experimental–theoretical difference being evaluated.",
+        "content_hash": "3033118b69bcd16aa947ab18021d846b7f3589913544e108be2aafcb9c8eee4e",
+        "id": "gcn_1fc9a84fbc6e4a1b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765810263752934::P7",
+            "package_id": "paper:867765810263752934",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765810263752934"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the photoexcited carriers in $CsPbBr_{3}$ nanocrystal thin films, the carrier effective mass renormalization due to polaron formation is characterized by a polaron mass $m_{p}$ equal to $3.5$ times the bare band effective mass $m^{*}$, with the bare mass taken as $m^{*}=0.21\\,m_{e}$ where $m_{e}$ is the free-electron rest mass ($m_{e}=9.10938356\\times10^{-31}\\,$kg); explicitly, $m_{p}=3.5\\cdot 0.21\\cdot m_{e}$. This multiplicative factor is adopted from prior theoretical and experimental studies of related lead-halide perovskites and is assumed to be applicable under the present sample morphology, temperature, and excitation conditions.\n      See cited literature providing polaron mass estimates used by the authors.",
+        "content_hash": "2e1d83e49f781b4a4d29edd6c80b3bd30d80e0040b8e66db7daf66a9ec1b9c5b",
+        "id": "gcn_b5e39d057bc34728",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751092878835757::P10",
+            "package_id": "paper:867751092878835757",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751092878835757"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "ARPES single-particle spectral-function measurements at finite experimental energy resolution produce a quasiparticle peak whose linewidth is determined by combined instrumental broadening, thermal disorder, and intrinsic many-body scattering; in CsPbBr$_3$ the relevant optical longitudinal-optical (LO) phonon energies are \\\\leq25\\\\ \\\\mathrm{meV} and phonon-replica satellites separated by these energies cannot be resolved because the experimental quasiparticle linewidth exceeds the mode energy separations, yet the ARPES-measured quasiparticle dispersion and the fitted increase in effective mass still faithfully reflect the quasiparticle mass renormalization due to electron–phonon interactions, so that extraction of an increased effective mass from the fitted dispersion constitutes a valid signature of polaronic mass dressing even in the absence of resolved replica peaks.",
+        "content_hash": "cf864accc4f696636872da7b4562711e3e922410990ddecccbfedb66c0c440be",
+        "id": "gcn_4ad259a13be9454a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P11",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a Fröhlich polaron characterized by coupling strength \\\\alpha and bare electronic mass m_0, the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_0\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right)\n      truncated at the displayed second-order term provides a numerical estimate of the polaron-renormalized effective mass m_{\\\\mathrm{pol}} that is accurate for \\\\alpha\\\\approx1.81 within truncation and variational errors small compared to the experimental uncertainty of \\\\pm0.02\\\\,m_e used in the ARPES-derived mass comparison.",
+        "content_hash": "9cd12ca57ae3d63e8954e11f5dced167d26411b5e5a3769a68f5ed1f2bced2c2",
+        "id": "gcn_2b322b6a88d742ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "7f6e82e68d221a54b42ad9c9c2d123cd"
+}

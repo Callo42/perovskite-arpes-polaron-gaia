@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1025266469098749962": {
+        "area": "Chemistry",
+        "authors": "Supriya Ghosh | Bapi Pradhan | Arkamita Bandyopadhyay | Irina Skvortsova | Yiyue Zhang | Christian Sternemann | Michael Paulus | Sara Bals | Johan Hofkens | Khadga J Karki | Arnulf Materny",
+        "available_online": "",
+        "cover_date_start": "2024-07-31",
+        "created_at": "2024-07-30T20:42:55+08:00",
+        "doi": "10.1021/acs.jpclett.4c01957",
+        "en_title": "Rashba-Type Band Splitting Effect in 2D (PEA) 2 PbI 4 Perovskites and Its Impact on Exciton-Phonon Coupling",
+        "id": "1025266469098749962",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "3390",
+        "publication_name": "The Journal of Physical Chemistry Letters _ ",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\"]",
+        "zh_title": "二维(PEA)₂PbI₄钙钛矿中的 Rashba 型能带分裂效应及其对激子-声子耦合的影响"
+      },
+      "paper:811041546383130625": {
+        "area": "Physics and Astrophysics",
+        "authors": "Omer Yaffe | Yinsheng Guo | Liang Z. Tan | David A. Egger | Trevor Hull | Constantinos C. Stoumpos | Fan Zheng | Tony F. Heinz | Leeor Kronik | Mercouri G. Kanatzidis | Jonathan S. Owen | Andrew M. Rappe | Marcos A. Pimenta | Louis E. Brus",
+        "available_online": "2017-3-28",
+        "cover_date_start": "2017-03-28",
+        "created_at": "2022-12-17T17:09:34+08:00",
+        "doi": "10.1103/physrevlett.118.136001",
+        "en_title": "Local Polar Fluctuations in Lead Halide Perovskite Crystals",
+        "id": "811041546383130625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "卤化铅钙钛矿晶体中的局部极化涨落"
+      },
+      "paper:812638467241541632": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Puppin | S. Polishchuk | N. Colonna | A. Crepaldi | D. N. Dirin | O. Nazarenko | R. De Gennaro | G. Gatti | S. Roth | T. Barillot | L. Poletto | R. P. Xian | L. Rettig | M. Wolf | R. Ernstorfer | M. V. Kovalenko | N. Marzari | M. Grioni | M. Chergui",
+        "available_online": "2020-5-20",
+        "cover_date_start": "2020-05-20",
+        "created_at": "2022-12-22T02:55:10+08:00",
+        "doi": "10.1103/physrevlett.124.206402",
+        "en_title": "Evidence of Large Polarons in Photoemission Band Mapping of the Perovskite Semiconductor CsPbBr 3",
+        "id": "812638467241541632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钙钛矿半导体CsPbBr₃光电子能谱带映射中大型极化子的证据"
+      },
+      "paper:813034873450135552": {
+        "area": "Physics and Astrophysics",
+        "authors": "Li-Yuan Rong | Xun Shi | Pierre Richard | Yun-Lei Sun | Guang-Han Cao | Xiang-Zhi Zhang | Jun-Zhang Ma | Ming Shi | Yao-Bo Huang | Tian Qian | Hong Ding | Ren-Zhong Tai",
+        "available_online": "2018-5-21",
+        "cover_date_start": "2018-05-01",
+        "created_at": "2022-12-23T05:10:19+08:00",
+        "doi": "10.1088/0256-307x/35/5/057401",
+        "en_title": "Coexistence of Polaronic States and Superconductivity in Iron-Pnictide Compound Ba 2 Ti 2 Fe 2 As 4 O",
+        "id": "813034873450135552",
+        "keywords": "",
+        "publication_date": "2018-5",
+        "publication_id": "632",
+        "publication_name": "Chinese Physics Letters _ Chinese Phys. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "铁基磷化物化合物Ba₂Ti₂Fe₂As₄O中极化子态与超导性的共存"
+      },
+      "paper:814692054138355713": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Jaime | M. B. Salamon | M. Rubinstein | R. E. Treece | J. S. Horwitz | D. B. Chrisey",
+        "available_online": "1996-11-1",
+        "cover_date_start": "1996-11-01",
+        "created_at": "2022-12-27T18:55:23+08:00",
+        "doi": "10.1103/physrevb.54.11914",
+        "en_title": "High-temperature thermopower in La 2 / 3 Ca 1 / 3 MnO 3 films: Evidence for polaronic transport",
+        "id": "814692054138355713",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "La 2 / 3 Ca 1 / 3 MnO 3 薄膜中的高温热电势：极化子输运的证据"
+      },
+      "paper:867757609485074487": {
+        "area": "arXiv-Physics",
+        "authors": "A. S. Alexandrov | C. J. Dent",
+        "available_online": "",
+        "cover_date_start": "1999-05-13",
+        "created_at": "2023-05-23T05:18:56+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9905185",
+        "en_title": "Angle-resolved photoemission in doped charge-transfer Mott insulators",
+        "id": "867757609485074487",
+        "keywords": "",
+        "publication_date": "1999-05-13",
+        "publication_id": "108490",
+        "publication_name": "Superconductivity _ Physics.cond-mat.supr-con",
+        "research_categories": "",
+        "zh_title": "掺杂电荷转移莫特绝缘体中的角分辨光电子能谱"
+      },
+      "paper:867764320174342541": {
+        "area": "arXiv-Physics",
+        "authors": "N. Mannella | W. Yang | X. J. Zhou | H. Zheng | J. F. Mitchell | J. Zaanen | T. P. Devereaux | N. Nagaosa | Z. Hussain | Z.-X. Shen",
+        "available_online": "",
+        "cover_date_start": "2005-10-17",
+        "created_at": "2023-05-23T05:45:36+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0510423",
+        "en_title": "Nodal quasiparticle in pseudogapped colossal magnetoresistive manganites",
+        "id": "867764320174342541",
+        "keywords": "",
+        "publication_date": "2005-10-17",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "赝能隙巨磁电阻锰氧化物中的节线准粒子"
+      },
+      "paper:867768357833670849": {
+        "area": "arXiv-Physics",
+        "authors": "Mingu Kang | Sung Won Jung | Woo Jong Shin | Yeongsup Sohn | Sae Hee Ryu | Timur K. Kim | Moritz Hoesch | Keun Su Kim",
+        "available_online": "",
+        "cover_date_start": "2018-05-28",
+        "created_at": "2023-05-23T06:01:39+08:00",
+        "doi": "10.48550/arXiv.1805.11198",
+        "en_title": "Holstein polaron in a valley-degenerate two-dimensional semiconductor",
+        "id": "867768357833670849",
+        "keywords": "",
+        "publication_date": "2018-05-28",
+        "publication_id": "108490",
+        "publication_name": "Superconductivity _ Physics.cond-mat.supr-con",
+        "research_categories": "",
+        "zh_title": "谷简并二维半导体中的荷斯坦极化子"
+      },
+      "paper:867773365425799477": {
+        "area": "arXiv-Physics",
+        "authors": "Sander Raaijmakers | Mike Pols | José Manuel Vicent-Luna | Shuxia Tao",
+        "available_online": "",
+        "cover_date_start": "2021-10-29",
+        "created_at": "2023-05-23T06:21:33+08:00",
+        "doi": "10.48550/arXiv.2110.15827",
+        "en_title": "A Reparameterized Density Functional Tight-Binding Method for Engineering phase-stable CsPbX\\textsubscript{3} Perovskites",
+        "id": "867773365425799477",
+        "keywords": "",
+        "publication_date": "2021-10-29",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\"]",
+        "zh_title": "一种用于设计相稳定的CsPbX₃钙钛矿的重新参数化密度泛函紧束缚方法"
+      }
+    },
+    "variables": [
+      {
+        "content": "The sequence consisting of (i) ab initio DFPT evaluation of long-wavelength phonons, Born charges, and dielectric response and computation of the long-wavelength Fröhlich vertex and its energy-resolved squared coupling density d(g^{2})/d\\\\omega to obtain the effective single-mode parameters \\\\tilde{g}_{\\\\mathrm{LO}}^{2} and \\\\hbar\\\\tilde{\\\\omega}_{\\\\mathrm{LO}}, and (ii) a Feynman-polaron calculation using the ab initio bare mass m_{0} and the Fröhlich parameter \\\\alpha computed from those inputs, reproduces the ARPES-measured hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e for orthorhombic CsPbBr$_3$ within experimental uncertainty; therefore this ab initio electron–phonon evaluation combined with a Feynman-polaron treatment is a viable predictive method to compute carrier effective masses in lead-halide perovskites when the Fröhlich mechanism dominates carrier dressing.",
+        "content_hash": "0346548395d4b93caf387c1a5937efda1c3702e37594c9f944446a4cd67dbcd4",
+        "id": "gcn_5e907da32c114d34",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::conclusion_8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029910714285714284,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "From the activation-energy decomposition and the approximation that the electronic transfer integral J is negligible compared with one-half the polaron formation energy W_{H}, the polaron binding energy is estimated as $E_{p}=2W_{H}\\approx204\\ \\mathrm{meV}$. Using the relation between polaron effective mass and radius\n      $$\n      \\frac{m^{*}}{m_{e}}=A\\,r_{p}^{-2},\n      $$\n      with numerical coefficient $A=1.9\\ \\mathrm{nm}^{2}$, where m^{*} is the polaron effective mass, m_{e} is the free-electron mass (9.10938356×10^{-31} kg), and r_{p} is the polaron radius measured in nanometers, the experimental data imply this inverse-square scaling; for example, taking r_{p} of order two perovskite unit-cell parameters (r_{p}≈1.0 nm) yields $m^{*}/m_{e}\\approx3$, indicating a moderate effective-mass enhancement for a localized polaron in this material.",
+        "content_hash": "094849cceecfdd291752fec5833b4abd41c0fe09f1247082c5a8b8cb845a08cd",
+        "id": "gcn_13159612caee4a8d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814692054138355713::conclusion_3",
+            "package_id": "paper:814692054138355713",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814692054138355713"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027252906976744186,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a Fröhlich polaron characterized by coupling strength \\\\alpha and bare electronic mass m_0, the Feynman variational polaron-model weak-to-intermediate coupling expansion\n      m_{\\\\mathrm{pol}}=m_0\\\\left(1+\\\\frac{\\\\alpha}{6}+0.025\\\\alpha^{2}+\\\\cdots\\\\right)\n      truncated at the displayed second-order term provides a numerical estimate of the polaron-renormalized effective mass m_{\\\\mathrm{pol}} that is accurate for \\\\alpha\\\\approx1.81 within truncation and variational errors small compared to the experimental uncertainty of \\\\pm0.02\\\\,m_e used in the ARPES-derived mass comparison.",
+        "content_hash": "9cd12ca57ae3d63e8954e11f5dced167d26411b5e5a3769a68f5ed1f2bced2c2",
+        "id": "gcn_2b322b6a88d742ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812638467241541632::P8",
+            "package_id": "paper:812638467241541632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812638467241541632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025528455284552845,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Suppose experimental ARPES peak dispersions along a high-symmetry direction are fitted with a convolved one-dimensional polaron spectral-function model whose intrinsic coherent dispersion is parabolic $\\xi_k=k^2/2m^{*}-\\mu$. The proposition is that the best-fit value $m^{*}=9.9\\,m_e$ (where $m_e$ denotes the free electron mass) obtained from such angular-dispersion fits is a robust estimate of the polaron effective mass in the material: the fitted value is not excessively sensitive to modest changes in other fitting parameters such as the momentum resolution $\\delta$, the detailed form of the dipole matrix element $d(\\mathbf{k})$, or the assumed chemical-potential offset $\\mu$, and this mass value is directly comparable to independent quantum–Monte–Carlo estimates for the small Fröhlich polaron mass.",
+        "content_hash": "6f35c6125d3ffacf338edaca48ae220b490d97260283a5d07d9766bd1264d843",
+        "id": "gcn_3bf894ba2a7d49d5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757609485074487::P13",
+            "package_id": "paper:867757609485074487",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757609485074487"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Feynman polaron model, in which a charge carrier interacting with longitudinal‑optical phonons forms a polaron with an effective mass that increases with electron–phonon coupling strength, provides an appropriate theoretical framework for the layered lead‑halide perovskite thin films studied here so that an increase of carrier effective mass in Rashba‑split bands translates into measurably stronger Fröhlich (LO) phonon scattering and therefore a larger experimentally fitted γLO parameter.\n      Feynman polaron theory (R. P. Feynman, Phys. Rev. 1955) and relevant applications to lead‑halide perovskites cited in the paper",
+        "content_hash": "115b3a393caf8d83a9cb1efbfa96019e413843f0f81f95759e7b84e1591510f4",
+        "id": "gcn_8182c7cde5f94e44",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1025266469098749962::P14",
+            "package_id": "paper:1025266469098749962",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1025266469098749962"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The effective polaron mass $m^{*}$ of the lowest‑energy polaron sub‑band can be extracted from ARPES dispersion data by fitting the measured dispersion of that sub‑band near its band minimum with the quadratic function $E_{\\mathrm{fit}}(k)=E_{0}+\\frac{\\hbar^{2}k^{2}}{2m^{*}}$, where $E_{0}$ is the band minimum energy and $k$ is measured relative to the band‑minimum momentum; within the experimental momentum window used for the fit and accounting for known instrumental broadening, overlapping excited sub‑bands, and finite spectral weight near flat branches, this fitted $m^{*}$ accurately reflects the polaron effective mass relevant for comparison to theoretical Holstein‑model simulations (for example yielding $m^{*}/m_{0}\\approx 3$ at intermediate doping under the stated fitting protocol).",
+        "content_hash": "7ea5df27801c6eb8667fea2e04375121e05d16fc6d9112cd8872068cbbfd849b",
+        "id": "gcn_af3a63412c1d44d3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768357833670849::P4",
+            "package_id": "paper:867768357833670849",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768357833670849"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Finite-temperature molecular dynamics heat maps and mean-squared displacements computed with GFN1-xTB-OPT show that, in the low-temperature orthorhombic phase, Cs cations displace directionally toward cage edges and reduce instantaneous cation-halide contact; at higher temperatures, halide ions exhibit larger anisotropic fluctuations and Cs displacements become more isotropic, so increased halide and cation fluctuations restore cation-halide contact and stabilize tetragonal and cubic perovskite phases. The directional Cs displacement in the orthorhombic phase therefore facilitates transitions toward the non-perovskite yellow phase at low temperature, whereas thermal halide fluctuations at elevated temperature compensate the contact loss and promote high-symmetry perovskite phases.",
+        "content_hash": "201a5ebc43b9c8ba64aeb8d86848a92c38f71070cbeff336075fffa669c9da03",
+        "id": "gcn_c3bfac2a7f934fc8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867773365425799477::conclusion_6",
+            "package_id": "paper:867773365425799477",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867773365425799477"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The claim is: If, upon increasing temperature from low T up to the Curie temperature T_{C}, ARPES EDCs show that (i) the low-energy nodal quasiparticle peak spectral weight decreases and disappears by T ≲ T_{C} while (ii) the high-energy hump maximum position and lineshape experience only minor changes over the same temperature range, then this behavior indicates that the low-energy coherence associated with the polaron centre-of-mass motion is thermally destroyed (polaron centre-of-mass decoherence), whereas the local incoherent polaron excitations giving rise to the hump are robust to thermal fluctuations in that temperature window; here \"hump\" and \"quasiparticle peak\" are the EDC features described in the ARPES spectra and T_{C} denotes the ferromagnetic Curie temperature.",
+        "content_hash": "58968a69c99ce9dd7f834d860aa934243a4466428fdf5ddb635f42fde61d1c7b",
+        "id": "gcn_43ebd7a3c2884096",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764320174342541::P8",
+            "package_id": "paper:867764320174342541",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764320174342541"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When the positions of EDC peaks extracted from ARPES peak fits as a function of crystal momentum k produce an upper branch whose dispersion E(k) is substantially reduced (i.e., nearly flat) within the experimental momentum window, that flattened dispersion is interpreted to correspond to a heavy effective mass m* of the quasiparticles induced by electron–lattice renormalization (a polaronic mass enhancement), rather than being produced primarily by other causes such as matrix‑element suppression of apparent dispersion, unresolved band hybridization, or instrumental momentum broadening.",
+        "content_hash": "abb9020cb179635392608e0a7d4ad3fbbc85b37ab1f985b507602fa18c2e0ec2",
+        "id": "gcn_971bf400b41b4de0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813034873450135552::P3",
+            "package_id": "paper:813034873450135552",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813034873450135552"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Experimental observation of a strong Raman central peak in the all-inorganic perovskite CsPbBr3, in addition to the hybrid perovskite CH3NH3PbBr3, demonstrates that anharmonic, local polar thermal fluctuations occur in lead–halide perovskite lattices even when the A-site is the atomic, nonpolar cation Cs+; therefore the presence of a dipolar organic A-site cation and its rotational degrees of freedom are not required for these local polar fluctuations to occur in APbBr3-type lead–halide perovskites.",
+        "content_hash": "547503eed2d0dd830f010aed8148f11baf76496b16f6038295dc831a233febcb",
+        "id": "gcn_2d3dc8c3fc4943d0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811041546383130625::conclusion_2",
+            "package_id": "paper:811041546383130625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811041546383130625"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "3ef4b25cc36cd22fac2ad22405eba078"
+}

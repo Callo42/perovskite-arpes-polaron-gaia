@@ -1,0 +1,108 @@
+{
+  "holes": [
+    {
+      "content": "Define an equilibrated atomic configuration as a single instantaneous atomic-coordinate snapshot selected from an AIMD trajectory sampled at T = 300 K in the canonical ensemble with a Nosé–Hoover thermostat on a 3×3×3 pseudocubic supercell (135 atoms). Let HSE–SOC(α) denote electronic-structure calculations using the Heyd–Scuseria–Ernzerhof hybrid functional including spin–orbit coupling with hybrid mixing parameter α (fraction of nonlocal Fock exchange). The proposition is: computing the unfolded electronic band structure and extracting direction-averaged effective masses from one representative equilibrated AIMD configuration using HSE–SOC(α = 0.54), where α = 0.54 is chosen so that the calculated band gap for that configuration equals the experimental room-temperature band gap E_g = 2.37 eV, yields band dispersions and direction-averaged effective masses that accurately represent the thermally averaged electronic band structure of bulk CsPbBr₃ at T = 300 K within uncertainties comparable to typical experimental error bars; thus a single snapshot plus a tuned-α HSE–SOC calculation is treated as a surrogate for ensemble averaging over thermally fluctuating structures. [@Zhao2025]",
+      "content_hash": "8ee582f2ef3788a4f3af54c870b2918457cd46cb491ebae38892441ca6dd617e",
+      "interface_hash": "sha256:a0c19cef7b6e4dc15a2d3a38dd1fbcc702c0a5c486b61061e9cf8e858590e024",
+      "label": "gcn_00749f497c204b4c",
+      "qid": "github:perovskite_arpes_polaron::gcn_00749f497c204b4c",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "Let an energy-distribution curve (EDC) be the ARPES-measured photoemission intensity as a function of binding energy E at fixed parallel momentum k; the energy position of the maximum of the measured EDC at the band top is used to define the valence-band-maximum energy E_{\\\\mathrm{VBM}} for the purposes of setting the energy zero and extracting an effective mass, and any systematic shift of the EDC peak maximum from the true quasiparticle band-edge caused by many-body interactions, inelastic background, or the instrumental lineshape is assumed to be smaller than the quoted energy/mass uncertainty so that using the EDC peak maximum to set E=0 does not induce a systematic error larger than \\\\pm0.02\\\\,m_e in the fitted hole effective mass. [@Puppin2020]",
+      "content_hash": "e9bf7066b7e26bd7df1b259aa62cadf9f56f44a447481376fc2756fbdfbfb153",
+      "interface_hash": "sha256:b4e3bad8d06f28f0bf7c39bc69c4235762d07b70913293917b75ea66f11331b2",
+      "label": "gcn_0a71cf6357114b76",
+      "qid": "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "Consider AIMD trajectories used to sample finite-temperature atomic configurations for a material with a soft anharmonic lattice. The proposition is: performing AIMD structural sampling with the Perdew–Burke–Ernzerhof (PBE) generalized-gradient exchange-correlation functional using a 3×3×3 supercell, a Nosé–Hoover thermostat sampling the canonical ensemble, and a 1 fs timestep yields a structural ensemble whose statistical distribution of atomic positions is sufficiently accurate for subsequent single-point HSE–SOC (with tuned α) electronic-structure calculations to produce reliable thermally renormalized unfolded band dispersions and effective masses; in particular, any systematic biases in equilibrium lattice parameters or force constants introduced by PBE do not materially change the unfolded band curvatures obtained from representative AIMD snapshots evaluated with HSE–SOC. [@Zhao2025]",
+      "content_hash": "b585b376942061a7501421c966d7c2742405aa144cb3e99817bdf778e30c67f6",
+      "interface_hash": "sha256:0d5c161711f233ba230b81763ac9d34d27c9e53376c3df7b608d26fdce9f0c9f",
+      "label": "gcn_1c2bf8f398f243f9",
+      "qid": "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "In an ARPES measurement of a crystalline semiconductor, let E(k) denote the measured quasiparticle energy as a function of the in-plane crystal momentum k (the magnitude of a two-dimensional wave vector measured in reciprocal angstroms, Å^{-1}), and let E_{\\\\mathrm{VBM}} denote the valence-band-maximum (VBM) energy defined as the highest occupied quasiparticle energy; within the momentum window used for fitting the upper valence band, taken here to be the region |k-k_{\\\\mathrm{VBM}}|\\\\lesssim0.1\\\\ \\\\text{\\\\AA}^{-1} around the momentum of the VBM, the quasiparticle dispersion is assumed to be well described by the isotropic in-plane parabolic form\n      E(k)=E_{\\\\mathrm{VBM}}+\\\\frac{\\\\hbar^{2}k^{2}}{2m_{\\\\mathrm{exp}}},\n      where \\\\hbar is the reduced Planck constant and m_{\\\\mathrm{exp}} is the fitted experimental hole effective mass; under this parabolic-band approximation, least-squares fitting of the experimentally extracted band maxima to this functional form returns m_{\\\\mathrm{exp}} and the systematic error in m_{\\\\mathrm{exp}} arising from neglected higher-order (nonparabolic) terms is smaller than the quoted experimental uncertainty of \\\\pm0.02\\\\,m_e, with m_e the free electron mass. [@Puppin2020]",
+      "content_hash": "dc399aa758f7799b9ab1ef123bf150fbb7aaad3b55d164f3c84629af0a797791",
+      "interface_hash": "sha256:349b6b66cbd584c94a614c4abd4cde850ebfd0a038985e1ecd584e32b4712fbd",
+      "label": "gcn_2e9e6e30a5d7431c",
+      "qid": "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "Let Brillouin-zone unfolding denote the procedure that maps supercell eigenvalues and computed spectral weights onto the primitive-cell Brillouin zone to produce an energy–momentum colormap for extracting band dispersions and effective masses. The proposition is: the unfolded bulk spectral intensity and dispersion obtained from a 3×3×3 supercell HSE–SOC(α = 0.54) calculation can be directly compared to ARPES measurements of the valence-band dispersion of CsPbBr₃ without applying explicit corrections for photoemission matrix-element effects, surface electronic-structure differences, extrinsic surface disorder, or ARPES finite probing-depth effects; therefore, agreement between an unfolded bulk effective mass and an ARPES effective mass is taken as evidence that the bulk thermal-structure model captures the experimentally observed dispersion. [@Zhao2025]",
+      "content_hash": "882e184e532195a7c8cb3eb588e3d67b83a43f56ad90d95dbbb4b74711586fba",
+      "interface_hash": "sha256:d65162cf03270ca5d5a9fcbf8842f5c26a719e5579798267f0d55a9f7749daee",
+      "label": "gcn_43c66f240368417e",
+      "qid": "github:perovskite_arpes_polaron::gcn_43c66f240368417e",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "Numerical quasiparticle properties computed within the one-shot G_{0}W_{0} approximation, including the valence-band effective mass m_{h}^{*} and the quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}, are sensitive to specific computational choices and convergence parameters such as basis-set completeness, density and sampling of k points in the Brillouin zone, the frequency-integration scheme or plasmon-pole model used for the screened Coulomb interaction, the numerical treatment of spin–orbit coupling, details of pseudopotential versus all-electron implementations, and whether the GW calculation is performed as a single-shot (G_{0}W_{0}) or with partial self-consistency; consequently, different reasonable implementations or convergence thresholds of the G_{0}W_{0} method can produce quantitatively different values of m_{h}^{*} comparable to the differences observed between the cubic and orthorhombic calculations reported here. [@Sajedi2022]",
+      "content_hash": "8963913f86e73674ef65ab520b6b1817e736e7124f9fe9a3c93b39985a9e3a4c",
+      "interface_hash": "sha256:536e1127abd921f7022d7fab0f2ca8f8de9ba0b2bbd2bb9e48572f9226f02a7e",
+      "label": "gcn_5868b15c687043a9",
+      "qid": "github:perovskite_arpes_polaron::gcn_5868b15c687043a9",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "Let HSE–SOC(α) denote HSE calculations including SOC with fraction α of nonlocal Fock exchange. Consider two unfolded band structures: one computed on an AIMD (T = 300 K) configuration with α = 0.54 and another computed on the ideal cubic (T = 0 K) lattice with α = 0.74, where both α values were chosen so that each calculation reproduces the same experimental band gap E_g = 2.37 eV on its respective structure. The proposition is: the differences in band dispersions and effective masses between these two HSE–SOC(α) calculations can be attributed primarily to the presence or absence of thermal-lattice disorder (the atomic structural differences between the AIMD and ideal lattices) rather than to the different numerical choice of α itself or to compensating errors introduced by tuning α; in other words, tuning α to match the gap does not produce artificial changes in band curvature that would be mistaken for thermal effects in this comparison. [@Zhao2025]",
+      "content_hash": "81a8a7b872df786e83e8e6d74294fd86ca0dbbe7e15590010d3988a75f8c69ae",
+      "interface_hash": "sha256:a2b627fa235d80d4746464916344fe4c33463cdd863e2b4bf9ca35bb78bf9453",
+      "label": "gcn_869be47d79c54464",
+      "qid": "github:perovskite_arpes_polaron::gcn_869be47d79c54464",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "Let an ARPES measurement of the valence-band dispersion at temperature T = 300 K produce an effective, thermally averaged band curvature corresponding to an experimental hole effective mass m_h^exp. The proposition is: a single representative equilibrated pseudocubic atomic configuration sampled from AIMD at T = 300 K (3×3×3 supercell, 135 atoms, Nosé–Hoover thermostat, 1 fs timestep) provides an electronic band structure whose unfolded valence-band curvature equals the ARPES thermally averaged curvature within typical experimental uncertainty; equivalently, ensemble averaging over many AIMD configurations is not required to reproduce the ARPES-measured m_h^exp for bulk CsPbBr₃ when using the representative-snapshot-plus-tuned-α procedure. [@Zhao2025]",
+      "content_hash": "231a58c37ad04f86a4e11682c03be8a2b90ecbd74d16eecc07120f232373b09a",
+      "interface_hash": "sha256:4b187d3bd52ae361f394e931760196f0422c34818251587960eb30dd90df2041",
+      "label": "gcn_c24c81b8a5fe413c",
+      "qid": "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "ARPES intensity maps measured over in-plane momentum (k_x,k_y) and as a function of photon energy (which probes different values of the momentum component perpendicular to the surface, k_{\\\\perp}) together with band-unfolding calculations show that the observed periodicity of four valence-band maxima at the surface Brillouin-zone corners and the absence of an additional valence-band maximum at the surface \\\\bar{\\\\Gamma} point are not caused by surface reconstruction, k_{\\\\perp} dispersion, or matrix-element effects; specifically, energy- and polarization-dependent ARPES measurements reveal no signature of an additional VBM at \\\\bar{\\\\Gamma}, and unfolding of orthorhombic bands onto the cubic cell shows negligible spectral weight transfer to backfolded bands, so that the measured dispersion used to obtain m_{\\\\mathrm{exp}} represents bulk-like valence-band behavior relevant to the orthorhombic structure. [@Puppin2020]",
+      "content_hash": "c56d81e4b96d82314536915fa11d718a76b89623e8f4fb4f7d39f64ac34940d1",
+      "interface_hash": "sha256:41307778401f27da5f9ff76afd73276eee5b8c1ad1a79634c3647aab06777b0f",
+      "label": "gcn_e24a3d64aa604555",
+      "qid": "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    },
+    {
+      "content": "In the orthorhombic-structure G_{0}W_{0} quasiparticle calculation that produced the averaged hole effective mass m_{h}^{*}=0.226\\,m_{0}, the construction of maximally-localized Wannier functions (Wannierization) was applied only to the valence-band manifold for the purpose of interpolating and averaging band curvatures whereas the conduction-band manifold was not Wannierized; this partial (valence-only) Wannier interpolation procedure can introduce a systematic bias in the interpolation of quasiparticle band curvatures and may lead to a modest overestimation of the reported averaged hole effective mass relative to a calculation in which both valence and conduction bands are treated consistently in the Wannier interpolation or in which no post-processing interpolation is used. [@Sajedi2022]",
+      "content_hash": "3c7956dbd8f321243c82e736369bbd864b17cbb6c981f98e3a7107db2d359b1b",
+      "interface_hash": "sha256:9219541573b624d998bf89ee24f0577ac29d2ec51d54341f0081ea0b3733b47e",
+      "label": "gcn_ec768b9675814820",
+      "qid": "github:perovskite_arpes_polaron::gcn_ec768b9675814820",
+      "required_by": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+      ]
+    }
+  ],
+  "ir_hash": "sha256:c31a37793a2765d28b59471b960526ec3d7a06e00735a146f577577a9193cc57",
+  "manifest_schema_version": 1,
+  "package": "perovskite-arpes-polaron",
+  "version": "0.1.0"
+}
