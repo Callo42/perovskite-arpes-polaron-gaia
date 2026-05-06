@@ -1,6 +1,6 @@
 {
   "bridges": [],
-  "ir_hash": "sha256:c31a37793a2765d28b59471b960526ec3d7a06e00735a146f577577a9193cc57",
+  "ir_hash": "sha256:b33c8bb79dea67ab0ec17e2d79bc50baff2fbfd818963bfd16a0ba2b4a0d65f0",
   "manifest_schema_version": 1,
   "package": "perovskite-arpes-polaron",
   "version": "0.1.0"

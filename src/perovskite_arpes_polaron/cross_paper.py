@@ -22,23 +22,25 @@ zhao_finite_temp_supports_arpes_mass = support(
     reason=(
         "The Zhao et al. finite-temperature HSE-SOC/AIMD claim computes a "
         "300 K CsPbBr3 hole mass of 0.265 m0 and explicitly states agreement "
-        "with the ARPES measurement used as the package root; this supports the "
-        "root measurement as a reproducible finite-temperature benchmark, while "
-        "also motivating the thermal-disorder interpretation branch."
+        "with the ARPES measurement used as the package root. This is weak "
+        "contextual support for treating the root measurement as a benchmark "
+        "that theory must explain; it is not independent experimental "
+        "validation of the ARPES measurement itself."
     ),
-    prior=0.78,
+    prior=0.55,
 )
 
-sajedi_gw_context_supports_arpes_mass = support(
+sajedi_gw_supports_no_polaron_interpretation = support(
     [gcn_8c3c520295d7488c],
-    gcn_1544d55444d743c8,
+    gcn_762777de8c644c17,
     reason=(
-        "The Sajedi et al. G0W0 claim gives an orthorhombic CsPbBr3 hole mass "
-        "near the ARPES-scale value. Because it is a theory baseline with "
-        "different extraction assumptions, this is weak contextual support rather "
-        "than a direct replication of the root measurement."
+        "The Sajedi et al. G0W0 claim supplies the quasiparticle baseline used "
+        "by the no-polaron interpretation: the orthorhombic G0W0 hole mass lies "
+        "near the re-measured ARPES mass and omits electron-phonon self-energy. "
+        "This directly supports the claim that no additional Fröhlich-polaron "
+        "mass renormalization is required under that comparison."
     ),
-    prior=0.58,
+    prior=0.86,
 )
 
 feynman_mass_supports_polaron_model = support(
@@ -75,6 +77,6 @@ arpes_polaron_signature_vs_gw_no_polaron = contradiction(
         "or matched theory baseline can distinguish genuine electron-phonon polaron "
         "mass dressing from quasiparticle/structural baseline effects in CsPbBr3?"
     ),
-    prior=0.90,
+    prior=0.85,
 )
 arpes_polaron_signature_vs_gw_no_polaron.title = "ARPES polaron signature vs G0W0 baseline"

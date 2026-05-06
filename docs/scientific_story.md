@@ -21,6 +21,10 @@ The first side says that, in CsPbBr3, ARPES effective-mass enhancement remains a
 valid signature of electron-phonon polaronic mass dressing even when phonon
 replica peaks are not resolved.
 
+This side is currently represented by a clear LKM source claim with Puppin2020
+provenance, but not by a chain-backed LKM evidence factor. The graph therefore
+treats the contradiction warrant conservatively.
+
 The second side says that the measured ARPES mass can be accounted for by a
 G0W0 quasiparticle baseline and therefore does not require extra
 Fröhlich-polaron mass renormalization.
@@ -141,9 +145,10 @@ The starmap filters out Gaia's internal `__conjunction_result_*` and
 `__implication_result_*` helper nodes, so the visual graph is the complete
 science-readable probability graph rather than a dump of lowering internals.
 
-The accepted contradiction has high warrant, so belief propagation pulls down
-the branch that claims G0W0 alone settles the ARPES mass while leaving the
-measurement anchor and the polaron/finite-temperature support branches visible.
+The accepted contradiction has a conservative high warrant. Belief propagation
+therefore registers a real tension between the ARPES-as-polaron-signature claim
+and the G0W0 no-extra-polaron interpretation, while preserving the measurement
+anchor and both explanatory branches.
 
 ## 7. Graph-Level Meaning
 
@@ -154,3 +159,7 @@ The graph does not say "polaron is true" or "polaron is false." It says:
 The decisive question is whether ARPES mass enhancement can stand alone as a
 polaronic signature, or whether it only becomes meaningful after comparing
 against finite-temperature structural disorder and G0W0 quasiparticle baselines.
+
+This is an evidential-status conflict, not a direct claim that the two ARPES
+mass numbers are the same experiment or that their numerical difference alone
+constitutes the contradiction.

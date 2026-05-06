@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:c31a37793a2765d28b59471b960526ec3d7a06e00735a146f577577a9193cc57",
+  "ir_hash": "sha256:b33c8bb79dea67ab0ec17e2d79bc50baff2fbfd818963bfd16a0ba2b4a0d65f0",
   "knowledges": [
     {
       "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e. [@Puppin2020]",
@@ -748,7 +748,7 @@
       "label": "arpes_polaron_signature_vs_gw_no_polaron",
       "metadata": {
         "helper_kind": "contradiction_result",
-        "prior": 0.9
+        "prior": 0.85
       },
       "module": "cross_paper",
       "parameters": [],
@@ -1079,28 +1079,28 @@
         "intermediate_role": "implication_result",
         "owning_strategy_id": "lcs_d6243c740f80bee2",
         "owning_strategy_type": "support",
-        "prior": 0.78,
+        "prior": 0.55,
         "visibility": "formal_internal"
       },
       "parameters": [],
       "type": "claim"
     },
     {
-      "content": "implies(github:perovskite_arpes_polaron::gcn_8c3c520295d7488c,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
-      "content_hash": "f7f9e4c1cae1fda960386d0e96d2cf3c59a6ca760d102a32402aa7af69294c97",
+      "content": "implies(github:perovskite_arpes_polaron::gcn_8c3c520295d7488c,github:perovskite_arpes_polaron::gcn_762777de8c644c17)",
+      "content_hash": "50df98d23657afc8966a84a538fd4cd51faeaa345a6953a55950021ffa13c000",
       "exported": false,
-      "id": "github:perovskite_arpes_polaron::__implication_result_3d477b43",
-      "label": "__implication_result_3d477b43",
+      "id": "github:perovskite_arpes_polaron::__implication_result_9c718d65",
+      "label": "__implication_result_9c718d65",
       "metadata": {
-        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_8c3c520295d7488c,github:perovskite_arpes_polaron::gcn_1544d55444d743c8)",
+        "canonical_name": "implies(github:perovskite_arpes_polaron::gcn_8c3c520295d7488c,github:perovskite_arpes_polaron::gcn_762777de8c644c17)",
         "generated": true,
         "generated_kind": "helper_claim",
         "helper_kind": "implication_result",
         "helper_visibility": "formal_internal",
         "intermediate_role": "implication_result",
-        "owning_strategy_id": "lcs_942f16c9d452209a",
+        "owning_strategy_id": "lcs_399da96f1f8f6aa1",
         "owning_strategy_type": "support",
-        "prior": 0.58,
+        "prior": 0.86,
         "visibility": "formal_internal"
       },
       "parameters": [],
@@ -1500,8 +1500,8 @@
       "metadata": {
         "formalization_template": "support",
         "generated_formal_expr": true,
-        "prior": 0.78,
-        "reason": "The Zhao et al. finite-temperature HSE-SOC/AIMD claim computes a 300 K CsPbBr3 hole mass of 0.265 m0 and explicitly states agreement with the ARPES measurement used as the package root; this supports the root measurement as a reproducible finite-temperature benchmark, while also motivating the thermal-disorder interpretation branch."
+        "prior": 0.55,
+        "reason": "The Zhao et al. finite-temperature HSE-SOC/AIMD claim computes a 300 K CsPbBr3 hole mass of 0.265 m0 and explicitly states agreement with the ARPES measurement used as the package root. This is weak contextual support for treating the root measurement as a benchmark that theory must explain; it is not independent experimental validation of the ARPES measurement itself."
       },
       "premises": [
         "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c"
@@ -1511,15 +1511,15 @@
       "type": "support"
     },
     {
-      "conclusion": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+      "conclusion": "github:perovskite_arpes_polaron::gcn_762777de8c644c17",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:perovskite_arpes_polaron::__implication_result_3d477b43",
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_9c718d65",
             "operator": "implication",
             "variables": [
               "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c",
-              "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
+              "github:perovskite_arpes_polaron::gcn_762777de8c644c17"
             ]
           }
         ]
@@ -1527,14 +1527,14 @@
       "metadata": {
         "formalization_template": "support",
         "generated_formal_expr": true,
-        "prior": 0.58,
-        "reason": "The Sajedi et al. G0W0 claim gives an orthorhombic CsPbBr3 hole mass near the ARPES-scale value. Because it is a theory baseline with different extraction assumptions, this is weak contextual support rather than a direct replication of the root measurement."
+        "prior": 0.86,
+        "reason": "The Sajedi et al. G0W0 claim supplies the quasiparticle baseline used by the no-polaron interpretation: the orthorhombic G0W0 hole mass lies near the re-measured ARPES mass and omits electron-phonon self-energy. This directly supports the claim that no additional Fröhlich-polaron mass renormalization is required under that comparison."
       },
       "premises": [
         "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c"
       ],
       "scope": "local",
-      "strategy_id": "lcs_942f16c9d452209a",
+      "strategy_id": "lcs_399da96f1f8f6aa1",
       "type": "support"
     },
     {

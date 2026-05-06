@@ -48,7 +48,7 @@ from .paper_sajedi2022 import (
 from .cross_paper import (
     arpes_polaron_signature_vs_gw_no_polaron,
     feynman_mass_supports_polaron_model,
-    sajedi_gw_context_supports_arpes_mass,
+    sajedi_gw_supports_no_polaron_interpretation,
     thermal_mass_renorm_supports_finite_temp_model,
     zhao_finite_temp_supports_arpes_mass,
 )

@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:c31a37793a2765d28b59471b960526ec3d7a06e00735a146f577577a9193cc57",
+  "ir_hash": "sha256:b33c8bb79dea67ab0ec17e2d79bc50baff2fbfd818963bfd16a0ba2b4a0d65f0",
   "manifest_schema_version": 1,
   "package": "perovskite-arpes-polaron",
   "premises": [
@@ -64,18 +64,6 @@
       "role": "local_hole"
     },
     {
-      "content": "Numerical quasiparticle properties computed within the one-shot G_{0}W_{0} approximation, including the valence-band effective mass m_{h}^{*} and the quasiparticle band gap E_{\\mathrm{g}}^{\\mathrm{QP}}, are sensitive to specific computational choices and convergence parameters such as basis-set completeness, density and sampling of k points in the Brillouin zone, the frequency-integration scheme or plasmon-pole model used for the screened Coulomb interaction, the numerical treatment of spin–orbit coupling, details of pseudopotential versus all-electron implementations, and whether the GW calculation is performed as a single-shot (G_{0}W_{0}) or with partial self-consistency; consequently, different reasonable implementations or convergence thresholds of the G_{0}W_{0} method can produce quantitatively different values of m_{h}^{*} comparable to the differences observed between the cubic and orthorhombic calculations reported here. [@Sajedi2022]",
-      "content_hash": "8963913f86e73674ef65ab520b6b1817e736e7124f9fe9a3c93b39985a9e3a4c",
-      "exported": false,
-      "interface_hash": "sha256:536e1127abd921f7022d7fab0f2ca8f8de9ba0b2bbd2bb9e48572f9226f02a7e",
-      "label": "gcn_5868b15c687043a9",
-      "qid": "github:perovskite_arpes_polaron::gcn_5868b15c687043a9",
-      "required_by": [
-        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
-      ],
-      "role": "local_hole"
-    },
-    {
       "content": "Let HSE–SOC(α) denote HSE calculations including SOC with fraction α of nonlocal Fock exchange. Consider two unfolded band structures: one computed on an AIMD (T = 300 K) configuration with α = 0.54 and another computed on the ideal cubic (T = 0 K) lattice with α = 0.74, where both α values were chosen so that each calculation reproduces the same experimental band gap E_g = 2.37 eV on its respective structure. The proposition is: the differences in band dispersions and effective masses between these two HSE–SOC(α) calculations can be attributed primarily to the presence or absence of thermal-lattice disorder (the atomic structural differences between the AIMD and ideal lattices) rather than to the different numerical choice of α itself or to compensating errors introduced by tuning α; in other words, tuning α to match the gap does not produce artificial changes in band curvature that would be mistaken for thermal effects in this comparison. [@Zhao2025]",
       "content_hash": "81a8a7b872df786e83e8e6d74294fd86ca0dbbe7e15590010d3988a75f8c69ae",
       "exported": false,
@@ -106,18 +94,6 @@
       "interface_hash": "sha256:41307778401f27da5f9ff76afd73276eee5b8c1ad1a79634c3647aab06777b0f",
       "label": "gcn_e24a3d64aa604555",
       "qid": "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555",
-      "required_by": [
-        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
-      ],
-      "role": "local_hole"
-    },
-    {
-      "content": "In the orthorhombic-structure G_{0}W_{0} quasiparticle calculation that produced the averaged hole effective mass m_{h}^{*}=0.226\\,m_{0}, the construction of maximally-localized Wannier functions (Wannierization) was applied only to the valence-band manifold for the purpose of interpolating and averaging band curvatures whereas the conduction-band manifold was not Wannierized; this partial (valence-only) Wannier interpolation procedure can introduce a systematic bias in the interpolation of quasiparticle band curvatures and may lead to a modest overestimation of the reported averaged hole effective mass relative to a calculation in which both valence and conduction bands are treated consistently in the Wannier interpolation or in which no post-processing interpolation is used. [@Sajedi2022]",
-      "content_hash": "3c7956dbd8f321243c82e736369bbd864b17cbb6c981f98e3a7107db2d359b1b",
-      "exported": false,
-      "interface_hash": "sha256:9219541573b624d998bf89ee24f0577ac29d2ec51d54341f0081ea0b3733b47e",
-      "label": "gcn_ec768b9675814820",
-      "qid": "github:perovskite_arpes_polaron::gcn_ec768b9675814820",
       "required_by": [
         "github:perovskite_arpes_polaron::gcn_1544d55444d743c8"
       ],
