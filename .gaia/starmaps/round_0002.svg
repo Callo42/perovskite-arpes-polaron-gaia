@@ -288,8 +288,8 @@
 <!-- github:perovskite_arpes_polaron::gcn_762777de8c644c17 -->
 <g id="node21" class="node">
 <title>github:perovskite_arpes_polaron::gcn_762777de8c644c17</title>
-<polygon fill="#ddffdd" stroke="#44bb44" points="2570.75,-340 2367.25,-340 2367.25,-304 2570.75,-304 2570.75,-340"/>
-<text xml:space="preserve" text-anchor="middle" x="2469" y="-325.25" font-family="Helvetica,sans-Serif" font-size="10.00">G0W0 explains ARPES without polaron</text>
+<polygon fill="#ddffdd" stroke="#44bb44" points="2604.88,-340 2333.12,-340 2333.12,-304 2604.88,-304 2604.88,-340"/>
+<text xml:space="preserve" text-anchor="middle" x="2469" y="-325.25" font-family="Helvetica,sans-Serif" font-size="10.00">G0W0 explains ARPES without extra Fröhlich renorm</text>
 <text xml:space="preserve" text-anchor="middle" x="2469" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">(0.86)</text>
 </g>
 <!-- github:perovskite_arpes_polaron::gcn_762777de8c644c17&#45;&gt;oper_0 -->

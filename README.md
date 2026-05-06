@@ -18,7 +18,7 @@ The graph contains one contradiction operator:
 >
 > vs.
 >
-> **G0W0 explains ARPES without polaron**
+> **G0W0 explains ARPES mass without extra Fröhlich renormalization**
 
 The first side says that, in CsPbBr3, ARPES effective-mass enhancement remains a
 valid signature of electron-phonon polaronic mass dressing even when phonon
@@ -68,8 +68,9 @@ dressing:
 - **Feynman mass formula is valid here** supplies the weak/intermediate-coupling
   mass formula used in the calculation.
 - **Polaron mass calculation gives 0.24** gives the atomic numerical result:
-  with `m0 = 0.17 m_e` and `alpha = 1.81`, the renormalized mass is about
-  `0.24 m_e`, within the ARPES uncertainty interval.
+  with `m_bare = 0.17 m_e` and `alpha = 1.81`, where `m_e` is the
+  free-electron mass, the renormalized mass is about `0.24 m_e`, within the
+  ARPES uncertainty interval.
 - **ARPES mass as polaron signature** turns the numerical match into an
   interpretive claim: fitted ARPES mass enhancement is a valid polaronic
   mass-dressing signature even without resolved phonon replicas.
@@ -80,11 +81,12 @@ Fröhlich polaron.
 ## 4. Finite-Temperature Baseline Side
 
 The finite-temperature branch argues that thermal lattice disorder can reproduce
-the same mass scale without carrier self-localization:
+the same ARPES-scale mass without using carrier self-localization as the
+interpretation of that mass:
 
 - **Finite-T AIMD matches ARPES mass** states that a 300 K AIMD/HSE-SOC
-  calculation gives a hole mass near `0.265 m0`, matching the ARPES-scale mass
-  without introducing an extra hole.
+  calculation gives a hole mass near `0.265 m_e`, matching the ARPES-scale mass
+  without introducing an extra hole in that calculation.
 - **Single AIMD snapshot represents ARPES average** is the assumption that one
   representative thermal snapshot can stand in for the thermally averaged
   ARPES band curvature.
@@ -95,7 +97,7 @@ the same mass scale without carrier self-localization:
   ensemble is accurate enough for subsequent HSE-SOC mass extraction.
 - **Thermal disorder renormalizes masses** quantifies the effect: going from
   ideal 0 K to 300 K thermal structure changes the hole mass from about
-  `0.149 m0` to `0.265 m0`.
+  `0.149 m_e` to `0.265 m_e`.
 - **Representative snapshot mass assumption** and **Mass change attributed to
   disorder** are the premises that let this finite-temperature mass shift be
   interpreted as a structural-disorder effect.
@@ -108,19 +110,21 @@ the same mass scale without carrier self-localization:
 This branch does not directly resolve the accepted contradiction, but it
 weakens the uniqueness of the polaron-signature interpretation by showing that
 the ARPES-scale mass is reachable from a polaron-free finite-temperature
-baseline.
+baseline. Its explicit injected-hole test is specifically evidence against
+localized small-hole-polaron behavior in that simulation, not a universal proof
+that all large-polaron physics is absent.
 
 ## 5. G0W0 Counter-Side
 
 The G0W0 branch supplies the direct counter-side of the accepted contradiction:
 
 - **Sajedi ARPES mass 0.203** reports an independent room-temperature ARPES mass
-  near `0.203 +/- 0.016 m0`.
+  near `0.203 +/- 0.016 m_e`.
 - **Photon energy maps to R point**, **Quadratic fit extracts hole mass**, and
   **ARPES mass uncertainty estimate** are the experimental premises supporting
   that re-measured ARPES value.
 - **G0W0 bare masses for CsPbBr3** gives a quasiparticle baseline: orthorhombic
-  G0W0 with spin-orbit coupling yields a hole mass near `0.226 m0`.
+  G0W0 with spin-orbit coupling yields a hole mass near `0.226 m_e`.
 - **Valence-only Wannier caveat** and **G0W0 method sensitivity caveat** record
   the main computational caveats for that baseline.
 - **50 percent polaron mass would overshoot** says that applying a large
@@ -128,9 +132,9 @@ The G0W0 branch supplies the direct counter-side of the accepted contradiction:
   measured ARPES mass.
 - **Orthorhombic model comparison assumption** records the structural/phase
   comparability assumption behind the G0W0-to-ARPES comparison.
-- **G0W0 explains ARPES without polaron** is the branch conclusion: the ARPES
-  mass can be explained without invoking additional Fröhlich-polaron
-  renormalization.
+- **G0W0 explains ARPES mass without extra Fröhlich renormalization** is the
+  branch conclusion: the ARPES mass can be explained without invoking
+  additional Fröhlich-polaron renormalization.
 
 This is the direct opponent of the polaron-signature claim.
 

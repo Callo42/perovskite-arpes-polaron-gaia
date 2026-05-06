@@ -78,7 +78,7 @@ gfac_711664a6a8574817 = deduction(
 )
 gcn_762777de8c644c17 = claim(
     "The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value. [@Sajedi2022]",
-    title="G0W0 explains ARPES without polaron",
+    title="G0W0 explains ARPES without extra Fröhlich renorm",
     lkm_id="gcn_762777de8c644c17",
     lkm_original="The experimental hole effective mass m_{h}^{*}=0.203\\pm0.016\\,m_{0} and the orthorhombic one-shot G_{0}W_{0} quasiparticle hole mass m_{h}^{*}=0.226\\,m_{0} agree within the stated experimental uncertainty and the acknowledged computational caveats (such as partial Wannier interpolation and method sensitivity); therefore the ARPES-observed effective mass can be accounted for by electron–electron correlation effects already included in the one-shot G_{0}W_{0} quasiparticle description and does not require invoking an additional electron–phonon (Fröhlich-type large-polaron) mass renormalization to explain the measured value.",
     source_paper="paper:867765810263752934",

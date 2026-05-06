@@ -40,7 +40,7 @@ digraph starmap {
         "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c" [label="G0W0 bare masses for CsPbBr3\n(0.81)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "github:perovskite_arpes_polaron::gcn_ec768b9675814820" [label="Valence-only Wannier caveat\n(0.80 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
         "github:perovskite_arpes_polaron::gcn_5868b15c687043a9" [label="G0W0 method sensitivity caveat\n(0.80 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "github:perovskite_arpes_polaron::gcn_762777de8c644c17" [label="G0W0 explains ARPES without polaron\n(0.86)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "github:perovskite_arpes_polaron::gcn_762777de8c644c17" [label="G0W0 explains ARPES without extra Fröhlich renorm\n(0.86)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b" [label="Orthorhombic model comparison assumption\n(0.72 → 0.76)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
         "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207" [label="50 percent polaron mass would overshoot\n(0.80 → 0.83)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
         "strat_6" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
