@@ -65,6 +65,20 @@ thermal_mass_renorm_supports_finite_temp_model = support(
     prior=0.88,
 )
 
+puppin_mass_agreement_supports_polaron_signature = support(
+    [gcn_1544d55444d743c8, gcn_5e907da32c114d34],
+    gcn_4ad259a13be9454a,
+    reason=(
+        "The Puppin ARPES measurement supplies the mass benchmark, and the "
+        "Feynman-polaron workflow reproduces that benchmark within the quoted "
+        "uncertainty. Together they provide interpretive support for the "
+        "Puppin-side claim that ARPES mass enhancement can be read as evidence "
+        "for polaronic mass dressing. This is a conservative support relation, "
+        "not a factor-derived deduction or a proof of polaron formation."
+    ),
+    prior=0.72,
+)
+
 arpes_polaron_signature_vs_gw_no_polaron = contradiction(
     gcn_4ad259a13be9454a,
     gcn_762777de8c644c17,

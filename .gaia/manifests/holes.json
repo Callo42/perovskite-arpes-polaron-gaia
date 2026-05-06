@@ -81,7 +81,7 @@
       ]
     }
   ],
-  "ir_hash": "sha256:b33c8bb79dea67ab0ec17e2d79bc50baff2fbfd818963bfd16a0ba2b4a0d65f0",
+  "ir_hash": "sha256:3412f014927da00b1e7bb2229b693fdc1d5971bb89f0c00174010f704fa03131",
   "manifest_schema_version": 1,
   "package": "perovskite-arpes-polaron",
   "version": "0.1.0"

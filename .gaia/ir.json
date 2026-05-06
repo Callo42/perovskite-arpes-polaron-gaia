@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:b33c8bb79dea67ab0ec17e2d79bc50baff2fbfd818963bfd16a0ba2b4a0d65f0",
+  "ir_hash": "sha256:3412f014927da00b1e7bb2229b693fdc1d5971bb89f0c00174010f704fa03131",
   "knowledges": [
     {
       "content": "The momentum-resolved valence-band dispersion of single-crystalline orthorhombic CsPbBr$_3$ at room temperature was measured by angle-resolved photoelectron spectroscopy (ARPES); here the measured quasiparticle energy as a function of the in-plane crystal momentum was fitted near the valence-band maximum (VBM) by the isotropic in-plane parabolic dispersion E(k)=E_{\\\\mathrm{VBM}}+\\\\hbar^{2}k^{2}/(2m_{\\\\mathrm{exp}}), where k is the magnitude of the two-dimensional in-plane wave vector (units Å^{-1}), \\\\hbar is the reduced Planck constant, and m_e is the free electron mass, and the energy zero was set at the VBM defined as the energy of the maximum of the energy-distribution curve (EDC) at the band top; this fit, performed on the upper valence band along the surface high-symmetry direction labeled \\\\bar{\\\\Gamma}-\\\\bar{M}, returns an experimental hole effective mass m_{\\\\mathrm{exp}}=0.26\\\\pm0.02\\\\,m_e. [@Puppin2020]",
@@ -1147,6 +1147,47 @@
       },
       "parameters": [],
       "type": "claim"
+    },
+    {
+      "content": "all_true(github:perovskite_arpes_polaron::gcn_1544d55444d743c8,github:perovskite_arpes_polaron::gcn_5e907da32c114d34)",
+      "content_hash": "64dea8df017da30a1be83e2fd460d90c6227c6b72c255b48c6976f06e085b170",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__conjunction_result_a69a9491",
+      "label": "__conjunction_result_a69a9491",
+      "metadata": {
+        "canonical_name": "all_true(github:perovskite_arpes_polaron::gcn_1544d55444d743c8,github:perovskite_arpes_polaron::gcn_5e907da32c114d34)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "conjunction_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "conjunction_result",
+        "owning_strategy_id": "lcs_bcb1abc02dc8b5ae",
+        "owning_strategy_type": "support",
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(github:perovskite_arpes_polaron::__conjunction_result_a69a9491,github:perovskite_arpes_polaron::gcn_4ad259a13be9454a)",
+      "content_hash": "b4c3381dbedfff5b83992a45d81fd331f265a3e638e19178bf69ca626e0dc901",
+      "exported": false,
+      "id": "github:perovskite_arpes_polaron::__implication_result_9373eb23",
+      "label": "__implication_result_9373eb23",
+      "metadata": {
+        "canonical_name": "implies(github:perovskite_arpes_polaron::__conjunction_result_a69a9491,github:perovskite_arpes_polaron::gcn_4ad259a13be9454a)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_bcb1abc02dc8b5ae",
+        "owning_strategy_type": "support",
+        "prior": 0.72,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
     }
   ],
   "module_order": [
@@ -1589,6 +1630,42 @@
       ],
       "scope": "local",
       "strategy_id": "lcs_a840728d6bf7f6a8",
+      "type": "support"
+    },
+    {
+      "conclusion": "github:perovskite_arpes_polaron::gcn_4ad259a13be9454a",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__conjunction_result_a69a9491",
+            "operator": "conjunction",
+            "variables": [
+              "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+              "github:perovskite_arpes_polaron::gcn_5e907da32c114d34"
+            ]
+          },
+          {
+            "conclusion": "github:perovskite_arpes_polaron::__implication_result_9373eb23",
+            "operator": "implication",
+            "variables": [
+              "github:perovskite_arpes_polaron::__conjunction_result_a69a9491",
+              "github:perovskite_arpes_polaron::gcn_4ad259a13be9454a"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "prior": 0.72,
+        "reason": "The Puppin ARPES measurement supplies the mass benchmark, and the Feynman-polaron workflow reproduces that benchmark within the quoted uncertainty. Together they provide interpretive support for the Puppin-side claim that ARPES mass enhancement can be read as evidence for polaronic mass dressing. This is a conservative support relation, not a factor-derived deduction or a proof of polaron formation."
+      },
+      "premises": [
+        "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
+        "github:perovskite_arpes_polaron::gcn_5e907da32c114d34"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_bcb1abc02dc8b5ae",
       "type": "support"
     }
   ]

@@ -149,10 +149,10 @@ This is the direct opponent of the polaron-signature claim.
 The rendered graph contains:
 
 - 29 rendered science knowledge nodes.
-- 13 strategy nodes.
+- 14 strategy nodes.
 - 1 contradiction operator.
 - 19 independent premises with priors.
-- 35 inferred beliefs.
+- 36 inferred beliefs.
 
 The starmap filters out Gaia's internal `__conjunction_result_*` and
 `__implication_result_*` helper nodes, so the visual graph is the complete
@@ -196,4 +196,4 @@ gaia infer .
 gaia inquiry review --strict .
 ```
 
-Current compiled state: 48 knowledge nodes, 13 strategies, and 1 contradiction operator.
+Current compiled state: 50 knowledge nodes, 14 strategies, and 1 contradiction operator.

@@ -1,112 +1,117 @@
 {
   "beliefs": [
     {
-      "belief": 0.6307291925003237,
+      "belief": 0.4903140852062859,
       "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_48b07476",
       "label": "__conjunction_result_48b07476"
     },
     {
-      "belief": 0.5119760000000002,
+      "belief": 0.511976,
       "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_58736bbd",
       "label": "__conjunction_result_58736bbd"
     },
     {
-      "belief": 0.5009383993685234,
+      "belief": 0.49504440824755447,
       "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_7c72f072",
       "label": "__conjunction_result_7c72f072"
     },
     {
-      "belief": 0.555052493814239,
+      "belief": 0.5508233018014954,
       "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_7eb49878",
       "label": "__conjunction_result_7eb49878"
     },
     {
-      "belief": 0.6438115146279195,
+      "belief": 0.5677446817695097,
       "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_7f335404",
       "label": "__conjunction_result_7f335404"
     },
     {
-      "belief": 0.6438217443993415,
+      "belief": 0.7601781827188703,
+      "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_a69a9491",
+      "label": "__conjunction_result_a69a9491"
+    },
+    {
+      "belief": 0.581521342719704,
       "knowledge_id": "github:perovskite_arpes_polaron::__conjunction_result_d63e67ba",
       "label": "__conjunction_result_d63e67ba"
     },
     {
-      "belief": 0.9981855626802465,
+      "belief": 0.9940187419753844,
       "knowledge_id": "github:perovskite_arpes_polaron::arpes_polaron_signature_vs_gw_no_polaron",
       "label": "arpes_polaron_signature_vs_gw_no_polaron"
     },
     {
-      "belief": 0.7412882074478953,
+      "belief": 0.7388343058448799,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_00749f497c204b4c",
       "label": "gcn_00749f497c204b4c"
     },
     {
-      "belief": 0.8412928351556163,
+      "belief": 0.8135962988284128,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76",
       "label": "gcn_0a71cf6357114b76"
     },
     {
-      "belief": 0.9051430424006691,
+      "belief": 0.8085767533514426,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_1544d55444d743c8",
       "label": "gcn_1544d55444d743c8"
     },
     {
-      "belief": 0.7768026839539609,
+      "belief": 0.7741755443496597,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9",
       "label": "gcn_1c2bf8f398f243f9"
     },
     {
-      "belief": 0.7561663943601462,
+      "belief": 0.6636336356288471,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b",
       "label": "gcn_1fc9a84fbc6e4a1b"
     },
     {
-      "belief": 0.7586562487519434,
+      "belief": 0.7482352425488502,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_2b322b6a88d742ba",
       "label": "gcn_2b322b6a88d742ba"
     },
     {
-      "belief": 0.8571635516400545,
+      "belief": 0.8322366689455715,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c",
       "label": "gcn_2e9e6e30a5d7431c"
     },
     {
-      "belief": 0.8000000000000002,
+      "belief": 0.8,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767",
       "label": "gcn_3e860bd7f76e4767"
     },
     {
-      "belief": 0.8045112184904932,
+      "belief": 0.797735488655578,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48",
       "label": "gcn_3f848904ab0d4b48"
     },
     {
-      "belief": 0.7768026839539609,
+      "belief": 0.7741755443496597,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_43c66f240368417e",
       "label": "gcn_43c66f240368417e"
     },
     {
-      "belief": 0.10143985590689247,
+      "belief": 0.33452326823100886,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_4ad259a13be9454a",
       "label": "gcn_4ad259a13be9454a"
     },
     {
-      "belief": 0.7427022228,
+      "belief": 0.7427022228000001,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc",
       "label": "gcn_4d0e277c6d2c4cdc"
     },
     {
-      "belief": 0.8022677466626821,
+      "belief": 0.7601072457131441,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_5868b15c687043a9",
       "label": "gcn_5868b15c687043a9"
     },
     {
-      "belief": 0.9744226695912559,
+      "belief": 0.9483844332418351,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_5e907da32c114d34",
       "label": "gcn_5e907da32c114d34"
     },
     {
-      "belief": 0.8561573852895478,
+      "belief": 0.6433475605978811,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_762777de8c644c17",
       "label": "gcn_762777de8c644c17"
     },
@@ -121,27 +126,27 @@
       "label": "gcn_82d0efc0c1024ec8"
     },
     {
-      "belief": 0.7412882074478953,
+      "belief": 0.7388343058448799,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_869be47d79c54464",
       "label": "gcn_869be47d79c54464"
     },
     {
-      "belief": 0.8091773333870749,
+      "belief": 0.6991523955057374,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c",
       "label": "gcn_8c3c520295d7488c"
     },
     {
-      "belief": 0.8152844887874873,
+      "belief": 0.7966450017722904,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_943f1f964b7a4374",
       "label": "gcn_943f1f964b7a4374"
     },
     {
-      "belief": 0.7768026839539609,
+      "belief": 0.7741755443496597,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c",
       "label": "gcn_c24c81b8a5fe413c"
     },
     {
-      "belief": 0.8000000000000002,
+      "belief": 0.8,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7",
       "label": "gcn_ccc6a5bf10864de7"
     },
@@ -151,27 +156,27 @@
       "label": "gcn_e17b013445234bfa"
     },
     {
-      "belief": 0.8730342681244929,
+      "belief": 0.8508770390627303,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555",
       "label": "gcn_e24a3d64aa604555"
     },
     {
-      "belief": 0.9282521068692361,
+      "belief": 0.9166343289521993,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c",
       "label": "gcn_e4a5cac31481497c"
     },
     {
-      "belief": 0.8258331388286759,
+      "belief": 0.7597383111634624,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207",
       "label": "gcn_e808f6450bfc4207"
     },
     {
-      "belief": 0.8022677466626821,
+      "belief": 0.7601072457131441,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_ec768b9675814820",
       "label": "gcn_ec768b9675814820"
     },
     {
-      "belief": 0.8953164422098345,
+      "belief": 0.880758926635844,
       "knowledge_id": "github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed",
       "label": "gcn_ffcf3464e99c47ed"
     }
@@ -179,70 +184,73 @@
   "diagnostics": {
     "belief_history": {
       "github:perovskite_arpes_polaron::__conjunction_result_48b07476": [
-        0.6307291925003237
+        0.4903140852062859
       ],
       "github:perovskite_arpes_polaron::__conjunction_result_58736bbd": [
-        0.5119760000000002
+        0.511976
       ],
       "github:perovskite_arpes_polaron::__conjunction_result_7c72f072": [
-        0.5009383993685234
+        0.49504440824755447
       ],
       "github:perovskite_arpes_polaron::__conjunction_result_7eb49878": [
-        0.555052493814239
+        0.5508233018014954
       ],
       "github:perovskite_arpes_polaron::__conjunction_result_7f335404": [
-        0.6438115146279195
+        0.5677446817695097
+      ],
+      "github:perovskite_arpes_polaron::__conjunction_result_a69a9491": [
+        0.7601781827188703
       ],
       "github:perovskite_arpes_polaron::__conjunction_result_d63e67ba": [
-        0.6438217443993415
+        0.581521342719704
       ],
       "github:perovskite_arpes_polaron::arpes_polaron_signature_vs_gw_no_polaron": [
-        0.9981855626802465
+        0.9940187419753844
       ],
       "github:perovskite_arpes_polaron::gcn_00749f497c204b4c": [
-        0.7412882074478953
+        0.7388343058448799
       ],
       "github:perovskite_arpes_polaron::gcn_0a71cf6357114b76": [
-        0.8412928351556163
+        0.8135962988284128
       ],
       "github:perovskite_arpes_polaron::gcn_1544d55444d743c8": [
-        0.9051430424006691
+        0.8085767533514426
       ],
       "github:perovskite_arpes_polaron::gcn_1c2bf8f398f243f9": [
-        0.7768026839539609
+        0.7741755443496597
       ],
       "github:perovskite_arpes_polaron::gcn_1fc9a84fbc6e4a1b": [
-        0.7561663943601462
+        0.6636336356288471
       ],
       "github:perovskite_arpes_polaron::gcn_2b322b6a88d742ba": [
-        0.7586562487519434
+        0.7482352425488502
       ],
       "github:perovskite_arpes_polaron::gcn_2e9e6e30a5d7431c": [
-        0.8571635516400545
+        0.8322366689455715
       ],
       "github:perovskite_arpes_polaron::gcn_3e860bd7f76e4767": [
-        0.8000000000000002
+        0.8
       ],
       "github:perovskite_arpes_polaron::gcn_3f848904ab0d4b48": [
-        0.8045112184904932
+        0.797735488655578
       ],
       "github:perovskite_arpes_polaron::gcn_43c66f240368417e": [
-        0.7768026839539609
+        0.7741755443496597
       ],
       "github:perovskite_arpes_polaron::gcn_4ad259a13be9454a": [
-        0.10143985590689247
+        0.33452326823100886
       ],
       "github:perovskite_arpes_polaron::gcn_4d0e277c6d2c4cdc": [
-        0.7427022228
+        0.7427022228000001
       ],
       "github:perovskite_arpes_polaron::gcn_5868b15c687043a9": [
-        0.8022677466626821
+        0.7601072457131441
       ],
       "github:perovskite_arpes_polaron::gcn_5e907da32c114d34": [
-        0.9744226695912559
+        0.9483844332418351
       ],
       "github:perovskite_arpes_polaron::gcn_762777de8c644c17": [
-        0.8561573852895478
+        0.6433475605978811
       ],
       "github:perovskite_arpes_polaron::gcn_78dd3a5f6fb84289": [
         0.87924
@@ -251,37 +259,37 @@
         0.8000000000000002
       ],
       "github:perovskite_arpes_polaron::gcn_869be47d79c54464": [
-        0.7412882074478953
+        0.7388343058448799
       ],
       "github:perovskite_arpes_polaron::gcn_8c3c520295d7488c": [
-        0.8091773333870749
+        0.6991523955057374
       ],
       "github:perovskite_arpes_polaron::gcn_943f1f964b7a4374": [
-        0.8152844887874873
+        0.7966450017722904
       ],
       "github:perovskite_arpes_polaron::gcn_c24c81b8a5fe413c": [
-        0.7768026839539609
+        0.7741755443496597
       ],
       "github:perovskite_arpes_polaron::gcn_ccc6a5bf10864de7": [
-        0.8000000000000002
+        0.8
       ],
       "github:perovskite_arpes_polaron::gcn_e17b013445234bfa": [
         0.8
       ],
       "github:perovskite_arpes_polaron::gcn_e24a3d64aa604555": [
-        0.8730342681244929
+        0.8508770390627303
       ],
       "github:perovskite_arpes_polaron::gcn_e4a5cac31481497c": [
-        0.9282521068692361
+        0.9166343289521993
       ],
       "github:perovskite_arpes_polaron::gcn_e808f6450bfc4207": [
-        0.8258331388286759
+        0.7597383111634624
       ],
       "github:perovskite_arpes_polaron::gcn_ec768b9675814820": [
-        0.8022677466626821
+        0.7601072457131441
       ],
       "github:perovskite_arpes_polaron::gcn_ffcf3464e99c47ed": [
-        0.8953164422098345
+        0.880758926635844
       ]
     },
     "converged": true,
@@ -291,5 +299,5 @@
     "treewidth": 3
   },
   "gaia_lang_version": "0.4.3",
-  "ir_hash": "sha256:b33c8bb79dea67ab0ec17e2d79bc50baff2fbfd818963bfd16a0ba2b4a0d65f0"
+  "ir_hash": "sha256:3412f014927da00b1e7bb2229b693fdc1d5971bb89f0c00174010f704fa03131"
 }
