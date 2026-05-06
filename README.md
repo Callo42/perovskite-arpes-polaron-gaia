@@ -36,6 +36,10 @@ This is the graph's true open question: what observable or matched theoretical
 baseline makes ARPES mass a decisive polaron signature rather than a quantity
 already explained by quasiparticle and finite-temperature baselines?
 
+The contradiction is mechanistic, not simply numerical: the graph does not
+treat the Puppin and Sajedi ARPES masses as the same measurement, nor does it
+define the conflict by their numerical difference alone.
+
 ## 2. Observable Anchor
 
 The central measurement is:
@@ -69,8 +73,9 @@ dressing:
   mass formula used in the calculation.
 - **Polaron mass calculation gives 0.24** gives the atomic numerical result:
   with `m_bare = 0.17 m_e` and `alpha = 1.81`, where `m_e` is the
-  free-electron mass, the renormalized mass is about `0.24 m_e`, within the
-  ARPES uncertainty interval.
+  free-electron mass, the renormalized mass is about `0.24 m_e`, at the lower
+  edge of the `0.26 +/- 0.02 m_e` ARPES interval and therefore numerically
+  compatible within the quoted uncertainty.
 - **ARPES mass as polaron signature** turns the numerical match into an
   interpretive claim: fitted ARPES mass enhancement is a valid polaronic
   mass-dressing signature even without resolved phonon replicas.
@@ -87,9 +92,9 @@ interpretation of that mass:
 - **Finite-T AIMD matches ARPES mass** states that a 300 K AIMD/HSE-SOC
   calculation gives a hole mass near `0.265 m_e`, matching the ARPES-scale mass
   without introducing an extra hole in that calculation.
-- **Single AIMD snapshot represents ARPES average** is the assumption that one
-  representative thermal snapshot can stand in for the thermally averaged
-  ARPES band curvature.
+- **Representative finite-T snapshot assumption** is the assumption that the
+  chosen AIMD thermal structure captures the mass-renormalizing lattice-disorder
+  effect relevant to the ARPES-scale curvature.
 - **Bulk unfolding comparable to ARPES** is the assumption that unfolded bulk
   HSE-SOC bands can be compared to ARPES without explicit corrections for
   surface, matrix-element, or probing-depth effects.
@@ -109,10 +114,11 @@ interpretation of that mass:
 
 This branch does not directly resolve the accepted contradiction, but it
 weakens the uniqueness of the polaron-signature interpretation by showing that
-the ARPES-scale mass is reachable from a polaron-free finite-temperature
-baseline. Its explicit injected-hole test is specifically evidence against
-localized small-hole-polaron behavior in that simulation, not a universal proof
-that all large-polaron physics is absent.
+the ARPES-scale mass is reachable from a finite-temperature structural baseline
+without invoking additional carrier-induced polaron mass renormalization. Its
+explicit injected-hole test is specifically evidence against localized
+small-hole-polaron behavior in that simulation, not a universal proof that all
+large-polaron physics is absent.
 
 ## 5. G0W0 Counter-Side
 
